@@ -1,0 +1,50 @@
+Linux:
+
+Frontend:
+
+1. install node.js: 
+sudo apt install nodejs
+
+2. install nvm: 
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+
+3. install specific node.js version:
+nvm ls-remote (shows all versions)
+nvm install <version> 
+
+4. install npm:
+sudo apt install npm
+
+5. install pnpm:
+npm install -g pnpm
+
+6. install dependencies:
+-> go to folder with package.json
+pnpm install
+
+7. start vite:
+npm run dev 
+
+
+Backend:
+
+1. install ElasticSearch:
+...
+
+2. disable ElasticSearch security features:
+-> elasticsearch/config/elasticsearch.yml
+xpack.security.enabled: false
+xpack.security.enrollment.enabled: false
+xpack.security.http.ssl:
+  enabled: false
+  keystore.path: certs/http.p12
+
+3. create a conda environment from requirements.txt:
+conda create --name <env> --file <this file>
+
+4. start ElasticSearch:
+-> path to elasticsearch folder
+./bin/elasticsearch
+
+5. start backend with flask:
+flask --app app run
