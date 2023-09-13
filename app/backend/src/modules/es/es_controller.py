@@ -16,11 +16,11 @@ indexFolder_post_args = reqparse.RequestParser()
 
 class Es(Resource):
     def __init__(self):
-            self.es = Elasticsearch([{
-                'host': ES_HOST,
-                'port': ES_PORT
-            }])
-            self.name = ES_INDEX_NAME
+        self.es = Elasticsearch([{
+            'host': ES_HOST,
+            'port': ES_PORT
+        }])
+        self.name = ES_INDEX_NAME
 
     def test_connection(self):
         if self.es.ping():
