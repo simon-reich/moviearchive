@@ -28,23 +28,23 @@ npm run dev
 
 Backend:
 
-1. install ElasticSearch:
-...
+1. download docker containers of ElasticSearch and PostgreSQL
+-> go to backend
+docker-compose up
 
-2. disable ElasticSearch security features:
--> elasticsearch/config/elasticsearch.yml
-xpack.security.enabled: false
-xpack.security.enrollment.enabled: false
-xpack.security.http.ssl:
-  enabled: false
-  keystore.path: certs/http.p12
+2. create virtual python environment:
+in backend: pipenv shell
 
-3. create a conda environment from requirements.txt:
-conda create --name <env> --file <this file>
+3. install python libraries:
+-> go to folder with requirements.txt
+pipenv install -r requirements.txt 
 
-4. start ElasticSearch:
--> path to elasticsearch folder
-./bin/elasticsearch
+4. set up database:
+-> go to src folder
+flask db init
+flask db migrate
+flask db upgrade
 
-5. start backend with flask:
-flask --app app run
+5. start flask backend:
+-> in src folder:
+flask run --debug
