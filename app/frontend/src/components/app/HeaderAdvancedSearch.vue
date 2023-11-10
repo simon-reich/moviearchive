@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { AggregationItem } from "@/interfaces/AggregationItem";
 import { router } from "@/routes";
-import { DatabaseService } from "@/services/database/DatabaseService";
-import { useSearchParametersStore } from "@/store/searchParameters";
-import { useSearchResultsStore } from "@/store/searchResults";
+import { IndexService } from "@/services/index/IndexService";
+import { useSearchParametersStore } from "@/store/SearchParametersStore";
+import { UseIndexSearchStore } from "@/store/IndexSearchStore";
 
-const searchResultsStore = useSearchResultsStore();
+const indexSearchStore = UseIndexSearchStore();
 const searchParametersStore = useSearchParametersStore();
 
 const parameters = toRefs(searchParametersStore.parameters);
@@ -18,8 +18,8 @@ const genre = ref("");
 const actor = ref("");
 
 const searchMovies = async () => {
-  searchResultsStore.getAdvancedSearchResults(searchParametersStore.parameters);
-  router.push({ name: "database.search" });
+  await indexSearchStore.getAdvancedSearchResults(searchParametersStore.parameters);
+  router.push({ name: "index.search" });
 };
 
 const addGenre = () => {
@@ -44,9 +44,9 @@ const removeActor = (index: number) => {
 };
 
 onMounted(async () => {
-  genres.value = await DatabaseService.getDistinctValues("genreList");
-  languages.value = await DatabaseService.getDistinctValues("languageList");
-  countries.value = await DatabaseService.getDistinctValues("countryList");
+  genres.value = await IndexService.getDistinctValues("genre_list");
+  languages.value = await IndexService.getDistinctValues("language_list");
+  countries.value = await IndexService.getDistinctValues("country_list");
 });
 </script>
 
@@ -69,11 +69,11 @@ onMounted(async () => {
               runtime less then
             </span>
           </p>
-          <base-base-input
+          <base-basic-input
             class="input-frame w-10 float-left bg-dark-800"
             v-model="parameters.runtime.value"
             @keyup.enter="searchMovies"
-          ></base-base-input>
+          ></base-basic-input>
           <p class="font-light italic pt-2 pl-2 float-left">
             <span>min</span>
           </p>
@@ -88,11 +88,11 @@ onMounted(async () => {
               released around
             </span>
           </p>
-          <base-base-input
+          <base-basic-input
             class="input-number float-left bg-dark-800"
             v-model="parameters.year.value"
             @keyup.enter="searchMovies"
-          ></base-base-input>
+          ></base-basic-input>
         </div>
         <!-- grid 1-0 -->
         <div>
@@ -104,19 +104,19 @@ onMounted(async () => {
               content
             </span>
           </p>
-          <base-base-input
+          <base-basic-input
             class="input-frame frame-left float-left bg-dark-800"
             v-model="parameters.content.value"
             @keyup.enter="searchMovies"
-          ></base-base-input>
+          ></base-basic-input>
         </div>
         <!-- grid 1-1 -->
         <div>
-          <base-base-input
+          <base-basic-input
             class="input-frame frame-right float-left bg-dark-800"
             v-model="parameters.director.value"
             @keyup.enter="searchMovies"
-          ></base-base-input>
+          ></base-basic-input>
           <p class="font-light italic pt-2 pl-2 float-left">
             <span
               class="hover:cursor-pointer hover:opacity-20"
@@ -128,14 +128,14 @@ onMounted(async () => {
         </div>
         <!-- grid 2 -->
         <div class="col-span-2">
-          <base-base-select
+          <base-basic-select
             class="float-left"
             :items="genres.map((genre) => genre.key)"
             v-model="genre"
             defaultValue="genre"
             @update:modelValue="addGenre"
           >
-          </base-base-select>
+          </base-basic-select>
           <p class="font-light pl-2 float-left">
             <span
               class="hover:cursor-pointer hover:opacity-20 pl-2 text-sm"
@@ -157,11 +157,11 @@ onMounted(async () => {
               starring
             </span>
           </p>
-          <base-base-input
+          <base-basic-input
             class="input-frame bg-dark-800 float-left"
             v-model="actor"
             @keyup.enter="addActor"
-          ></base-base-input>
+          ></base-basic-input>
           <p class="font-light pl-2 float-left">
             <span
               class="hover:cursor-pointer hover:opacity-20 pl-2 text-sm"
@@ -174,19 +174,19 @@ onMounted(async () => {
           </p>
         </div>
         <!-- grid 4-0 -->
-        <base-base-select
+        <base-basic-select
           class=""
           :items="languages.map((language) => language.key)"
           v-model="parameters.language.value"
           defaultValue="language"
-        ></base-base-select>
+        ></base-basic-select>
         <!-- grid 4-1 -->
-        <base-base-select
+        <base-basic-select
           class=""
           :items="countries.map((country) => country.key)"
           v-model="parameters.country.value"
           defaultValue="country"
-        ></base-base-select>
+        ></base-basic-select>
         <!-- grid 5 -->
         <div class="col-span-2">
           <p class="font-light italic pt-2 pr-2 float-left">
@@ -197,11 +197,11 @@ onMounted(async () => {
               full staff
             </span>
           </p>
-          <base-base-input
+          <base-basic-input
             class="input-frame frame-left float-left bg-dark-800"
             v-model="parameters.staff.value"
             @keyup.enter="searchMovies"
-          ></base-base-input>
+          ></base-basic-input>
         </div>
       </div>
 

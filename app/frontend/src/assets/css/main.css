@@ -1,0 +1,17 @@
+.zen-3 {
+    background-color: rgb(255 255 255 / 0.1);
+    backdrop-filter: blur(3px);
+  }
+  
+.zen-10 {
+background-color: rgb(255 255 255 / 0.1);
+backdrop-filter: blur(10px);
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100; /* You can adjust this value as needed */
+}

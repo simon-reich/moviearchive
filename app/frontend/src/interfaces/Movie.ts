@@ -1,159 +1,140 @@
-import { Actor } from "@/types/Actor";
-import { BoxOffice } from "@/types/BoxOffice";
-import { DetailedThing } from "@/types/DetailedThing";
-import { FullCast } from "@/types/FullCast";
-import { Poster } from "@/types/Poster";
-import { RatingList } from "@/types/RatingList";
-import { Trailer } from "@/types/Trailer";
-import { Image } from "@/types/Image";
+import { CastMember } from "./CastMember";
+import { CrewMember } from "./CrewMember";
+import { Company } from "./Company";
+import { Country } from "./Country";
+import { Language } from "./Language";
+import { Rating } from "./Rating";
+import { Video } from "./Video";
+import { Image } from "./Image";
+
 
 export interface Movie {
-  title: {
-    key: string;
-    value: string;
-  };
-  year: {
-    key: string;
-    value: number;
-  };
-  imdbID: {
-    key: string;
-    value: string;
-  };
-  originalTitle: {
-    key: string;
-    value: string;
-  };
-  medium: {
-    key: string;
-    value: string;
-  };
-  imageLink: {
-    key: string;
-    value: string;
-  };
-  releaseDate: {
-    key: string;
-    value: string;
-  };
-  runtime: {
-    key: string;
-    value: number;
-  };
-  plot: {
-    key: string;
-    value: string;
-  };
-  directorList: {
-    key: string;
-    value: DetailedThing[];
-  };
-  writerList: {
-    key: string;
-    value: DetailedThing[];
-  };
-  starList: {
-    key: string;
-    value: DetailedThing[];
-  };
-  actorList: {
-    key: string;
-    value: Actor[];
-  };
-  fullCast: {
-    key: string;
-    value: FullCast;
-  };
-  genreList: {
-    key: string;
-    value: string[];
-  };
-  countryList: {
-    key: string;
-    value: string[];
-  };
-  languageList: {
-    key: string;
-    value: string[];
-  };
-  contentRating: {
-    key: string;
-    value: string[];
-  };
-  keywordList: {
-    key: string;
-    value: string[];
-  };
-  companyList: {
-    key: string;
-    value: string[];
-  };
-  boxOffice: {
-    key: string;
-    value: BoxOffice;
-  };
-  imdbLink: {
-    key: string;
-    value: string;
-  };
-  imdbRating: {
-    key: string;
-    value: string;
-  };
-  imdbVotes: {
-    key: string;
-    value: string;
-  };
-  ratingList: {
-    key: string;
-    value: RatingList;
-  };
-  wikiLink: {
-    key: string;
-    value: string;
-  };
-  wikiTextShort: {
-    key: string;
-    value: string;
-  };
-  wikiTextShortHtml: {
-    key: string;
-    value: string;
-  };
-  wikiTextFull: {
-    key: string;
-    value: string;
-  };
-  wikiTextFullHtml: {
-    key: string;
-    value: string;
-  };
-  posterList: {
-    key: string;
-    value: Poster[];
-  };
-  imageList: {
-    key: string;
-    value: Image[];
-  };
-  trailer: {
-    key: string;
-    value: Trailer;
-  };
-  tvSeriesInfo?: {
-    key: string;
-    value: string | null;
-  };
-  tvEpisodeInfo?: {
-    key: string;
-    value: string | null;
-  };
-  personalRating?: {
-    key: string;
-    value: string | null;
-  };
-  personalNotes?: {
-    key: string;
-    value: string | null;
-  };
+    doc_id: string;
+    
+    backdrop_list: { 
+        key: string, 
+        value: Image[] | null 
+    };
+    boxoffice: {
+        key: string, 
+        value: number | null 
+    };
+    company_list: {
+        key: string, 
+        value: Company[] | null
+    };
+    content_rating: {
+        key: string, value: string | null}; 
+    country_list: {
+        key: string, 
+        value: Country[] | null
+    };
+    director_list: {
+        key: string, 
+        value: string[] | null
+    };
+    full_cast: {
+        key: string, 
+        value: CastMember[] | null
+    };
+    full_crew: {
+        key: string, 
+        value: CrewMember[] | null
+    };
+    genre_list: {
+        key: string, 
+        value: string[] | null
+    };
+    imdb_id: {
+        key: string, 
+        value: string | null
+    };
+    imdb_link: {
+        key: string, 
+        value: string | null
+    };
+    imdb_rating: {
+        key: string, 
+        value: number | null
+    };
+    imdb_votes: {
+        key: string, 
+        value: number | null
+    };
+    keyword_list: {
+        key: string, 
+        value: string[] | null
+    };
+    language_list: {
+        key: string, 
+        value: Language[] | null
+    };
+    main_cast: { 
+        key: string, 
+        value: string | null
+    };
+    original_title: {
+        key: string, 
+        value: string | null
+    };
+    personal_notes: {
+        key: string, 
+        value: string | null
+    };
+    personal_rating: {
+        key: string, 
+        value: number | null
+    };
+    poster: {
+        key: string, 
+        value: string | null
+    };
+    poster_list: {
+        key: string, 
+        value: Image[] | null
+    };
+    rating_list: {
+        key: string, 
+        value: Rating[] | null
+    };
+    release_date: {
+        key: string, 
+        value: string | null
+    };
+    runtime: {
+        key: string, 
+        value: number | null
+    };
+    synopsis: {
+        key: string, 
+        value: string | null
+    };
+    title: {
+        key: string, 
+        value: string | null
+    };
+    tmdb_id: {
+        key: string, 
+        value: number | null
+    };
+    trailer: {
+        key: string, 
+        value: string | null
+    };
+    video_list: {
+        key: string, 
+        value: Video[] | null
+    };
+    watched: {
+        key: string, 
+        value: boolean | null
+    };
+    writer_list: {
+        key: string, 
+        value: string[] | null
+    };
+    year: {
+        key: string, 
+        value: string | null
+    };
 }

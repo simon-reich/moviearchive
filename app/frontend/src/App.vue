@@ -10,6 +10,5 @@ html,
 body,
 #app {
   @apply h-full;
-  background-color: white;
 }
 </style>

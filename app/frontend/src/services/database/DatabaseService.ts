@@ -1,14 +1,9 @@
-import { SearchParameters } from './../../interfaces/SearchParameters';
-import { BasicQuery } from "@/interfaces/BasicQuery";
-import { DatabaseSearchResult } from "@/interfaces/DatabaseSearchResult";
 import axios from "axios";
-import { AdvancedQuery } from '@/interfaces/AdvancedQuery';
-import { IndexFolderDto } from './dtos/index-folder.dto';
+import { CreateIndexDto } from "../index/dtos/create-index.dto";
 
 export const DatabaseService = {
-  createIndex: async () => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/create`;
-    console.log(url)
+  getIndexByName: async (name: string) => {
+    const url = `${import.meta.env.VITE_BACKEND_URL}db/index/${name}`;
     try {
       const response = await axios.get(url);
       return response;
@@ -17,8 +12,8 @@ export const DatabaseService = {
     }
   },
 
-  getAllIndicies: async () => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/all`;
+  getAllIndices: async () => {
+    const url = `${import.meta.env.VITE_BACKEND_URL}db/index`;
     try {
       const response = await axios.get(url);
       return response;
@@ -27,119 +22,37 @@ export const DatabaseService = {
     }
   },
 
-  indexFolder: async () => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/index-folder`;
+
+  createIndex: async (dto: CreateIndexDto) => {
+    const url = `${import.meta.env.VITE_BACKEND_URL}db/index`;
     try {
-      const response = await axios.get(url);
+      const response = await axios.post(url, dto);
       return response;
     } catch (err) {
       console.log(err);
     }
   },
 
-  exactSearch: async (dto: BasicQuery) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/search/exact`;
+  deleteIndexById: async (id: number) => {
+    const url = `${import.meta.env.VITE_BACKEND_URL}db/index/${id}`;
     try {
-      const response = await axios.post(url, dto);
-      const movies: DatabaseSearchResult[] = response.data.map((data: any) => {
-        return {
-          id: data._source.imdbID,
-          title: data._source.title,
-          year: parseInt(data._source.year),
-          genre: data._source.genreList,
-          runtime: parseInt(data._source.runtime),
-          director: data._source.directorList.map((obj: any) => obj.name),
-          stars: data._source.starList.map((obj: any) => obj.name),
-          language: data._source.languageList,
-          country: data._source.countryList,
-          image: data._source.imageLink,
-        };
-      });
-      return movies;
+      const response = await axios.delete(url);
+      return response;
     } catch (err) {
       console.log(err);
     }
   },
 
-  singleFieldSearch: async (dto: BasicQuery) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/search/single`;
+  deleteIndexByName: async (name: string) => {
+    const url = `${import.meta.env.VITE_BACKEND_URL}db/index/${name}`;
     try {
-      const response = await axios.post(url, dto);
-      const movies: DatabaseSearchResult[] = response.data.map((data: any) => {
-        return {
-          id: data._source.imdbID,
-          title: data._source.title,
-          year: parseInt(data._source.year),
-          genre: data._source.genreList,
-          runtime: parseInt(data._source.runtime),
-          director: data._source.directorList.map((obj: any) => obj.name),
-          stars: data._source.starList.map((obj: any) => obj.name),
-          language: data._source.languageList,
-          country: data._source.countryList,
-          image: data._source.imageLink,
-        };
-      });
-      return movies;
+      const response = await axios.delete(url);
+      return response;
     } catch (err) {
       console.log(err);
     }
   },
 
-  multiFieldSearch: async (dto: BasicQuery) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/search/multi`;
-    try {
-      const response = await axios.post(url, dto);
-      const movies: DatabaseSearchResult[] = response.data.map((data: any) => {
-        return {
-          id: data._source.imdbID,
-          title: data._source.title,
-          year: parseInt(data._source.year),
-          genre: data._source.genreList,
-          runtime: parseInt(data._source.runtime),
-          director: data._source.directorList.map((obj: any) => obj.name),
-          stars: data._source.starList.map((obj: any) => obj.name),
-          language: data._source.languageList,
-          country: data._source.countryList,
-          image: data._source.imageLink,
-        };
-      });
-      return movies;
-    } catch (err) {
-      console.log(err);
-    }
-  },
 
-  getById: async (imdbId: string) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/search/id/${imdbId}`;
-    try {
-      const response = await axios.get(url);
-      return response.data;
-    } catch (err) {
-      console.log(err);
-    }
-  },
 
-  getDistinctValues: async (field: string) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/search/values/${field}`;
-    try {
-      const response = await axios.get(url);
-      return response.data;
-    } catch (err) {
-      console.log(err);
-    }
-  },
-
-  advancedSearch: async (parameters: SearchParameters) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}es/search/advanced`;
-    const dto: AdvancedQuery = {
-      parameters: parameters,
-      size: 1000,
-    }
-    try {
-      const response = await axios.post(url, dto);
-      return response.data;
-    } catch (err) {
-      console.log(err);
-    }
-  },
 };

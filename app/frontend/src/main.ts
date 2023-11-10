@@ -12,6 +12,8 @@ const app = createApp(App);
 const pinia = createPinia();
 const head = createHead();
 
+import './assets/css/main.css';
+
 import "virtual:windi-base.css";
 import "virtual:windi-components.css";
 import "virtual:windi-utilities.css";

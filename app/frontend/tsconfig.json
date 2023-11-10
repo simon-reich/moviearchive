@@ -8,7 +8,6 @@
       "esnext",
       "dom"
     ],
-    "types": ["naive-ui/volar"],
     "strict": true,
     "esModuleInterop": true,
     "moduleResolution": "node",
@@ -17,6 +16,7 @@
     "types": [
       "unplugin-icons/types/vue",
       "vite/client",
+      "naive-ui/volar",
       "node"
     ],
     "paths": {
