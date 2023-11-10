@@ -1,0 +1,502 @@
+{
+    "adult": false,
+    "backdrop_path": "/2j24aBnhYmvYKu5zp2IXoxl1BoR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 80427,
+    "imdb_id": "tt0258885",
+    "original_language": "zh",
+    "original_title": "\u7ad9\u53f0",
+    "overview": "China's rapid changes from the late-1970s to the early 1990s, as seen through the lives of four performers in a theater troupe.",
+    "popularity": 4.578,
+    "poster_path": "/f2EK300IXNyDEvKSXrqPmzZnB37.jpg",
+    "production_companies": [
+        {
+            "id": 54376,
+            "logo_path": null,
+            "name": "T-Mark",
+            "origin_country": ""
+        },
+        {
+            "id": 30553,
+            "logo_path": null,
+            "name": "Artcam International",
+            "origin_country": "FR"
+        },
+        {
+            "id": 14524,
+            "logo_path": null,
+            "name": "Hu Tong Communications",
+            "origin_country": "HK"
+        },
+        {
+            "id": 567,
+            "logo_path": null,
+            "name": "Office Kitano",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/tlBbCuZditAuvzDdIDjjnGLJUpc.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-08-29",
+    "revenue": 0,
+    "runtime": 155,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "\u666e\u901a\u8bdd"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Platform",
+    "video": false,
+    "vote_average": 6.889,
+    "vote_count": 63,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 24044,
+                "known_for_department": "Acting",
+                "name": "Zhao Tao",
+                "original_name": "Zhao Tao",
+                "popularity": 2.616,
+                "profile_path": "/dHcZ83DLBcWKxKHtVkTkBlS49fE.jpg",
+                "cast_id": 3,
+                "character": "Yin Ruijuan",
+                "credit_id": "52fe47bf9251416c910746bf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27997,
+                "known_for_department": "Acting",
+                "name": "Wang Hongwei",
+                "original_name": "Wang Hongwei",
+                "popularity": 0.828,
+                "profile_path": "/kNW5xip4KCLKJuE15GJGlCM5qPg.jpg",
+                "cast_id": 8,
+                "character": "Cui Minliang",
+                "credit_id": "52fe47bf9251416c910746c9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27999,
+                "known_for_department": "Acting",
+                "name": "Liang Jingdong",
+                "original_name": "Liang Jingdong",
+                "popularity": 0.6,
+                "profile_path": "/d3KpBTePZwZxgYJ4y91FMo36IU2.jpg",
+                "cast_id": 9,
+                "character": "Chang Jun",
+                "credit_id": "52fe47bf9251416c910746cd",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1074763,
+                "known_for_department": "Production",
+                "name": "Tian Yi Yang",
+                "original_name": "Tian Yi Yang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Zhong Pin",
+                "credit_id": "52fe47bf9251416c910746d1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1725184,
+                "known_for_department": "Directing",
+                "name": "Wang Bo",
+                "original_name": "Wang Bo",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Yao Eryong",
+                "credit_id": "58f36fdb9251413dbe0119d5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24043,
+                "known_for_department": "Acting",
+                "name": "Han Sanming",
+                "original_name": "Han Sanming",
+                "popularity": 1.4,
+                "profile_path": "/tevFAVjAgNdjABsrJwhu0WNj5qF.jpg",
+                "cast_id": 29,
+                "character": "Sanming",
+                "credit_id": "58f36feb9251413d80010ef0",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24011,
+                "known_for_department": "Directing",
+                "name": "Jia Zhangke",
+                "original_name": "Jia Zhangke",
+                "popularity": 3.275,
+                "profile_path": "/ysDC1ugI5AibdnuCmelFfgPIRb2.jpg",
+                "credit_id": "52fe47bf9251416c910746c5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24011,
+                "known_for_department": "Directing",
+                "name": "Jia Zhangke",
+                "original_name": "Jia Zhangke",
+                "popularity": 3.275,
+                "profile_path": "/ysDC1ugI5AibdnuCmelFfgPIRb2.jpg",
+                "credit_id": "58994933c3a368042500085a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25471,
+                "known_for_department": "Camera",
+                "name": "Nelson Yu Lik-wai",
+                "original_name": "Nelson Yu Lik-wai",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "58936f35c3a3684a3c000513",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25471,
+                "known_for_department": "Camera",
+                "name": "Nelson Yu Lik-wai",
+                "original_name": "Nelson Yu Lik-wai",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "58994a0a92514160b60008e1",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27998,
+                "known_for_department": "Editing",
+                "name": "Kong Jinglei",
+                "original_name": "Kong Jinglei",
+                "popularity": 0.6,
+                "profile_path": "/qTFDr3GBKBf5HWP7HKzxw6wolx2.jpg",
+                "credit_id": "58994a59c3a368042f0008d1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 73141,
+                "known_for_department": "Production",
+                "name": "Shozo Ichiyama",
+                "original_name": "Shozo Ichiyama",
+                "popularity": 1.632,
+                "profile_path": null,
+                "credit_id": "5899496f92514160a4000850",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 105394,
+                "known_for_department": "Production",
+                "name": "Chow Keung",
+                "original_name": "Chow Keung",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "589949fec3a36804210009db",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105397,
+                "known_for_department": "Sound",
+                "name": "Yoshihiro Hanno",
+                "original_name": "Yoshihiro Hanno",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "54c27fdf92514124c8003ab6",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 255050,
+                "known_for_department": "Directing",
+                "name": "Jo\u00ebl Farges",
+                "original_name": "Jo\u00ebl Farges",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "589949b692514160b000089a",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 544325,
+                "known_for_department": "Production",
+                "name": "Masayuki Mori",
+                "original_name": "Masayuki Mori",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "58994a3b92514160b60008f5",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1181008,
+                "known_for_department": "Sound",
+                "name": "Zhang Yang",
+                "original_name": "Zhang Yang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "58994a83c3a3680421000a1f",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1752513,
+                "known_for_department": "Production",
+                "name": "Kit Ming Li",
+                "original_name": "Kit Ming Li",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5899494892514160aa0008df",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1752514,
+                "known_for_department": "Production",
+                "name": "Juliette Grandmont",
+                "original_name": "Juliette Grandmont",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "589949d2c3a368042f000889",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1752515,
+                "known_for_department": "Production",
+                "name": "Elise Jalladeau",
+                "original_name": "Elise Jalladeau",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "589949e3c3a368043a000882",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1752516,
+                "known_for_department": "Art",
+                "name": "Qiu Sheng",
+                "original_name": "Qiu Sheng",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "58994aa2c3a368041b000a30",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1752519,
+                "known_for_department": "Production",
+                "name": "Wang Yu",
+                "original_name": "Wang Yu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "589950fa92514160a4000c82",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": []
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/2j24aBnhYmvYKu5zp2IXoxl1BoR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.698,
+                "height": 1224,
+                "iso_639_1": "zh",
+                "file_path": "/1VhwEbQggUjjDw792MRIudXYu4V.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 854
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/f2EK300IXNyDEvKSXrqPmzZnB37.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.669,
+                "height": 1271,
+                "iso_639_1": "zh",
+                "file_path": "/6zs6YyGrXiSSrHc2W8Nw0RRTnP.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 850
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "en",
+                "file_path": "/1FYeOuOvxdz9V4I6yqScXL34c4W.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.697,
+                "height": 2081,
+                "iso_639_1": "ja",
+                "file_path": "/2fG9ObgB8MiRtW5jfZuPjDjynYn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1451
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 478,
+                "name": "china"
+            },
+            {
+                "id": 4004,
+                "name": "cultural revolution"
+            },
+            {
+                "id": 4333,
+                "name": "theatre group"
+            },
+            {
+                "id": 208289,
+                "name": "1980s"
+            },
+            {
+                "id": 229239,
+                "name": "maoism"
+            }
+        ]
+    },
+    "title_english": "Platform",
+    "year": "2000",
+    "rated": "N/A",
+    "director_list": [
+        "Zhangke Jia"
+    ],
+    "writer_list": [
+        "Zhangke Jia"
+    ],
+    "main_cast": [
+        "Hongwei Wang",
+        " Tao Zhao",
+        " Jing Dong Liang"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "imdb_rating": "7.3",
+    "imdb_votes": "3,001"
+}

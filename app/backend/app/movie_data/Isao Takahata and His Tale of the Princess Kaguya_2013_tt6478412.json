@@ -1,0 +1,523 @@
+{
+    "adult": false,
+    "backdrop_path": "/5E0glLr2mIYWhOXGuXfVaLwnKYh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 332406,
+    "imdb_id": "tt6478412",
+    "original_language": "ja",
+    "original_title": "\u9ad8\u7551 \u52f2\u3001 \u300e\u304b\u3050\u3084\u59eb\u306e\u7269\u8a9e\u300f\u3092\u3064\u304f\u308b\u3002\u30b8\u30d6\u30ea\u7b2c7\u30b9\u30bf\u30b8\u30aa\u3001933\u65e5\u306e\u4f1d\u8aac",
+    "overview": "For his first film in fourteen years animation director Isao Takahata embarked on a visually sumptuous adaptation of \"The Tale of the Princess Kaguya\". A dream project for the director that would hopefully establish the recently formed Ghibli Studio 7, created to meet the demands of a new type of modern animation process. But almost immediately the epic production is faced with difficulties and falls dramatically behind schedule. In this compelling and insightful documentary we follow Isao Takahata and his dedicated team of artists as they frantically strive against adversity to make their vision a reality and bring Studio Ghibli into a new Era.",
+    "popularity": 2.936,
+    "poster_path": "/wPH4sOVnPK2uwOqwQFaeJPNu1mi.jpg",
+    "production_companies": [
+        {
+            "id": 5073,
+            "logo_path": null,
+            "name": "WOWOW FILMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2014-11-27",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Isao Takahata and His Tale of the Princess Kaguya",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 4,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 628,
+                "known_for_department": "Directing",
+                "name": "Isao Takahata",
+                "original_name": "Isao Takahata",
+                "popularity": 12.365,
+                "profile_path": "/xTkZOWe1VU4xNba1lO0T9trFLHm.jpg",
+                "cast_id": 0,
+                "character": "Self",
+                "credit_id": "55118cf1c3a3680174001c77",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 547985,
+                "known_for_department": "Art",
+                "name": "Kazuo Oga",
+                "original_name": "Kazuo Oga",
+                "popularity": 5.804,
+                "profile_path": null,
+                "cast_id": 1,
+                "character": "Self",
+                "credit_id": "5f3a1bb0519bbb003177b761",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 636,
+                "known_for_department": "Sound",
+                "name": "Joe Hisaishi",
+                "original_name": "Joe Hisaishi",
+                "popularity": 8.793,
+                "profile_path": "/dVxq90QHGMKBI3RpZYJlBVM59Nt.jpg",
+                "cast_id": 2,
+                "character": "Self",
+                "credit_id": "5f3a1bbfa3b5e60035f02863",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1417,
+                "known_for_department": "Production",
+                "name": "Toshio Suzuki",
+                "original_name": "Toshio Suzuki",
+                "popularity": 8.894,
+                "profile_path": "/7jyzHtQScbQiPyNTP7aAQ9cF75u.jpg",
+                "cast_id": 3,
+                "character": "Self",
+                "credit_id": "5f3a1bd7be4b360033aedaf3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1375745,
+                "known_for_department": "Production",
+                "name": "Yoshiaki Nishimura",
+                "original_name": "Yoshiaki Nishimura",
+                "popularity": 1.62,
+                "profile_path": "/abmti3zWTqGWEZw7IBJwgdPQ8IZ.jpg",
+                "cast_id": 6,
+                "character": "Self",
+                "credit_id": "6319da7d002134007ae8ae0a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 608,
+                "known_for_department": "Directing",
+                "name": "Hayao Miyazaki",
+                "original_name": "Hayao Miyazaki",
+                "popularity": 22.849,
+                "profile_path": "/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg",
+                "cast_id": 7,
+                "character": "Self",
+                "credit_id": "63413dff706e56007f457a65",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1843070,
+                "known_for_department": "Visual Effects",
+                "name": "Shigeo Akahori",
+                "original_name": "Shigeo Akahori",
+                "popularity": 1.731,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Self",
+                "credit_id": "63413e18cf62cd007eac9c54",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1115687,
+                "known_for_department": "Acting",
+                "name": "Aki Asakura",
+                "original_name": "Aki Asakura",
+                "popularity": 4.312,
+                "profile_path": "/65ZiHTem1HFNx4aHBcqQPdRRsPn.jpg",
+                "cast_id": 9,
+                "character": "Self",
+                "credit_id": "63413e2639a1a6007ca42ba0",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2415841,
+                "known_for_department": "Sound",
+                "name": "Naoko Asari",
+                "original_name": "Naoko Asari",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Self",
+                "credit_id": "63413e307eb5f2007e363b6b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227629,
+                "known_for_department": "Acting",
+                "name": "Takeo Chii",
+                "original_name": "Takeo Chii",
+                "popularity": 1.925,
+                "profile_path": "/eCFyIoJOXRgropVjcfapBIW6XAB.jpg",
+                "cast_id": 11,
+                "character": "Self",
+                "credit_id": "63413e3c1b7c590079182399",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554573,
+                "known_for_department": "Acting",
+                "name": "Isao Hashizume",
+                "original_name": "Isao Hashizume",
+                "popularity": 4.62,
+                "profile_path": "/pM8AweTuMvGoWjxPgneHW7siYKy.jpg",
+                "cast_id": 12,
+                "character": "Self",
+                "credit_id": "63413e47d34eb30090357074",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2049274,
+                "known_for_department": "Acting",
+                "name": "Hikaru Ij\u016bin",
+                "original_name": "Hikaru Ij\u016bin",
+                "popularity": 1.966,
+                "profile_path": "/bNND8uq6K7538TQ0eg6J0KMnEHV.jpg",
+                "cast_id": 13,
+                "character": "Self",
+                "credit_id": "63413e58cf62cd00990c78cc",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1506173,
+                "known_for_department": "Visual Effects",
+                "name": "Yukiko Kakita",
+                "original_name": "Yukiko Kakita",
+                "popularity": 1.055,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Self",
+                "credit_id": "63413e62e1ad790079ea6a7f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2032142,
+                "known_for_department": "Visual Effects",
+                "name": "Shigeru Kimishima",
+                "original_name": "Shigeru Kimishima",
+                "popularity": 1.764,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Self",
+                "credit_id": "63413e6ed34eb30079fd1992",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2049275,
+                "known_for_department": "Production",
+                "name": "Tamaki Kojo",
+                "original_name": "Tamaki Kojo",
+                "popularity": 0.6,
+                "profile_path": "/nQgBJXqGX6zK11ED1tViD7PrBnl.jpg",
+                "cast_id": 16,
+                "character": "Self",
+                "credit_id": "63413e7939a1a6007ca42bb4",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120690,
+                "known_for_department": "Acting",
+                "name": "Kengo Kora",
+                "original_name": "Kengo Kora",
+                "popularity": 7.833,
+                "profile_path": "/wb293WmYQ7yTAtf3opmhCoTJQfa.jpg",
+                "cast_id": 17,
+                "character": "Self",
+                "credit_id": "63413e831b7c59007e6d3e51",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 70627,
+                "known_for_department": "Acting",
+                "name": "Nobuko Miyamoto",
+                "original_name": "Nobuko Miyamoto",
+                "popularity": 2.995,
+                "profile_path": "/7Ikc4hr7n8eRGGBMkirZWvTagRs.jpg",
+                "cast_id": 18,
+                "character": "Self",
+                "credit_id": "63413e8de8d028007f68a6f1",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70131,
+                "known_for_department": "Acting",
+                "name": "Tatsuya Nakadai",
+                "original_name": "Tatsuya Nakadai",
+                "popularity": 11.134,
+                "profile_path": "/4LygOe0vFQplLIft5IUWI5OewPX.jpg",
+                "cast_id": 19,
+                "character": "Self",
+                "credit_id": "63413ea139a1a6008e8b1b96",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9189,
+                "known_for_department": "Acting",
+                "name": "Shichinosuke Nakamura",
+                "original_name": "Shichinosuke Nakamura",
+                "popularity": 4.254,
+                "profile_path": "/uStHaHyq9Q5I5cgfxfUygKL3iQe.jpg",
+                "cast_id": 20,
+                "character": "Self",
+                "credit_id": "63413eb4e8d0280091c188eb",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2244787,
+                "known_for_department": "Acting",
+                "name": "Kazumi Nikaido",
+                "original_name": "Kazumi Nikaido",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Self",
+                "credit_id": "63413ebf9c97bd00796cb315",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 148286,
+                "known_for_department": "Acting",
+                "name": "Tomoko Tabata",
+                "original_name": "Tomoko Tabata",
+                "popularity": 8.111,
+                "profile_path": "/nmz6nWYMph0cfjvLA6YJpuJaxzW.jpg",
+                "cast_id": 23,
+                "character": "Self",
+                "credit_id": "63413ef739a1a60084421017",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 90570,
+                "known_for_department": "Acting",
+                "name": "Atsuko Takahata",
+                "original_name": "Atsuko Takahata",
+                "popularity": 9.026,
+                "profile_path": "/uhrPHnJoBM4kaSKl5NhK120kK8A.jpg",
+                "cast_id": 24,
+                "character": "Self",
+                "credit_id": "63413f02d34eb30079fd19c4",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1552586,
+                "known_for_department": "Visual Effects",
+                "name": "Osamu Tanabe",
+                "original_name": "Osamu Tanabe",
+                "popularity": 0.732,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Self",
+                "credit_id": "63413f0faa7898007cc759ab",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1091989,
+                "known_for_department": "Acting",
+                "name": "Hiroshi Tsuchida",
+                "original_name": "Hiroshi Tsuchida",
+                "popularity": 4.051,
+                "profile_path": "/aqBva8YU6BM7vGy4Km0lmjdp4oV.jpg",
+                "cast_id": 26,
+                "character": "Narrator (voice)",
+                "credit_id": "63413f3a9c97bd00903a3ad7",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554315,
+                "known_for_department": "Acting",
+                "name": "Ryudo Uzaki",
+                "original_name": "Ryudo Uzaki",
+                "popularity": 2.709,
+                "profile_path": "/kO9vshZ4FJXyZO5wu4xgq8fa6OE.jpg",
+                "cast_id": 27,
+                "character": "Self",
+                "credit_id": "63413f447eb5f2007b12e42b",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2032135,
+                "known_for_department": "Visual Effects",
+                "name": "Akiko Yamaguchi",
+                "original_name": "Akiko Yamaguchi",
+                "popularity": 2.256,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Self",
+                "credit_id": "63413f53e4b5760083220354",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1859839,
+                "known_for_department": "Acting",
+                "name": "Toshio Yoshikawa",
+                "original_name": "Toshio Yoshikawa",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Self",
+                "credit_id": "63413f7671ffdf00825db5cb",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3018575,
+                "known_for_department": "Directing",
+                "name": "Akira Miki",
+                "original_name": "Akira Miki",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6056f79e22931a002862614c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3018576,
+                "known_for_department": "Directing",
+                "name": "Hidekazu Sato",
+                "original_name": "Hidekazu Sato",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6056f7f96e3deb006ba59757",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "videos": {
+        "results": []
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/5E0glLr2mIYWhOXGuXfVaLwnKYh.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1280
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/wPH4sOVnPK2uwOqwQFaeJPNu1mi.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9817,
+                "name": "behind the scenes"
+            },
+            {
+                "id": 297442,
+                "name": "animation"
+            }
+        ]
+    },
+    "title_english": "Isao Takahata and His Tale of Princess Kaguya",
+    "year": "2013",
+    "rated": "N/A",
+    "director_list": [
+        "Akira Miki",
+        " Hidekazu Sato"
+    ],
+    "writer_list": [
+        "N/A"
+    ],
+    "main_cast": [
+        "Shigeo Akahori",
+        " Aki Asakura",
+        " Naoko Asari"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        }
+    ],
+    "imdb_rating": "7.5",
+    "imdb_votes": "147"
+}

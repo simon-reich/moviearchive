@@ -1,0 +1,774 @@
+{
+    "adult": false,
+    "backdrop_path": "/czhFHbUG5cCCK6Tt4NtuyihR3z0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 41951,
+    "imdb_id": "tt0094868",
+    "original_language": "fr",
+    "original_title": "Chocolat",
+    "overview": "On her way to visit her childhood home in a colonial outpost in Northern Cameroon, a young French woman recalls her childhood, her memories concentrating on her family's houseboy.",
+    "popularity": 8.2,
+    "poster_path": "/a4FRzFaoWQkFi4xxsUzjror96ME.jpg",
+    "production_companies": [
+        {
+            "id": 11036,
+            "logo_path": null,
+            "name": "Cin\u00e9manuel",
+            "origin_country": ""
+        },
+        {
+            "id": 10784,
+            "logo_path": null,
+            "name": "Cerito Films",
+            "origin_country": ""
+        },
+        {
+            "id": 11035,
+            "logo_path": null,
+            "name": "Caroline Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 16366,
+            "logo_path": null,
+            "name": "La Sept Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 156489,
+            "logo_path": null,
+            "name": "Le F.O.D.I.C. Cameroun",
+            "origin_country": ""
+        },
+        {
+            "id": 6274,
+            "logo_path": "/7maUXkVK7nbKILS08jwlCJXWKZj.png",
+            "name": "MK2 Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 356,
+            "logo_path": "/tSJvuFaLIp7l0ONLUiAHA61GbXu.png",
+            "name": "TF1 Films Production",
+            "origin_country": "FR"
+        },
+        {
+            "id": 27992,
+            "logo_path": null,
+            "name": "Wim Wenders Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "CM",
+            "name": "Cameroon"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1988-05-18",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "Hausa",
+            "iso_639_1": "ha",
+            "name": "Hausa"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Chocolat",
+    "video": false,
+    "vote_average": 6.689,
+    "vote_count": 73,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4812,
+                "known_for_department": "Acting",
+                "name": "Isaach De Bankol\u00e9",
+                "original_name": "Isaach De Bankol\u00e9",
+                "popularity": 10.632,
+                "profile_path": "/aGjABQBgTA3tduuh54hzWx0aQ44.jpg",
+                "cast_id": 5,
+                "character": "Prot\u00e9e",
+                "credit_id": "52fe45e4c3a36847f80e0803",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 556855,
+                "known_for_department": "Acting",
+                "name": "Giulia Boschi",
+                "original_name": "Giulia Boschi",
+                "popularity": 2.005,
+                "profile_path": "/8OYcwaz9STbOMzc4JJQRh6Gu9X8.jpg",
+                "cast_id": 3,
+                "character": "Aim\u00e9e Dalens",
+                "credit_id": "52fe45e4c3a36847f80e07fb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33161,
+                "known_for_department": "Acting",
+                "name": "Fran\u00e7ois Cluzet",
+                "original_name": "Fran\u00e7ois Cluzet",
+                "popularity": 13.658,
+                "profile_path": "/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg",
+                "cast_id": 4,
+                "character": "Marc Dalens",
+                "credit_id": "52fe45e4c3a36847f80e07ff",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24542,
+                "known_for_department": "Acting",
+                "name": "Jean-Claude Adelin",
+                "original_name": "Jean-Claude Adelin",
+                "popularity": 3.944,
+                "profile_path": "/wBNRTZCUdNdT883K6c1hD0mZOar.jpg",
+                "cast_id": 6,
+                "character": "Luc",
+                "credit_id": "52fe45e4c3a36847f80e0807",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53905,
+                "known_for_department": "Acting",
+                "name": "Mireille Perrier",
+                "original_name": "Mireille Perrier",
+                "popularity": 3.714,
+                "profile_path": "/6TzbJ8AMnR9PRUjbYic6qYkMvU3.jpg",
+                "cast_id": 7,
+                "character": "France Dalens",
+                "credit_id": "52fe45e4c3a36847f80e080b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1128242,
+                "known_for_department": "Acting",
+                "name": "Laurent Arnal",
+                "original_name": "Laurent Arnal",
+                "popularity": 0.652,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Machinard",
+                "credit_id": "52fe45e4c3a36847f80e080f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1168930,
+                "known_for_department": "Acting",
+                "name": "Jean B\u00e9di\u00e9b\u00e9",
+                "original_name": "Jean B\u00e9di\u00e9b\u00e9",
+                "popularity": 1.614,
+                "profile_path": "/qIOZswVrhrnv3kWWLtKRm4OyKB6.jpg",
+                "cast_id": 9,
+                "character": "Prosper",
+                "credit_id": "52fe45e4c3a36847f80e0813",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1168931,
+                "known_for_department": "Acting",
+                "name": "C\u00e9cile Ducasse",
+                "original_name": "C\u00e9cile Ducasse",
+                "popularity": 1.388,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "France Enfant",
+                "credit_id": "52fe45e4c3a36847f80e0817",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 35077,
+                "known_for_department": "Acting",
+                "name": "Didier Flamand",
+                "original_name": "Didier Flamand",
+                "popularity": 5.003,
+                "profile_path": "/n4VZ9sIWK2InBYzFScY0anVbvw1.jpg",
+                "cast_id": 11,
+                "character": "Capt. V\u00e9drine",
+                "credit_id": "52fe45e4c3a36847f80e081b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 239348,
+                "known_for_department": "Acting",
+                "name": "Emmanuelle Chaulet",
+                "original_name": "Emmanuelle Chaulet",
+                "popularity": 2.447,
+                "profile_path": "/chPJ6A3Gha4XjJhlui0ckQjcoaF.jpg",
+                "cast_id": 21,
+                "character": "Mireille Machinard",
+                "credit_id": "5d15a17371ffdf46c086a00c",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26258,
+                "known_for_department": "Acting",
+                "name": "Kenneth Cranham",
+                "original_name": "Kenneth Cranham",
+                "popularity": 15.781,
+                "profile_path": "/9lzTbNgaoArlxpEkYtWQfOyiYwu.jpg",
+                "cast_id": 22,
+                "character": "Boothby",
+                "credit_id": "6168e4a60a517c00610c7ac7",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1134,
+                "known_for_department": "Production",
+                "name": "Marin Karmitz",
+                "original_name": "Marin Karmitz",
+                "popularity": 1.912,
+                "profile_path": "/63UAgtlG9Fz0ztRWIJRgY1xutnc.jpg",
+                "credit_id": "64b85d5d2588230100aad1e0",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2303,
+                "known_for_department": "Directing",
+                "name": "Wim Wenders",
+                "original_name": "Wim Wenders",
+                "popularity": 9.8,
+                "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+                "credit_id": "64b85d653009aa00e263c118",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3829,
+                "known_for_department": "Acting",
+                "name": "Jean-Paul Belmondo",
+                "original_name": "Jean-Paul Belmondo",
+                "popularity": 13.896,
+                "profile_path": "/wTofz0bBIO7kKXATnZNNBF3Jxle.jpg",
+                "credit_id": "64b85d4811386c012df2097e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 8.679,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "52fe45e4c3a36847f80e07f7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 8.679,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "52fe45e4c3a36847f80e0821",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19114,
+                "known_for_department": "Sound",
+                "name": "Brigitte Taillandier",
+                "original_name": "Brigitte Taillandier",
+                "popularity": 1.8,
+                "profile_path": "/9UrbeJpxvmi0SAuN5a98RIoF3jE.jpg",
+                "credit_id": "64b85ddb1685da0139456285",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18567,
+                "known_for_department": "Production",
+                "name": "Alain Belmondo",
+                "original_name": "Alain Belmondo",
+                "popularity": 2.283,
+                "profile_path": "/14joWbpKevwpaEHuco9iqj51ZzD.jpg",
+                "credit_id": "52fe45e4c3a36847f80e084b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14196,
+                "known_for_department": "Camera",
+                "name": "Agn\u00e8s Godard",
+                "original_name": "Agn\u00e8s Godard",
+                "popularity": 2.174,
+                "profile_path": "/684UZWONgJHqqEVGqdHd9yKmMCb.jpg",
+                "credit_id": "64b85e083009aa011c9977e0",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26359,
+                "known_for_department": "Production",
+                "name": "G\u00e9rard Crosnier",
+                "original_name": "G\u00e9rard Crosnier",
+                "popularity": 0.655,
+                "profile_path": null,
+                "credit_id": "52fe45e4c3a36847f80e0851",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30636,
+                "known_for_department": "Art",
+                "name": "Thierry Flamand",
+                "original_name": "Thierry Flamand",
+                "popularity": 1.355,
+                "profile_path": "/kwWneZWsqLcQFuqqvQ80BGW4p2z.jpg",
+                "credit_id": "52fe45e4c3a36847f80e083f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 34908,
+                "known_for_department": "Editing",
+                "name": "Claudine Merlin",
+                "original_name": "Claudine Merlin",
+                "popularity": 0.758,
+                "profile_path": null,
+                "credit_id": "52fe45e4c3a36847f80e0839",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38400,
+                "known_for_department": "Sound",
+                "name": "Dominique Hennequin",
+                "original_name": "Dominique Hennequin",
+                "popularity": 0.833,
+                "profile_path": null,
+                "credit_id": "64b85db627db6100c53b9d62",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73724,
+                "known_for_department": "Writing",
+                "name": "Jean-Pol Fargeau",
+                "original_name": "Jean-Pol Fargeau",
+                "popularity": 1.96,
+                "profile_path": "/iby2OMwVqH9h1BJdU1wIPi4u8SK.jpg",
+                "credit_id": "52fe45e4c3a36847f80e0827",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73717,
+                "known_for_department": "Camera",
+                "name": "Robert Alazraki",
+                "original_name": "Robert Alazraki",
+                "popularity": 1.665,
+                "profile_path": "/1oaFxGw0QSVUILrIaNShLOKT58O.jpg",
+                "credit_id": "52fe45e4c3a36847f80e082d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89288,
+                "known_for_department": "Sound",
+                "name": "Abdullah Ibrahim",
+                "original_name": "Abdullah Ibrahim",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe45e4c3a36847f80e0833",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 411527,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Christian Gasc",
+                "original_name": "Christian Gasc",
+                "popularity": 1.122,
+                "profile_path": "/62UvJgknuvIAyzy3muva4gqxtoe.jpg",
+                "credit_id": "52fe45e4c3a36847f80e0845",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1324312,
+                "known_for_department": "Directing",
+                "name": "Bassek Ba Kobhio",
+                "original_name": "Bassek Ba Kobhio",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "64b85d811d5386013e878365",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1364141,
+                "known_for_department": "Acting",
+                "name": "Jean-Christophe Winding",
+                "original_name": "Jean-Christophe Winding",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64b85df0ab684900ff494f23",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1620082,
+                "known_for_department": "Sound",
+                "name": "Jean-Louis Ughetto",
+                "original_name": "Jean-Louis Ughetto",
+                "popularity": 0.6,
+                "profile_path": "/pSvbMyfaWwOG5kj7VZzvIlJLPP7.jpg",
+                "credit_id": "64b85de41d53860101e6863a",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1628721,
+                "known_for_department": "Sound",
+                "name": "Andr\u00e9 Herv\u00e9e",
+                "original_name": "Andr\u00e9 Herv\u00e9e",
+                "popularity": 0.652,
+                "profile_path": null,
+                "credit_id": "64b85dc86aa8e000ccf6a3f2",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1652980,
+                "known_for_department": "Sound",
+                "name": "Daniel Couteau",
+                "original_name": "Daniel Couteau",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "64b85dad27db6100ac3c05f6",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1761303,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jean-Pierre Eychenne",
+                "original_name": "Jean-Pierre Eychenne",
+                "popularity": 0.692,
+                "profile_path": null,
+                "credit_id": "64b85d721685da00feae481f",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1902065,
+                "known_for_department": "Sound",
+                "name": "G\u00e9rard Manneveau",
+                "original_name": "G\u00e9rard Manneveau",
+                "popularity": 1.091,
+                "profile_path": null,
+                "credit_id": "64b85dd23009aa00c5b6f32b",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2762897,
+                "known_for_department": "Camera",
+                "name": "Yvon Sausseau",
+                "original_name": "Yvon Sausseau",
+                "popularity": 1.553,
+                "profile_path": null,
+                "credit_id": "64b85e121685da0139456298",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4170821,
+                "known_for_department": "Directing",
+                "name": "Marie-Claude Beauchaud",
+                "original_name": "Marie-Claude Beauchaud",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64b85d8b1d5386011eac7640",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4170823,
+                "known_for_department": "Directing",
+                "name": "Luc Goldenberg",
+                "original_name": "Luc Goldenberg",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64b85d944d23dd0125591878",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4170825,
+                "known_for_department": "Directing",
+                "name": "Vincent Ndoumbe",
+                "original_name": "Vincent Ndoumbe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64b85da36aa8e001504b96ff",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4170830,
+                "known_for_department": "Camera",
+                "name": "Benoit Akpatsi",
+                "original_name": "Benoit Akpatsi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64b85dfa27db6100ac3c060c",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4170832,
+                "known_for_department": "Camera",
+                "name": "Bouba Wamvou",
+                "original_name": "Bouba Wamvou",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64b85e1c25882300ae6324da",
+                "department": "Camera",
+                "job": "Grip"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "4K Restoration Trailer",
+                "key": "K2y-h4fUR4c",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2023-02-08T18:55:56.000Z",
+                "id": "63e3fb315ca70400a7d38b4f"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.777,
+                "height": 723,
+                "iso_639_1": null,
+                "file_path": "/czhFHbUG5cCCK6Tt4NtuyihR3z0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1285
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "de",
+                "file_path": "/bbnEubK4Nj60Hf7kPkZbGTXRH8A.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "fr",
+                "file_path": "/aohtVaFwFbhVg25zUbqCS9mnnbw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.704,
+                "height": 1484,
+                "iso_639_1": "fr",
+                "file_path": "/a4FRzFaoWQkFi4xxsUzjror96ME.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1044
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1926,
+                "iso_639_1": "fr",
+                "file_path": "/rdFeANFYhfiEVoLT2K9q8t6xRVT.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1284
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 409,
+                "name": "africa"
+            },
+            {
+                "id": 11518,
+                "name": "sexual tension"
+            },
+            {
+                "id": 158217,
+                "name": "colonialism"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            },
+            {
+                "id": 206232,
+                "name": "cameroon"
+            },
+            {
+                "id": 208611,
+                "name": "1950s"
+            }
+        ]
+    },
+    "title_english": "Chocolat",
+    "year": "1988",
+    "rated": "PG-13",
+    "director_list": [
+        "Claire Denis"
+    ],
+    "writer_list": [
+        "Claire Denis",
+        " Jean-Pol Fargeau"
+    ],
+    "main_cast": [
+        "Isaach De Bankol\u00e9",
+        " Giulia Boschi",
+        " Fran\u00e7ois Cluzet"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "imdb_rating": "7.3",
+    "imdb_votes": "4,081"
+}
