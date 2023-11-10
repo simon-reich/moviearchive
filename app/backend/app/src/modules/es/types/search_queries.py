@@ -1,4 +1,4 @@
-from modules.es.utils.nlp_functions import year_to_century, check_if_string_is_runtime, check_if_string_is_releaseYear
+from src.modules.es.utils.nlp_functions import year_to_century, check_if_string_is_runtime, check_if_string_is_releaseYear
 
 class Search(object):
     def __init__(self):
@@ -117,20 +117,19 @@ class BasicSearch(Search):
     def single_field_query(self, field, term):
         return self.matchQuery(field, term)
 
-    def std_search_query(self, term):
+    def standard_search_query(self, term):
         term_type = self.categorize_query(term)
         if term_type == 'text':
             fields = [
                 'title^4', 
-                'originalTitle^4', 
-                'plot^2', 
-                'directorList^4', 
-                'writerList^2',
-                'starList^4',
-                'actorList^4',
-                'keywordList^4',
-                'wikiTextShort^3',
-                'wikiTextFull^2'
+                'original_title^4', 
+                'synopsis^2', 
+                'director_list_fulltext^4', 
+                'writer_list_fulltext^2',
+                'main_cast_fulltext^4',
+                'full_cast^2',
+                'full-crew^1',
+                'keyword_list^4',
                 ]
             query = self.multiMatchQuery(term, fields)
         elif term_type == 'runtime':
@@ -139,7 +138,7 @@ class BasicSearch(Search):
             query = self.nearestNumberQuery('year', int(term))
         elif term_type == 'century':
             term = year_to_century(term)
-            fields = ['plot^2', 'keywordList^4', 'wikiTextShort^2', 'wikiTextFull^1']
+            fields = ['synopsis^2', 'keyword_list^4']
             query = self.multiMatchQuery(term, fields)
         elif term_type == 'genre':
             pass

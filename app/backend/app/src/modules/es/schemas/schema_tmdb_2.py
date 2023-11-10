@@ -1,4 +1,4 @@
-def get_movieIndex_schema():
+def get_tmdb_schema_2():
     return {
         'settings' : {
             'number_of_shards' : 1,
@@ -23,7 +23,12 @@ def get_movieIndex_schema():
         'mappings' : {
             'dynamic' : 'strict',
             'properties': {
-                'imdbID' : {
+                'tmdb_id' : {
+                   'type' : 'integer', 
+                   'index': 'true',
+                },
+
+                'imdb_id' : {
                    'type' : 'keyword', 
                    'index': 'true',
                 },
@@ -39,7 +44,7 @@ def get_movieIndex_schema():
                         }
                     }
                 },
-                'originalTitle' : { 
+                'original_title' : { 
                     'type' : 'text',
                     'index' : 'true',
                     'analyzer' : 'custom_analyzer',
@@ -51,19 +56,11 @@ def get_movieIndex_schema():
                         }
                     }
                 },
-                'medium' : {
-                    'type' : 'keyword', 
-                    'index' : 'false',
-                },
-                'imageLink' : { 
-                    'type' : 'keyword',
-                    'index' : 'false' 
-                },
                 'year' : {
                     'type' : 'integer',
                     'index' : 'true'
                 },
-                'releaseDate' : {
+                'release_date' : {
                     'type' : 'date',
                     'index' : 'true'
                 },
@@ -71,106 +68,103 @@ def get_movieIndex_schema():
                     'type' : 'integer',
                     'index' : 'true'
                 },
-                'runtimeString' : {
+                'poster' : { 
                     'type' : 'keyword',
-                    'index' : 'false'
+                    'index' : 'false' 
                 },
-                'plot' : {
+                'synopsis' : {
                     'type': 'text',
                     'index' : 'true',
                     'analyzer' : 'custom_analyzer'
                 },
-                'directorList' : {
+                'director_list' : {
+                    'type': 'keyword',
+                    'index' : 'true',
+                },
+                'director_list_fulltext': {
+                    'type': 'text',
+                    'index': 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'writer_list' : {
+                    'type': 'keyword',
+                    'index' : 'true',
+                },
+                'writer_list_fulltext': {
+                    'type': 'text',
+                    'index': 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'main_cast' : {
+                    'type': 'keyword',
+                    'index' : 'true',
+                },
+                'main_cast_fulltext': {
+                    'type': 'text',
+                    'index': 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'full_cast' : {
                     'type': 'flattened',
                     'index' : 'true',
                 },
-                'writerList' : {
-                    'type': 'flattened',
-                    'index' : 'true',
-                },
-                'starList' : {
-                    'type': 'flattened',
-                    'index' : 'true',
-                },
-                'actorList' : {
-                    'type': 'flattened',
-                    'index' : 'true',
-                },
-                'fullCast' : {
+                'full_crew' : {
                     'type' : 'flattened',
                     'index' : 'true'
                 },
-                'genreList' : {
+                'genre_list' : {
                     'type' : 'keyword',
                     'index' : 'true'
                 },
-                'countryList' : {
+                'country_list' : {
+                    'type' : 'flattened',
+                    'index' : 'true'
+                },
+                'language_list' : {
+                    'type' : 'flattened',
+                    'index' : 'true'
+                },
+                'company_list' : {
+                    'type' : 'flattened',
+                    'index' : 'true'
+                },
+                'keyword_list' : {
                     'type' : 'keyword',
                     'index' : 'true'
                 },
-                'languageList' : {
-                    'type' : 'keyword',
-                    'index' : 'true'
-                },
-                'contentRating' : {
+                'content_rating' : {
                     'type' : 'keyword',
                     'index' : 'false'
                 },
-                'keywordList' : {
-                    'type' : 'keyword',
-                    'index' : 'true'
-                },
-                'companyList' : {
-                    'type' : 'flattened',
-                    'index' : 'true'
-                },
-                'boxOffice' : {
-                    'type' : 'flattened',
+                'boxoffice' : {
+                    'type' : 'integer',
                     'index' : 'false'
                 },
-                'imdbLink' : {
+                'imdb_link' : {
                     'type' : 'keyword',
                     'index' : 'true'
                 },
-                'imdbRating' : {
+                'imdb_rating' : {
                     'type' : 'float',
                     'index' : 'true'
                 },
-                'imdbVotes' : {
+                'imdb_votes' : {
                     'type' : 'integer',
                     'index' : 'true'
                 },
-                'ratingList' : {
+                'rating_list' : {
                     'type' : 'flattened',
                     'index' : 'true'
                 },
-                'wikiLink' : {
-                    'type' : 'keyword',
-                    'index' : 'false'
-                },
-                'wikiTextShort' : {
-                    'type' : 'text',
-                    'index' : 'true',
-                    'analyzer' : 'custom_analyzer'
-                },
-                'wikiTextShortHtml' : {
-                    'type' : 'text',
-                    'index' : 'false'
-                },
-                'wikiTextFull' : {
-                    'type' : 'text',
-                    'index' : 'true',
-                    'analyzer' : 'custom_analyzer'
-                },
-                'wikiTextFullHtml' : {
-                    'type' : 'text',
-                    'index' : 'false'
-                },
-                'posterList': {
+                'poster_list': {
                     'type' : 'flattened',
                     'index' : 'false'
                 },
-                'imageList' : {
+                'backdrop_list' : {
+                    'type' : 'flattened',
+                    'index' : 'false'
+                },
+                'video_list' : {
                     'type' : 'flattened',
                     'index' : 'false'
                 },
@@ -178,19 +172,15 @@ def get_movieIndex_schema():
                     'type' : 'flattened',
                     'index' : 'false'
                 },
-                'tvSeriesInfo': {
-                    'type' : 'object',
-                    'dynamic' : 'true',
+                'watched' : {
+                    'type' : 'boolean',
+                    'index' : 'false'
                 },
-                'tvEpisodeInfo' : {
-                    'type' : 'object',
-                    'dynamic' : 'true',
-                },
-                'personalRating' : {
+                'personal_rating' : {
                     'type' : 'float',
                     'index' : 'true'
                 },
-                'personalNotes' : {
+                'personal_notes' : {
                     'type' : 'text',
                     'index' : 'true'
                 }         

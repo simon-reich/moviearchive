@@ -2,13 +2,15 @@ def map_imdbApiSchema_to_indexSchema(movie):
     movie_mapped = {
         'title': movie['title'],
         'year': movie['year'],
-        'imdbID': movie['id'],
-        'originalTitle': movie['originalTitle'],
-        'medium': movie['type'],
-        'imageLink': movie['image'],
-        'releaseDate': movie['releaseDate'],
-        'runtime': movie['runtimeMins'],
-        'plot': movie['plot'],
+        'tndbId': movie['id'],
+        'imdbId': movie['imdb_id'],
+        'originalTitle': movie['original_title'],
+        'imageLink': movie['poster_path'],
+        'release_date': movie['releaseDate'],
+        'runtime': movie['runtime'],
+        'budget': movie['budget'],
+        'plot': movie['owerview'],
+        'homepage': movie['homepage'],
         'directorList': movie['directorList'],
         'writerList': movie['writerList'],
         'starList': movie['starList'],
@@ -39,11 +41,11 @@ def map_imdbApiSchema_to_indexSchema(movie):
         'personalNotes': None
     }
     if len(movie_mapped['releaseDate']) < 2:
-        movie_mapped['releaseDate'] = "1999-12-31"
+        movie_mapped['releaseDate'] = "2999-12-31"
     return movie_mapped
 
 
-def getImdbApiKeys():
+def getApiKeys():
     return ["id",
             "title",
             "originalTitle",

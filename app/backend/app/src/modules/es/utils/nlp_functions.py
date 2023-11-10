@@ -17,6 +17,8 @@ def check_if_string_is_releaseYear(string):
 def check_if_string_is_runtime(string):
         if int(string) < 350:
             return True
+        elif re.search(r'\d+min', string):
+            return True
 
 
 def check_if_string_is_genre(string):
@@ -27,5 +29,5 @@ def year_to_century(year: str):
     year = year.strip()
     if len(year) > 2: 
         year = int(year) + 100
-        year = str(year)[:-2] + 'th' 
+        year = f"{str(year)[:-2]}th" 
         return year

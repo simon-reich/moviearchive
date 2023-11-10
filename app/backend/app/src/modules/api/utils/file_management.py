@@ -2,15 +2,14 @@ import re
 import json
 import os
 
-def create_file_path(movie_data, path):
-    title = re.sub('[^a-zA-Z0-9 \n\.]', '', movie_data['title'])
-    year = str(movie_data['year'])
-    imdbId = movie_data['id']
-    filename = '_'.join([title, year, imdbId]) + '.json'
+def create_file_path(title, year, imdb_id, path):
+    title = re.sub('[^a-zA-Z0-9 \n\.]', '', title)
+    year = str(year)
+    filename = '_'.join([title, year, imdb_id]) + '.json'
     filepath = path + filename
     return filepath
 
-def save_movie_data(movie_data, filepath):    
+def save_movie_data(movie_data, filepath):
     try:
         with open(filepath, 'w') as movie_file:
             json.dump(movie_data, movie_file, indent=4)
