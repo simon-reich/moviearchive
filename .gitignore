@@ -4,3 +4,4 @@ app/backend/movie_data/*json
 __pycache__
 .vscode
 .env*
+pnpm-lock*
