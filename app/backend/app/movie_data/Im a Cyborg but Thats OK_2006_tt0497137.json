@@ -1,0 +1,848 @@
+{
+    "adult": false,
+    "backdrop_path": "/eLgZPEG4994T2gjB1YtgQJrp8b3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 5488,
+    "imdb_id": "tt0497137",
+    "original_language": "ko",
+    "original_title": "\uc2f8\uc774\ubcf4\uadf8\uc9c0\ub9cc \uad1c\ucc2e\uc544",
+    "overview": "Young-goon, mentally deranged and frequently electro-charging herself with a transistor radio, has been admitted into a mental institution. Firmly believing herself to be a cyborg, she refuses to consume like a human being. Il-soon is another patient, who catches the eye of Young-goon and soon becomes a close friend. Il-soon is now confronted with the biggest task: to cure Young-goon's mental problem and have her eat real food.",
+    "popularity": 14.94,
+    "poster_path": "/x48ecVD1HbfQh3KZeK6LwRgVrOl.jpg",
+    "production_companies": [
+        {
+            "id": 34725,
+            "logo_path": "/ps6SgHZg9656fZuAAtxOva7hivs.png",
+            "name": "Moho Film",
+            "origin_country": "KR"
+        },
+        {
+            "id": 7036,
+            "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+            "name": "CJ Entertainment",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2006-12-07",
+    "revenue": 4354510,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+        }
+    ],
+    "status": "Released",
+    "tagline": "She's crazy... He's crazy about her!",
+    "title": "I'm a Cyborg, but That's OK",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 462,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37940,
+                "known_for_department": "Acting",
+                "name": "Lim Soo-jung",
+                "original_name": "Lim Soo-jung",
+                "popularity": 12.851,
+                "profile_path": "/vX5teH7vHy7B18vNQCafeML2ZPf.jpg",
+                "cast_id": 29,
+                "character": "Cha Young-goon",
+                "credit_id": "52fe4408c3a36847f807e647",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112013,
+                "known_for_department": "Acting",
+                "name": "Rain",
+                "original_name": "Rain",
+                "popularity": 8.745,
+                "profile_path": "/aXOjIBUxu7fmBOxTJcgYmtTKD1D.jpg",
+                "cast_id": 30,
+                "character": "Park Il-soon",
+                "credit_id": "52fe4408c3a36847f807e64b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77188,
+                "known_for_department": "Acting",
+                "name": "Oh Dal-su",
+                "original_name": "Oh Dal-su",
+                "popularity": 4.015,
+                "profile_path": "/hd72oGjq0YKYdgZKMnqtV00MV28.jpg",
+                "cast_id": 34,
+                "character": "Shin Duk-cheon",
+                "credit_id": "52fe4408c3a36847f807e65b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3696482,
+                "known_for_department": "Acting",
+                "name": "Lee Yeong-mi",
+                "original_name": "Lee Yeong-mi",
+                "popularity": 1.314,
+                "profile_path": null,
+                "cast_id": 64,
+                "character": "Oh Seol-mi",
+                "credit_id": "631ef6bbe55937007f376c65",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3697681,
+                "known_for_department": "Acting",
+                "name": "Kim Chun-gi",
+                "original_name": "Kim Chun-gi",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 65,
+                "character": "Lee Dae-pyeong",
+                "credit_id": "631ef73f0d2f53007c6c0cb2",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 123810,
+                "known_for_department": "Acting",
+                "name": "Park Jun-myun",
+                "original_name": "Park Jun-myun",
+                "popularity": 1.992,
+                "profile_path": "/gz5080pQXOKm9TKJEWXRrR1JTui.jpg",
+                "cast_id": 46,
+                "character": "Wang Gop-dan",
+                "credit_id": "59ba88039251413b04011fef",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239930,
+                "known_for_department": "Acting",
+                "name": "Cheon Seong-hoon",
+                "original_name": "Cheon Seong-hoon",
+                "popularity": 0.6,
+                "profile_path": "/drrmcev7q2ncitJ5151mqKMbiD6.jpg",
+                "cast_id": 47,
+                "character": "Hwang Gyu-suk",
+                "credit_id": "5a7f6a800e0a262ab201387d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 567621,
+                "known_for_department": "Acting",
+                "name": "Choi Hee-jin",
+                "original_name": "Choi Hee-jin",
+                "popularity": 8.267,
+                "profile_path": "/nDOo1uoshFe16QOTbbMj3Eq2IzG.jpg",
+                "cast_id": 36,
+                "character": "Choi Seul-gi",
+                "credit_id": "53d60ba8c3a3686b97005772",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 557743,
+                "known_for_department": "Acting",
+                "name": "Lee Yong-nyeo",
+                "original_name": "Lee Yong-nyeo",
+                "popularity": 3.783,
+                "profile_path": "/vU2LIGOlVEUGfXfGWTdvEdz2rbT.jpg",
+                "cast_id": 33,
+                "character": "Young-goon's Mother",
+                "credit_id": "52fe4408c3a36847f807e657",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1099795,
+                "known_for_department": "Acting",
+                "name": "Son Young-soon",
+                "original_name": "Son Young-soon",
+                "popularity": 1.904,
+                "profile_path": "/yp03B9loF1IfHM0fmsxtomyn8pC.jpg",
+                "cast_id": 48,
+                "character": "Young-goon's Grandmother",
+                "credit_id": "5a7f8a0bc3a3681895014235",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 564844,
+                "known_for_department": "Acting",
+                "name": "Park Byung-eun",
+                "original_name": "Park Byung-eun",
+                "popularity": 13.317,
+                "profile_path": "/8lDiEHjbBxPD8VNu1kGifMXhPUn.jpg",
+                "cast_id": 39,
+                "character": "Kim Jun-beom",
+                "credit_id": "53d60be7c3a3686b8e0051ec",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77182,
+                "known_for_department": "Acting",
+                "name": "Kim Byeong-ok",
+                "original_name": "Kim Byeong-ok",
+                "popularity": 7.008,
+                "profile_path": "/oGVs2OmYTyXR0KT9xvzVWCAKx8t.jpg",
+                "cast_id": 51,
+                "character": "Judge",
+                "credit_id": "5ba396d3c3a368339c01cae1",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2522715,
+                "known_for_department": "Acting",
+                "name": "Lee Ji-hyeon",
+                "original_name": "Lee Ji-hyeon",
+                "popularity": 2.43,
+                "profile_path": "/ymQXMzM2STpBkftcFlKgUUbrlR.jpg",
+                "cast_id": 58,
+                "character": "Young-goon's Aunt",
+                "credit_id": "5e2f7dd9326c1900121c72c9",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10099,
+                "known_for_department": "Directing",
+                "name": "Park Chan-wook",
+                "original_name": "Park Chan-wook",
+                "popularity": 8.01,
+                "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg",
+                "credit_id": "52fe4408c3a36847f807e607",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10099,
+                "known_for_department": "Directing",
+                "name": "Park Chan-wook",
+                "original_name": "Park Chan-wook",
+                "popularity": 8.01,
+                "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg",
+                "credit_id": "52fe4408c3a36847f807e5fb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10099,
+                "known_for_department": "Directing",
+                "name": "Park Chan-wook",
+                "original_name": "Park Chan-wook",
+                "popularity": 8.01,
+                "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg",
+                "credit_id": "595e61cd9251410bfa08e83d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10107,
+                "known_for_department": "Camera",
+                "name": "Jeong Jeong-hun",
+                "original_name": "Jeong Jeong-hun",
+                "popularity": 1.973,
+                "profile_path": "/pGSiZCxZGyrUq6zO844vVVkPWEj.jpg",
+                "credit_id": "52fe4408c3a36847f807e637",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10108,
+                "known_for_department": "Editing",
+                "name": "Kim Sang-bum",
+                "original_name": "Kim Sang-bum",
+                "popularity": 2.723,
+                "profile_path": "/nojYhmyW89hLohQsRw1uIbeCBSa.jpg",
+                "credit_id": "52fe4408c3a36847f807e643",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10109,
+                "known_for_department": "Art",
+                "name": "Ryu Seong-hie",
+                "original_name": "Ryu Seong-hie",
+                "popularity": 2.671,
+                "profile_path": "/u7HVjLQiCuia9TwsGefkH2QyJRS.jpg",
+                "credit_id": "5c7b6562925141664d494ea3",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 16278,
+                "known_for_department": "Sound",
+                "name": "Jung Jin-wook",
+                "original_name": "Jung Jin-wook",
+                "popularity": 0.609,
+                "profile_path": null,
+                "credit_id": "6207d7a693388b001b29dcef",
+                "department": "Sound",
+                "job": "Production Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37928,
+                "known_for_department": "Writing",
+                "name": "Chung Seo-kyung",
+                "original_name": "Chung Seo-kyung",
+                "popularity": 5.75,
+                "profile_path": "/puBGFSws4gSME2OhBUgzbcooOjQ.jpg",
+                "credit_id": "58fbe394c3a36879db016743",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37930,
+                "known_for_department": "Sound",
+                "name": "Cho Young-wuk",
+                "original_name": "Cho Young-wuk",
+                "popularity": 2.376,
+                "profile_path": "/x2L4b4FjEPoPq2lLOeV9EaSHM4z.jpg",
+                "credit_id": "52fe4408c3a36847f807e63d",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38016,
+                "known_for_department": "Editing",
+                "name": "Kim Jae-beom",
+                "original_name": "Kim Jae-beom",
+                "popularity": 2.741,
+                "profile_path": null,
+                "credit_id": "57a95a02925141383f002446",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41288,
+                "known_for_department": "Production",
+                "name": "Miky Lee",
+                "original_name": "Miky Lee",
+                "popularity": 2.2,
+                "profile_path": "/1KaAIoRs6KuW7rdHzbA5RLE1jto.jpg",
+                "credit_id": "52fe4408c3a36847f807e613",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 43562,
+                "known_for_department": "Production",
+                "name": "Chun-yeong Lee",
+                "original_name": "Chun-yeong Lee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4408c3a36847f807e60d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43563,
+                "known_for_department": "Production",
+                "name": "Lee Tae-hun",
+                "original_name": "Lee Tae-hun",
+                "popularity": 1.364,
+                "profile_path": null,
+                "credit_id": "52fe4408c3a36847f807e619",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43565,
+                "known_for_department": "Sound",
+                "name": "Kim Suk-won",
+                "original_name": "Kim Suk-won",
+                "popularity": 1.84,
+                "profile_path": "/z3NVHBTmrqSZLUkEdIPsV34b4fD.jpg",
+                "credit_id": "52fe4408c3a36847f807e61f",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43570,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cho Sang-kyung",
+                "original_name": "Cho Sang-kyung",
+                "popularity": 1.327,
+                "profile_path": "/aTd5Tq5P6a41Q4kYRn9yxuj8xy8.jpg",
+                "credit_id": "52fe4408c3a36847f807e631",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 552068,
+                "known_for_department": "Visual Effects",
+                "name": "Lee Jeon-hyoung",
+                "original_name": "Lee Jeon-hyoung",
+                "popularity": 2.196,
+                "profile_path": "/kzOkohw8eoNfYRUVYjKl2waWaaY.jpg",
+                "credit_id": "63f23e0fa6725400a3a31839",
+                "department": "Visual Effects",
+                "job": "VFX Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554400,
+                "known_for_department": "Visual Effects",
+                "name": "Jung Do-ahn",
+                "original_name": "Jung Do-ahn",
+                "popularity": 1.813,
+                "profile_path": null,
+                "credit_id": "5db1cb805be00e001596880a",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1117874,
+                "known_for_department": "Production",
+                "name": "June Lee",
+                "original_name": "June Lee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "595e61a8925141222b06ec99",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1615320,
+                "known_for_department": "Crew",
+                "name": "Kim Won-jung",
+                "original_name": "Kim Won-jung",
+                "popularity": 1.009,
+                "profile_path": "/i3XqSgV4DGqDkBlZyZbrLkOhmY1.jpg",
+                "credit_id": "62d0c9b183ee670071959144",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2078584,
+                "known_for_department": "Sound",
+                "name": "Kim Chang-seop",
+                "original_name": "Kim Chang-seop",
+                "popularity": 2.375,
+                "profile_path": null,
+                "credit_id": "5c6f4c7a9251410dab7c0934",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2100271,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lee Hee-eun",
+                "original_name": "Lee Hee-eun",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "62d22014dd731b0054eb4922",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2167013,
+                "known_for_department": "Editing",
+                "name": "Lee Yong-gi",
+                "original_name": "Lee Yong-gi",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5e10932fc7a7e0001592eb1c",
+                "department": "Editing",
+                "job": "Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2198557,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kim Hyun-jung",
+                "original_name": "Kim Hyun-jung",
+                "popularity": 1.116,
+                "profile_path": null,
+                "credit_id": "5cd44b6b0e0a265dfb612d0b",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2499825,
+                "known_for_department": "Lighting",
+                "name": "Park Hyun-won",
+                "original_name": "Park Hyun-won",
+                "popularity": 0.608,
+                "profile_path": null,
+                "credit_id": "5fa3f385d11e0e0040907ec2",
+                "department": "Lighting",
+                "job": "Lighting Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2500007,
+                "known_for_department": "Visual Effects",
+                "name": "Jung Sung-jin",
+                "original_name": "Jung Sung-jin",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "601f429d7f4f21003cff1cba",
+                "department": "Visual Effects",
+                "job": "Visual Effects Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2501028,
+                "known_for_department": "Editing",
+                "name": "Han Jae-min",
+                "original_name": "Han Jae-min",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5e120b149020120018b60681",
+                "department": "Editing",
+                "job": "Colorist"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "I'm a Cyborg but that's OK (2006) ORIGINAL TRAILER [HD 1080p]",
+                "key": "E1Wn7GfJnnA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2018-08-09T20:14:27.000Z",
+                "id": "62e945f7fc5f06005e702824"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer (English Subtitled)",
+                "key": "mVIV9K5Gnew",
+                "published_at": "2011-10-28T16:44:53.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": true,
+                "id": "5b078a0d0e0a267b84001667"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1116,
+                "iso_639_1": null,
+                "file_path": "/eLgZPEG4994T2gjB1YtgQJrp8b3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1984
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/nMpR8pY8fMWIh8BQZjFqSowHRCH.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/2PkqP7uRzEKHb678gYNtfOLUy2X.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1012,
+                "iso_639_1": null,
+                "file_path": "/7MDNZvViSyOEK1qEW3SgrzUkC5o.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1799
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/qjFCcNs5sJfl6HEHwvUNtgXPnSv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/s4CIomyHBGGJfBKq9UeGrjPsZw6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/x48ecVD1HbfQh3KZeK6LwRgVrOl.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ko",
+                "file_path": "/vcNdtkQjZ91EtZyuacA27zxD29J.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/9uDGx2lzjROf3335CGKdCYs6WD5.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2160,
+                "iso_639_1": "fr",
+                "file_path": "/2OsBwX2PR0P39deHOZ2nPGHnecd.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 890,
+                "iso_639_1": "en",
+                "file_path": "/tRI9hWUTLkRFTtpLuGktmyCDZCw.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 625
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ko",
+                "file_path": "/x7O15z9hChNj3W1504Iv5kjUUWi.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1283,
+                "iso_639_1": "ko",
+                "file_path": "/cK8ZRdD1mCTCn6bOqPfZiY4Bsen.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.69,
+                "height": 2142,
+                "iso_639_1": "hu",
+                "file_path": "/l5bG04sTdTnxaX0axywsuw0aRb7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1478
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "es",
+                "file_path": "/3OaHISq7jefx6xYRAsVtnuizxo7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/e79m8lJ8hrLoQxr9ImWl8bnlhde.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.699,
+                "height": 1546,
+                "iso_639_1": null,
+                "file_path": "/7iZIhqSXKWoUDDUCzuDVomvZbHy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.699,
+                "height": 1648,
+                "iso_639_1": null,
+                "file_path": "/krhFF4JjjiNVkbLC6XKiz1Q6av8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1152
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1158,
+                "name": "grandparent grandchild relationship"
+            },
+            {
+                "id": 1375,
+                "name": "submachine gun"
+            },
+            {
+                "id": 2574,
+                "name": "lunatic asylum"
+            },
+            {
+                "id": 14781,
+                "name": "patient"
+            },
+            {
+                "id": 15106,
+                "name": "psychiatrist"
+            },
+            {
+                "id": 156851,
+                "name": "psychiatric ward"
+            }
+        ]
+    },
+    "title_english": "I'm a Cyborg, But That's OK",
+    "year": "2006",
+    "rated": "Not Rated",
+    "director_list": [
+        "Park Chan-wook"
+    ],
+    "writer_list": [
+        "Park Chan-wook",
+        " Chung Seo-kyung"
+    ],
+    "main_cast": [
+        "Lim Soo-jung",
+        " Rain",
+        " Park Byeong-eun"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        }
+    ],
+    "imdb_rating": "7.0",
+    "imdb_votes": "25,523",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I%27m_a_Cyborg,_But_That%27s_OK",
+    "wikipedia_summary": "I'm a Cyborg, But That's OK (Korean: \uc2f8\uc774\ubcf4\uadf8\uc9c0\ub9cc \uad1c\ucc2e\uc544; Ssaibogeujiman Gwaenchana) is a 2006 South Korean romantic comedy film directed by Park Chan-wook.",
+    "wikipedia_plot": "The film takes place mostly in a mental institution filled with an eclectic menagerie of patients. Young-goon, a young woman working in a factory constructing radios and who believes herself to be a cyborg, is institutionalized after cutting her wrist and connecting it with a power cord to a wall outlet in an attempt to \"recharge\" herself, an act that is interpreted as a suicide attempt. Her delusion is characterized by refusing to eat (she instead licks batteries and attempts to administer electric shocks to herself), conversing almost solely with machines and electrical appliances, and obsessively listening to her tube radio at night for instruction on how to become a better cyborg. Her apathetic mother is interviewed by the institute's head doctor, to determine the roots of Young-goon's psychosis; despite claiming ignorance of her daughter's delusion (it is later learnt she knew but was too busy to make her seek help), she reveals that Young-goon's mentally ill grandmother had previously been institutionalized for delusions of being a mouse, a trauma that sparks Young-goon's own lapses from reality. As a result, she frequently fantasizes of finding her grandmother and seeking revenge on the \"men in white\" who took her away.\nIl-soon, a young male patient hospitalized for anti-social behavior and kleptomania (stemming from schizophrenia) becomes fascinated with Young-goon; he is described as having \"no sympathy\" for his fellow man, believes he can \"steal\" other people's souls/attributes, and frequently wears handmade rabbit masks. He fears that he will eventually \"shrink into a dot\" and is seen compulsively brushing his teeth when nervous or upset. His habit of covertly taking the traits of his fellow inmates makes him the frequent target of scorn, but he only takes the traits willingly and returns them to their owners after he is done.\nWhen Young-goon persuades Il-soon to take away her \"sympathy\" in order for her to be able to kill the men in white, she has a hallucination of going on a rampage, killing the doctors and orderlies of the hospital. When she is given shock treatment owing to her refusal to eat, she believes that she has been recharged. In reality, her physical condition begins to deteriorate rapidly, and the doctors begin force-feeding her to keep her alive. Il-soon, now wracked with sympathy for Young-goon, hatches an elaborate plan to get her to eat, convincing her that he can install a food-to-electrical-energy conversion unit, calling it a rice-megatron, in her back. After eating her first meal at the hospital, and confiding her secrets to the head doctor, Young-goon ponders the meaning of a recurring dream in which her grandmother explains to her the purpose of her existence. Interpreting the lip-read message as that she is in fact a \"nuke bomb\" that requires a bolt of lightning to detonate, she goes out into a horrendous storm with Il-soon, intending to use her radio's antenna as a lightning rod.\nIn the middle of the storm, the wind blows their tent away, prompting them to hastily protect their food supplies. Il-soon, hearing Young-goon's complaints about the opened wine collecting rain, plugs it with his little finger. Unknown to Young-goon, it is shown Il-soon placed the missing cork atop the makeshift lightning rod, protecting her from lightning. Sitting together as the sun rises, the duo soon embrace under a rainbow.",
+    "wikipedia_plot_html": "<p>The film takes place mostly in a mental institution filled with an eclectic menagerie of patients. Young-goon, a young woman working in a factory constructing radios and who believes herself to be a cyborg, is institutionalized after cutting her wrist and connecting it with a power cord to a wall outlet in an attempt to \"recharge\" herself, an act that is interpreted as a suicide attempt. Her delusion is characterized by refusing to eat (she instead licks batteries and attempts to administer electric shocks to herself), conversing almost solely with machines and electrical appliances, and obsessively listening to her tube radio at night for instruction on how to become a better cyborg. Her apathetic mother is interviewed by the institute's head doctor, to determine the roots of Young-goon's psychosis; despite claiming ignorance of her daughter's delusion (it is later learnt she knew but was too busy to make her seek help), she reveals that Young-goon's mentally ill grandmother had previously been institutionalized for delusions of being a mouse, a trauma that sparks Young-goon's own lapses from reality. As a result, she frequently fantasizes of finding her grandmother and seeking revenge on the \"men in white\" who took her away.\n</p><p>Il-soon, a young male patient hospitalized for anti-social behavior and kleptomania (stemming from schizophrenia) becomes fascinated with Young-goon; he is described as having \"no sympathy\" for his fellow man, believes he can \"steal\" other people's souls/attributes, and frequently wears handmade rabbit masks. He fears that he will eventually \"shrink into a dot\" and is seen compulsively brushing his teeth when nervous or upset. His habit of covertly taking the traits of his fellow inmates makes him the frequent target of scorn, but he only takes the traits willingly and returns them to their owners after he is done.\n</p><p>When Young-goon persuades Il-soon to take away her \"sympathy\" in order for her to be able to kill the men in white, she has a hallucination of going on a rampage, killing the doctors and orderlies of the hospital. When she is given shock treatment owing to her refusal to eat, she believes that she has been recharged. In reality, her physical condition begins to deteriorate rapidly, and the doctors begin force-feeding her to keep her alive. Il-soon, now wracked with sympathy for Young-goon, hatches an elaborate plan to get her to eat, convincing her that he can install a food-to-electrical-energy conversion unit, calling it a rice-megatron, in her back. After eating her first meal at the hospital, and confiding her secrets to the head doctor, Young-goon ponders the meaning of a recurring dream in which her grandmother explains to her the purpose of her existence. Interpreting the lip-read message as that she is in fact a \"nuke bomb\" that requires a bolt of lightning to detonate, she goes out into a horrendous storm with Il-soon, intending to use her radio's antenna as a lightning rod.\n</p><p>In the middle of the storm, the wind blows their tent away, prompting them to hastily protect their food supplies. Il-soon, hearing Young-goon's complaints about the opened wine collecting rain, plugs it with his little finger. Unknown to Young-goon, it is shown Il-soon placed the missing cork atop the makeshift lightning rod, protecting her from lightning. Sitting together as the sun rises, the duo soon embrace under a rainbow.\n</p>",
+    "wikipedia_critics": "I'm a Cyborg, But That's OK received generally positive reviews. On Rotten Tomatoes it has an approval rating of 91% based on reviews from 11 critics.\nTarun Shanker, writer for Asian Cinema Drifter, gave the film a B+. He characterized the movie as \"part One Flew Over the Cuckoo\u2019s Nest, part Amelie\" and praised it for \"pure cinematic exuberance, quirky humor, [and] exceedingly likeable characters\". Tarun hypothesized that Cyborg's relatively poor box office performance was due to its genre-busting: \"The film has a slower pace than the director\u2019s previous works and it strikes a strange hybrid tone where it is far too cute to be like his dark revenge flicks, but it\u2019s a bit too dark and odd to be a cute romantic date film. Some viewers may simply find that too jarring a blend.\" In fact, Chris Tilly of IGN condemned it for this exact reason: \"Scenes veer violently from comedy to violence to tragedy, amusing and dumfounding in equally [sic] measure.... The result is a confusing mess of a movie that lacks the marvellously sharp structure and cohesion of his previous efforts.\"",
+    "wikipedia_full_html": "<p><i><b>I'm a Cyborg, But That's OK</b></i> (Korean: <span lang=\"ko\">\uc2f8\uc774\ubcf4\uadf8\uc9c0\ub9cc \uad1c\ucc2e\uc544</span>; <i>Ssaibogeujiman Gwaenchana</i>) is a 2006 South Korean romantic comedy film directed by Park Chan-wook.\n</p>\n\n<h2>Plot</h2>\n<p>The film takes place mostly in a mental institution filled with an eclectic menagerie of patients. Young-goon, a young woman working in a factory constructing radios and who believes herself to be a cyborg, is institutionalized after cutting her wrist and connecting it with a power cord to a wall outlet in an attempt to \"recharge\" herself, an act that is interpreted as a suicide attempt. Her delusion is characterized by refusing to eat (she instead licks batteries and attempts to administer electric shocks to herself), conversing almost solely with machines and electrical appliances, and obsessively listening to her tube radio at night for instruction on how to become a better cyborg. Her apathetic mother is interviewed by the institute's head doctor, to determine the roots of Young-goon's psychosis; despite claiming ignorance of her daughter's delusion (it is later learnt she knew but was too busy to make her seek help), she reveals that Young-goon's mentally ill grandmother had previously been institutionalized for delusions of being a mouse, a trauma that sparks Young-goon's own lapses from reality. As a result, she frequently fantasizes of finding her grandmother and seeking revenge on the \"men in white\" who took her away.\n</p><p>Il-soon, a young male patient hospitalized for anti-social behavior and kleptomania (stemming from schizophrenia) becomes fascinated with Young-goon; he is described as having \"no sympathy\" for his fellow man, believes he can \"steal\" other people's souls/attributes, and frequently wears handmade rabbit masks. He fears that he will eventually \"shrink into a dot\" and is seen compulsively brushing his teeth when nervous or upset. His habit of covertly taking the traits of his fellow inmates makes him the frequent target of scorn, but he only takes the traits willingly and returns them to their owners after he is done.\n</p><p>When Young-goon persuades Il-soon to take away her \"sympathy\" in order for her to be able to kill the men in white, she has a hallucination of going on a rampage, killing the doctors and orderlies of the hospital. When she is given shock treatment owing to her refusal to eat, she believes that she has been recharged. In reality, her physical condition begins to deteriorate rapidly, and the doctors begin force-feeding her to keep her alive. Il-soon, now wracked with sympathy for Young-goon, hatches an elaborate plan to get her to eat, convincing her that he can install a food-to-electrical-energy conversion unit, calling it a rice-megatron, in her back. After eating her first meal at the hospital, and confiding her secrets to the head doctor, Young-goon ponders the meaning of a recurring dream in which her grandmother explains to her the purpose of her existence. Interpreting the lip-read message as that she is in fact a \"nuke bomb\" that requires a bolt of lightning to detonate, she goes out into a horrendous storm with Il-soon, intending to use her radio's antenna as a lightning rod.\n</p><p>In the middle of the storm, the wind blows their tent away, prompting them to hastily protect their food supplies. Il-soon, hearing Young-goon's complaints about the opened wine collecting rain, plugs it with his little finger. Unknown to Young-goon, it is shown Il-soon placed the missing cork atop the makeshift lightning rod, protecting her from lightning. Sitting together as the sun rises, the duo soon embrace under a rainbow.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Rain as Park Il-soon</li>\n<li>Im Soo-jung as Cha Young-goon</li>\n<li>Choi Hee-jin as Dr. Choi Seul-gi</li>\n<li>Lee Yong-nyeo as Young-goon's mother</li>\n<li>Yoo Ho-jeong as Il-soon's mother</li>\n<li>Lee Ji-hyun as Young-goon's aunt</li>\n<li>Kim Do-yeon as Nurse</li>\n<li>Kim Byeong-ok as Judge</li></ul>\n\n<h2>Development</h2>\n<p><i>I'm a Cyborg, But That's OK</i> is the first Korean film to use the Viper FilmStream Camera.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p><i>I'm a Cyborg, But That's OK</i> received generally positive reviews. On Rotten Tomatoes it has an approval rating of 91% based on reviews from 11 critics.\nTarun Shanker, writer for Asian Cinema Drifter, gave the film a B+. He characterized the movie as \"part <i>One Flew Over the Cuckoo\u2019s Nest</i>, part <i>Amelie</i>\" and praised it for \"pure cinematic exuberance, quirky humor, [and] exceedingly likeable characters\". Tarun hypothesized that <i>Cyborg'</i>s relatively poor box office performance was due to its genre-busting: \"The film has a slower pace than the director\u2019s previous works and it strikes a strange hybrid tone where it is far too cute to be like his dark revenge flicks, but it\u2019s a bit too dark and odd to be a cute romantic date film. Some viewers may simply find that too jarring a blend.\" In fact, Chris Tilly of IGN condemned it for this exact reason: \"Scenes veer violently from comedy to violence to tragedy, amusing and dumfounding in equally [<i>sic</i>] measure.... The result is a confusing mess of a movie that lacks the marvellously sharp structure and cohesion of his previous efforts.\"</p>\n\n<h3>Box office</h3>\n<p><i>I'm a Cyborg, But That's OK</i> opened in South Korea on December 7, 2006, and was the number one film at the box office in its opening weekend, grossing $2,478,626. However, in its second weekend, it plummeted by 76%, and was pulled from most screens prior to the Christmas holiday period. Sales of approximately 780,000 tickets were considered a disappointment in contrast to Park's earlier films, <i>Joint Security Area</i>, <i>Oldboy</i>, and <i>Sympathy for Lady Vengeance</i>, which had all sold in excess of 3 million.</p>\n\n<h3>Accolades</h3>\n<p><i>I'm a Cyborg, But That's OK</i> won the Alfred Bauer Award at the 57th Berlin International Film Festival, and was selected as the opening film for the Hong Kong International Film Festival. Also, Rain was nominated for and won Best New Actor at the 43rd Baeksang Awards.</p>\n<ul><li>Alfred Bauer Prize, Berlin International Film Festival (2007)</li>\n<li>Opening Film, Hong Kong International Film Festival (2007)</li>\n<li>Film Presented, New York Asian Film Festival (2007)</li>\n<li>Official Selection (Special Screenings), SXSW (2007)</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li>Official website at the Wayback Machine (archived 25 February 2007) <span>(in Korean and English)</span></li>\n<li><i>I'm a Cyborg, But That's OK</i> at IMDb</li>\n<li><i>I'm a Cyborg, But That's OK</i> at AllMovie</li>\n<li><i>I'm a Cyborg, But That's OK</i> at Rotten Tomatoes</li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite class=\"citation web cs1\">\"Directors' Showcase / UK Premiere: I'm a Cyborg, but That's OK (Saibogujiman Kwenchana)\". Edinburgh International Film Festival. Archived from the original on 2007-10-27<span>. Retrieved <span>2007-10-23</span></span>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Directors%27+Showcase+%2F+UK+Premiere%3A+I%27m+a+Cyborg%2C+but+That%27s+OK+%28Saibogujiman+Kwenchana%29&amp;rft.pub=Edinburgh+International+Film+Festival&amp;rft_id=http%3A%2F%2Fwww.edfilmfest.org.uk%2Ffilms%2Fim-a-cyborg-but-thats-ok%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI%27m+a+Cyborg%2C+But+That%27s+OK\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite class=\"citation web cs1\">\"I'm a Cyborg, but that's Ok (Ssa-i-bo-gu-ji-man Gwen-cha-na)\". Korean Film Council<span>. Retrieved <span>2007-10-23</span></span>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I%27m+a+Cyborg%2C+but+that%27s+Ok+%28Ssa-i-bo-gu-ji-man+Gwen-cha-na%29&amp;rft.pub=Korean+Film+Council&amp;rft_id=http%3A%2F%2Fwww.koreanfilm.or.kr%2FKOFIC%2FChannel%3Ftask%3Dkofic.user.eng.a_filmdb.command.FilmDB1Retrieve2Cmd%26MainGBN%3D1%26MVIE_CD%3DT060301N%26pageSize%3D5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI%27m+a+Cyborg%2C+But+That%27s+OK\"></span></li></ul>"
+}

@@ -1,0 +1,610 @@
+{
+    "adult": false,
+    "backdrop_path": "/4zN1G8Fiqkuuk0QU1bXbVC5PMbK.jpg",
+    "belongs_to_collection": null,
+    "budget": 1342062,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 377274,
+    "imdb_id": "tt4929038",
+    "original_language": "pt",
+    "original_title": "O Ornit\u00f3logo",
+    "overview": "Stranded along a sublime river fjord in northern Portugal, an ornithologist is subjected to a series of brutal and erotic Stations-of-the-Cross-style tests.",
+    "popularity": 8.336,
+    "poster_path": "/xS7akhtD1fwDzLseiTkDKOEwXHr.jpg",
+    "production_companies": [
+        {
+            "id": 19196,
+            "logo_path": null,
+            "name": "Blackmaria",
+            "origin_country": ""
+        },
+        {
+            "id": 74860,
+            "logo_path": "/pTTMbWTvq1cLOPSk2tkFuaD88hq.png",
+            "name": "House on Fire",
+            "origin_country": "FR"
+        },
+        {
+            "id": 111570,
+            "logo_path": null,
+            "name": "Itaca Films",
+            "origin_country": "BR"
+        },
+        {
+            "id": 11687,
+            "logo_path": "/gW6YiDdhkySff27C0m4JXu30879.png",
+            "name": "Le Fresnoy",
+            "origin_country": "FR"
+        },
+        {
+            "id": 16701,
+            "logo_path": null,
+            "name": "ICA",
+            "origin_country": "PT"
+        },
+        {
+            "id": 81547,
+            "logo_path": null,
+            "name": "Minist\u00e9rio da Cultura",
+            "origin_country": "PT"
+        },
+        {
+            "id": 8492,
+            "logo_path": "/wYhNCpXIThYDXevad6n90vsMXZ2.png",
+            "name": "RTP",
+            "origin_country": "PT"
+        },
+        {
+            "id": 310,
+            "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+            "name": "CNC",
+            "origin_country": "FR"
+        },
+        {
+            "id": 2588,
+            "logo_path": null,
+            "name": "Minist\u00e8re des Affaires \u00c9trang\u00e8res",
+            "origin_country": ""
+        },
+        {
+            "id": 72595,
+            "logo_path": null,
+            "name": "Institut Fran\u00e7ais",
+            "origin_country": ""
+        },
+        {
+            "id": 11547,
+            "logo_path": "/kyOeH5CwsaILcJItafIMAM4KElB.png",
+            "name": "Ag\u00eancia Nacional do Cinema - ANCINE",
+            "origin_country": "BR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "PT",
+            "name": "Portugal"
+        }
+    ],
+    "release_date": "2016-09-16",
+    "revenue": 0,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "\u666e\u901a\u8bdd"
+        },
+        {
+            "english_name": "Galician",
+            "iso_639_1": "gl",
+            "name": "Galego"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Portugu\u00eas"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Things happen, you just have to believe.",
+    "title": "The Ornithologist",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 90,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1171437,
+                "known_for_department": "Acting",
+                "name": "Paul Hamy",
+                "original_name": "Paul Hamy",
+                "popularity": 2.999,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Fernando",
+                "credit_id": "57982f3a92514141d1001267",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1657231,
+                "known_for_department": "Acting",
+                "name": "Xelo Cagiao",
+                "original_name": "Xelo Cagiao",
+                "popularity": 1.081,
+                "profile_path": "/8bloQUF52i43LE0SiXikTC5t1F2.jpg",
+                "cast_id": 5,
+                "character": "Jes\u00fas / Tom\u00e9",
+                "credit_id": "57982f53c3a36805f3001336",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 3,
+                "id": 1447616,
+                "known_for_department": "Acting",
+                "name": "Jules Elting",
+                "original_name": "Jules Elting",
+                "popularity": 1.4,
+                "profile_path": "/obYJRwASmchRCnPi9bxaGfYCo6O.jpg",
+                "cast_id": 7,
+                "character": "Huntress",
+                "credit_id": "57982fa392514141a3001303",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2715175,
+                "known_for_department": "Acting",
+                "name": "Flora Bulc\u00e3o",
+                "original_name": "Flora Bulc\u00e3o",
+                "popularity": 0.6,
+                "profile_path": "/ojBTKx7NINuaktkb9QaC1Pvwd1W.jpg",
+                "cast_id": 18,
+                "character": "Huntress",
+                "credit_id": "5f11b97f8566d20037fbd065",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2715176,
+                "known_for_department": "Acting",
+                "name": "Isabelle Puntel",
+                "original_name": "Isabelle Puntel",
+                "popularity": 0.6,
+                "profile_path": "/3gqRvAV8oT0SUuNFIeLdEPhAnrF.jpg",
+                "cast_id": 19,
+                "character": "Huntress",
+                "credit_id": "5f11b9a9e61e6d0034efdf29",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1681665,
+                "known_for_department": "Acting",
+                "name": "Chan Suan",
+                "original_name": "Chan Suan",
+                "popularity": 0.6,
+                "profile_path": "/lnSE38Y8pFAxwOnLd7eXond09so.jpg",
+                "cast_id": 14,
+                "character": "Ling",
+                "credit_id": "57df378a925141785500e9c0",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1681666,
+                "known_for_department": "Acting",
+                "name": "Han Wen",
+                "original_name": "Han Wen",
+                "popularity": 0.6,
+                "profile_path": "/qTkEO8u5qgi66jQlZ2zmdM2SB6B.jpg",
+                "cast_id": 15,
+                "character": "Fei",
+                "credit_id": "57df379a9251413da300a65e",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73752,
+                "known_for_department": "Directing",
+                "name": "Jo\u00e3o Pedro Rodrigues",
+                "original_name": "Jo\u00e3o Pedro Rodrigues",
+                "popularity": 1.895,
+                "profile_path": "/brhgU34tTfmojGWtpZnOe8wm9mv.jpg",
+                "cast_id": 6,
+                "character": "S\u00e3o Ant\u00f3nio",
+                "credit_id": "57982f67c3a368056d00133d",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71401,
+                "known_for_department": "Production",
+                "name": "Vincent Wang",
+                "original_name": "Vincent Wang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f9986169a9f9a00357de482",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73752,
+                "known_for_department": "Directing",
+                "name": "Jo\u00e3o Pedro Rodrigues",
+                "original_name": "Jo\u00e3o Pedro Rodrigues",
+                "popularity": 1.895,
+                "profile_path": "/brhgU34tTfmojGWtpZnOe8wm9mv.jpg",
+                "credit_id": "57982f23c3a368056d00130a",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73752,
+                "known_for_department": "Directing",
+                "name": "Jo\u00e3o Pedro Rodrigues",
+                "original_name": "Jo\u00e3o Pedro Rodrigues",
+                "popularity": 1.895,
+                "profile_path": "/brhgU34tTfmojGWtpZnOe8wm9mv.jpg",
+                "credit_id": "569571819251413ae00008c4",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1086400,
+                "known_for_department": "Directing",
+                "name": "Jo\u00e3o Rui Guerra da Mata",
+                "original_name": "Jo\u00e3o Rui Guerra da Mata",
+                "popularity": 0.604,
+                "profile_path": "/gl7G0TjWV337BIWvnAdXZ735pbK.jpg",
+                "credit_id": "57982f0fc3a36804700011a8",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1086400,
+                "known_for_department": "Directing",
+                "name": "Jo\u00e3o Rui Guerra da Mata",
+                "original_name": "Jo\u00e3o Rui Guerra da Mata",
+                "popularity": 0.604,
+                "profile_path": "/gl7G0TjWV337BIWvnAdXZ735pbK.jpg",
+                "credit_id": "57df370ac3a36808ec00b14b",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1124066,
+                "known_for_department": "Production",
+                "name": "Jo\u00e3o Figueiras",
+                "original_name": "Jo\u00e3o Figueiras",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "57df2b3d925141785500e3b7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1166276,
+                "known_for_department": "Camera",
+                "name": "Rui Po\u00e7as",
+                "original_name": "Rui Po\u00e7as",
+                "popularity": 0.6,
+                "profile_path": "/sO7pD6ZxSkqcPth7l5PfYo0wGVt.jpg",
+                "credit_id": "57df2b67c3a3681d4b002269",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1166277,
+                "known_for_department": "Sound",
+                "name": "Nuno Carvalho",
+                "original_name": "Nuno Carvalho",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "598b1396c3a36824e2021415",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1176754,
+                "known_for_department": "Editing",
+                "name": "Rapha\u00ebl Lef\u00e8vre",
+                "original_name": "Rapha\u00ebl Lef\u00e8vre",
+                "popularity": 1.631,
+                "profile_path": null,
+                "credit_id": "57df3704c3a3681d4b002859",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1364039,
+                "known_for_department": "Directing",
+                "name": "Antoine Barraud",
+                "original_name": "Antoine Barraud",
+                "popularity": 2.086,
+                "profile_path": "/9F9OhMf3KzMNwjegYCwOy4a699T.jpg",
+                "credit_id": "5f9985fcfb529900393403fb",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1681616,
+                "known_for_department": "Production",
+                "name": "Gustavo Angel Olaya",
+                "original_name": "Gustavo Angel Olaya",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "57df2b4ac3a36809560095af",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1681616,
+                "known_for_department": "Production",
+                "name": "Gustavo Angel Olaya",
+                "original_name": "Gustavo Angel Olaya",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5f998609fb5299003833682c",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1681617,
+                "known_for_department": "Directing",
+                "name": "Diogo Varela Silva",
+                "original_name": "Diogo Varela Silva",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "57df2b519251413da3009f98",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1991076,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rita de Castro",
+                "original_name": "Rita de Castro",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5a9d61550e0a2605d5047ebe",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "The Ornithologist - Official Trailer HD - Edited for Content",
+                "key": "3xvyW5zXx1c",
+                "published_at": "2017-04-07T17:16:40.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "id": "591ad08d925141585206a610"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/4zN1G8Fiqkuuk0QU1bXbVC5PMbK.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/xjjnVHv0HqP1EIyF0wve1fm85HC.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/xS7akhtD1fwDzLseiTkDKOEwXHr.jpg",
+                "vote_average": 6.104,
+                "vote_count": 14,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pt",
+                "file_path": "/pWJOb9kQimujOt7wNr5mbQMpQ1j.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2250,
+                "iso_639_1": "pt",
+                "file_path": "/ehS7B0DOTTlAVbJPae54TJybLk1.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 842,
+                "iso_639_1": "de",
+                "file_path": "/9f1WVyxzbOnihq5ATCW2Dhf9lpK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 590
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1620,
+                "iso_639_1": "ja",
+                "file_path": "/kJpHUUJlgwGLgVdFW4cpdSOLiDB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.703,
+                "height": 1280,
+                "iso_639_1": "es",
+                "file_path": "/jYoJtEoKbv2dqjnLKPLYS7qLAwk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 900
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5774,
+                "name": "forest"
+            },
+            {
+                "id": 10180,
+                "name": "male homosexuality"
+            },
+            {
+                "id": 156180,
+                "name": "initiation"
+            },
+            {
+                "id": 157096,
+                "name": "homoeroticism"
+            },
+            {
+                "id": 214809,
+                "name": "ornithologist"
+            },
+            {
+                "id": 258533,
+                "name": "gay theme"
+            }
+        ]
+    },
+    "title_english": "The Ornithologist",
+    "year": "2016",
+    "rated": "Unrated",
+    "director_list": [
+        "Jo\u00e3o Pedro Rodrigues"
+    ],
+    "writer_list": [
+        "Jo\u00e3o Pedro Rodrigues"
+    ],
+    "main_cast": [
+        "Paul Hamy",
+        " Jo\u00e3o Pedro Rodrigues",
+        " Xelo Cagiao"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "85/100"
+        }
+    ],
+    "imdb_rating": "6.3",
+    "imdb_votes": "3,680",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ruling_Passion",
+    "wikipedia_summary": "The Ruling Passion, sometimes called The Ornithologist, is a painting by John Everett Millais which was shown at the Royal Academy Exhibition in 1885.\nThe painting depicts an older man lying on a chaise-longue. He is showing a stuffed bird, a king bird of paradise, to a group of children and a woman. The older girl on the left of the picture is holding a resplendent quetzal, and other specimens are scattered about. The attitude of the children ranges from the enthralled interest of the youngest two to the comparative indifference, almost boredom, of the oldest girl.The work was inspired by a visit that Millais and his son John Guille Millais paid to the ornithologist John Gould shortly before his death in 1881. On the way home, Millais said to his son \"That's a fine subject; a very fine subject. I shall paint it when I have time.\" It was several years after Gould's death before he had time, and the picture as painted is not a representation of Gould or of the scene during Millais' visit \u2013 the central figure was modelled by the engraver Thomas Oldham Barlow, a friend of the artist, two of the others are professional models, and the two smallest children are Millais' grandchildren (one of whom is William Milbourne James).\nThe painting was well received: the influential critic Ruskin said that it was one of \"only three things worth looking at\" in the R.A. exhibition.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>The Ruling Passion</b></i>, sometimes called <i><b>The Ornithologist</b></i>, is a painting by John Everett Millais which was shown at the Royal Academy Exhibition in 1885.\n</p><p>The painting depicts an older man lying on a chaise-longue. He is showing a stuffed bird, a king bird of paradise, to a group of children and a woman. The older girl on the left of the picture is holding a resplendent quetzal, and other specimens are scattered about. The attitude of the children ranges from the enthralled interest of the youngest two to the comparative indifference, almost boredom, of the oldest girl.</p><p>The work was inspired by a visit that Millais and his son John Guille Millais paid to the ornithologist John Gould shortly before his death in 1881. On the way home, Millais said to his son \"That's a fine subject; a very fine subject. I shall paint it when I have time.\" It was several years after Gould's death before he had time, and the picture as painted is not a representation of Gould or of the scene during Millais' visit\u00a0\u2013 the central figure was modelled by the engraver Thomas Oldham Barlow, a friend of the artist, two of the others are professional models, and the two smallest children are Millais' grandchildren (one of whom is William Milbourne James).\n</p><p>The painting was well received: the influential critic Ruskin said that it was one of \"only three things worth looking at\" in the R.A. exhibition.\n</p>\n\n<h2>See also</h2>\n<ul><li>List of paintings by John Everett Millais</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li>victorianweb.org: Knowledge and Family in Millais's <i>The Ruling Passion</i></li></ul>"
+}

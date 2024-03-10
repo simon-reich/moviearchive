@@ -1,0 +1,837 @@
+{
+    "adult": false,
+    "backdrop_path": "/cnFn8iShHVnu0K4gGGKuII3JPJa.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10394,
+    "imdb_id": "tt0210065",
+    "original_language": "en",
+    "original_title": "Gangster No. 1",
+    "overview": "An old gangster is advised that Freddie Mays would leave jail after thirty years in prison. His mood changes and he recalls when he was a young punk and who joined Freddie's gang\u2014a man he both envied and ultimately betrayed.",
+    "popularity": 11.462,
+    "poster_path": "/gIQUVBPM9ehCelrjQEdKX29AaCT.jpg",
+    "production_companies": [
+        {
+            "id": 269,
+            "logo_path": null,
+            "name": "Filmboard Berlin-Brandenburg (FBB)",
+            "origin_country": "DE"
+        },
+        {
+            "id": 4117,
+            "logo_path": null,
+            "name": "Pagoda Film",
+            "origin_country": ""
+        },
+        {
+            "id": 18737,
+            "logo_path": null,
+            "name": "NFH Films",
+            "origin_country": ""
+        },
+        {
+            "id": 6705,
+            "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+            "name": "Film4 Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 12745,
+            "logo_path": null,
+            "name": "British Screen Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7102,
+            "logo_path": "/dNuhKIiAChEJdGA7TXQgwqbFU6y.png",
+            "name": "British Sky Broadcasting",
+            "origin_country": "GB"
+        },
+        {
+            "id": 550,
+            "logo_path": null,
+            "name": "Little Bird",
+            "origin_country": "IE"
+        },
+        {
+            "id": 45,
+            "logo_path": "/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png",
+            "name": "Road Movies",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2000-06-09",
+    "revenue": 30915,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There can only be ONE!",
+    "title": "Gangster No. 1",
+    "video": false,
+    "vote_average": 6.445,
+    "vote_count": 192,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6162,
+                "known_for_department": "Acting",
+                "name": "Paul Bettany",
+                "original_name": "Paul Bettany",
+                "popularity": 24.683,
+                "profile_path": "/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg",
+                "cast_id": 7,
+                "character": "Younger Gangster",
+                "credit_id": "52fe43669251416c7500ecff",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56890,
+                "known_for_department": "Acting",
+                "name": "Malcolm McDowell",
+                "original_name": "Malcolm McDowell",
+                "popularity": 31.449,
+                "profile_path": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg",
+                "cast_id": 8,
+                "character": "Gangster 55",
+                "credit_id": "52fe43669251416c7500ed03",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11207,
+                "known_for_department": "Acting",
+                "name": "David Thewlis",
+                "original_name": "David Thewlis",
+                "popularity": 57.521,
+                "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg",
+                "cast_id": 5,
+                "character": "Freddie Mays",
+                "credit_id": "52fe43669251416c7500ecf7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3543,
+                "known_for_department": "Acting",
+                "name": "Jamie Foreman",
+                "original_name": "Jamie Foreman",
+                "popularity": 10.285,
+                "profile_path": "/t1sRr6SPX3BBPxa2QX4QuNHvdIL.jpg",
+                "cast_id": 6,
+                "character": "Lenny Taylor",
+                "credit_id": "52fe43669251416c7500ecfb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9825,
+                "known_for_department": "Acting",
+                "name": "Saffron Burrows",
+                "original_name": "Saffron Burrows",
+                "popularity": 14.577,
+                "profile_path": "/2qMLZh9XWquBt7TZF9wmDiOtJdm.jpg",
+                "cast_id": 9,
+                "character": "Karen",
+                "credit_id": "52fe43669251416c7500ed07",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26258,
+                "known_for_department": "Acting",
+                "name": "Kenneth Cranham",
+                "original_name": "Kenneth Cranham",
+                "popularity": 10.287,
+                "profile_path": "/9lzTbNgaoArlxpEkYtWQfOyiYwu.jpg",
+                "cast_id": 10,
+                "character": "Tommy",
+                "credit_id": "52fe43669251416c7500ed0b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1665,
+                "known_for_department": "Acting",
+                "name": "Eddie Marsan",
+                "original_name": "Eddie Marsan",
+                "popularity": 25.336,
+                "profile_path": "/9atfOgIxhfOKvv2be8HEp6SzOct.jpg",
+                "cast_id": 11,
+                "character": "Eddie Miller",
+                "credit_id": "52fe43669251416c7500ed0f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7062,
+                "known_for_department": "Acting",
+                "name": "Andrew Lincoln",
+                "original_name": "Andrew Lincoln",
+                "popularity": 23.961,
+                "profile_path": "/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg",
+                "cast_id": 12,
+                "character": "Maxie King",
+                "credit_id": "52fe43669251416c7500ed13",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1222346,
+                "known_for_department": "Acting",
+                "name": "Doug Allen",
+                "original_name": "Doug Allen",
+                "popularity": 5.241,
+                "profile_path": "/mKLELKkJVgZY13aMNMioZ1OJiKx.jpg",
+                "cast_id": 37,
+                "character": "Mad John",
+                "credit_id": "5a01fc1c9251412d17000389",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12801,
+                "known_for_department": "Acting",
+                "name": "Razaaq Adoti",
+                "original_name": "Razaaq Adoti",
+                "popularity": 4.175,
+                "profile_path": "/bgN6Q0sMzAVLXvsU0CWFN8R42dG.jpg",
+                "cast_id": 14,
+                "character": "Roland",
+                "credit_id": "52fe43669251416c7500ed1b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32300,
+                "known_for_department": "Acting",
+                "name": "Johnny Harris",
+                "original_name": "Johnny Harris",
+                "popularity": 6.959,
+                "profile_path": "/bcoVPfOSXwFbq9yfPac7BO0Y0AF.jpg",
+                "cast_id": 16,
+                "character": "Derek",
+                "credit_id": "52fe43669251416c7500ed23",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 190699,
+                "known_for_department": "Acting",
+                "name": "Cavan Clerkin",
+                "original_name": "Cavan Clerkin",
+                "popularity": 8.038,
+                "profile_path": "/vkRa7SNCmdkQw8KoGWYKQQ1g4XK.jpg",
+                "cast_id": 36,
+                "character": "Billy",
+                "credit_id": "58d6c84e9251411f810456aa",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 208460,
+                "known_for_department": "Acting",
+                "name": "Anton Saunders",
+                "original_name": "Anton Saunders",
+                "popularity": 3.802,
+                "profile_path": "/cqssL17VcwrPN4my2wDc1pIEqVl.jpg",
+                "cast_id": 32,
+                "character": "Trevor",
+                "credit_id": "58818855c3a36814700070d3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34549,
+                "known_for_department": "Acting",
+                "name": "Jack Pierce",
+                "original_name": "Jack Pierce",
+                "popularity": 2.744,
+                "profile_path": "/2qhOZ5tfUDfm0KGImz3mPMf2nd3.jpg",
+                "cast_id": 33,
+                "character": "Jack the Lad",
+                "credit_id": "588188729251413028006cba",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 85073,
+                "known_for_department": "Acting",
+                "name": "Lorraine Stanley",
+                "original_name": "Lorraine Stanley",
+                "popularity": 3.137,
+                "profile_path": "/j7k3jTWIrRUvTfObm7iSCab1vNo.jpg",
+                "cast_id": 34,
+                "character": "Attacker's Friend",
+                "credit_id": "58818889c3a36814670066b3",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62498,
+                "known_for_department": "Acting",
+                "name": "David Kennedy",
+                "original_name": "David Kennedy",
+                "popularity": 3.155,
+                "profile_path": "/mR8ZDzEJ7ElWvYv5qMfK171GtNb.jpg",
+                "cast_id": 35,
+                "character": "Fat Charlie",
+                "credit_id": "588188a0c3a3681443006a6b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 127527,
+                "known_for_department": "Acting",
+                "name": "Emma Griffiths Malin",
+                "original_name": "Emma Griffiths Malin",
+                "popularity": 10.857,
+                "profile_path": "/4kQM09dsYnpPhU0FjC3axQdNU9g.jpg",
+                "cast_id": 38,
+                "character": "Julie",
+                "credit_id": "6068a858d3d38700709e4775",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1207207,
+                "known_for_department": "Acting",
+                "name": "Jo\u00e3o Costa Menezes",
+                "original_name": "Jo\u00e3o Costa Menezes",
+                "popularity": 2.72,
+                "profile_path": "/c6c38XQz3SjX5sF5jWHnm7dWh4E.jpg",
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "6068a87b1e9225002b6046c2",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 474,
+                "known_for_department": "Production",
+                "name": "Jina Jay",
+                "original_name": "Jina Jay",
+                "popularity": 4.502,
+                "profile_path": null,
+                "credit_id": "554cd1259251413faa0020c7",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2291,
+                "known_for_department": "Directing",
+                "name": "Paul McGuigan",
+                "original_name": "Paul McGuigan",
+                "popularity": 6.329,
+                "profile_path": "/8mvSSW9LWnORFvClg4sdHfM1zZJ.jpg",
+                "credit_id": "52fe43669251416c7500ece1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5438,
+                "known_for_department": "Art",
+                "name": "Richard Bridgland",
+                "original_name": "Richard Bridgland",
+                "popularity": 2.03,
+                "profile_path": null,
+                "credit_id": "554cd13f925141400b001f3c",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7783,
+                "known_for_department": "Camera",
+                "name": "Adrian Biddle",
+                "original_name": "Adrian Biddle",
+                "popularity": 5.532,
+                "profile_path": "/9GpjIB232uNdLA6bUrrlKvau25E.jpg",
+                "credit_id": "52fe43669251416c7500eced",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9157,
+                "known_for_department": "Production",
+                "name": "Jonathan Cavendish",
+                "original_name": "Jonathan Cavendish",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "554cd0f3925141400b001f2d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11227,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jany Temime",
+                "original_name": "Jany Temime",
+                "popularity": 4.43,
+                "profile_path": "/1G8TxAQnndnY5CLqVApBQ8RUT4A.jpg",
+                "credit_id": "554cd1e8c3a3685e4c0054c9",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11274,
+                "known_for_department": "Art",
+                "name": "Sebastian T. Krawinkel",
+                "original_name": "Sebastian T. Krawinkel",
+                "popularity": 2.286,
+                "profile_path": null,
+                "credit_id": "554cd19c9251413faa0020d8",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12954,
+                "known_for_department": "Production",
+                "name": "Norma Heyman",
+                "original_name": "Norma Heyman",
+                "popularity": 1.971,
+                "profile_path": null,
+                "credit_id": "52fe43669251416c7500ece7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32804,
+                "known_for_department": "Sound",
+                "name": "Simon Fisher-Turner",
+                "original_name": "Simon Fisher-Turner",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "6068a8d1124c8d003f355017",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45055,
+                "known_for_department": "Editing",
+                "name": "Andrew Hulme",
+                "original_name": "Andrew Hulme",
+                "popularity": 1.825,
+                "profile_path": null,
+                "credit_id": "554f4700c3a368259400678c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 65037,
+                "known_for_department": "Writing",
+                "name": "Johnny Ferguson",
+                "original_name": "Johnny Ferguson",
+                "popularity": 1.099,
+                "profile_path": null,
+                "credit_id": "52fe43669251416c7500ecf3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 75094,
+                "known_for_department": "Sound",
+                "name": "Tim Alban",
+                "original_name": "Tim Alban",
+                "popularity": 0.732,
+                "profile_path": null,
+                "credit_id": "6068a8b4d036b600297c76bb",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 75098,
+                "known_for_department": "Sound",
+                "name": "Peter Baldock",
+                "original_name": "Peter Baldock",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "6068a8c0124c8d003f354fec",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80424,
+                "known_for_department": "Art",
+                "name": "Philip Elton",
+                "original_name": "Philip Elton",
+                "popularity": 1.615,
+                "profile_path": null,
+                "credit_id": "554cd184c3a3685e4c0054b1",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 132879,
+                "known_for_department": "Sound",
+                "name": "John Dankworth",
+                "original_name": "John Dankworth",
+                "popularity": 0.6,
+                "profile_path": "/j3l5LX3F3PrDE6dRcxdx2tOJwvB.jpg",
+                "credit_id": "52fe43669251416c7500ed29",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1367566,
+                "known_for_department": "Directing",
+                "name": "Libbie Barr",
+                "original_name": "Libbie Barr",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "554cd2ad925141405600209f",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1406189,
+                "known_for_department": "Sound",
+                "name": "Nina Hartstone",
+                "original_name": "Nina Hartstone",
+                "popularity": 2.089,
+                "profile_path": null,
+                "credit_id": "6068a8a71cc4ff0029c32d37",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1411073,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Terry Jarvis",
+                "original_name": "Terry Jarvis",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "554cd22792514140e9001f43",
+                "department": "Costume & Make-Up",
+                "job": "Wigmaker"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1415951,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Norma Webb",
+                "original_name": "Norma Webb",
+                "popularity": 1.469,
+                "profile_path": null,
+                "credit_id": "554cd20ac3a3685e4e004f7a",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1462453,
+                "known_for_department": "Production",
+                "name": "Phil Symes",
+                "original_name": "Phil Symes",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "554cd28b92514140c3001f78",
+                "department": "Crew",
+                "job": "Unit Publicist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1465066,
+                "known_for_department": "Art",
+                "name": "Penny Crawford",
+                "original_name": "Penny Crawford",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "554cd1d29251413faa0020e0",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1465067,
+                "known_for_department": "Crew",
+                "name": "Esther Mary Thompson",
+                "original_name": "Esther Mary Thompson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "554cd264c3a3685e5b004d4b",
+                "department": "Crew",
+                "job": "Choreographer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Gangster No. 1 (2000) | Film4 Trailer",
+                "key": "NEXQkWlG8b8",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2014-01-07T15:39:50.000Z",
+                "id": "640bcbdaa6c104007903da5d"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/cnFn8iShHVnu0K4gGGKuII3JPJa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/3MMvqNffiFFZJH18lKvVdChcauQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/gIQUVBPM9ehCelrjQEdKX29AaCT.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/t8eUSsD2reaIR9qmklU7O2GCVn4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/6tIkzALNc2NetSk4eoCzEDIWDoB.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/aMg6jRK1QQJZOEFSixw1nEUsPk0.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/bJBi8qLLHE8CGumMNPCmP0v86G8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/1aWsqEK7Rhw51J40oAj4gnWo354.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 378,
+                "name": "prison"
+            },
+            {
+                "id": 585,
+                "name": "casino"
+            },
+            {
+                "id": 3446,
+                "name": "forgiveness"
+            },
+            {
+                "id": 3149,
+                "name": "gangster"
+            },
+            {
+                "id": 1522,
+                "name": "repayment"
+            },
+            {
+                "id": 3544,
+                "name": "machete"
+            },
+            {
+                "id": 6974,
+                "name": "rise and fall"
+            },
+            {
+                "id": 9740,
+                "name": "sociopath"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 11259,
+                "name": "extortion"
+            },
+            {
+                "id": 157424,
+                "name": "sledgehammer"
+            },
+            {
+                "id": 238142,
+                "name": "stabbed to death"
+            }
+        ]
+    },
+    "title_english": "Gangster No. 1",
+    "year": "2000",
+    "rated": "R",
+    "director_list": [
+        "Paul McGuigan"
+    ],
+    "writer_list": [
+        "Johnny Ferguson",
+        " Louis Mellis",
+        " David Scinto"
+    ],
+    "main_cast": [
+        "Malcolm McDowell",
+        " David Thewlis",
+        " Paul Bettany"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "imdb_rating": "6.7",
+    "imdb_votes": "14,408",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gangster_No._1",
+    "wikipedia_summary": "Gangster No. 1 is a 2000 British crime drama film directed by Paul McGuigan. It is based on the stage play Gangster No.1 written by Louis Mellis and David Scinto. The film stars Paul Bettany in the title role and features Malcolm McDowell, David Thewlis and Saffron Burrows.",
+    "wikipedia_plot": "The film opens with an unnamed British veteran gangster attending a boxing match with friends. Hearing in conversation that another gangster, Freddie Mays, is to be released from prison after 30 years, he falls silent and leaves the table to recover his composure.\nThe narrative flashes back to the 1960s, showing a younger Gangster. He comes to the attention of an influential London gangster, Freddie Mays (Thewlis), who recruits him as an enforcer. The Gangster is eager to please; his violence impresses Mays and he proves his loyalty with creative methods of murder. However, the Gangster from the start is obsessed with and jealous of Mays' success and glamorous lifestyle, demonstrated in his luxury clothing and plush flat.\nThe Gangster discovers that Mays' rival, Lennie Taylor, is planning to kill Mays. Instead of warning him, the Gangster decides to let the attack take place, and kills the only other member of his gang who is aware of the plan. The Gangster watches as Taylor and his gang shoot and stab Mays, and slit the throat of his fianc\u00e9e, Karen. Later that night, the Gangster goes to Taylor's flat, shoots him in the leg and tortures him to death.\nThe Gangster discovers the following day that Mays did not die but was hospitalised. Mays is unjustly convicted of ordering Taylor's murder and sent to prison for 30 years. With Mays out of the way, the Gangster assumes leadership of the gang and consolidates his position. In a sequence spanning the years between 1968 and 1999, he is shown organizing a bank heist, opening a casino, fixing horse races, and building his gang to over 300.\nThe narrative returns to the aged Gangster at the boxing event, where he discovers that Karen also survived and is due to marry Mays, who has left prison a changed man. The Gangster summons Mays to his old flat, which the Gangster took over. The Gangster, seeking to resolve any threat and his own demons, offers Mays money and the flat. However, Mays seemingly has no fight left in him, wanting only to marry Karen and retire in peace. The Gangster threatens Mays with a gun, then gives Mays the gun, confesses his silence over the attempted murder and Taylor's death and begs Mays to kill him; Mays leaves, acknowledging how empty and pathetic the Gangster's life is.\nThe film closes with the Gangster, having apparently lost his mind, committing suicide by stepping off the top of a building. His last words: \"I'm number one\".",
+    "wikipedia_plot_html": "<p>The film opens with an unnamed British veteran gangster attending a boxing match with friends. Hearing in conversation that another gangster, Freddie Mays, is to be released from prison after 30 years, he falls silent and leaves the table to recover his composure.\n</p><p>The narrative flashes back to the 1960s, showing a younger Gangster. He comes to the attention of an influential London gangster, Freddie Mays (Thewlis), who recruits him as an enforcer. The Gangster is eager to please; his violence impresses Mays and he proves his loyalty with creative methods of murder. However, the Gangster from the start is obsessed with and jealous of Mays' success and glamorous lifestyle, demonstrated in his luxury clothing and plush flat.\n</p><p>The Gangster discovers that Mays' rival, Lennie Taylor, is planning to kill Mays. Instead of warning him, the Gangster decides to let the attack take place, and kills the only other member of his gang who is aware of the plan. The Gangster watches as Taylor and his gang shoot and stab Mays, and slit the throat of his fianc\u00e9e, Karen. Later that night, the Gangster goes to Taylor's flat, shoots him in the leg and tortures him to death.\n</p><p>The Gangster discovers the following day that Mays did not die but was hospitalised. Mays is unjustly convicted of ordering Taylor's murder and sent to prison for 30 years. With Mays out of the way, the Gangster assumes leadership of the gang and consolidates his position. In a sequence spanning the years between 1968 and 1999, he is shown organizing a bank heist, opening a casino, fixing horse races, and building his gang to over 300.\n</p><p>The narrative returns to the aged Gangster at the boxing event, where he discovers that Karen also survived and is due to marry Mays, who has left prison a changed man. The Gangster summons Mays to his old flat, which the Gangster took over. The Gangster, seeking to resolve any threat and his own demons, offers Mays money and the flat. However, Mays seemingly has no fight left in him, wanting only to marry Karen and retire in peace. The Gangster threatens Mays with a gun, then gives Mays the gun, confesses his silence over the attempted murder and Taylor's death and begs Mays to kill him; Mays leaves, acknowledging how empty and pathetic the Gangster's life is.\n</p><p>The film closes with the Gangster, having apparently lost his mind, committing suicide by stepping off the top of a building. His last words: \"I'm number one\".\n</p>",
+    "wikipedia_critics": "The film was met with a generally positive critical reception. On Rotten Tomatoes it holds a score of 71% based on 52 reviews, with an average rating of 6.4/10. The site's consensus reads: \"Gangster No. 1 is brutally violent, yet also compelling.\" Critics disliked the violence present throughout the movie but praised the performances and style.\nOn Metacritic the film has a score of 60 out of 100, based on reviews from 15 critics.Clark Collis of Empire magazine gives the film 3 out of 5 stars. Collis calls the film \"A stylistically superb jaunt through psychotically Swinging London\" and praises the \"scene stealing\" performances of Bettany and McDowell but reserves his highest praises for photographer-turned-director McGuigan.\nPeter Bradshaw of The Guardian calls it \"a powerful and serious film [...] a miasma of hysteria and anxiety - a real addition to the British crime canon.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Gangster No. 1</b></i> is a 2000 British crime drama film directed by Paul McGuigan. It is based on the stage play <i>Gangster No.1</i> written by Louis Mellis and David Scinto. The film stars Paul Bettany in the title role and features Malcolm McDowell, David Thewlis and Saffron Burrows.\n</p>\n\n<h2>Plot</h2>\n<p>The film opens with an unnamed British veteran gangster attending a boxing match with friends. Hearing in conversation that another gangster, Freddie Mays, is to be released from prison after 30 years, he falls silent and leaves the table to recover his composure.\n</p><p>The narrative flashes back to the 1960s, showing a younger Gangster. He comes to the attention of an influential London gangster, Freddie Mays (Thewlis), who recruits him as an enforcer. The Gangster is eager to please; his violence impresses Mays and he proves his loyalty with creative methods of murder. However, the Gangster from the start is obsessed with and jealous of Mays' success and glamorous lifestyle, demonstrated in his luxury clothing and plush flat.\n</p><p>The Gangster discovers that Mays' rival, Lennie Taylor, is planning to kill Mays. Instead of warning him, the Gangster decides to let the attack take place, and kills the only other member of his gang who is aware of the plan. The Gangster watches as Taylor and his gang shoot and stab Mays, and slit the throat of his fianc\u00e9e, Karen. Later that night, the Gangster goes to Taylor's flat, shoots him in the leg and tortures him to death.\n</p><p>The Gangster discovers the following day that Mays did not die but was hospitalised. Mays is unjustly convicted of ordering Taylor's murder and sent to prison for 30 years. With Mays out of the way, the Gangster assumes leadership of the gang and consolidates his position. In a sequence spanning the years between 1968 and 1999, he is shown organizing a bank heist, opening a casino, fixing horse races, and building his gang to over 300.\n</p><p>The narrative returns to the aged Gangster at the boxing event, where he discovers that Karen also survived and is due to marry Mays, who has left prison a changed man. The Gangster summons Mays to his old flat, which the Gangster took over. The Gangster, seeking to resolve any threat and his own demons, offers Mays money and the flat. However, Mays seemingly has no fight left in him, wanting only to marry Karen and retire in peace. The Gangster threatens Mays with a gun, then gives Mays the gun, confesses his silence over the attempted murder and Taylor's death and begs Mays to kill him; Mays leaves, acknowledging how empty and pathetic the Gangster's life is.\n</p><p>The film closes with the Gangster, having apparently lost his mind, committing suicide by stepping off the top of a building. His last words: \"I'm number one\".\n</p>\n\n<h2>Cast</h2>\n<ul><li>Malcolm McDowell as Gangster 55</li>\n<li>Paul Bettany as Young Gangster</li>\n<li>David Thewlis as Freddie Mays</li>\n<li>Saffron Burrows as Karen</li>\n<li>Kenneth Cranham as Tommy</li>\n<li>Jamie Foreman as Lennie Taylor</li>\n<li>Eddie Marsan as Eddie Miller</li>\n<li>Andrew Lincoln as Maxie King</li>\n<li>Martin Wimbush as Judge</li>\n<li>Sean Chapman as Bent Cop</li></ul>\n\n<h2>Casting</h2>\n<p>Jamie Foreman is the son of real-life gangster Freddie Foreman.\n</p>\n\n<h2>Production</h2>\n<p>The writers of the original stage play that the film is based on, Louis Mellis and David Scinto, both adapted their playscript into a screenplay. The script was sent to Jonathan Glazer, who was originally set to direct the film adaptation. Scinto has said that \"The final draft that we wrote of GANGSTER NO. 1 remains, in my opinion, one of the best scripts we ever wrote; there isn\u2019t a single word of fat in it.\"</p><p>However Mellis, Scinto and Glazer all left the film's production. The reason for this was a disagreement with the film's producer about casting, as Malcolm McDowell's Gangster was originally going to be played by Peter Bowles, who had previously played the role on stage. David Scinto stated that \"An actor was attached to the project who was simply ill-suited. Not that he was a bad actor, he just wasn\u2019t right for the role. In fact very, very wrong for the role. So after much painful deliberation, we extricated ourselves from the deteriorating situation. Taking our names with us. It was a very difficult decision. A very difficult thing to do, not something I enjoyed. As it turned out the actor was removed anyway.\" When asked about why they had left, Mellis stated that \"Simplest thing to say re the three of us walking away from <i>Gangster No. 1</i> is \u201cartistic differences.\u201d Because it was our first film we were expected to put up with all manner of ridiculousness re casting, tone, themes, etc. These stuck in our throats, and so we left them to it\". Both Scinto and Mellis have stated that them both walking off the film damaged their reputation. Scinto said that \"We got some kind of intimidating reputation which wasn't true. All we ever did was defend ourselves, and care about putting on a good show\" and that \"People told lies about us, and those lies were absorbed by the industry\". Mellis has said that the experience of walking off the film \"was nightmarish\" and that \"When you're starting off, I guess you're supposed to be grateful. We did hear, almost: 'You'll never work in this town again.'\"</p><p>Having left the production Mellis, Scinto and Glazer went on to create the film <i>Sexy Beast</i>.</p><p><b>Alternative ending</b>\n</p><p>The film's director Paul McGuigan said that he was unable to film one of the possible endings for the movie because one of the writers had left production and \"had taken the ending with him\".\n</p><p>According to McGuigan this ending went as follows:\n</p>\n<blockquote><p>\"Gangster is waiting for Freddie to get out of jail. Freddie arrives at the house and Gangster invites him in and he\u2019s reconstructed Freddie\u2019s car, his Aston Martin, in the living room, and Gangster goes into the car, and he starts revving the car and the smoke\u2019s going everywhere. Freddie leaves and Gangster gets poisoned by the smoke of the car, and then he drives through the windows and drops off the high rise.\"</p></blockquote>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p>The film was met with a generally positive critical reception. On Rotten Tomatoes it holds a score of 71% based on 52 reviews, with an average rating of 6.4/10. The site's consensus reads: \"<i>Gangster No. 1</i> is brutally violent, yet also compelling.\" Critics disliked the violence present throughout the movie but praised the performances and style.\nOn Metacritic the film has a score of 60 out of 100, based on reviews from 15 critics.</p><p>Clark Collis of <i>Empire magazine</i> gives the film 3 out of 5 stars. Collis calls the film \"A stylistically superb jaunt through psychotically Swinging London\" and praises the \"scene stealing\" performances of Bettany and McDowell but reserves his highest praises for photographer-turned-director McGuigan.\nPeter Bradshaw of <i>The Guardian</i> calls it \"a powerful and serious film [...] a miasma of hysteria and anxiety - a real addition to the British crime canon.\"</p>\n\n<h3>Box office</h3>\n<p>The film grossed $30,915 at the North American box office.</p>\n\n<h2>See also</h2>\n<ul><li><i>Sexy Beast</i></li>\n<li><i>44 Inch Chest</i></li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Gangster No. 1</i> at IMDb</li>\n<li><i>Gangster No. 1</i> at Rotten Tomatoes</li></ul>"
+}

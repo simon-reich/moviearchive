@@ -1,0 +1,1001 @@
+{
+    "adult": false,
+    "backdrop_path": "/tM7uHa2Km5gSakooTQsZLwit3PK.jpg",
+    "belongs_to_collection": null,
+    "budget": 15050245,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 4552,
+    "imdb_id": "tt0365376",
+    "original_language": "ko",
+    "original_title": "\uc7a5\ud654, \ud64d\ub828",
+    "overview": "A recently released patient from a mental institution returns home with her sister, only to face disturbing events between her stepmother and the ghosts haunting their house- all of which are connected to a dark past in the family's history.",
+    "popularity": 29.295,
+    "poster_path": "/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg",
+    "production_companies": [
+        {
+            "id": 3616,
+            "logo_path": null,
+            "name": "Bom Film Productions",
+            "origin_country": "KR"
+        },
+        {
+            "id": 11772,
+            "logo_path": null,
+            "name": "Masulpiri Films",
+            "origin_country": ""
+        },
+        {
+            "id": 79498,
+            "logo_path": null,
+            "name": "Chungeorahm Film",
+            "origin_country": "KR"
+        },
+        {
+            "id": 4399,
+            "logo_path": "/7bWmbWfxFNSGTCjLHkHn3UjspZS.png",
+            "name": "Barunson E&A",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2003-06-13",
+    "revenue": 1062878,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Our sorrow was conceived long before our birth.",
+    "title": "A Tale of Two Sisters",
+    "video": false,
+    "vote_average": 7.096,
+    "vote_count": 1065,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37940,
+                "known_for_department": "Acting",
+                "name": "Lim Soo-jung",
+                "original_name": "Lim Soo-jung",
+                "popularity": 15.855,
+                "profile_path": "/vX5teH7vHy7B18vNQCafeML2ZPf.jpg",
+                "cast_id": 3,
+                "character": "Su-mi",
+                "credit_id": "52fe43cbc3a36847f8070417",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37941,
+                "known_for_department": "Acting",
+                "name": "Moon Geun-young",
+                "original_name": "Moon Geun-young",
+                "popularity": 13.46,
+                "profile_path": "/wnQhToleEfM1MnyJIx94cUoscT4.jpg",
+                "cast_id": 4,
+                "character": "Su-yeon",
+                "credit_id": "52fe43cbc3a36847f807041b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37939,
+                "known_for_department": "Acting",
+                "name": "Yum Jung-ah",
+                "original_name": "Yum Jung-ah",
+                "popularity": 10.63,
+                "profile_path": "/5qIkgP0VcfF0YhO3bixzBtA1jH2.jpg",
+                "cast_id": 2,
+                "character": "Eun-joo",
+                "credit_id": "52fe43cbc3a36847f8070413",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1222431,
+                "known_for_department": "Acting",
+                "name": "Kim Kap-soo",
+                "original_name": "Kim Kap-soo",
+                "popularity": 10.601,
+                "profile_path": "/6XdYfZY8FAuhRFdn9ND9izYjvQM.jpg",
+                "cast_id": 22,
+                "character": "Moo-hyeon",
+                "credit_id": "532993bb9251413d830013f9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 564846,
+                "known_for_department": "Acting",
+                "name": "Park Mi-hyun",
+                "original_name": "Park Mi-hyun",
+                "popularity": 4.938,
+                "profile_path": "/cykvf76gDVlIhxFKO9xX7VY1HxW.jpg",
+                "cast_id": 20,
+                "character": "Birth Mother",
+                "credit_id": "52fe43cbc3a36847f807045f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 554560,
+                "known_for_department": "Acting",
+                "name": "Lee Seung-bi",
+                "original_name": "Lee Seung-bi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Mi-hee",
+                "credit_id": "52fe43cbc3a36847f8070431",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1162595,
+                "known_for_department": "Acting",
+                "name": "Woo Ki-hong",
+                "original_name": "Woo Ki-hong",
+                "popularity": 1.046,
+                "profile_path": "/rwFeJ97RkOUK3bBfdh9dKdjcVEL.jpg",
+                "cast_id": 23,
+                "character": "Sun-kyu",
+                "credit_id": "596f7114c3a3686b0400e254",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39258,
+                "known_for_department": "Acting",
+                "name": "Lee Dae-yeon",
+                "original_name": "Lee Dae-yeon",
+                "popularity": 6.104,
+                "profile_path": "/rHvaG1I6verQ3OLW4BsipciUP0o.jpg",
+                "cast_id": 26,
+                "character": "Doctor",
+                "credit_id": "5b9598f60e0a26198702a0a8",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21690,
+                "known_for_department": "Sound",
+                "name": "Lee Byung-woo",
+                "original_name": "Lee Byung-woo",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe43cbc3a36847f807045b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37944,
+                "known_for_department": "Camera",
+                "name": "Lee Mo-gae",
+                "original_name": "Lee Mo-gae",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "52fe43cbc3a36847f8070421",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38935,
+                "known_for_department": "Art",
+                "name": "Cho Keun-hyun",
+                "original_name": "Cho Keun-hyun",
+                "popularity": 1.4,
+                "profile_path": "/adgtxFJrXXevKFrvAHe0xwKxrj3.jpg",
+                "credit_id": "5e2560a51bf2660012fcc7d8",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69081,
+                "known_for_department": "Directing",
+                "name": "Kim Jee-woon",
+                "original_name": "Kim Jee-woon",
+                "popularity": 4.512,
+                "profile_path": "/5HYk7X2ygmOEWBAjBgxIEz4aT8t.jpg",
+                "credit_id": "5a7c6f140e0a263302011f9a",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69081,
+                "known_for_department": "Directing",
+                "name": "Kim Jee-woon",
+                "original_name": "Kim Jee-woon",
+                "popularity": 4.512,
+                "profile_path": "/5HYk7X2ygmOEWBAjBgxIEz4aT8t.jpg",
+                "credit_id": "5a7c6f049251414b0c010beb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 69084,
+                "known_for_department": "Production",
+                "name": "Oh Jung-wan",
+                "original_name": "Oh Jung-wan",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe43cbc3a36847f8070443",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110272,
+                "known_for_department": "Editing",
+                "name": "Ko Im-pyo",
+                "original_name": "Ko Im-pyo",
+                "popularity": 2.264,
+                "profile_path": null,
+                "credit_id": "5e256122a894d600123bbb7d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120898,
+                "known_for_department": "Production",
+                "name": "Choi Jae-won",
+                "original_name": "Choi Jae-won",
+                "popularity": 1.327,
+                "profile_path": null,
+                "credit_id": "52fe43cbc3a36847f807044f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 120899,
+                "known_for_department": "Production",
+                "name": "Oh Ki-min",
+                "original_name": "Oh Ki-min",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe43cbc3a36847f8070449",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1176542,
+                "known_for_department": "Writing",
+                "name": "Lee So-yeong",
+                "original_name": "Lee So-yeong",
+                "popularity": 1.023,
+                "profile_path": null,
+                "credit_id": "5ec0f5ffd2147c0023b440ab",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1293800,
+                "known_for_department": "Lighting",
+                "name": "Oh Seung-chul",
+                "original_name": "Oh Seung-chul",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5fc4470e2bcf67003fc276a5",
+                "department": "Lighting",
+                "job": "Lighting Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1303300,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Choi Sun-ok",
+                "original_name": "Choi Sun-ok",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5e256666bfeb8b0011d5eed8",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2078582,
+                "known_for_department": "Sound",
+                "name": "Choi Tae-young",
+                "original_name": "Choi Tae-young",
+                "popularity": 2.036,
+                "profile_path": "/rVi3rqXJ3E9GD9H2vJzZdvrTndW.jpg",
+                "credit_id": "5e2566111bf2660016fca01b",
+                "department": "Sound",
+                "job": "Sound Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2220818,
+                "known_for_department": "Production",
+                "name": "Kim Jung-hwa",
+                "original_name": "Kim Jung-hwa",
+                "popularity": 0.731,
+                "profile_path": null,
+                "credit_id": "5df80fd65c324700157ba6b3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2515436,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kim Do-hee",
+                "original_name": "Kim Do-hee",
+                "popularity": 1.437,
+                "profile_path": null,
+                "credit_id": "5e2567095ed8e90015621769",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2792506,
+                "known_for_department": "Sound",
+                "name": "Lee In-gyu",
+                "original_name": "Lee In-gyu",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5f6f54fdd55e4d00357d58cd",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3192987,
+                "known_for_department": "Sound",
+                "name": "Kang Kyeong-han",
+                "original_name": "Kang Kyeong-han",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6111e50c255dba002f51e701",
+                "department": "Sound",
+                "job": "Sound Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3193044,
+                "known_for_department": "Sound",
+                "name": "Kim Kyung-tae",
+                "original_name": "Kim Kyung-tae",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "629d5f45d71fb474ded5abb9",
+                "department": "Sound",
+                "job": "Production Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3623736,
+                "known_for_department": "Art",
+                "name": "Jeon Ro-bin",
+                "original_name": "Jeon Ro-bin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d041fb0ce1bc004c334062",
+                "department": "Art",
+                "job": "Props"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A Tale of Two Sisters - Behind the Scenes",
+                "key": "MXA9yLoVgLE",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Behind the Scenes",
+                "official": false,
+                "published_at": "2021-10-18T10:00:09.000Z",
+                "id": "6451df5cd8f44e00e39bb20f"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Best Horror Scenes - A tale of two sisters [HD]",
+                "key": "nbvOsnMpcUo",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Clip",
+                "official": false,
+                "published_at": "2016-11-27T13:12:38.000Z",
+                "id": "6451df4f713ea6011e1abb34"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A Tale Of Two Sisters Trailer",
+                "key": "anF5XiN8QY8",
+                "published_at": "2006-03-25T18:29:18.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": false,
+                "id": "533ec65ec3a3685448000ee9"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/tM7uHa2Km5gSakooTQsZLwit3PK.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/wD2LT0CtXDMXDE3dROceTQJw63F.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/y923c7H8rnP5V1pxuXZegeyhp7t.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/sa7HV7c0VVFB6VuGFft8NflU8EG.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/xtrTtpjwKk2GtLzAOFeUvcwntve.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/4czBmYaEuiEFa1VK7MYFWhGlHRn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "pt",
+                "file_path": "/hQhJGmcw12Ed6wmtA4enPoipBsX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "it",
+                "file_path": "/nWiu2FEEfQlVMPGssB9NpU1eP8Y.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 7.3,
+                "height": 587,
+                "iso_639_1": "pt",
+                "file_path": "/pdWiOvGpGDNpeaopAWo7ljhHYG2.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4285
+            },
+            {
+                "aspect_ratio": 7.3,
+                "height": 587,
+                "iso_639_1": "pt",
+                "file_path": "/loyadUhPM0s8BoXevYT7LUZI2ge.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4285
+            },
+            {
+                "aspect_ratio": 1.892,
+                "height": 537,
+                "iso_639_1": "en",
+                "file_path": "/iQnhVekpsegyg3ObUsFi1ddl0r5.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1016
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/5gWqetgQaY6MHEyNeLngT3w0jSj.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2500,
+                "iso_639_1": "es",
+                "file_path": "/oc6jmV9he1qj07TA2xJhgnX3nnk.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1667
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/jvVlMNTPoTKZT2mD3jlSs9B9kIX.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1079,
+                "iso_639_1": "ko",
+                "file_path": "/aPUxyX8mfxMEgOvbzPyNhNkdfN.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/9x1AdMsDUkN2dsjRoyjbgnF0Dcl.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/ipLfaJBol8rORJ7xS6CmzlD0mD8.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/hFW8Fng0Z5iflKJ5GatNOQmxz2B.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1110,
+                "iso_639_1": "fr",
+                "file_path": "/4serlt6iMHtNIt51CZ5Q5n05AKe.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 740
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "fr",
+                "file_path": "/wFqD27fnm3vl1x5V0R2c4vkYEK0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 667
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2000,
+                "iso_639_1": "pt",
+                "file_path": "/lkMwyKxRwSzm6zxNGRvGTkaQlw8.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1333
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/tu1My6lDMgherKLLlcbmIWPfGAh.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1125,
+                "iso_639_1": "ko",
+                "file_path": "/mQAjQ4godPFxCYg6hS6HFouNRIQ.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/cJKzbBrtkb4WW7NB5z64CoRxm3.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ko",
+                "file_path": "/xsbh58JyVh7jTuSgFRiHMjVfiVy.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "fr",
+                "file_path": "/DTsBmvrfapr3Do7LUqwrxA5KzP.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 667
+            },
+            {
+                "aspect_ratio": 0.695,
+                "height": 1079,
+                "iso_639_1": "ko",
+                "file_path": "/mtI8R32du1Ef92sVzaY5nRoyTIo.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "mn",
+                "file_path": "/eZQzwHcKQWNeykhnJGho0wz8vbu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.744,
+                "height": 1158,
+                "iso_639_1": "ru",
+                "file_path": "/hS0CVQVXMb2BnJFEx9cDvsYHQ9o.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 861
+            },
+            {
+                "aspect_ratio": 0.692,
+                "height": 1158,
+                "iso_639_1": "ru",
+                "file_path": "/e0r3qAmDqVa7tCKOEuECZpKj5Bq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 801
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1620,
+                "iso_639_1": null,
+                "file_path": "/hZ6QQhY25gDeCjZdX38NG48QR1v.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.67,
+                "height": 2303,
+                "iso_639_1": "hu",
+                "file_path": "/gsPhSnLEqai3nWFJb9k8pIzslxC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1544
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/f1RcmBFrAzNRjUh4C5QvJDXXHi3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 825,
+                "iso_639_1": "ja",
+                "file_path": "/dAjYQH61RBoSKXgWaXHbX8Z77R5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "en",
+                "file_path": "/wGXoSayuB2AAWDBZEVhuspWyw5I.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "ko",
+                "file_path": "/lfDgDWDiSmdZm1Tjq7qAXh9pCzS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 825,
+                "iso_639_1": "it",
+                "file_path": "/1NtnqgWOiPe1EP3OtKB9FwLC7FA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/kU4Yc9p9bFhtUvPJFteU5B1END9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "es",
+                "file_path": "/CcZ4vvtlbGg61QQ0W2fZ0J3vIE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1236,
+                "iso_639_1": "ko",
+                "file_path": "/mMaVRHc9vPXPTzsmwg1mmo38wKZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 824
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/AsXu1WlPpkHNWLTMaQ7Wqr7GDOE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 801
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/2blz7wl1JPqKx5ojbyGX2T8IqtD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 667
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1284,
+                "iso_639_1": "ko",
+                "file_path": "/2oJ7glFXwxQUqTpbB40fe6EKZoa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 856
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1453,
+                "name": "amnesia"
+            },
+            {
+                "id": 726,
+                "name": "drug abuse"
+            },
+            {
+                "id": 697,
+                "name": "loss of loved one"
+            },
+            {
+                "id": 1849,
+                "name": "homicide"
+            },
+            {
+                "id": 1803,
+                "name": "drug addiction"
+            },
+            {
+                "id": 5921,
+                "name": "stepmother"
+            },
+            {
+                "id": 5975,
+                "name": "menstruation"
+            },
+            {
+                "id": 5923,
+                "name": "sister"
+            },
+            {
+                "id": 10614,
+                "name": "tragedy"
+            },
+            {
+                "id": 12565,
+                "name": "psychological thriller"
+            },
+            {
+                "id": 41411,
+                "name": "vengeful ghost"
+            },
+            {
+                "id": 174089,
+                "name": "unreliable narrator"
+            },
+            {
+                "id": 181324,
+                "name": "existentialism"
+            },
+            {
+                "id": 208304,
+                "name": "cremation"
+            },
+            {
+                "id": 234995,
+                "name": "narcolepsy"
+            },
+            {
+                "id": 286954,
+                "name": "ambiguity"
+            },
+            {
+                "id": 295907,
+                "name": "psychological horror"
+            },
+            {
+                "id": 309029,
+                "name": "psychological drama"
+            },
+            {
+                "id": 323707,
+                "name": "cult film"
+            }
+        ]
+    },
+    "title_english": "A Tale of Two Sisters",
+    "year": "2003",
+    "rated": "R",
+    "director_list": [
+        "Jee-woon Kim"
+    ],
+    "writer_list": [
+        "Jee-woon Kim"
+    ],
+    "main_cast": [
+        "Lim Soo-jung",
+        " Yum Jung-ah",
+        " Kim Kap-su"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "imdb_rating": "7.1",
+    "imdb_votes": "66,825",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Sisters",
+    "wikipedia_summary": "A Tale of Two Sisters (Korean: \uc7a5\ud654, \ud64d\ub828; RR: Janghwa, Hongryeon; lit. \"Rose Flower, Red Lotus\") is a 2003 South Korean psychological horror-drama film written and directed by Kim Jee-woon. The film is inspired by a Joseon dynasty-era folktale entitled \"Janghwa Hongryeon jeon\", which has been adapted to film several times. The plot focuses on a recently released patient from a mental institution who returns home with her sister, only to face disturbing events between her stepmother and the ghosts haunting their house\u2014all of which are connected to a dark past in the family's history.\nThe film opened to very strong commercial and critical reception and won Best Picture at the 2004 Fantasporto Film Festival. It is the highest-grossing South Korean horror film and the first South Korean picture to be screened in American theatres. An English-language remake titled The Uninvited was released in 2009 to mixed reviews.",
+    "wikipedia_plot": "A teenage girl, Su-mi, is being treated for shock and psychosis in a mental institution. She is released and returns home to her family's secluded estate in the countryside with her father and younger sister Su-yeon, whom she is protective of. The sisters have a cold reunion with their stepmother, Eun-joo, who constantly requires medication. Eun-joo also has a strained relationship with her husband, both of them enduring a sexless marriage.\nSu-yeon has a nightmare of her late mother's ghost. The next day, Su-mi finds family photos which reveal that Eun-joo was formerly an in-home nurse for her then-terminally ill mother. She discovers bruises on her sister's arms and suspects Eun-joo is responsible. Su-mi confronts Eun-joo about the bruises but Eun-joo refuses to apologize for her actions. That night, their uncle and aunt arrive for dinner, and Eun-joo tells bizarre stories that bewilder them. The aunt suddenly suffers a violent seizure and suffocates. After recovering, she tells her husband that she saw the ghost of a dead girl beneath the kitchen sink during her seizure. Eun-joo tries to see what is beneath the sink, but the ghost girl violently grabs her arm.\nEun-joo's relationship with her stepdaughters sours after she finds her pet bird mutilated and killed and her personal photographs defaced. She believes that these actions are somehow connected to the girls and locks Su-yeon in the closet. Su-mi releases her and tells her father about the abuse. Her father begs her to stop acting out and informs her that Su-yeon is dead. Su-mi refuses to believe it as she is sure her sister is right next to her sobbing uncontrollably.\nThe next morning, Eun-joo drags a bloodied sack through the house, whipping it. Su-mi believes that Su-yeon is inside the sack. Eun-joo and Su-mi get into a violent physical altercation. Su-mi's father arrives to find an unconscious Su-mi.\nIt is ultimately revealed that Su-mi and her father were alone in the house the entire time. Su-mi had suffered from dissociative identity disorder, where she possessed two personalities: herself and a ruder, more distant variation of her stepmom Eun-joo. The \"body\" in the sack that Su-mi was whipping was actually a porcelain doll and she was also the one who killed the pet bird. Su-yeon was also revealed to be long dead; her presence was actually the result of Su-mi's hallucinations.\nThe father and the real Eun-joo send Su-mi back to the mental institution. Eun-joo tries to reconcile with Su-mi, promising to visit her as often as she can, but Su-mi rebuffs her. That night, Eun-joo hears footsteps in Su-yeon's old bedroom, revealing that the ghost actually exists. Su-yeon's real ghost crawls out of the closet and kills Eun-joo. Meanwhile, Su-mi smiles, appearing to have finally found peace.\nFlashbacks reveal the day that led Su-mi to be institutionalized. While her terminally ill mother was still alive, her father engaged in an adulterous affair with Eun-joo, when she was still their in-home nurse. This upsets the sisters and drives their mother to hang herself in the closet of Su-yeon's bedroom. Su-yeon attempts to revive her but the closet collapses on top of her. Eun-joo sees Su-yeon thrashing and suffocating and at the last minute, decides to save Su-yeon. However, Su-mi arrives and criticises Eun-joo for interfering with her family. Angry at Su-mi's criticisms, Eun-joo leaves Su-yeon to die and tells Su-mi that she'll \"regret this moment.\" Su-mi leaves the house, unaware of both her sister and her mother's fate.",
+    "wikipedia_plot_html": "<p>A teenage girl, Su-mi, is being treated for shock and psychosis in a mental institution. She is released and returns home to her family's secluded estate in the countryside with her father and younger sister Su-yeon, whom she is protective of. The sisters have a cold reunion with their stepmother, Eun-joo, who constantly requires medication. Eun-joo also has a strained relationship with her husband, both of them enduring a sexless marriage.\n</p><p>Su-yeon has a nightmare of her late mother's ghost. The next day, Su-mi finds family photos which reveal that Eun-joo was formerly an in-home nurse for her then-terminally ill mother. She discovers bruises on her sister's arms and suspects Eun-joo is responsible. Su-mi confronts Eun-joo about the bruises but Eun-joo refuses to apologize for her actions. That night, their uncle and aunt arrive for dinner, and Eun-joo tells bizarre stories that bewilder them. The aunt suddenly suffers a violent seizure and suffocates. After recovering, she tells her husband that she saw the ghost of a dead girl beneath the kitchen sink during her seizure. Eun-joo tries to see what is beneath the sink, but the ghost girl violently grabs her arm.\n</p><p>Eun-joo's relationship with her stepdaughters sours after she finds her pet bird mutilated and killed and her personal photographs defaced. She believes that these actions are somehow connected to the girls and locks Su-yeon in the closet. Su-mi releases her and tells her father about the abuse. Her father begs her to stop acting out and informs her that Su-yeon is dead. Su-mi refuses to believe it as she is sure her sister is right next to her sobbing uncontrollably.\n</p><p>The next morning, Eun-joo drags a bloodied sack through the house, whipping it. Su-mi believes that Su-yeon is inside the sack. Eun-joo and Su-mi get into a violent physical altercation. Su-mi's father arrives to find an unconscious Su-mi.\n</p><p>It is ultimately revealed that Su-mi and her father were alone in the house the entire time. Su-mi had suffered from dissociative identity disorder, where she possessed two personalities: herself and a ruder, more distant variation of her stepmom Eun-joo. The \"body\" in the sack that Su-mi was whipping was actually a porcelain doll and she was also the one who killed the pet bird. Su-yeon was also revealed to be long dead; her presence was actually the result of Su-mi's hallucinations.\n</p><p>The father and the real Eun-joo send Su-mi back to the mental institution. Eun-joo tries to reconcile with Su-mi, promising to visit her as often as she can, but Su-mi rebuffs her. That night, Eun-joo hears footsteps in Su-yeon's old bedroom, revealing that the ghost actually exists. Su-yeon's real ghost crawls out of the closet and kills Eun-joo. Meanwhile, Su-mi smiles, appearing to have finally found peace.\n</p><p>Flashbacks reveal the day that led Su-mi to be institutionalized. While her terminally ill mother was still alive, her father engaged in an adulterous affair with Eun-joo, when she was still their in-home nurse. This upsets the sisters and drives their mother to hang herself in the closet of Su-yeon's bedroom. Su-yeon attempts to revive her but the closet collapses on top of her. Eun-joo sees Su-yeon thrashing and suffocating and at the last minute, decides to save Su-yeon. However, Su-mi arrives and criticises Eun-joo for interfering with her family. Angry at Su-mi's criticisms, Eun-joo leaves Su-yeon to die and tells Su-mi that she'll \"regret this moment.\" Su-mi leaves the house, unaware of both her sister and her mother's fate.\n</p>",
+    "wikipedia_critics": "A Tale of Two Sisters garnered very positive reviews. Review aggregator Rotten Tomatoes reports an approval rating of 86% based on 63 reviews, with an average rating of 7.1/10. The site's critics' consensus reads: \"Restrained but disturbing, A Tale of Two Sisters is a creepily effective, if at times confusing, horror movie.\" Meanwhile, Metacritic scored the film 65 out of 100, meaning \"generally favorable reviews\" from 19 critics.Kevin Thomas of Los Angeles Times described A Tale of Two Sisters as \"a triumph of stylish, darkly absurdist horror that even manages to strike a chord of Shakespearean tragedy \u2013 and evokes a sense of wonder anew at all the terrible things people do to themselves and each other.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>A Tale of Two Sisters</b></i> (Korean:\u00a0<span title=\"Korean-language text\"><span lang=\"ko-Hang\">\uc7a5\ud654, \ud64d\ub828</span></span>; RR:\u00a0<span title=\"Korean-language romanization\"><i lang=\"ko-Latn\">Janghwa, Hongryeon</i></span>; lit. \"Rose Flower, Red Lotus\") is a 2003 South Korean psychological horror-drama film written and directed by Kim Jee-woon. The film is inspired by a Joseon dynasty-era folktale entitled \"Janghwa Hongryeon jeon\", which has been adapted to film several times. The plot focuses on a recently released patient from a mental institution who returns home with her sister, only to face disturbing events between her stepmother and the ghosts haunting their house\u2014all of which are connected to a dark past in the family's history.\n</p><p>The film opened to very strong commercial and critical reception and won Best Picture at the 2004 Fantasporto Film Festival. It is the highest-grossing South Korean horror film and the first South Korean picture to be screened in American theatres. An English-language remake titled <i>The Uninvited</i> was released in 2009 to mixed reviews.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>A teenage girl, Su-mi, is being treated for shock and psychosis in a mental institution. She is released and returns home to her family's secluded estate in the countryside with her father and younger sister Su-yeon, whom she is protective of. The sisters have a cold reunion with their stepmother, Eun-joo, who constantly requires medication. Eun-joo also has a strained relationship with her husband, both of them enduring a sexless marriage.\n</p><p>Su-yeon has a nightmare of her late mother's ghost. The next day, Su-mi finds family photos which reveal that Eun-joo was formerly an in-home nurse for her then-terminally ill mother. She discovers bruises on her sister's arms and suspects Eun-joo is responsible. Su-mi confronts Eun-joo about the bruises but Eun-joo refuses to apologize for her actions. That night, their uncle and aunt arrive for dinner, and Eun-joo tells bizarre stories that bewilder them. The aunt suddenly suffers a violent seizure and suffocates. After recovering, she tells her husband that she saw the ghost of a dead girl beneath the kitchen sink during her seizure. Eun-joo tries to see what is beneath the sink, but the ghost girl violently grabs her arm.\n</p><p>Eun-joo's relationship with her stepdaughters sours after she finds her pet bird mutilated and killed and her personal photographs defaced. She believes that these actions are somehow connected to the girls and locks Su-yeon in the closet. Su-mi releases her and tells her father about the abuse. Her father begs her to stop acting out and informs her that Su-yeon is dead. Su-mi refuses to believe it as she is sure her sister is right next to her sobbing uncontrollably.\n</p><p>The next morning, Eun-joo drags a bloodied sack through the house, whipping it. Su-mi believes that Su-yeon is inside the sack. Eun-joo and Su-mi get into a violent physical altercation. Su-mi's father arrives to find an unconscious Su-mi.\n</p><p>It is ultimately revealed that Su-mi and her father were alone in the house the entire time. Su-mi had suffered from dissociative identity disorder, where she possessed two personalities: herself and a ruder, more distant variation of her stepmom Eun-joo. The \"body\" in the sack that Su-mi was whipping was actually a porcelain doll and she was also the one who killed the pet bird. Su-yeon was also revealed to be long dead; her presence was actually the result of Su-mi's hallucinations.\n</p><p>The father and the real Eun-joo send Su-mi back to the mental institution. Eun-joo tries to reconcile with Su-mi, promising to visit her as often as she can, but Su-mi rebuffs her. That night, Eun-joo hears footsteps in Su-yeon's old bedroom, revealing that the ghost actually exists. Su-yeon's real ghost crawls out of the closet and kills Eun-joo. Meanwhile, Su-mi smiles, appearing to have finally found peace.\n</p><p>Flashbacks reveal the day that led Su-mi to be institutionalized. While her terminally ill mother was still alive, her father engaged in an adulterous affair with Eun-joo, when she was still their in-home nurse. This upsets the sisters and drives their mother to hang herself in the closet of Su-yeon's bedroom. Su-yeon attempts to revive her but the closet collapses on top of her. Eun-joo sees Su-yeon thrashing and suffocating and at the last minute, decides to save Su-yeon. However, Su-mi arrives and criticises Eun-joo for interfering with her family. Angry at Su-mi's criticisms, Eun-joo leaves Su-yeon to die and tells Su-mi that she'll \"regret this moment.\" Su-mi leaves the house, unaware of both her sister and her mother's fate.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Im Soo-jung as Bae Su-mi</li>\n<li>Moon Geun-young as Bae Su-yeon</li>\n<li>Yum Jung-ah as Heo Eun-joo</li>\n<li>Kim Kap-soo as Bae Moo-hyeon</li>\n<li>Lee Seung-bi as Mi-hee (Eun-joo's sister in law)</li>\n<li>Lee Dae-yeon as Su-mi's doctor</li>\n<li>Park Mi-hyun as Mrs Bae (Moo-hyeon's first wife and Su-mi's and Su-yeon's mother)</li>\n<li>Woo Ki-hong as Sun-kyu (Eun-joo's brother)</li></ul>\n\n<h2>Production</h2>\n<p>The film is loosely based on a popular Korean fairy tale, \"Janghwa Hongryeon jeon\", which has been adapted into film versions in 1924, 1936, 1956, 1962, 1972, and 2009.\n</p><p>In the original Korean folktale, the sisters' names are Janghwa and Hongryeon (Rose Flower and Red Lotus). In the film, they are Su-mi and Su-yeon (though the names still hold the meaning, Rose and Lotus).\n</p><p>Im Soo-jung (Su-mi) originally auditioned for the role of Su-yeon (played by Moon Geun-young).\n</p><p>Kim Jee-woon originally wanted Jun Ji-hyun to play Su-mi, but she refused the role because she thought the script was too scary. Her next film was an unrelated horror film, <i>The Uninvited</i>.\n</p>\n\n<h2>Release</h2>\n<h3>Home media</h3>\n<p>The film was released on DVD on March 29, 2005 by Palisades Tartan. The film was originally announced for a Blu-ray release for October 22, 2013 by Tartan but the disc was never released as the company ceased operations. The DVD is now out of print. The film eventually received a region-free Blu-ray in Korea on October 14, 2013. Though the disc also offers English subtitles, the extras are all in Korean.</p><p>In 2023, Umbrella Entertainment is scheduled to release the film on Blu-Ray in June, 2023.\n</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>It is the highest-grossing Korean horror film and the first to be screened in American theaters upon release. With a limited American release starting 3 December 2004, it grossed $72,541.</p>\n\n<h3>Critical response</h3>\n<p><i>A Tale of Two Sisters</i> garnered very positive reviews. Review aggregator Rotten Tomatoes reports an approval rating of 86% based on 63 reviews, with an average rating of 7.1/10. The site's critics' consensus reads: \"Restrained but disturbing, <i>A Tale of Two Sisters</i> is a creepily effective, if at times confusing, horror movie.\" Meanwhile, Metacritic scored the film 65 out of 100, meaning \"generally favorable reviews\" from 19 critics.</p><p>Kevin Thomas of <i>Los Angeles Times</i> described <i>A Tale of Two Sisters</i> as \"a triumph of stylish, darkly absurdist horror that even manages to strike a chord of Shakespearean tragedy \u2013 and evokes a sense of wonder anew at all the terrible things people do to themselves and each other.\"</p>\n\n<h2>Awards and nominations</h2>\n<p>2003 Sitges Film Festival</p>\n<ul><li>Nomination - Best Film</li></ul><p>2003 Screamfest Horror Film Festival\n</p>\n<ul><li>Best Picture</li>\n<li>Best Actress - Im Soo-jung</li></ul><p>2003 Busan Film Critics Awards\n</p>\n<ul><li>Best New Actress - Im Soo-jung</li>\n<li>Best Cinematography - Lee Mo-gae</li>\n<li>Special Jury Prize - Kim Jee-woon</li></ul><p>2003 Blue Dragon Film Awards\n</p>\n<ul><li>Best New Actress - Im Soo-jung</li>\n<li>Nomination - Best New Actress - Moon Geun-young</li></ul><p>2003 Korean Film Awards\n</p>\n<ul><li>Best New Actress - Im Soo-jung</li>\n<li>Best Art Direction - Park Hee-jeong</li>\n<li>Best Sound - Choi Tae-young</li></ul><p>2003 Director's Cut Awards\n</p>\n<ul><li>Best Actress - Yum Jung-ah</li>\n<li>Best New Actress - Im Soo-jung</li></ul><p>2004 Brussels International Fantastic Film Festival\n</p>\n<ul><li>Silver Raven - Yum Jung-ah</li></ul><p>2004 Fantasia Festival\n</p>\n<ul><li>Most Popular Film</li></ul><p>2004 Fantasporto Film Festival\n</p>\n<ul><li>International Fantasy Film Best Actress - Im Soo-jung</li>\n<li>International Fantasy Film Best Director - Kim Jee-woon</li>\n<li>International Fantasy Film Best Film</li>\n<li>Orient Express Section Special Jury Award</li></ul><p>2004 G\u00e9rardmer Film Festival\n</p>\n<ul><li>Grand Prize</li>\n<li>Prix 13\u00e8me Rue</li>\n<li>Youth Jury Grand Prize</li></ul><p>2004 Grand Bell Awards\n</p>\n<ul><li>Nomination - Best Actress - Yum Jung-ah</li>\n<li>Nomination - Best New Actress - Im Soo-jung</li>\n<li>Nomination - Best Cinematography - Lee Mo-gae</li>\n<li>Nomination - Best Art Direction - Cho Geun-hyun</li>\n<li>Nomination - Best Lighting - Oh Seung-chul</li>\n<li>Nomination - Best Costume Design - Ok Su-gyeong</li>\n<li>Nomination - Best Music - Lee Byung-woo</li>\n<li>Nomination - Best Sound - Kim Kyung-taek, Choi Tae-young</li></ul>\n\n<h2>Remake</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>DreamWorks announced the two lead actresses on 28 June, with Emily Browning as Anna Ivers (Su-mi) and Arielle Kebbel as Alex Ivers (Su-yeon). Although originally titled <i>A Tale of Two Sisters</i> like the original film, it was later renamed as <i>The Uninvited</i>.</p>\n\n<h2>See also</h2>\n<ul><li>K-horror</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>A Tale of Two Sisters</i> at IMDb</li>\n<li><i>A Tale of Two Sisters</i> at the Korean Movie Database</li>\n<li><i>A Tale of Two Sisters</i> at AllMovie</li>\n<li><i>A Tale of Two Sisters</i> at Box Office Mojo</li>\n<li><i>A Tale of Two Sisters</i> at Metacritic </li>\n<li><i>A Tale of Two Sisters</i> at Rotten Tomatoes</li>\n<li><i>A Tale of Two Sisters</i> at HanCinema</li></ul>\n<!-- \nNewPP limit report\nParsed by mw1406\nCached time: 20231203070042\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.543 seconds\nReal time usage: 0.727 seconds\nPreprocessor visited node count: 3254/1000000\nPost\u2010expand include size: 74709/2097152 bytes\nTemplate argument size: 6888/2097152 bytes\nHighest expansion depth: 23/100\nExpensive parser function count: 6/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 48434/5000000 bytes\nLua time usage: 0.352/10.000 seconds\nLua memory usage: 25320412/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  665.786      1 -total\n 43.43%  289.132      2 Template:Infobox\n 27.99%  186.334      1 Template:Infobox_film\n 19.25%  128.135      1 Template:Reflist\n 18.07%  120.332      1 Template:Infobox_Korean_film_name\n 17.43%  116.073      1 Template:Infobox_Chinese/Korean\n 14.59%   97.123     11 Template:Cite_web\n 14.11%   93.919      3 Template:Lang\n 10.92%   72.736      1 Template:IMDb_title\n 10.03%   66.793      1 Template:Kim_Jee-woon\n-->"
+}

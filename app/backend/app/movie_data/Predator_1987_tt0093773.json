@@ -1,0 +1,4130 @@
+{
+    "adult": false,
+    "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+    "belongs_to_collection": {
+        "id": 399,
+        "name": "Predator Collection",
+        "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+        "backdrop_path": "/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/predator",
+    "id": 106,
+    "imdb_id": "tt0093773",
+    "original_language": "en",
+    "original_title": "Predator",
+    "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+    "popularity": 73.717,
+    "poster_path": "/9XibNLfmUWCg0PPydmyoCl1KxvF.jpg",
+    "production_companies": [
+        {
+            "id": 1885,
+            "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+            "name": "Silver Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 840,
+            "logo_path": null,
+            "name": "Lawrence Gordon Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 1302,
+            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+            "name": "Davis Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 5263,
+            "logo_path": null,
+            "name": "Amercent Films",
+            "origin_country": ""
+        },
+        {
+            "id": 5264,
+            "logo_path": null,
+            "name": "American Entertainment Partners L.P.",
+            "origin_country": ""
+        },
+        {
+            "id": 124763,
+            "logo_path": null,
+            "name": "Estudios Churubusco Azteca S.A.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1987-06-12",
+    "revenue": 98267558,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Espa\u00f1ol"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Soon the hunt will begin.",
+    "title": "Predator",
+    "video": false,
+    "vote_average": 7.511,
+    "vote_count": 7386,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1100,
+                "known_for_department": "Acting",
+                "name": "Arnold Schwarzenegger",
+                "original_name": "Arnold Schwarzenegger",
+                "popularity": 28.927,
+                "profile_path": "/zEMhugsgXIpnQqO31GpAJYMUZZ1.jpg",
+                "cast_id": 13,
+                "character": "Major Alan \"Dutch\" Schaefer",
+                "credit_id": "52fe4218c3a36847f8003b53",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1101,
+                "known_for_department": "Acting",
+                "name": "Carl Weathers",
+                "original_name": "Carl Weathers",
+                "popularity": 20.72,
+                "profile_path": "/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg",
+                "cast_id": 14,
+                "character": "Al Dillon",
+                "credit_id": "52fe4218c3a36847f8003b57",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1102,
+                "known_for_department": "Acting",
+                "name": "Elpidia Carrillo",
+                "original_name": "Elpidia Carrillo",
+                "popularity": 16.7,
+                "profile_path": "/xWlHSiYShbx8Abd1XFUqZw5xZOO.jpg",
+                "cast_id": 15,
+                "character": "Anna Gonsalves",
+                "credit_id": "52fe4218c3a36847f8003b5b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1104,
+                "known_for_department": "Acting",
+                "name": "Jesse Ventura",
+                "original_name": "Jesse Ventura",
+                "popularity": 8.942,
+                "profile_path": "/j1OaAOYJbelxGrFMzlwz6wfGaXA.jpg",
+                "cast_id": 17,
+                "character": "Blain Cooper",
+                "credit_id": "52fe4218c3a36847f8003b63",
+                "order": 3
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 1105,
+                "known_for_department": "Acting",
+                "name": "Sonny Landham",
+                "original_name": "Sonny Landham",
+                "popularity": 9.74,
+                "profile_path": "/873kBnyYgm8xYyeb26EXdCGDgnv.jpg",
+                "cast_id": 18,
+                "character": "Billy Sole",
+                "credit_id": "52fe4218c3a36847f8003b67",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1103,
+                "known_for_department": "Acting",
+                "name": "Bill Duke",
+                "original_name": "Bill Duke",
+                "popularity": 15.072,
+                "profile_path": "/3g2ggBB7hGq1gnQwiJtHgfX2AbF.jpg",
+                "cast_id": 16,
+                "character": "Mac Eliot",
+                "credit_id": "52fe4218c3a36847f8003b5f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1106,
+                "known_for_department": "Acting",
+                "name": "Richard Chaves",
+                "original_name": "Richard Chaves",
+                "popularity": 5.878,
+                "profile_path": "/leJa0My0VtHINCpmose619KXupp.jpg",
+                "cast_id": 19,
+                "character": "Jorge \"Poncho\" Ramirez",
+                "credit_id": "52fe4218c3a36847f8003b6b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1107,
+                "known_for_department": "Acting",
+                "name": "R. G. Armstrong",
+                "original_name": "R. G. Armstrong",
+                "popularity": 9.118,
+                "profile_path": "/wDsIQBOtNZotwMEi2QJLSNrLEXc.jpg",
+                "cast_id": 20,
+                "character": "Major General Homer Phillips",
+                "credit_id": "52fe4218c3a36847f8003b6f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1108,
+                "known_for_department": "Writing",
+                "name": "Shane Black",
+                "original_name": "Shane Black",
+                "popularity": 8.852,
+                "profile_path": "/fafBg8LjtQqsXyFg8ZgW7DHQXKt.jpg",
+                "cast_id": 21,
+                "character": "Rick Hawkins",
+                "credit_id": "52fe4218c3a36847f8003b73",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1109,
+                "known_for_department": "Acting",
+                "name": "Kevin Peter Hall",
+                "original_name": "Kevin Peter Hall",
+                "popularity": 6.681,
+                "profile_path": "/bg8ohLqgj1v9XzY927PfYNAu9nk.jpg",
+                "cast_id": 23,
+                "character": "Predator / Helicopter Pilot",
+                "credit_id": "52fe4218c3a36847f8003b7b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72258,
+                "known_for_department": "Directing",
+                "name": "Steve Boyum",
+                "original_name": "Steve Boyum",
+                "popularity": 4.631,
+                "profile_path": "/ynYjf5M7zUYgvhp0V9Q1RGd2yMv.jpg",
+                "cast_id": 79,
+                "character": "Hostage Executed by the Russian (uncredited)",
+                "credit_id": "5a5b85940e0a267fd302338d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1412253,
+                "known_for_department": "Crew",
+                "name": "William H. Burton Jr.",
+                "original_name": "William H. Burton Jr.",
+                "popularity": 2.888,
+                "profile_path": null,
+                "cast_id": 150,
+                "character": "Guerilla Soldier Shot Down from Tree (uncredited)",
+                "credit_id": "5e7501decabfe400111e97d4",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24969,
+                "known_for_department": "Acting",
+                "name": "Henry Kingi",
+                "original_name": "Henry Kingi",
+                "popularity": 3.649,
+                "profile_path": "/cThdKH6fn4faqei4DC2H3BQNkgI.jpg",
+                "cast_id": 81,
+                "character": "Guerilla Soldier Blown Up in Van (uncredited)",
+                "credit_id": "5a5b85b49251413f7702207e",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19540,
+                "known_for_department": "Acting",
+                "name": "Peter Cullen",
+                "original_name": "Peter Cullen",
+                "popularity": 10.329,
+                "profile_path": "/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg",
+                "cast_id": 80,
+                "character": "Predator (voice) (uncredited)",
+                "credit_id": "5a5b85a4c3a36867f601eebf",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20761,
+                "known_for_department": "Acting",
+                "name": "Sven-Ole Thorsen",
+                "original_name": "Sven-Ole Thorsen",
+                "popularity": 3.827,
+                "profile_path": "/7uhBGHXs6xLwFwzWbLEsHDgYzHP.jpg",
+                "cast_id": 25,
+                "character": "Russian Officer (uncredited)",
+                "credit_id": "5742adfe9251416ce6002052",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 176448,
+                "known_for_department": "Crew",
+                "name": "Jack Verbois",
+                "original_name": "Jack Verbois",
+                "popularity": 3.983,
+                "profile_path": "/kBF1FHoe10qiVgCvFOaOwExeMoF.jpg",
+                "cast_id": 82,
+                "character": "Guerilla Soldier Helicopter Pilot (uncredited)",
+                "credit_id": "5a5b85c19251413f68020cbd",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 35710,
+                "known_for_department": "Acting",
+                "name": "Franco Columbu",
+                "original_name": "Franco Columbu",
+                "popularity": 3.137,
+                "profile_path": "/JhEw4nZrxg1hCn7wLTMOtiC4Cx.jpg",
+                "cast_id": 152,
+                "character": "Medic (uncredited)",
+                "credit_id": "5fddd55cbe2d49003e4dbbb6",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37,
+                "known_for_department": "Sound",
+                "name": "Alan Silvestri",
+                "original_name": "Alan Silvestri",
+                "popularity": 6.97,
+                "profile_path": "/pQOAsQDuYMR4cKaPAP0wkRlCSNo.jpg",
+                "credit_id": "52fe4218c3a36847f8003b37",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37,
+                "known_for_department": "Sound",
+                "name": "Alan Silvestri",
+                "original_name": "Alan Silvestri",
+                "popularity": 6.97,
+                "profile_path": "/pQOAsQDuYMR4cKaPAP0wkRlCSNo.jpg",
+                "credit_id": "5cf2f6030e0a261973cbc6ef",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 671,
+                "known_for_department": "Sound",
+                "name": "Richard L. Anderson",
+                "original_name": "Richard L. Anderson",
+                "popularity": 3.714,
+                "profile_path": null,
+                "credit_id": "59a08f32925141774f0193fe",
+                "department": "Sound",
+                "job": "Supervising Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 908,
+                "known_for_department": "Editing",
+                "name": "Michael Tronick",
+                "original_name": "Michael Tronick",
+                "popularity": 2.556,
+                "profile_path": "/eQEp2BrQ7gLj7xkCDfU3ef0Pggr.jpg",
+                "credit_id": "59a09b5ec3a36847c501be1b",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1090,
+                "known_for_department": "Directing",
+                "name": "John McTiernan",
+                "original_name": "John McTiernan",
+                "popularity": 5.343,
+                "profile_path": "/yVfDkVbgQHD1A7JSV8Z47EjB1mU.jpg",
+                "credit_id": "52fe4218c3a36847f8003b0d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1091,
+                "known_for_department": "Production",
+                "name": "Joel Silver",
+                "original_name": "Joel Silver",
+                "popularity": 3.297,
+                "profile_path": "/5YWxIdEql8yyGWIcF1X3QPQ40u6.jpg",
+                "credit_id": "52fe4218c3a36847f8003b13",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1092,
+                "known_for_department": "Writing",
+                "name": "Jim Thomas",
+                "original_name": "Jim Thomas",
+                "popularity": 4.563,
+                "profile_path": null,
+                "credit_id": "52fe4218c3a36847f8003b25",
+                "department": "Writing",
+                "job": "Author"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1092,
+                "known_for_department": "Writing",
+                "name": "Jim Thomas",
+                "original_name": "Jim Thomas",
+                "popularity": 4.563,
+                "profile_path": null,
+                "credit_id": "5af095e5c3a368142400cb1d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1093,
+                "known_for_department": "Production",
+                "name": "Lawrence Gordon",
+                "original_name": "Lawrence Gordon",
+                "popularity": 4.232,
+                "profile_path": "/mdKtKRJtIgjKE6aVo2OyTZPKSda.jpg",
+                "credit_id": "52fe4218c3a36847f8003b1f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1094,
+                "known_for_department": "Writing",
+                "name": "John Thomas",
+                "original_name": "John Thomas",
+                "popularity": 3.207,
+                "profile_path": "/bQudeIF9IcQjGOhPbT7gWLH27zQ.jpg",
+                "credit_id": "52fe4218c3a36847f8003b2b",
+                "department": "Writing",
+                "job": "Author"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1095,
+                "known_for_department": "Camera",
+                "name": "Donald McAlpine",
+                "original_name": "Donald McAlpine",
+                "popularity": 5.481,
+                "profile_path": "/eZg5UnYR62y6iiyLPt6XC0vsWdV.jpg",
+                "credit_id": "52fe4218c3a36847f8003b31",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1096,
+                "known_for_department": "Art",
+                "name": "John Vallone",
+                "original_name": "John Vallone",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "52fe4218c3a36847f8003b3d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1096,
+                "known_for_department": "Art",
+                "name": "John Vallone",
+                "original_name": "John Vallone",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "5af095a0c3a36856f2004d2c",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1097,
+                "known_for_department": "Production",
+                "name": "Jackie Burch",
+                "original_name": "Jackie Burch",
+                "popularity": 4.114,
+                "profile_path": null,
+                "credit_id": "52fe4218c3a36847f8003b43",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1098,
+                "known_for_department": "Editing",
+                "name": "Mark Helfrich",
+                "original_name": "Mark Helfrich",
+                "popularity": 2.923,
+                "profile_path": "/zCx3E9m6fmJXPstWtdsmnMNB7fy.jpg",
+                "credit_id": "52fe4218c3a36847f8003b49",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1099,
+                "known_for_department": "Editing",
+                "name": "John F. Link",
+                "original_name": "John F. Link",
+                "popularity": 1.425,
+                "profile_path": null,
+                "credit_id": "52fe4218c3a36847f8003b4f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2043,
+                "known_for_department": "Production",
+                "name": "John Davis",
+                "original_name": "John Davis",
+                "popularity": 3.263,
+                "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+                "credit_id": "5af096080e0a261d8c01459d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3995,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jeff Dawn",
+                "original_name": "Jeff Dawn",
+                "popularity": 1.21,
+                "profile_path": "/ouFPaT1I5q5s3iM6veb1cq0MIMI.jpg",
+                "credit_id": "6549c006924ce6013bb7ada7",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 7713,
+                "known_for_department": "Production",
+                "name": "Beau Marks",
+                "original_name": "Beau Marks",
+                "popularity": 1.781,
+                "profile_path": null,
+                "credit_id": "5af0a02fc3a368142a014bb0",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 7713,
+                "known_for_department": "Production",
+                "name": "Beau Marks",
+                "original_name": "Beau Marks",
+                "popularity": 1.781,
+                "profile_path": null,
+                "credit_id": "5af0954a0e0a261d86014384",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 7713,
+                "known_for_department": "Production",
+                "name": "Beau Marks",
+                "original_name": "Beau Marks",
+                "popularity": 1.781,
+                "profile_path": null,
+                "credit_id": "59a08c0bc3a36847c501acf8",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7719,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marilyn Vance",
+                "original_name": "Marilyn Vance",
+                "popularity": 2.072,
+                "profile_path": "/tdNcz7CYAFFKoaYm4EvWec4z3gv.jpg",
+                "credit_id": "5362264ec3a368394700131c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 8531,
+                "known_for_department": "Production",
+                "name": "Anna Roth",
+                "original_name": "Anna Roth",
+                "popularity": 0.652,
+                "profile_path": null,
+                "credit_id": "5af0a14e925141766c00cf99",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9559,
+                "known_for_department": "Acting",
+                "name": "Jophery C. Brown",
+                "original_name": "Jophery C. Brown",
+                "popularity": 2.86,
+                "profile_path": "/Uf6SfhpfFvSUCNGQylUFdHn2pV.jpg",
+                "credit_id": "5a5b86600e0a267fd302345f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14382,
+                "known_for_department": "Sound",
+                "name": "George H. Anderson",
+                "original_name": "George H. Anderson",
+                "popularity": 0.746,
+                "profile_path": "/tNt8j2vG8EQlls7pvJfJ2Wu6KEK.jpg",
+                "credit_id": "59a08eee92514177810195b4",
+                "department": "Sound",
+                "job": "Supervising Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12512,
+                "known_for_department": "Art",
+                "name": "Jorge Sainz",
+                "original_name": "Jorge Sainz",
+                "popularity": 1.632,
+                "profile_path": null,
+                "credit_id": "59a089e6925141774b01a239",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13458,
+                "known_for_department": "Crew",
+                "name": "Joel Kramer",
+                "original_name": "Joel Kramer",
+                "popularity": 5.308,
+                "profile_path": "/76EDeGntW2vdvAG7r1TN5JmHDv8.jpg",
+                "credit_id": "5a5b8716c3a36867f601f01a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15850,
+                "known_for_department": "Acting",
+                "name": "Tony Brubaker",
+                "original_name": "Tony Brubaker",
+                "popularity": 8.268,
+                "profile_path": "/pi2U3iRoMNc4zHvzWdXG8hqMQUn.jpg",
+                "credit_id": "5a5b866b9251413f68020d6e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16563,
+                "known_for_department": "Crew",
+                "name": "Charles A. Tamburro",
+                "original_name": "Charles A. Tamburro",
+                "popularity": 6.244,
+                "profile_path": "/iCygZNkwUc2wSEIT58qUpiIkIC.jpg",
+                "credit_id": "59a09c4dc3a368478f0198a2",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16659,
+                "known_for_department": "Acting",
+                "name": "Bobby Bass",
+                "original_name": "Bobby Bass",
+                "popularity": 1.487,
+                "profile_path": null,
+                "credit_id": "5a5b8610c3a36867d3022960",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37029,
+                "known_for_department": "Acting",
+                "name": "Peter Kent",
+                "original_name": "Peter Kent",
+                "popularity": 6.651,
+                "profile_path": "/el1868cXV8Byu4uAUPkOrkIu9wd.jpg",
+                "credit_id": "5a5b87040e0a26576701f6f0",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15111,
+                "known_for_department": "Acting",
+                "name": "Jean-Claude Van Damme",
+                "original_name": "Jean-Claude Van Damme",
+                "popularity": 32.498,
+                "profile_path": "/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg",
+                "credit_id": "64f30f84e0ca7f00ae3a1dd6",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 22055,
+                "known_for_department": "Production",
+                "name": "Billy DaMota",
+                "original_name": "Billy DaMota",
+                "popularity": 1.568,
+                "profile_path": null,
+                "credit_id": "5cf2f5e3c3a3685f111dd293",
+                "department": "Production",
+                "job": "Casting Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23868,
+                "known_for_department": "Art",
+                "name": "Enrique Est\u00e9vez",
+                "original_name": "Enrique Est\u00e9vez",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "59a08a6cc3a368480e01820d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24969,
+                "known_for_department": "Acting",
+                "name": "Henry Kingi",
+                "original_name": "Henry Kingi",
+                "popularity": 3.649,
+                "profile_path": "/cThdKH6fn4faqei4DC2H3BQNkgI.jpg",
+                "credit_id": "5a5b870d9251413f65020b3f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44813,
+                "known_for_department": "Sound",
+                "name": "James B. Campbell",
+                "original_name": "James B. Campbell",
+                "popularity": 1.4,
+                "profile_path": "/ma1xUUCa13fs6mHn4riOKwBCQMo.jpg",
+                "credit_id": "59a09a8dc3a36847f6019ed9",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 54272,
+                "known_for_department": "Visual Effects",
+                "name": "Joel Hynek",
+                "original_name": "Joel Hynek",
+                "popularity": 1.603,
+                "profile_path": null,
+                "credit_id": "59a094a3c3a36847e501922d",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63709,
+                "known_for_department": "Directing",
+                "name": "Craig R. Baxley",
+                "original_name": "Craig R. Baxley",
+                "popularity": 3.75,
+                "profile_path": "/rP8bHx8ZKlAdjq81lrziaIwOHXe.jpg",
+                "credit_id": "59a096e4925141779a01a635",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63709,
+                "known_for_department": "Directing",
+                "name": "Craig R. Baxley",
+                "original_name": "Craig R. Baxley",
+                "popularity": 3.75,
+                "profile_path": "/rP8bHx8ZKlAdjq81lrziaIwOHXe.jpg",
+                "credit_id": "5cf2f536c3a368697a21b872",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69586,
+                "known_for_department": "Sound",
+                "name": "Gary Wright",
+                "original_name": "Gary Wright",
+                "popularity": 1.332,
+                "profile_path": null,
+                "credit_id": "59a092d2925141779f019c44",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72258,
+                "known_for_department": "Directing",
+                "name": "Steve Boyum",
+                "original_name": "Steve Boyum",
+                "popularity": 4.631,
+                "profile_path": "/ynYjf5M7zUYgvhp0V9Q1RGd2yMv.jpg",
+                "credit_id": "5a5b86560e0a267fdd0235e9",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78395,
+                "known_for_department": "Crew",
+                "name": "Norman Howell",
+                "original_name": "Norman Howell",
+                "popularity": 4.286,
+                "profile_path": "/pgKSdCN2kA17u7P5HZClWUmXJTb.jpg",
+                "credit_id": "5a5b86c4c3a368680201e926",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91312,
+                "known_for_department": "Sound",
+                "name": "Vanessa Theme Ament",
+                "original_name": "Vanessa Theme Ament",
+                "popularity": 0.901,
+                "profile_path": null,
+                "credit_id": "5cf2f5720e0a261973cbc65f",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 118944,
+                "known_for_department": "Sound",
+                "name": "Cindy Marty",
+                "original_name": "Cindy Marty",
+                "popularity": 2.402,
+                "profile_path": null,
+                "credit_id": "59a0904dc3a36847f601941a",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136450,
+                "known_for_department": "Writing",
+                "name": "William Stout",
+                "original_name": "William Stout",
+                "popularity": 1.364,
+                "profile_path": "/3dzyXLTQgez9rMmREuk7Tna8fR7.jpg",
+                "credit_id": "5f1bcaf3735205003842bf6e",
+                "department": "Visual Effects",
+                "job": "Creature Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 139999,
+                "known_for_department": "Acting",
+                "name": "Steven Chambers",
+                "original_name": "Steven Chambers",
+                "popularity": 3.247,
+                "profile_path": "/cMwhB369taI2DBjeHRqKew2BKoN.jpg",
+                "credit_id": "5a5b86830e0a26576701f654",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142157,
+                "known_for_department": "Crew",
+                "name": "Doug Coleman",
+                "original_name": "Doug Coleman",
+                "popularity": 1.66,
+                "profile_path": "/temeKPrQ9VosJXwb51O3EWxQ5yO.jpg",
+                "credit_id": "5a5b868cc3a36867d30229e7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 148856,
+                "known_for_department": "Acting",
+                "name": "Frank Mitchell",
+                "original_name": "Frank Mitchell",
+                "popularity": 1.726,
+                "profile_path": "/yG5kFAR52O980XEo6q3qgZw10ez.jpg",
+                "credit_id": "59a08de7925141774b01a699",
+                "department": "Art",
+                "job": "Greensman"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 161753,
+                "known_for_department": "Crew",
+                "name": "William H. Burton Sr.",
+                "original_name": "William H. Burton Sr.",
+                "popularity": 0.758,
+                "profile_path": null,
+                "credit_id": "637048371684f700c4eb0a44",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 176448,
+                "known_for_department": "Crew",
+                "name": "Jack Verbois",
+                "original_name": "Jack Verbois",
+                "popularity": 3.983,
+                "profile_path": "/kBF1FHoe10qiVgCvFOaOwExeMoF.jpg",
+                "credit_id": "5a5b87220e0a267fe6022ea4",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 555081,
+                "known_for_department": "Acting",
+                "name": "David Efron",
+                "original_name": "David Efron",
+                "popularity": 1.199,
+                "profile_path": null,
+                "credit_id": "5a5b86ad9251413f6e02154d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 671520,
+                "known_for_department": "Crew",
+                "name": "Screaming Mad George",
+                "original_name": "Screaming Mad George",
+                "popularity": 2.078,
+                "profile_path": null,
+                "credit_id": "61d6da299b86160093b1a423",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1050929,
+                "known_for_department": "Sound",
+                "name": "J.W. Kompare",
+                "original_name": "J.W. Kompare",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a094ffc3a368481e01a29f",
+                "department": "Crew",
+                "job": "Visual Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1070097,
+                "known_for_department": "Sound",
+                "name": "Gene Corso",
+                "original_name": "Gene Corso",
+                "popularity": 2.658,
+                "profile_path": null,
+                "credit_id": "59a08f6fc3a368481e019b7b",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1095154,
+                "known_for_department": "Production",
+                "name": "Guillermo Castillo",
+                "original_name": "Guillermo Castillo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f6279251411882bbf55d",
+                "department": "Production",
+                "job": "Extras Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1118402,
+                "known_for_department": "Crew",
+                "name": "Al Di Sarro",
+                "original_name": "Al Di Sarro",
+                "popularity": 1.3,
+                "profile_path": null,
+                "credit_id": "59a09373925141775b019e7b",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1204294,
+                "known_for_department": "Acting",
+                "name": "Monty Jordan",
+                "original_name": "Monty Jordan",
+                "popularity": 2.264,
+                "profile_path": null,
+                "credit_id": "5a5b8741c3a36867de022387",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1206905,
+                "known_for_department": "Costume & Make-Up",
+                "name": "James W. Tyson",
+                "original_name": "James W. Tyson",
+                "popularity": 1.285,
+                "profile_path": null,
+                "credit_id": "59a099d0925141774f019f3a",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1316296,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Scott H. Eddo",
+                "original_name": "Scott H. Eddo",
+                "popularity": 4.942,
+                "profile_path": null,
+                "credit_id": "59a08b51c3a368481e019760",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1329476,
+                "known_for_department": "Art",
+                "name": "Theresa Wachter",
+                "original_name": "Theresa Wachter",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5af09de50e0a261d8c014c26",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1337119,
+                "known_for_department": "Art",
+                "name": "Nikita Knatz",
+                "original_name": "Nikita Knatz",
+                "popularity": 1.627,
+                "profile_path": null,
+                "credit_id": "6025c1819d2b63003e698737",
+                "department": "Art",
+                "job": "Production Illustrator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1337623,
+                "known_for_department": "Acting",
+                "name": "Sergio Kato",
+                "original_name": "Sergio Kato",
+                "popularity": 3.404,
+                "profile_path": "/qj9GQAqeiBziJaXtSZRw8yZ6b8T.jpg",
+                "credit_id": "5a5b86f2c3a36867e4023451",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338836,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Robert B. Harris",
+                "original_name": "Robert B. Harris",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "59a09995c3a36847f6019de9",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1338840,
+                "known_for_department": "Directing",
+                "name": "Marion Tumen",
+                "original_name": "Marion Tumen",
+                "popularity": 3.401,
+                "profile_path": null,
+                "credit_id": "59a09d05c3a368481e01aa09",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341808,
+                "known_for_department": "Sound",
+                "name": "Kevin E. Carpenter",
+                "original_name": "Kevin E. Carpenter",
+                "popularity": 0.708,
+                "profile_path": null,
+                "credit_id": "5cf2f554925141247cbc0023",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1390537,
+                "known_for_department": "Crew",
+                "name": "Charles Enzen",
+                "original_name": "Charles Enzen",
+                "popularity": 1.116,
+                "profile_path": null,
+                "credit_id": "5af09f98925141762900e067",
+                "department": "Crew",
+                "job": "Transportation Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1392719,
+                "known_for_department": "Camera",
+                "name": "Robert Agganis",
+                "original_name": "Robert Agganis",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af09e8f92514176410167fe",
+                "department": "Camera",
+                "job": "Steadicam Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1392719,
+                "known_for_department": "Camera",
+                "name": "Robert Agganis",
+                "original_name": "Robert Agganis",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af09e550e0a261d8c014c88",
+                "department": "Camera",
+                "job": "First Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1400082,
+                "known_for_department": "Camera",
+                "name": "Zade Rosenthal",
+                "original_name": "Zade Rosenthal",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "59a098f4c3a368478f0195be",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1400815,
+                "known_for_department": "Crew",
+                "name": "Laurencio Cordero",
+                "original_name": "Laurencio Cordero",
+                "popularity": 3.304,
+                "profile_path": null,
+                "credit_id": "59a0933f9251417781019b39",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1409485,
+                "known_for_department": "Sound",
+                "name": "Richard Shorr",
+                "original_name": "Richard Shorr",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "59a09199925141775b019c1f",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1410345,
+                "known_for_department": "Art",
+                "name": "Tommy Tomlinson",
+                "original_name": "Tommy Tomlinson",
+                "popularity": 2.367,
+                "profile_path": null,
+                "credit_id": "59a08eb2c3a368478f018ad0",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1412617,
+                "known_for_department": "Sound",
+                "name": "Hank Salerno",
+                "original_name": "Hank Salerno",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "59a090d2925141774b01a9ed",
+                "department": "Sound",
+                "job": "ADR Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1413169,
+                "known_for_department": "Sound",
+                "name": "Dennis S. Sands",
+                "original_name": "Dennis S. Sands",
+                "popularity": 1.636,
+                "profile_path": null,
+                "credit_id": "5af0a08e925141765e015e64",
+                "department": "Sound",
+                "job": "Scoring Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1416581,
+                "known_for_department": "Sound",
+                "name": "Catherine Shorr",
+                "original_name": "Catherine Shorr",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "59a09167925141779f019a7a",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1417685,
+                "known_for_department": "Crew",
+                "name": "Gregory J. Barnett",
+                "original_name": "Gregory J. Barnett",
+                "popularity": 2.343,
+                "profile_path": "/97Gns4ZXSHaVcpMwJSUjH3etjCx.jpg",
+                "credit_id": "5cf2f5b2c3a368697a21b94c",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1418021,
+                "known_for_department": "Sound",
+                "name": "Bill Voigtlander",
+                "original_name": "Bill Voigtlander",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "59a0928ec3a36847f60196e5",
+                "department": "Sound",
+                "job": "ADR Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1423862,
+                "known_for_department": "Sound",
+                "name": "David W. Gray",
+                "original_name": "David W. Gray",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5af0a1340e0a261d7c0129e6",
+                "department": "Sound",
+                "job": "Dolby Consultant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1423863,
+                "known_for_department": "Sound",
+                "name": "David E. Stone",
+                "original_name": "David E. Stone",
+                "popularity": 1.099,
+                "profile_path": null,
+                "credit_id": "59a09201925141779301a318",
+                "department": "Sound",
+                "job": "Supervising Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1427541,
+                "known_for_department": "Crew",
+                "name": "Richard Humphreys",
+                "original_name": "Richard Humphreys",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5a5b86cf9251413f62021873",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1429549,
+                "known_for_department": "Editing",
+                "name": "Dale E. Grahn",
+                "original_name": "Dale E. Grahn",
+                "popularity": 0.646,
+                "profile_path": null,
+                "credit_id": "5af09fc7925141763e015da3",
+                "department": "Editing",
+                "job": "Color Timer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1440822,
+                "known_for_department": "Sound",
+                "name": "John Pospisil",
+                "original_name": "John Pospisil",
+                "popularity": 1.28,
+                "profile_path": null,
+                "credit_id": "5af0a10f925141764a014af3",
+                "department": "Crew",
+                "job": "Special Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1445670,
+                "known_for_department": "Production",
+                "name": "Robert Hammond",
+                "original_name": "Robert Hammond",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5a5b86bb0e0a26576701f694",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1457633,
+                "known_for_department": "Crew",
+                "name": "Leon Delaney",
+                "original_name": "Leon Delaney",
+                "popularity": 3.756,
+                "profile_path": "/wawVRYgYkMVEW2pgtMr4CeXo02z.jpg",
+                "credit_id": "5a5b8698c3a36867de0222cd",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535407,
+                "known_for_department": "Crew",
+                "name": "Gary Baxley",
+                "original_name": "Gary Baxley",
+                "popularity": 4.405,
+                "profile_path": "/vpGwsTGPZhhUkP9I1yyF4RBsBQX.jpg",
+                "credit_id": "5a5b864a0e0a267fe6022dc3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1542688,
+                "known_for_department": "Crew",
+                "name": "Eddie L. Watkins",
+                "original_name": "Eddie L. Watkins",
+                "popularity": 1.55,
+                "profile_path": null,
+                "credit_id": "5a5b8751c3a36867e40234b3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1560037,
+                "known_for_department": "Art",
+                "name": "Francisco Ramirez",
+                "original_name": "Francisco Ramirez",
+                "popularity": 1.008,
+                "profile_path": null,
+                "credit_id": "59a08e4f9251417793019eca",
+                "department": "Art",
+                "job": "Greensman"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1564494,
+                "known_for_department": "Crew",
+                "name": "Manuel Paredes Murillo",
+                "original_name": "Manuel Paredes Murillo",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5af09ef0925141766f012b1c",
+                "department": "Crew",
+                "job": "Driver"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1564988,
+                "known_for_department": "Sound",
+                "name": "Manuel Topete",
+                "original_name": "Manuel Topete",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "5af0a0b2c3a368141e0103ec",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1565158,
+                "known_for_department": "Sound",
+                "name": "Steve Richardson",
+                "original_name": "Steve Richardson",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "59a090a8c3a36847c501b221",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1578179,
+                "known_for_department": "Crew",
+                "name": "Guillermo 'Memo' Carre\u00f1o",
+                "original_name": "Guillermo 'Memo' Carre\u00f1o",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5cf2f638c3a3684bf021f874",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1584966,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Bertha Chiu",
+                "original_name": "Bertha Chiu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a08b119251417793019b9b",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1632066,
+                "known_for_department": "Crew",
+                "name": "Peter McKernan",
+                "original_name": "Peter McKernan",
+                "popularity": 2.345,
+                "profile_path": "/y9TwHiOhGphwiedYtgW97AxCUtk.jpg",
+                "credit_id": "59a09c07c3a368478f019860",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1640697,
+                "known_for_department": "Lighting",
+                "name": "Fernando Calvillo",
+                "original_name": "Fernando Calvillo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a09780925141779a01a6dd",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1660864,
+                "known_for_department": "Crew",
+                "name": "Antonio Mata",
+                "original_name": "Antonio Mata",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a08d74925141775b01971a",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1698468,
+                "known_for_department": "Acting",
+                "name": "Donald Meyers",
+                "original_name": "Donald Meyers",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5af0a0f80e0a261d760150a3",
+                "department": "Writing",
+                "job": "Storyboard"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1737128,
+                "known_for_department": "Lighting",
+                "name": "Tony Holtham",
+                "original_name": "Tony Holtham",
+                "popularity": 0.695,
+                "profile_path": null,
+                "credit_id": "635de88c0f526500799f6e53",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1743906,
+                "known_for_department": "Crew",
+                "name": "Humberto Gurza",
+                "original_name": "Humberto Gurza",
+                "popularity": 1.386,
+                "profile_path": null,
+                "credit_id": "5cf2f61592514141f2bbe9f5",
+                "department": "Crew",
+                "job": "Animal Wrangler"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1800242,
+                "known_for_department": "Crew",
+                "name": "Michael Tamburro",
+                "original_name": "Michael Tamburro",
+                "popularity": 0.884,
+                "profile_path": null,
+                "credit_id": "59a09c87c3a36847d401971f",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1800898,
+                "known_for_department": "Art",
+                "name": "Frank Richwood",
+                "original_name": "Frank Richwood",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "59a089a592514177810190a0",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1801526,
+                "known_for_department": "Directing",
+                "name": "J. Tom Archuleta",
+                "original_name": "J. Tom Archuleta",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5cf2f522c3a368775821c9c4",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877085,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Carlos Horcasitas",
+                "original_name": "Carlos Horcasitas",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a08be392514177a70194f7",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1877089,
+                "known_for_department": "Art",
+                "name": "Henry Alvarez",
+                "original_name": "Henry Alvarez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a08c73925141779f019510",
+                "department": "Art",
+                "job": "Sculptor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877093,
+                "known_for_department": "Crew",
+                "name": "Marc Fambro",
+                "original_name": "Marc Fambro",
+                "popularity": 0.786,
+                "profile_path": null,
+                "credit_id": "59a08d16925141775b0196b8",
+                "department": "Crew",
+                "job": "Carpenter"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877095,
+                "known_for_department": "Art",
+                "name": "Salvador Pena",
+                "original_name": "Salvador Pena",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "59a08e2992514177a7019739",
+                "department": "Art",
+                "job": "Construction Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877099,
+                "known_for_department": "Art",
+                "name": "Macedonio Ramos",
+                "original_name": "Macedonio Ramos",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "59a08e8d925141779f01973c",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877109,
+                "known_for_department": "Sound",
+                "name": "Corinne Sessarego",
+                "original_name": "Corinne Sessarego",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a09128925141779f019a32",
+                "department": "Sound",
+                "job": "ADR Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877117,
+                "known_for_department": "Visual Effects",
+                "name": "Michael Bigelow",
+                "original_name": "Michael Bigelow",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a0941c925141774b01ae21",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877120,
+                "known_for_department": "Visual Effects",
+                "name": "Robert M. Greenberg",
+                "original_name": "Robert M. Greenberg",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "59a0945492514177a7019e75",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877124,
+                "known_for_department": "Visual Effects",
+                "name": "Robert Mrozowski",
+                "original_name": "Robert Mrozowski",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "59a0954ec3a368478f019264",
+                "department": "Visual Effects",
+                "job": "Animation Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877129,
+                "known_for_department": "Camera",
+                "name": "Juan Iniestra",
+                "original_name": "Juan Iniestra",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a097c992514177a701a1b4",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877130,
+                "known_for_department": "Camera",
+                "name": "Grahame Litchfield",
+                "original_name": "Grahame Litchfield",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "59a09811c3a368478f0194ed",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877131,
+                "known_for_department": "Lighting",
+                "name": "Warren Mearns",
+                "original_name": "Warren Mearns",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a09831925141779301a9b8",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877136,
+                "known_for_department": "Camera",
+                "name": "Patrick Nash",
+                "original_name": "Patrick Nash",
+                "popularity": 0.716,
+                "profile_path": null,
+                "credit_id": "59a098a5925141774b01b263",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877141,
+                "known_for_department": "Camera",
+                "name": "Alfredo Ruvalcaba",
+                "original_name": "Alfredo Ruvalcaba",
+                "popularity": 1.24,
+                "profile_path": null,
+                "credit_id": "59a0993ac3a3684830019c5c",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877148,
+                "known_for_department": "Crew",
+                "name": "Alejandro Madrid Bonilla",
+                "original_name": "Alejandro Madrid Bonilla",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59a09b9a92514177a701a52f",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877151,
+                "known_for_department": "Directing",
+                "name": "Gabriela Gurrola",
+                "original_name": "Gabriela Gurrola",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "59a09bd1925141774b01b563",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1894068,
+                "known_for_department": "Editing",
+                "name": "Jack Hooper",
+                "original_name": "Jack Hooper",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f5f4c3a36839e41de6cb",
+                "department": "Editing",
+                "job": "Negative Cutter"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1959878,
+                "known_for_department": "Crew",
+                "name": "David Drazes",
+                "original_name": "David Drazes",
+                "popularity": 0.704,
+                "profile_path": null,
+                "credit_id": "5a5b86a30e0a26576701f677",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038143,
+                "known_for_department": "Production",
+                "name": "Laurence Pereira",
+                "original_name": "Laurence Pereira",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af095ca9251417688016480",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038177,
+                "known_for_department": "Camera",
+                "name": "Frank Bryson",
+                "original_name": "Frank Bryson",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5af09e34c3a368142700f693",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038178,
+                "known_for_department": "Crew",
+                "name": "Margarito Fuentes Guti\u00e9rrez",
+                "original_name": "Margarito Fuentes Guti\u00e9rrez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af09f830e0a261d8c014d7c",
+                "department": "Crew",
+                "job": "Transportation Co-Captain"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038179,
+                "known_for_department": "Lighting",
+                "name": "Adolfo Lara",
+                "original_name": "Adolfo Lara",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af09ff0c3a368141500e28d",
+                "department": "Lighting",
+                "job": "Best Boy Electric"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038180,
+                "known_for_department": "Production",
+                "name": "Patti Calhoun",
+                "original_name": "Patti Calhoun",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af0a01e9251417639010104",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038181,
+                "known_for_department": "Sound",
+                "name": "Jorge G\u00f3mez",
+                "original_name": "Jorge G\u00f3mez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5af0a047c3a3681421010b24",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2048462,
+                "known_for_department": "Camera",
+                "name": "Steve Slocomb",
+                "original_name": "Steve Slocomb",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5cf2f59e925141392ebb70d2",
+                "department": "Visual Effects",
+                "job": "Visual Effects Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2239347,
+                "known_for_department": "Sound",
+                "name": "J.R. Westen",
+                "original_name": "J.R. Westen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f585925141247cbc006e",
+                "department": "Sound",
+                "job": "Foley Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2327369,
+                "known_for_department": "Art",
+                "name": "Benito Cano",
+                "original_name": "Benito Cano",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f543c3a36861781dd146",
+                "department": "Art",
+                "job": "Assistant Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2327371,
+                "known_for_department": "Sound",
+                "name": "Vic Zaslav",
+                "original_name": "Vic Zaslav",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f565c3a3684bf021f693",
+                "department": "Sound",
+                "job": "ADR Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2327372,
+                "known_for_department": "Camera",
+                "name": "Guillermo Moysen",
+                "original_name": "Guillermo Moysen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f5cb92514141f2bbe94b",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2327373,
+                "known_for_department": "Camera",
+                "name": "Antonio Ram\u00edrez 'Puma'",
+                "original_name": "Antonio Ram\u00edrez 'Puma'",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f5d89251411cdbbbca8b",
+                "department": "Camera",
+                "job": "Dolly Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2327378,
+                "known_for_department": "Crew",
+                "name": "Gary Goldman",
+                "original_name": "Gary Goldman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cf2f66a0e0a261973cbc93c",
+                "department": "Crew",
+                "job": "Technical Advisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3291134,
+                "known_for_department": "Camera",
+                "name": "John Oteri",
+                "original_name": "John Oteri",
+                "popularity": 5.39,
+                "profile_path": null,
+                "credit_id": "617e45a13e2ec8002a92d6cd",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Predator (1987) Original Trailer [FHD]",
+                "key": "vrLmxQJn1tk",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2023-08-10T13:19:24.000Z",
+                "id": "64e536b7c613ce012cc38970"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "30th Anniversary Trailer",
+                "key": "SFoQL6gqhFM",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "published_at": "2017-09-27T13:44:12.000Z",
+                "id": "63839f25fb8346007c477b02"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "Vo3FmkleTEQ",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "published_at": "2014-06-26T14:00:24.000Z",
+                "id": "62f119eda1074b00920fa429"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+                "vote_average": 5.518,
+                "vote_count": 10,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1431,
+                "iso_639_1": null,
+                "file_path": "/x6aNbv9hCgBolIbnwlocwzhS9Eq.jpg",
+                "vote_average": 5.338,
+                "vote_count": 13,
+                "width": 2544
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1012,
+                "iso_639_1": "en",
+                "file_path": "/c5cFOjL2SVRdKMZ6yhY4sZ5r2no.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1800
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/z6swrjufTvl7q3yEN27L39YKwcl.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/nXiVXsYBCj0lEfFu8V8fYKxLvKY.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/qpS5pfZJcirPTDpvckpczKJIsO0.jpg",
+                "vote_average": 5.27,
+                "vote_count": 10,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/gIp0L6VRu2xrX4uCnH9jPsmpaCG.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/qjfPJVqyjcQA4Mw6Gd5tJJFeID9.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/gf2LqQIhuX5PkiwB0SChkaSptzD.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/klqsyPURUz6h4o5nU2X9QGp2JKP.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/sJPcDSqe744eCWX9FFDRzhbACcN.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/m5rW15uxP1vGWtzbE8SmjH8CxSX.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/vvsQe0ksUH001rxFGrnZkL9eBzr.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/59as7ffBNyGMfIOew8CPqO5i0zG.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/vU8Nrw7qcV6KbFZUAJImR9dGPMw.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/kWJ2UTpRARqwpROW0oxbk9mZyiy.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/D0Kwzj6LXOEWGEUjKsXRPuOYyk.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/2k9RDzmUpd68zXDsEBN0lYx7Zmv.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/lCkHe3sAHFvS8lu5rSodTVWk7zP.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 937,
+                "iso_639_1": null,
+                "file_path": "/1pyDHAFgoqZu0sslxjKb3PztNhE.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1667
+            },
+            {
+                "aspect_ratio": 1.78,
+                "height": 1434,
+                "iso_639_1": null,
+                "file_path": "/ymuFO6955B7tNZzwj5XGcsJ8ehh.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 2552
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/dINbCFAdiecrKpuiQLj0mpv6GlF.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/7sQFP96rxOfYJoQwhHEBGBWsviF.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/8c0usZ9PZf0KrA1N6CRRSROvQD8.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/5o5jPiPgtq7pesQ8xHj8SfEcf0s.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": "pt",
+                "file_path": "/dpX6bfPlbDzagpqN7ukuI0tErvE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.776,
+                "height": 964,
+                "iso_639_1": "en",
+                "file_path": "/eA0QPGWhh9OOeMZyZolK5fGIchq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1712
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/mS11Nq1iUuncUj7SUowkUXB2nlZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "ru",
+                "file_path": "/4I4maqb8CLV6861IxKQQ646nzuN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "de",
+                "file_path": "/mXkRLEuuKDQNNGDsnBRu3hXFZ0v.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/zoHGkBQuxUp5NU1wDD1rfOP4yOG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/8pbo9Q0GiqcgcLl4XXBathWPtKB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/wLCeNxlCmd7LhaT5065cPbWXeWt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.846,
+                "height": 208,
+                "iso_639_1": "ru",
+                "file_path": "/oaN2rWXtTqSLihIXjYq4EStR9Ov.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 3.815,
+                "height": 205,
+                "iso_639_1": "ru",
+                "file_path": "/sRetaPu4Yl8S3ni8wxz8A0NVw35.png",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 782
+            },
+            {
+                "aspect_ratio": 5.207,
+                "height": 150,
+                "iso_639_1": "es",
+                "file_path": "/e4dOUF9wnKgRGglTsozEPOee9U4.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 781
+            },
+            {
+                "aspect_ratio": 4.8,
+                "height": 165,
+                "iso_639_1": "en",
+                "file_path": "/mPX6xfaGp0R6QKZ8nmaEoZfMKtG.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 792
+            },
+            {
+                "aspect_ratio": 11.894,
+                "height": 66,
+                "iso_639_1": "en",
+                "file_path": "/mKi6nYiH8MD1ej1Q6GP92Oi9mGD.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 785
+            },
+            {
+                "aspect_ratio": 2.574,
+                "height": 310,
+                "iso_639_1": "en",
+                "file_path": "/Akd3DszKg25SOpZbfo5PxrzLmmk.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 798
+            },
+            {
+                "aspect_ratio": 5.138,
+                "height": 152,
+                "iso_639_1": "es",
+                "file_path": "/hgfyIBmmo6Chubk5lQOpzkbXMWx.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 781
+            },
+            {
+                "aspect_ratio": 4.046,
+                "height": 194,
+                "iso_639_1": "en",
+                "file_path": "/dFP6918jmk94kcOn3HMAKjYCOF4.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 785
+            },
+            {
+                "aspect_ratio": 4.078,
+                "height": 192,
+                "iso_639_1": "en",
+                "file_path": "/6dPMPbU5em2sFzD1uxzQLcuKtLG.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 783
+            },
+            {
+                "aspect_ratio": 4.036,
+                "height": 193,
+                "iso_639_1": "en",
+                "file_path": "/uXnAfDn5cHx8wjr25PJ8kgazKSl.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 779
+            },
+            {
+                "aspect_ratio": 4.078,
+                "height": 192,
+                "iso_639_1": "en",
+                "file_path": "/g1pqHqP8oxj5JFqHOLGFc91Sdww.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 783
+            },
+            {
+                "aspect_ratio": 5.0,
+                "height": 156,
+                "iso_639_1": "en",
+                "file_path": "/vCEieyXJtdzgiLZx3bNWQ6tqVwa.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 780
+            },
+            {
+                "aspect_ratio": 4.338,
+                "height": 461,
+                "iso_639_1": "pt",
+                "file_path": "/sCtNAtcOchKuUinMrpv23Nga5j0.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 4.174,
+                "height": 345,
+                "iso_639_1": "en",
+                "file_path": "/uG7T1Em7bnxXFAYwEsl2NMJ03GL.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 6.798,
+                "height": 188,
+                "iso_639_1": "en",
+                "file_path": "/cEJMk27D3i5c7QMu0j3hqGz8CTW.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1278
+            },
+            {
+                "aspect_ratio": 10.156,
+                "height": 77,
+                "iso_639_1": "es",
+                "file_path": "/uoQ9TOzukH2xtLeNeLdk0ehDUyf.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 782
+            },
+            {
+                "aspect_ratio": 8.571,
+                "height": 91,
+                "iso_639_1": "en",
+                "file_path": "/arMurr8iqbVogeeysAwDAAzMBp4.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 780
+            },
+            {
+                "aspect_ratio": 4.083,
+                "height": 192,
+                "iso_639_1": "en",
+                "file_path": "/h5SU7UJLDeZ1Isnp377xe9BBCd8.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 784
+            },
+            {
+                "aspect_ratio": 5.242,
+                "height": 149,
+                "iso_639_1": "es",
+                "file_path": "/sDy9vPagtxDj8eOhuqA2i0xZ43v.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 781
+            },
+            {
+                "aspect_ratio": 4.17,
+                "height": 188,
+                "iso_639_1": "pt",
+                "file_path": "/sBrnASdVgIQYPEvs5puz1PRaf9u.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 784
+            },
+            {
+                "aspect_ratio": 3.095,
+                "height": 252,
+                "iso_639_1": "en",
+                "file_path": "/nogiPxP0TWXP7ZVdOWINwQFJtFX.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 780
+            },
+            {
+                "aspect_ratio": 2.874,
+                "height": 348,
+                "iso_639_1": "he",
+                "file_path": "/jf5rFB3wYtdrgwnqmqgug7jxIvU.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 3.974,
+                "height": 310,
+                "iso_639_1": "en",
+                "file_path": "/6xSWGALWKdJNuRlocySetwRFvhE.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1232
+            },
+            {
+                "aspect_ratio": 3.38,
+                "height": 426,
+                "iso_639_1": "hu",
+                "file_path": "/bjrE80uIODFgma4VdHDBEGK8oh1.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 3.23,
+                "height": 1189,
+                "iso_639_1": "he",
+                "file_path": "/oNUroAk8QbPN5g6bOUYajlvFPrf.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 4.885,
+                "height": 393,
+                "iso_639_1": "sv",
+                "file_path": "/cDKFVmambQvdzKKXv3EuInc99i1.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/bly6lKBoSeiyXB7VNKVW5ULZEMt.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/lXoATMtTK3ZsICCvTtXygASHZd9.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "es",
+                "file_path": "/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/9lhDjw7AHXle3WEhnWqpOE1ZbmE.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/9XibNLfmUWCg0PPydmyoCl1KxvF.jpg",
+                "vote_average": 5.346,
+                "vote_count": 17,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+                "vote_average": 5.334,
+                "vote_count": 11,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "zh",
+                "file_path": "/8IxWKzjI8sh32KQ99RewTekiZ7U.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "fr",
+                "file_path": "/cQH06u01kT6uuSfqPliSoC8yxI4.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "sv",
+                "file_path": "/pmQEVPN0EP4eaOYV7v3mhaMc6EP.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "hu",
+                "file_path": "/1pFpJjhrwpVsLIz7xidQ9fIyYvq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "hu",
+                "file_path": "/cdG7zzfxau3n0oIcKafacYf6wis.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "hu",
+                "file_path": "/gbbxb6amMlp9wkF7uITQWgmleHp.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/uSm1w7Jgj958aZ9zppNyZQvvlv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/quBFT8L0Soxd4Ls6Ok9DtZniIj7.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/9OmKCNKFreLtB6ZHDZ1GSmHjNFq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "fr",
+                "file_path": "/zcuPohsXTngU9fs61ffIHcRYVNe.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "zh",
+                "file_path": "/h8Y94odptFqlvKcPKi8bbYbxKGK.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "cs",
+                "file_path": "/9DptHIoo5vojuYk6Pbh4O73jESW.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "tr",
+                "file_path": "/dbBVAWpMFZtckP4pmEVU22ifpNi.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 2560,
+                "iso_639_1": "ja",
+                "file_path": "/hxbL4TEufJ36O9U30DqU3iQO1r3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1709
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2048,
+                "iso_639_1": "sk",
+                "file_path": "/hYyxeglPpwBxiZsfLZGeSrz7asL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 980,
+                "iso_639_1": "pt",
+                "file_path": "/mlIktqz45e8QZ1hb4iiLeoke8g9.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5aqkZJV3PVIAfbxPkCqCdQ3eJ6P.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/9OPTQSlhMAJhZSLb4c4aFxBuxQV.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ycd8SeqE96eoGZchZiuhEl7yrnu.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1037,
+                "iso_639_1": "en",
+                "file_path": "/uWjajGh3yNc74MhQMLgOoUDopGH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/wPvxgucNz0AX7kdFsNrCcOqNbyi.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.684,
+                "height": 2388,
+                "iso_639_1": "en",
+                "file_path": "/aViagUOy7DiHqZyHDa1LCNtFNOg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1634
+            },
+            {
+                "aspect_ratio": 0.665,
+                "height": 1246,
+                "iso_639_1": "en",
+                "file_path": "/94OlC9fQMVOxlwyCCRzmxJ2EREc.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 828
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/kWCG24EwrvKopr6441479Hn1byc.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/gz3rRRBaBGt6MEW1R9szmAjQQhD.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1329,
+                "iso_639_1": "en",
+                "file_path": "/7GVsIphaRDg4bZ9cwUyFLEFUKyn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 886
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1329,
+                "iso_639_1": "en",
+                "file_path": "/6exCSimClgIbxkUwg7t8NBewiXR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 886
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 845,
+                "iso_639_1": "en",
+                "file_path": "/lDVnjHPqxTduM1BCOUVDmkaRqzS.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 563
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 750,
+                "iso_639_1": "ko",
+                "file_path": "/AjYcJsuiqW4sHFEmh5SVSy5PswH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 532
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/kP9ka07iziDEMrWJafEEBHjDr2S.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/yGIhtlL2sxFYGrozmEPvYicsDT7.jpg",
+                "vote_average": 5.282,
+                "vote_count": 14,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/spgPmu5bTk8N6KZXrIOBwfd3cNb.jpg",
+                "vote_average": 5.264,
+                "vote_count": 8,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "es",
+                "file_path": "/elmVECDoeLik3eRwfVsyfDfd6iB.jpg",
+                "vote_average": 5.264,
+                "vote_count": 8,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/sBhHlcMImhtxg58oPxQpkmlwPlW.jpg",
+                "vote_average": 5.264,
+                "vote_count": 8,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "zh",
+                "file_path": "/yVaAuDdwNiMTltq7cTtI84lU6SZ.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "zh",
+                "file_path": "/h9fnAjA3i3nl4Eq1sM5q8pAX4ZR.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.699,
+                "height": 2560,
+                "iso_639_1": "pt",
+                "file_path": "/rQapN8THVwVdxwK7Q29sUMYyrGO.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1789
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/lCC2WiDjCBnVkKAz7GqJ80kAi27.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "uk",
+                "file_path": "/opM13vbOQQeUpmmFMPQVtV9wNzI.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "es",
+                "file_path": "/d4KcYzKuQMn28fS4TfJmRgZnUh8.jpg",
+                "vote_average": 5.238,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg",
+                "vote_average": 5.206,
+                "vote_count": 9,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+                "vote_average": 5.206,
+                "vote_count": 9,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/vDkSL7WtWjAlTac8gqgff3GpGXQ.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/w193fXwldXJgQ56tf2IFiiKnDha.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/daRXI0cJ8SGqlU7Lsmz1Ez3J3cH.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/2mppbXmwNHddMmVCCdhxBzSgaVl.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/ohGqJArRZNXE1MkfjqgihIgTAqC.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "es",
+                "file_path": "/kFNLAbvc2yKsuq1KfgeTlsDzo91.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/iy8X8E1KKlDZl0rDqCjaw97h64x.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/7xdjFeapyeEBJvZysnzQzT1RsLb.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/oMP6qlD0MKQDjQJ95tc4Z3rJAEm.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.695,
+                "height": 1080,
+                "iso_639_1": "bg",
+                "file_path": "/hx2rQjseV7FM1D5jq9eQereEsMJ.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 751
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 970,
+                "iso_639_1": "ja",
+                "file_path": "/hWsqq4wVsZkvUc9zTi17EyBq4my.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 680
+            },
+            {
+                "aspect_ratio": 0.652,
+                "height": 807,
+                "iso_639_1": "ru",
+                "file_path": "/1CkPEOSsXg9pvoxF2QhIUDkDUn3.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 526
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/mQ1aI0KLRLzKmkg83yyes1KVn66.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/uEU2AZ9PH6Xi9xPXhYUXSkpxnLa.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/dw3VBS4muRFP4JCagdZJI1K2VWA.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.749,
+                "height": 935,
+                "iso_639_1": "en",
+                "file_path": "/wEIdWO1h39xfG43er6HDb3tIUuj.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/A238otMBqZ0m5BeTk82lnaEVFZ3.jpg",
+                "vote_average": 5.156,
+                "vote_count": 12,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2023,
+                "iso_639_1": "de",
+                "file_path": "/7N2l8wvn7uQ3SmkqJqYwNppDkVL.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 1349
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/biznhvfedHPp9GKjlVFXH6OZtyU.jpg",
+                "vote_average": 5.128,
+                "vote_count": 19,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/fFxqqDujsbtdZGyGR5eHPGcMQ0d.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 2191,
+                "iso_639_1": "en",
+                "file_path": "/qBvKSCBnGhqCHhRUMXcJE4qz7vc.jpg",
+                "vote_average": 5.12,
+                "vote_count": 17,
+                "width": 1464
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/mMMzWA4DBQhyqDaBOD13EifmRZ3.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1058
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/9eowgEDjE1i3AOAfNwfIU4gySGl.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/pDGAkkynJDWrzPOW9C4vVeQgDP5.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 506
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/fWbK9w6ktGS64qwUnxqpui9BgUh.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/wff3uJKMwCw2hqvZwc1OBIZybrS.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1202,
+                "iso_639_1": "en",
+                "file_path": "/5IZYzm1ZVB58johyXTl0AChO8QG.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 850
+            },
+            {
+                "aspect_ratio": 0.704,
+                "height": 2057,
+                "iso_639_1": "de",
+                "file_path": "/5iRBJuyVP5I4Ksmwe6Xssjw61G5.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1449
+            },
+            {
+                "aspect_ratio": 0.71,
+                "height": 2146,
+                "iso_639_1": "de",
+                "file_path": "/byZs1eiM5b44wGlnJdqmcGnibE6.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1523
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 1174,
+                "iso_639_1": "de",
+                "file_path": "/9j30JjiDBDDLIwh0RQlfYIBMG6h.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 838
+            },
+            {
+                "aspect_ratio": 0.672,
+                "height": 2265,
+                "iso_639_1": "en",
+                "file_path": "/eeUqH6B85CNgQ6CG0PjG0yDVK5k.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1521
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/tOxjKWxPyYS7DJXAIhW8yTh6mQh.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/yXA4teFVPqfRdCG9hwBYUs8qUYh.jpg",
+                "vote_average": 5.1,
+                "vote_count": 13,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/iieEddHTv5zzTyr7OnN5ULOu7bI.jpg",
+                "vote_average": 5.096,
+                "vote_count": 24,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ydozKP1UCW5BCe2FW5bJ3r2OJsC.jpg",
+                "vote_average": 5.09,
+                "vote_count": 11,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/vCa7uRFeoIdKWpoOrZY6OUW9vk6.jpg",
+                "vote_average": 5.086,
+                "vote_count": 22,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/hY7Z3WaB85RS3zz9OdHW0iI7qII.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/uSjjNORNDc4G8frLi9L2MFm9HD.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/uNGaHiluglp3DTrmFe0fRutQOTt.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/8AjnlgaRxUYde6uuV4W7MSPHzpU.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2500,
+                "iso_639_1": "en",
+                "file_path": "/7jesrJwGu5p9dby5QjWtSQYW5OW.jpg",
+                "vote_average": 5.068,
+                "vote_count": 7,
+                "width": 1667
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1050,
+                "iso_639_1": "en",
+                "file_path": "/fBq3DT4ROuXcCKSPrdnzJzQjSiR.jpg",
+                "vote_average": 5.068,
+                "vote_count": 7,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.679,
+                "height": 1472,
+                "iso_639_1": "en",
+                "file_path": "/fUPyJRDuIUMkOysEYyPqIjOTf6p.jpg",
+                "vote_average": 5.068,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/mB8FAXW3FV0BpV4HCQ24Yo31XdF.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 525
+            },
+            {
+                "aspect_ratio": 0.658,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/97cq3Ct06EASXsK9b4VBT0NZ6LF.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1580
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1073,
+                "iso_639_1": "en",
+                "file_path": "/hFOKo40cQAOjpsKfHzEuvXm28t1.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 715
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1073,
+                "iso_639_1": "en",
+                "file_path": "/3093kw06gyj50oTfj95IJIShLyB.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 715
+            },
+            {
+                "aspect_ratio": 0.724,
+                "height": 816,
+                "iso_639_1": "uk",
+                "file_path": "/A2QxiMZJIv2fX1hRKZUpbmZ1OFP.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 591
+            },
+            {
+                "aspect_ratio": 0.738,
+                "height": 1896,
+                "iso_639_1": "en",
+                "file_path": "/2coDLcnh4WDTXodtlEeEpz4jeV.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 751,
+                "iso_639_1": "en",
+                "file_path": "/iVFkDQryERvoWJfbinbyu6sxh4Z.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/7tYsM7KzVWfVvIKAwrlDpZfhobr.jpg",
+                "vote_average": 5.022,
+                "vote_count": 10,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/kSPFZN3SnUNcxZ0N7LqPpUSJHHy.jpg",
+                "vote_average": 5.022,
+                "vote_count": 10,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/8g2YZQolGXPB2cmJiwI7tc2TmpU.jpg",
+                "vote_average": 4.982,
+                "vote_count": 13,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/hGv45KgmRRWaKyZAsiixZftqL61.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 2190,
+                "iso_639_1": "en",
+                "file_path": "/5EaL7O4y0UQ0PdDIlNXMSDcLxLq.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 1464
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/6r3ugnk1ED69Kthin2baTQYRvUF.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/yzmK1qKRdM69bf4WvcEvR1H896p.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/tqbAw4PwJYhQvI0Wg77em6ajdDx.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/axkvYEs9zpPBYwvWBEZFdBvnwCT.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 525
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/xeEdFCZ0h7jCis3qGGylj4Tgjwt.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 849
+            },
+            {
+                "aspect_ratio": 0.673,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/4NWryOknu0kCLDx5f16Uproq6so.jpg",
+                "vote_average": 4.954,
+                "vote_count": 9,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/odurOlLIbpYgvEO5MYqAXgXq0ob.jpg",
+                "vote_average": 4.938,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.715,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/Aq9qRGa5mSXmQ40y1JeQYALFL7b.jpg",
+                "vote_average": 4.882,
+                "vote_count": 8,
+                "width": 536
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2480,
+                "iso_639_1": "cs",
+                "file_path": "/fINReNuCwSzxsyXrShM37kCAllb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1653
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 1800,
+                "iso_639_1": "th",
+                "file_path": "/lRhM7HJFdE4c8euelnP6CKp1z9v.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1250
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/wgBPKtWrCkUnBublYi2QR8lTGG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/mWSSmGd6S3xiPEZ3G1SIgaPq7Hn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/tLxHAGkyId5KTTp5m3te9IoHKgt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/3bOyK42oiX7GJccn9owomDM4hUr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "tr",
+                "file_path": "/ikCJMWucdcK2YieDtZh1uJcaCq8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/AwxeWwxFlWhHl3oeG1sztlvsNQb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.71,
+                "height": 2162,
+                "iso_639_1": "hu",
+                "file_path": "/u7yGm0dQyM62VTsYJV0HW25OpR8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1535
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1080,
+                "iso_639_1": "fr",
+                "file_path": "/iMkw8IszIpTo46oK02vWBgxZKc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 719
+            },
+            {
+                "aspect_ratio": 0.684,
+                "height": 1087,
+                "iso_639_1": "ko",
+                "file_path": "/cclEYZkTPzy35ImbozELQrbFIjE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 744
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 800,
+                "iso_639_1": "zh",
+                "file_path": "/dXw6AeEh6ys2G2a6EQnk9mg3e2x.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 540
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fi",
+                "file_path": "/zif40MzIguGCTYeEO4568tlRnZb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 800,
+                "iso_639_1": "fr",
+                "file_path": "/dSFgzVblmjt0mZ7JqelLaVc6hwk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "pt",
+                "file_path": "/m2UprzsHKUtRnjz8qmfii0LRQb3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2168,
+                "iso_639_1": "es",
+                "file_path": "/9OiznxUDyDIJBLyylLWV3ZpJDkM.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1517
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "hu",
+                "file_path": "/eaPCIXpUm8VUmtrDdvty9b2HcrU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/kaIBZ392reNTjK7pIFHq1qswyG1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/bLu2PlbEU75MCWoiOxr2ORjI5t7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 2161,
+                "iso_639_1": "cs",
+                "file_path": "/vxIYK4sV1qU4ayZSVPSifk8NzTY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1530
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/vRZpJDjHqcHPJol8vEmfSeNxLrI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/aT3VMxZO0Y2eeLdN8By3YHVaTxu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/t6ZrScN7JGMbqhWiMFRCTMWBCdS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1077,
+                "iso_639_1": "en",
+                "file_path": "/5xTTLuf15SbHmzsfCkAa3YfLIV3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 718
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 2800,
+                "iso_639_1": "en",
+                "file_path": "/tCIJWBwBmIakr1hMyAmX6n7X7Q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/pdQAwmcB4o91pFlGT5inGLlQ5rg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1329,
+                "iso_639_1": "en",
+                "file_path": "/aoXQNhuDO30eSZxZ3MaW4JHhADJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 886
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1329,
+                "iso_639_1": "en",
+                "file_path": "/hK0Fm6vrR4jY3Yx4ov60gnxf8pe.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 886
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1329,
+                "iso_639_1": "en",
+                "file_path": "/tVnrJ9NGRmk9wAqSmTlhQOQ6tYH.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 886
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 2833,
+                "iso_639_1": "ja",
+                "file_path": "/umDt3Ec6CePf4tqYeXuxoQIY94A.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/wKbLLvOmu6XQ1UEjjvj91SQ0zye.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sv",
+                "file_path": "/z1mHlQ26ED8Zwu7MFjJt5c5nxLT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/fDmqsfc4UlyfZFP4MY0slK8f5Mj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/qn6eaOZdWHzBJpEapMdDAFaIxVU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1296,
+                "iso_639_1": null,
+                "file_path": "/1zbjEEOHuTgFmHueCEKq4Zjkf6z.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 864
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/d2qPwLRMYNpS8qSbspz4D7n1Ilw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/vqDwRC97tBwD4MWSfZE0fhusqhu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1621,
+                "iso_639_1": "en",
+                "file_path": "/wvfRUao6P9W15D5yP6PMKuMVAtu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1621,
+                "iso_639_1": "en",
+                "file_path": "/8aa98yz9AZVfA9q6E92pWppNfiQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "uk",
+                "file_path": "/6lhmfFxI49n0a81BspMqVkaWTkj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1008,
+                "name": "guerrilla warfare"
+            },
+            {
+                "id": 1291,
+                "name": "central and south america"
+            },
+            {
+                "id": 1297,
+                "name": "predator"
+            },
+            {
+                "id": 11060,
+                "name": "trap"
+            },
+            {
+                "id": 9951,
+                "name": "alien"
+            },
+            {
+                "id": 10349,
+                "name": "survival"
+            },
+            {
+                "id": 10333,
+                "name": "stalking"
+            },
+            {
+                "id": 13031,
+                "name": "creature"
+            },
+            {
+                "id": 14909,
+                "name": "alien invasion"
+            },
+            {
+                "id": 14915,
+                "name": "invisible"
+            },
+            {
+                "id": 15248,
+                "name": "commando"
+            },
+            {
+                "id": 312898,
+                "name": "violence"
+            }
+        ]
+    },
+    "title_english": "Predator",
+    "year": "1987",
+    "rated": "R",
+    "director_list": [
+        "John McTiernan"
+    ],
+    "writer_list": [
+        "Jim Thomas",
+        " John Thomas"
+    ],
+    "main_cast": [
+        "Arnold Schwarzenegger",
+        " Carl Weathers",
+        " Kevin Peter Hall"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "imdb_rating": "7.8",
+    "imdb_votes": "443,883",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Predation",
+    "wikipedia_summary": "Predation is a biological interaction where one organism, the predator, kills and eats another organism, its prey. It is one of a family of common feeding behaviours that includes parasitism and micropredation (which usually do not kill the host) and parasitoidism (which always does, eventually). It is distinct from scavenging on dead prey, though many predators also scavenge; it overlaps with herbivory, as seed predators and destructive frugivores are predators.\nPredators may actively search for or pursue prey or wait for it, often concealed. When prey is detected, the predator assesses whether to attack it. This may involve ambush or pursuit predation, sometimes after stalking the prey. If the attack is successful, the predator kills the prey, removes any inedible parts like the shell or spines, and eats it.\nPredators are adapted and often highly specialized for hunting, with acute senses such as vision, hearing, or smell. Many predatory animals, both vertebrate and invertebrate, have sharp claws or jaws to grip, kill, and cut up their prey. Other adaptations include stealth and aggressive mimicry that improve hunting efficiency.\nPredation has a powerful selective effect on prey, and the prey develop antipredator adaptations such as warning coloration, alarm calls and other signals, camouflage, mimicry of well-defended species, and defensive spines and chemicals. Sometimes predator and prey find themselves in an evolutionary arms race, a cycle of adaptations and counter-adaptations. Predation has been a major driver of evolution since at least the Cambrian period.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><b>Predation</b> is a biological interaction where one organism, the <b>predator</b>, kills and eats another organism, its <b>prey</b>. It is one of a family of common feeding behaviours that includes parasitism and micropredation (which usually do not kill the host) and parasitoidism (which always does, eventually). It is distinct from scavenging on dead prey, though many predators also scavenge; it overlaps with herbivory, as seed predators and destructive frugivores are predators.\n</p><p>Predators may actively search for or pursue prey or wait for it, often concealed. When prey is detected, the predator assesses whether to attack it. This may involve ambush or pursuit predation, sometimes after stalking the prey. If the attack is successful, the predator kills the prey, removes any inedible parts like the shell or spines, and eats it.\n</p><p>Predators are adapted and often highly specialized for hunting, with acute senses such as vision, hearing, or smell. Many predatory animals, both vertebrate and invertebrate, have sharp claws or jaws to grip, kill, and cut up their prey. Other adaptations include stealth and aggressive mimicry that improve hunting efficiency.\n</p><p>Predation has a powerful selective effect on prey, and the prey develop antipredator adaptations such as warning coloration, alarm calls and other signals, camouflage, mimicry of well-defended species, and defensive spines and chemicals. Sometimes predator and prey find themselves in an evolutionary arms race, a cycle of adaptations and counter-adaptations. Predation has been a major driver of evolution since at least the Cambrian period.\n</p>\n\n<h2>Definition</h2>\n<p>At the most basic level, predators kill and eat other organisms. However, the concept of predation is broad, defined differently in different contexts, and includes a wide variety of feeding methods; and some relationships that result in the prey's death are not generally called predation. A parasitoid, such as an ichneumon wasp, lays its eggs in or on its host; the eggs hatch into larvae, which eat the host, and it inevitably dies. Zoologists generally call this a form of parasitism, though conventionally parasites are thought not to kill their hosts. A predator can be defined to differ from a parasitoid in that it has many prey, captured over its lifetime, where a parasitoid's larva has just one, or at least has its food supply provisioned for it on just one occasion.</p>\n<p>There are other difficult and borderline cases. Micropredators are small animals that, like predators, feed entirely on other organisms; they include fleas and mosquitoes that consume blood from living animals, and aphids that consume sap from living plants. However, since they typically do not kill their hosts, they are now often thought of as parasites. Animals that graze on phytoplankton or mats of microbes are predators, as they consume and kill their food organisms; but herbivores that browse leaves are not, as their food plants usually survive the assault. When animals eat seeds (<i>seed predation</i> or <i>granivory</i>) or eggs (<i>egg predation</i>), they are consuming entire living organisms, which by definition makes them predators.</p><p>Scavengers, organisms that only eat organisms found already dead, are not predators, but many predators such as the jackal and the hyena scavenge when the opportunity arises. Among invertebrates, social wasps (yellowjackets) are both hunters and scavengers of other insects.</p>\n\n<h2>Taxonomic range</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n\n<p>While examples of predators among mammals and birds are well known, predators can be found in a broad range of taxa including arthropods. They are common among insects, including mantids, dragonflies, lacewings and scorpionflies. In some species such as the alderfly, only the larvae are predatory (the adults do not eat). Spiders are predatory, as well as other terrestrial invertebrates such as scorpions; centipedes; some mites, snails and slugs; nematodes; and planarian worms. In marine environments, most cnidarians (e.g., jellyfish, hydroids), ctenophora (comb jellies), echinoderms (e.g., sea stars, sea urchins, sand dollars, and sea cucumbers) and flatworms are predatory. Among crustaceans, lobsters, crabs, shrimps and barnacles are predators, and in turn crustaceans are preyed on by nearly all cephalopods (including octopuses, squid and cuttlefish).</p>\n<p>Seed predation is restricted to mammals, birds, and insects but is found in almost all terrestrial ecosystems. Egg predation includes both specialist egg predators such as some colubrid snakes and generalists such as foxes and badgers that opportunistically take eggs when they find them.</p><p>Some plants, like the pitcher plant, the Venus fly trap and the sundew, are carnivorous and consume insects. Methods of predation by plants varies greatly but often involves a food trap, mechanical stimulation, and electrical impulses to eventually catch and consume its prey. Some carnivorous fungi catch nematodes using either active traps in the form of constricting rings, or passive traps with adhesive structures.</p><p>Many species of protozoa (eukaryotes) and bacteria (prokaryotes) prey on other microorganisms; the feeding mode is evidently ancient, and evolved many times in both groups. Among freshwater and marine zooplankton, whether single-celled or multi-cellular, predatory grazing on phytoplankton and smaller zooplankton is common, and found in many species of nanoflagellates, dinoflagellates, ciliates, rotifers, a diverse range of meroplankton animal larvae, and two groups of crustaceans, namely copepods and cladocerans.</p>\n\n<h2>Foraging</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>To feed, a predator must search for, pursue and kill its prey. These actions form a foraging cycle. The predator must decide where to look for prey based on its geographical distribution; and once it has located prey, it must assess whether to pursue it or to wait for a better choice. If it chooses pursuit, its physical capabilities determine the mode of pursuit (e.g., ambush or chase). Having captured the prey, it may also need to expend energy <i>handling</i> it (e.g., killing it, removing any shell or spines, and ingesting it).</p>\n\n<h3>Search</h3>\n<p>Predators have a choice of search modes ranging from <i>sit-and-wait</i> to <i>active</i> or <i>widely foraging</i>. The sit-and-wait method is most suitable if the prey are dense and mobile, and the predator has low energy requirements. Wide foraging expends more energy, and is used when prey is sedentary or sparsely distributed. There is a continuum of search modes with intervals between periods of movement ranging from seconds to months. Sharks, sunfish, Insectivorous birds and shrews are almost always moving while web-building spiders, aquatic invertebrates, praying mantises and kestrels rarely move. In between, plovers and other shorebirds, freshwater fish including crappies, and the larvae of coccinellid beetles (ladybirds), alternate between actively searching and scanning the environment.</p>\n<p>Prey distributions are often clumped, and predators respond by looking for <i>patches</i> where prey is dense and then searching within patches. Where food is found in patches, such as rare shoals of fish in a nearly empty ocean, the search stage requires the predator to travel for a substantial time, and to expend a significant amount of energy, to locate each food patch. For example, the black-browed albatross regularly makes foraging flights to a range of around 700 kilometres (430 miles), up to a maximum foraging range of 3,000 kilometres (1,860 miles) for breeding birds gathering food for their young. With static prey, some predators can learn suitable patch locations and return to them at intervals to feed. The optimal foraging strategy for search has been modelled using the marginal value theorem.</p><p>Search patterns often appear random. One such is the L\u00e9vy walk, that tends to involve clusters of short steps with occasional long steps. It is a good fit to the behaviour of a wide variety of organisms including bacteria, honeybees, sharks and human hunter-gatherers.</p>\n\n<h3>Assessment</h3>\n<p>Having found prey, a predator must decide whether to pursue it or keep searching. The decision depends on the costs and benefits involved. A bird foraging for insects spends a lot of time searching but capturing and eating them is quick and easy, so the efficient strategy for the bird is to eat every palatable insect it finds. By contrast, a predator such as a lion or falcon finds its prey easily but capturing it requires a lot of effort. In that case, the predator is more selective.</p><p>One of the factors to consider is size. Prey that is too small may not be worth the trouble for the amount of energy it provides. Too large, and it may be too difficult to capture. For example, a mantid captures prey with its forelegs and they are optimized for grabbing prey of a certain size. Mantids are reluctant to attack prey that is far from that size. There is a positive correlation between the size of a predator and its prey.</p><p>A predator may also assess a patch and decide whether to spend time searching for prey in it. This may involve some knowledge of the preferences of the prey; for example, ladybirds can choose a patch of vegetation suitable for their aphid prey.</p>\n\n<h3>Capture</h3>\n<p>To capture prey, predators have a spectrum of pursuit modes that range from overt chase (<i>pursuit predation</i>) to a sudden strike on nearby prey (<i>ambush predation</i>). Another strategy in between ambush and pursuit is <i>ballistic interception</i>, where a predator observes and predicts a prey's motion and then launches its attack accordingly.</p>\n\n<h4>Ambush</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti\">\n<p>Ambush or sit-and-wait predators are carnivorous animals that capture prey by stealth or surprise. In animals, ambush predation is characterized by the predator's scanning the environment from a concealed position until a prey is spotted, and then rapidly executing a fixed surprise attack. Vertebrate ambush predators include frogs, fish such as the angel shark, the northern pike and the eastern frogfish. Among the many invertebrate ambush predators are trapdoor spiders and Australian Crab spiders on land and mantis shrimps in the sea. Ambush predators often construct a burrow in which to hide, improving concealment at the cost of reducing their field of vision. Some ambush predators also use lures to attract prey within striking range. The capturing movement has to be rapid to trap the prey, given that the attack is not modifiable once launched.</p><p><span id=\"Ballistic\"></span>\n</p>\n\n<h4>Ballistic interception</h4>\n<p>Ballistic interception is the strategy where a predator observes the movement of a prey, predicts its motion, works out an interception path, and then attacks the prey on that path. This differs from ambush predation in that the predator adjusts its attack according to how the prey is moving. Ballistic interception involves a brief period for planning, giving the prey an opportunity to escape. Some frogs wait until snakes have begun their strike before jumping, reducing the time available to the snake to recalibrate its attack, and maximising the angular adjustment that the snake would need to make to intercept the frog in real time. Ballistic predators include insects such as dragonflies, and vertebrates such as archerfish (attacking with a jet of water), chameleons (attacking with their tongues), and some colubrid snakes.</p>\n\n<h4>Pursuit</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti\">\n<p>In pursuit predation, predators chase fleeing prey. If the prey flees in a straight line, capture depends only on the predator's being faster than the prey. If the prey manoeuvres by turning as it flees, the predator must react in real time to calculate and follow a new intercept path, such as by parallel navigation, as it closes on the prey. Many pursuit predators use camouflage to approach the prey as close as possible unobserved (<i>stalking</i>) before starting the pursuit. Pursuit predators include terrestrial mammals such as humans, African wild dogs, spotted hyenas and wolves; marine predators such as dolphins, orcas and many predatory fishes, such as tuna; predatory birds (raptors) such as falcons; and insects such as dragonflies.</p><p>An extreme form of pursuit is endurance or persistence hunting, in which the predator tires out the prey by following it over a long distance, sometimes for hours at a time. The method is used by human hunter-gatherers and by canids such as African wild dogs and domestic hounds. The African wild dog is an extreme persistence predator, tiring out individual prey by following them for many miles at relatively low speed.</p><p>A specialised form of pursuit predation is the lunge feeding of baleen whales. These very large marine predators feed on plankton, especially krill, diving and actively swimming into concentrations of plankton, and then taking a huge gulp of water and filtering it through their feathery baleen plates.</p><p>Pursuit predators may be social, like the lion and wolf that hunt in groups, or solitary.</p>\n\n<h3>Handling</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti\">\n<p>Once the predator has captured the prey, it has to handle it: very carefully if the prey is dangerous to eat, such as if it possesses sharp or poisonous spines, as in many prey fish. Some catfish such as the Ictaluridae have spines on the back (dorsal) and belly (pectoral) which lock in the erect position; as the catfish thrashes about when captured, these could pierce the predator's mouth, possibly fatally. Some fish-eating birds like the osprey avoid the danger of spines by tearing up their prey before eating it.</p>\n\n<h3>Solitary versus social predation</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In social predation, a group of predators cooperates to kill prey. This makes it possible to kill creatures larger than those they could overpower singly; for example, hyenas, and wolves collaborate to catch and kill herbivores as large as buffalo, and lions even hunt elephants. It can also make prey more readily available through strategies like flushing of prey and herding it into a smaller area. For example, when mixed flocks of birds forage, the birds in front flush out insects that are caught by the birds behind. Spinner dolphins form a circle around a school of fish and move inwards, concentrating the fish by a factor of 200. By hunting socially chimpanzees can catch colobus monkeys that would readily escape an individual hunter, while cooperating Harris hawks can trap rabbits.</p>\n<p>Predators of different species sometimes cooperate to catch prey. In coral reefs, when fish such as the grouper and coral trout spot prey that is inaccessible to them, they signal to giant moray eels, Napoleon wrasses or octopuses. These predators are able to access small crevices and flush out the prey. Killer whales have been known to help whalers hunt baleen whales.</p><p>Social hunting allows predators to tackle a wider range of prey, but at the risk of competition for the captured food. Solitary predators have more chance of eating what they catch, at the price of increased expenditure of energy to catch it, and increased risk that the prey will escape. Ambush predators are often solitary to reduce the risk of becoming prey themselves. Of 245 terrestrial members of the Carnivora (the group that includes the cats, dogs, and bears), 177 are solitary; and 35 of the 37 wild cats are solitary, including the cougar and cheetah. However, the solitary cougar does allow other cougars to share in a kill, and the coyote can be either solitary or social. Other solitary predators include the northern pike, wolf spiders and all the thousands of species of solitary wasps among arthropods, and many microorganisms and zooplankton.</p>\n\n<h2>Specialization</h2>\n<h3>Physical adaptations</h3>\n<p>Under the pressure of natural selection, predators have evolved a variety of physical adaptations for detecting, catching, killing, and digesting prey. These include speed, agility, stealth, sharp senses, claws, teeth, filters, and suitable digestive systems.</p><p>For detecting prey, predators have well-developed vision, smell, or hearing. Predators as diverse as owls and jumping spiders have forward-facing eyes, providing accurate binocular vision over a relatively narrow field of view, whereas prey animals often have less acute all-round vision. Animals such as foxes can smell their prey even when it is concealed under 2 feet (60\u00a0cm) of snow or earth. Many predators have acute hearing, and some such as echolocating bats hunt exclusively by active or passive use of sound.</p><p>Predators including big cats, birds of prey, and ants share powerful jaws, sharp teeth, or claws which they use to seize and kill their prey. Some predators such as snakes and fish-eating birds like herons and cormorants swallow their prey whole; some snakes can unhinge their jaws to allow them to swallow large prey, while fish-eating birds have long spear-like beaks that they use to stab and grip fast-moving and slippery prey. Fish and other predators have developed the ability to crush or open the armoured shells of molluscs.</p><p>Many predators are powerfully built and can catch and kill animals larger than themselves; this applies as much to small predators such as ants and shrews as to big and visibly muscular carnivores like the cougar and lion.</p>\n<ul class=\"gallery mw-gallery-packed\"><li class=\"gallerybox\" style=\"width: 165.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 118.66666666667px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 151.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 197.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 154px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 173.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n</ul>\n\n<h3>Diet and behaviour</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti\">\n<p>Predators are often highly specialized in their diet and hunting behaviour; for example, the Eurasian lynx only hunts small ungulates. Others such as leopards are more opportunistic generalists, preying on at least 100 species. The specialists may be highly adapted to capturing their preferred prey, whereas generalists may be better able to switch to other prey when a preferred target is scarce. When prey have a clumped (uneven) distribution, the optimal strategy for the predator is predicted to be more specialized as the prey are more conspicuous and can be found more quickly; this appears to be correct for predators of immobile prey, but is doubtful with mobile prey.</p><p><span id=\"Size-selective_predation\"></span>\nIn size-selective predation, predators select prey of a certain size. Large prey may prove troublesome for a predator, while small prey might prove hard to find and in any case provide less of a reward. This has led to a correlation between the size of predators and their prey. Size may also act as a refuge for large prey. For example, adult elephants are relatively safe from predation by lions, but juveniles are vulnerable.</p>\n\n<h3>Camouflage and mimicry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti\">\n<p>Members of the cat family such as the snow leopard (treeless highlands), tiger (grassy plains, reed swamps), ocelot (forest), fishing cat (waterside thickets), and lion (open plains) are camouflaged with coloration and disruptive patterns suiting their habitats.</p><p>In aggressive mimicry, certain predators, including insects and fishes, make use of coloration and behaviour to attract prey. Female <i>Photuris</i> fireflies, for example, copy the light signals of other species, thereby attracting male fireflies, which they capture and eat. Flower mantises are ambush predators; camouflaged as flowers, such as orchids, they attract prey and seize it when it is close enough. Frogfishes are extremely well camouflaged, and actively lure their prey to approach using an esca, a bait on the end of a rod-like appendage on the head, which they wave gently to mimic a small animal, gulping the prey in an extremely rapid movement when it is within range.</p>\n\n<h3>Venom</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Many smaller predators such as the box jellyfish use venom to subdue their prey, and venom can also aid in digestion (as is the case for rattlesnakes and some spiders). The marbled sea snake that has adapted to egg predation has atrophied venom glands, and the gene for its three finger toxin contains a mutation (the deletion of two nucleotides) that inactives it. These changes are explained by the fact that its prey does not need to be subdued.</p>\n\n<h3>Electric fields</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Several groups of predatory fish have the ability to detect, track, and sometimes, as in the electric ray, to incapacitate their prey by sensing and generating electric fields. The electric organ is derived from modified nerve or muscle tissue.</p>\n\n<h3>Physiology</h3>\n<p>Physiological adaptations to predation include the ability of predatory bacteria to digest the complex peptidoglycan polymer from the cell walls of the bacteria that they prey upon. Carnivorous vertebrates of all five major classes (fishes, amphibians, reptiles, birds, and mammals) have lower relative rates of sugar to amino acid transport than either herbivores or omnivores, presumably because they acquire plenty of amino acids from the animal proteins in their diet.</p>\n\n<h2>Antipredator adaptations</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti\">\n<p>To counter predation, prey have evolved defences for use at each stage of an attack. They can try to avoid detection, such as by using camouflage and mimicry. They can detect predators and warn others of their presence.\nIf detected, they can try to avoid being the target of an attack, for example, by signalling that they are toxic or unpalatable, by signalling that a chase would be unprofitable, or by forming groups. If they become a target, they can try to fend off the attack with defences such as armour, quills, unpalatability, or mobbing; and they can often escape an attack in progress by startling the predator, playing dead, shedding body parts such as tails, or simply fleeing.</p>\n\n<h2>Coevolution</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Predators and prey are natural enemies, and many of their adaptations seem designed to counter each other. For example, bats have sophisticated echolocation systems to detect insects and other prey, and insects have developed a variety of defences including the ability to hear the echolocation calls. Many pursuit predators that run on land, such as wolves, have evolved long limbs in response to the increased speed of their prey. Their adaptations have been characterized as an evolutionary arms race, an example of the coevolution of two species. In a gene centered view of evolution, the genes of predator and prey can be thought of as competing for the prey's body. However, the \"life-dinner\" principle of Dawkins and Krebs predicts that this arms race is asymmetric: if a predator fails to catch its prey, it loses its dinner, while if it succeeds, the prey loses its life.</p>\n<p>The metaphor of an arms race implies ever-escalating advances in attack and defence. However, these adaptations come with a cost; for instance, longer legs have an increased risk of breaking, while the specialized tongue of the chameleon, with its ability to act like a projectile, is useless for lapping water, so the chameleon must drink dew off vegetation.</p><p>The \"life-dinner\" principle has been criticized on multiple grounds. The extent of the asymmetry in natural selection depends in part on the heritability of the adaptive traits. Also, if a predator loses enough dinners, it too will lose its life. On the other hand, the fitness cost of a given lost dinner is unpredictable, as the predator may quickly find better prey. In addition, most predators are generalists, which reduces the impact of a given prey adaption on a predator. Since specialization is caused by predator-prey coevolution, the rarity of specialists may imply that predator-prey arms races are rare.</p><p>It is difficult to determine whether given adaptations are truly the result of coevolution, where a prey adaptation gives rise to a predator adaptation that is countered by further adaptation in the prey. An alternative explanation is <i>escalation</i>, where predators are adapting to competitors, their own predators or dangerous prey. Apparent adaptations to predation may also have arisen for other reasons and then been co-opted for attack or defence. In some of the insects preyed on by bats, hearing evolved before bats appeared and was used to hear signals used for territorial defence and mating. Their hearing evolved in response to bat predation, but the only clear example of reciprocal adaptation in bats is stealth echolocation.</p><p>A more symmetric arms race may occur when the prey are dangerous, having spines, quills, toxins or venom that can harm the predator. The predator can respond with avoidance, which in turn drives the evolution of mimicry. Avoidance is not necessarily an evolutionary response as it is generally learned from bad experiences with prey. However, when the prey is capable of killing the predator (as can a coral snake with its venom), there is no opportunity for learning and avoidance must be inherited. Predators can also respond to dangerous prey with counter-adaptations. In western North America, the common garter snake has developed a resistance to the toxin in the skin of the rough-skinned newt.</p>\n\n<h2>Role in ecosystems</h2>\n<p>Predators affect their ecosystems not only directly by eating their own prey, but by indirect means such as reducing predation by other species, or altering the foraging behaviour of a herbivore, as with the biodiversity effect of wolves on riverside vegetation or sea otters on kelp forests. This may explain population dynamics effects such as the cycles observed in lynx and snowshoe hares.</p>\n\n<h3>Trophic level</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>One way of classifying predators is by trophic level. Carnivores that feed on herbivores are secondary consumers; their predators are tertiary consumers, and so forth. At the top of this food chain are apex predators such as lions. Many predators however eat from multiple levels of the food chain; a carnivore may eat both secondary and tertiary consumers. This means that many predators must contend with intraguild predation, where other predators kill and eat them. For example, coyotes compete with and sometimes kill gray foxes and bobcats.</p>\n\n<h3>Trophic transfer</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Trophic transfer within an ecosystem refers to the transport of energy and nutrients as a result of predation. Energy passes from one trophic level to the next as predators consume organic matter from another organism's body. Within each transfer, while there are uses of energy, there are also losses of energy.\n</p><p>Marine trophic levels vary depending on locality and the size of the primary producers. There are generally up to six trophic levels in the open ocean, four over continental shelves, and around \u00a0three in upwelling zones. For example, a marine habitat with five trophic levels could be represented as follows: Herbivores (feed primarily on phytoplankton); Carnivores (feed primarily on other zooplankton/animals); Detritivores (feed primarily on dead organic matter/detritus; Omnivores (feed on a mixed diet of phyto- and zooplankton and detritus); and Mixotrophs which combine autotrophy (using light energy to grow without intake of any additional organic compounds or nutrients) with heterotrophy (feeding on other plants and animals for energy and nutrients\u2014herbivores, omnivores and carnivores, and detritivores).\n</p><p>Trophic transfer efficiency measures how effectively energy is transferred or passed up through higher trophic levels of the marine food web. As energy moves up the trophic levels, it decreases due to heat, waste, and the natural metabolic processes that occur as predators consume their prey. The result is that only about 10% of the energy at any trophic level is transferred to the next level. This is often referred to as \u201cthe 10% rule\u201d which limits the number of trophic levels that an individual ecosystem is capable of supporting.</p>\n\n<h3>Biodiversity maintained by apex predation</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Predators may increase the biodiversity of communities by preventing a single species from becoming dominant. Such predators are known as keystone species and may have a profound influence on the balance of organisms in a particular ecosystem. Introduction or removal of this predator, or changes in its population density, can have drastic cascading effects on the equilibrium of many other populations in the ecosystem. For example, grazers of a grassland may prevent a single dominant species from taking over.</p>\n<p>The elimination of wolves from Yellowstone National Park had profound impacts on the trophic pyramid. In that area, wolves are both keystone species and apex predators. Without predation, herbivores began to over-graze many woody browse species, affecting the area's plant populations. In addition, wolves often kept animals from grazing near streams, protecting the beavers' food sources. The removal of wolves had a direct effect on the beaver population, as their habitat became territory for grazing. Increased browsing on willows and conifers along Blacktail Creek due to a lack of predation caused channel incision because the reduced beaver population was no longer able to slow the water down and keep the soil in place. The predators were thus demonstrated to be of vital importance in the ecosystem.</p>\n\n<h3>Population dynamics</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In the absence of predators, the population of a species can grow exponentially until it approaches the carrying capacity of the environment. Predators limit the growth of prey both by consuming them and by changing their behavior. Increases or decreases in the prey population can also lead to increases or decreases in the number of predators, for example, through an increase in the number of young they bear.\n</p><p>Cyclical fluctuations have been seen in populations of predator and prey, often with offsets between the predator and prey cycles. A well-known example is that of the snowshoe hare and lynx. Over a broad span of boreal forests in Alaska and Canada, the hare populations fluctuate in near synchrony with a 10-year period, and the lynx populations fluctuate in response. This was first seen in historical records of animals caught by fur hunters for the Hudson's Bay Company over more than a century.</p>\n<p>A simple model of a system with one species each of predator and prey, the Lotka\u2013Volterra equations, predicts population cycles. However, attempts to reproduce the predictions of this model in the laboratory have often failed; for example, when the protozoan <i>Didinium nasutum</i> is added to a culture containing its prey, <i>Paramecium caudatum</i>, the latter is often driven to extinction.</p><p>The Lotka\u2013Volterra equations rely on several simplifying assumptions, and they are structurally unstable, meaning that any change in the equations can stabilize or destabilize the dynamics. For example, one assumption is that predators have a linear functional response to prey: the rate of kills increases in proportion to the rate of encounters. If this rate is limited by time spent handling each catch, then prey populations can reach densities above which predators cannot control them. Another assumption is that all prey individuals are identical. In reality, predators tend to select young, weak, and ill individuals, leaving prey populations able to regrow.</p><p>Many factors can stabilize predator and prey populations. One example is the presence of multiple predators, particularly generalists that are attracted to a given prey species if it is abundant and look elsewhere if it is not. As a result, population cycles tend to be found in northern temperate and subarctic ecosystems because the food webs are simpler. The snowshoe hare-lynx system is subarctic, but even this involves other predators, including coyotes, goshawks and great horned owls, and the cycle is reinforced by variations in the food available to the hares.</p><p>A range of mathematical models have been developed by relaxing the assumptions made in the Lotka\u2013Volterra model; these variously allow animals to have geographic distributions, or to migrate; to have differences between individuals, such as sexes and an age structure, so that only some individuals reproduce; to live in a varying environment, such as with changing seasons; and analysing the interactions of more than just two species at once. Such models predict widely differing and often chaotic predator-prey population dynamics. The presence of refuge areas, where prey are safe from predators, may enable prey to maintain larger populations but may also destabilize the dynamics.</p>\n\n<h2>Evolutionary history</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Predation dates from before the rise of commonly recognized carnivores by hundreds of millions (perhaps billions) of years. Predation has evolved repeatedly in different groups of organisms. The rise of eukaryotic cells at around 2.7 Gya, the rise of multicellular organisms at about 2 Gya, and the rise of mobile predators (around 600 Mya - 2 Gya, probably around 1 Gya) have all been attributed to early predatory behavior, and many very early remains show evidence of boreholes or other markings attributed to small predator species. It likely triggered major evolutionary transitions including the arrival of cells, eukaryotes, sexual reproduction, multicellularity, increased size, mobility (including insect flight) and armoured shells and exoskeletons.</p><p>The earliest predators were microbial organisms, which engulfed or grazed on others. Because the fossil record is poor, these first predators could date back anywhere between 1 and over 2.7 Gya (billion years ago). Predation visibly became important shortly before the Cambrian period\u2014around <span>550\u00a0million years ago</span>\u2014as evidenced by the almost simultaneous development of calcification in animals and algae, and predation-avoiding burrowing. However, predators had been grazing on micro-organisms since at least <span>1,000\u00a0million years ago</span>, with evidence of selective (rather than random) predation from a similar time.</p><p><i>Auroralumina attenboroughii</i> is an Ediacaran crown-group cnidarian (557\u2013562 mya, some 20 million years before the Cambrian explosion) from Charnwood Forest, England. It is thought to be one of the earliest predatory animals, catching small prey with its nematocysts as modern cnidarians do.</p><p>The fossil record demonstrates a long history of interactions between predators and their prey from the Cambrian period onwards, showing for example that some predators drilled through the shells of bivalve and gastropod molluscs, while others ate these organisms by breaking their shells.\nAmong the Cambrian predators were invertebrates like the anomalocaridids with appendages suitable for grabbing prey, large compound eyes and jaws made of a hard material like that in the exoskeleton of an insect.\nSome of the first fish to have jaws were the armoured and mainly predatory placoderms of the Silurian to Devonian periods, one of which, the 6\u00a0m (20\u00a0ft) <i>Dunkleosteus</i>, is considered the world's first vertebrate \"superpredator\", preying upon other predators.Insects developed the ability to fly in the Early Carboniferous or Late Devonian, enabling them among other things to escape from predators.\nAmong the largest predators that have ever lived were the theropod dinosaurs such as <i>Tyrannosaurus</i> from the Cretaceous period. They preyed upon herbivorous dinosaurs such as hadrosaurs, ceratopsians and ankylosaurs.</p>\n<ul class=\"gallery mw-gallery-packed\"><li class=\"gallerybox\" style=\"width: 106.66666666667px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 166.66666666667px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 210.66666666667px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 254px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 193.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 299.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n</ul>\n\n<h2>In human society</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n\n<h3>Practical uses</h3>\n<p>Humans, as omnivores, are to some extent predatory, using weapons and tools to fish, hunt and trap animals. They also use other predatory species such as dogs, cormorants, and falcons to catch prey for food or for sport. \nTwo mid-sized predators, dogs and cats, are the animals most often kept as pets in western societies.\nHuman hunters, including the San of southern Africa, use persistence hunting, a form of pursuit predation where the pursuer may be slower than prey such as a kudu antelope over short distances, but follows it in the midday heat until it is exhausted, a pursuit that can take up to five hours.</p><p>In biological pest control, predators (and parasitoids) from a pest's natural range are introduced to control populations, at the risk of causing unforeseen problems. Natural predators, provided they do no harm to non-pest species, are an environmentally friendly and sustainable way of reducing damage to crops and an alternative to the use of chemical agents such as pesticides.</p>\n\n<h3>Symbolic uses</h3>\n<p>In film, the idea of the predator as a dangerous if humanoid enemy is used in the 1987 science fiction horror action film <i>Predator</i> and its three sequels. A terrifying predator, a gigantic man-eating great white shark, is central, too, to Steven Spielberg's 1974 thriller <i>Jaws</i>.</p><p>Among poetry on the theme of predation, a predator's consciousness might be explored, such as in Ted Hughes's <i>Pike</i>. The phrase \"Nature, red in tooth and claw\" from Alfred, Lord Tennyson's 1849 poem \"In Memoriam A.H.H.\" has been interpreted as referring to the struggle between predators and prey.</p><p>In mythology and folk fable, predators such as the fox and wolf have mixed reputations. The fox was a symbol of fertility in ancient Greece, but a weather demon in northern Europe, and a creature of the devil in early Christianity; the fox is presented as sly, greedy, and cunning in fables from Aesop onwards. The big bad wolf is known to children in tales such as <i>Little Red Riding Hood</i>, but is a demonic figure in the Icelandic Edda sagas, where the wolf Fenrir appears in the apocalyptic ending of the world. In the Middle Ages, belief spread in werewolves, men transformed into wolves. In ancient Rome, and in ancient Egypt, the wolf was worshipped, the she-wolf appearing in the founding myth of Rome, suckling Romulus and Remus. More recently, in Rudyard Kipling's 1894 <i>The Jungle Book</i>, Mowgli is raised by the wolf pack. Attitudes to large predators in North America, such as wolf, grizzly bear and cougar, have shifted from hostility or ambivalence, accompanied by active persecution, towards positive and protective in the second half of the 20th century.</p>\n\n<h2>See also</h2>\n<ul><li>Ecology of fear</li>\n<li>Predation problem</li>\n<li>Predator\u2013prey reversal</li>\n<li>Wa-Tor</li>\n<li>Cannibalism</li></ul>\n\n<h2>Notes</h2>\n<h2>References</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>Sources</h2>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFBeauchamp2012\" class=\"citation book cs1\">Beauchamp, Guy (2012). <i>Social predation\u00a0: how group living benefits predators and prey</i>. Elsevier. ISBN\u00a0<bdi>9780124076549</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Social+predation+%3A+how+group+living+benefits+predators+and+prey&amp;rft.pub=Elsevier&amp;rft.date=2012&amp;rft.isbn=9780124076549&amp;rft.aulast=Beauchamp&amp;rft.aufirst=Guy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFBell2012\" class=\"citation book cs1\">Bell, W. J. (2012). <i>Searching Behaviour\u00a0: the behavioural ecology of finding resources</i>. Springer Netherlands. ISBN\u00a0<bdi>9789401130981</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Searching+Behaviour+%3A+the+behavioural+ecology+of+finding+resources&amp;rft.pub=Springer+Netherlands&amp;rft.date=2012&amp;rft.isbn=9789401130981&amp;rft.aulast=Bell&amp;rft.aufirst=W.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCaro2005\" class=\"citation book cs1\">Caro, Tim (2005). <i>Antipredator Defenses in Birds and Mammals</i>. University of Chicago Press. ISBN\u00a0<bdi>978-0-226-09436-6</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Antipredator+Defenses+in+Birds+and+Mammals&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=2005&amp;rft.isbn=978-0-226-09436-6&amp;rft.aulast=Caro&amp;rft.aufirst=Tim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCott1940\" class=\"citation book cs1\">Cott, Hugh B. (1940). <i>Adaptive Coloration in Animals</i>. Methuen. OCLC\u00a0974070031.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Adaptive+Coloration+in+Animals&amp;rft.pub=Methuen&amp;rft.date=1940&amp;rft_id=info%3Aoclcnum%2F974070031&amp;rft.aulast=Cott&amp;rft.aufirst=Hugh+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFJacobsBastian2017\" class=\"citation book cs1\">Jacobs, David Steve; Bastian, Anna (2017). <i>Predator-prey interactions\u00a0: co-evolution between bats and their prey</i>. Springer. ISBN\u00a0<bdi>9783319324920</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Predator-prey+interactions+%3A+co-evolution+between+bats+and+their+prey&amp;rft.pub=Springer&amp;rft.date=2017&amp;rft.isbn=9783319324920&amp;rft.aulast=Jacobs&amp;rft.aufirst=David+Steve&amp;rft.au=Bastian%2C+Anna&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFRockwood2009\" class=\"citation book cs1\">Rockwood, Larry L. (2009). <i>Introduction to population ecology</i>. John Wiley &amp; Sons. p.\u00a0281. ISBN\u00a0<bdi>9781444309102</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+population+ecology&amp;rft.pages=281&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2009&amp;rft.isbn=9781444309102&amp;rft.aulast=Rockwood&amp;rft.aufirst=Larry+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFRuxtonSherrattSpeed2004\" class=\"citation book cs1\">Ruxton, Graeme D.; Sherratt, Tom N.; Speed, Michael P. (2004). <i>Avoiding attack: the evolutionary ecology of crypsis, warning signals, and mimicry</i>. Oxford University Press. ISBN\u00a0<bdi>9780198528593</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Avoiding+attack%3A+the+evolutionary+ecology+of+crypsis%2C+warning+signals%2C+and+mimicry&amp;rft.pub=Oxford+University+Press&amp;rft.date=2004&amp;rft.isbn=9780198528593&amp;rft.aulast=Ruxton&amp;rft.aufirst=Graeme+D.&amp;rft.au=Sherratt%2C+Tom+N.&amp;rft.au=Speed%2C+Michael+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APredation\"></span></li></ul>\n\n<h2>External links</h2>\n<ul><li><span typeof=\"mw:File\"></span> Quotations related to Predation at Wikiquote</li>\n<li><span typeof=\"mw:File\"></span> Media related to Predation at Wikimedia Commons</li></ul>\n\n\n\n<p class=\"mw-empty-elt\">\n</p>"
+}

@@ -1,0 +1,500 @@
+{
+    "adult": false,
+    "backdrop_path": "/gKNYytFLuh1uiLFxguojAfPoPgf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 89785,
+    "imdb_id": "tt0060063",
+    "original_language": "de",
+    "original_title": "Abschied von gestern",
+    "overview": "A young German woman searches for happiness, liberation, and independence in the illusive wake of a transformative national recovery.",
+    "popularity": 2.652,
+    "poster_path": "/5mgzMGHIcZ3vrmaYi7FDn97kGE5.jpg",
+    "production_companies": [
+        {
+            "id": 21534,
+            "logo_path": null,
+            "name": "Kairos-Film",
+            "origin_country": ""
+        },
+        {
+            "id": 62402,
+            "logo_path": null,
+            "name": "Independent Film",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "1966-09-05",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Yesterday Girl",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 25,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1041578,
+                "known_for_department": "Acting",
+                "name": "Alexandra Kluge",
+                "original_name": "Alexandra Kluge",
+                "popularity": 0.633,
+                "profile_path": "/3J7Fqd6BZz9ZOTiy0o6L4Ihuhld.jpg",
+                "cast_id": 2,
+                "character": "Anita G.",
+                "credit_id": "52fe4a2a9251416c910c5825",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26418,
+                "known_for_department": "Acting",
+                "name": "G\u00fcnter Mack",
+                "original_name": "G\u00fcnter Mack",
+                "popularity": 3.13,
+                "profile_path": "/At9v8wbd4Bw6yWqmAcK7avEfuMP.jpg",
+                "cast_id": 3,
+                "character": "Pichota",
+                "credit_id": "52fe4a2a9251416c910c5829",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38107,
+                "known_for_department": "Acting",
+                "name": "Hans Korte",
+                "original_name": "Hans Korte",
+                "popularity": 3.042,
+                "profile_path": "/2mi9ZOxGqqP2HZKoB4NJEbijubY.jpg",
+                "cast_id": 4,
+                "character": "Richter",
+                "credit_id": "52fe4a2b9251416c910c582d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 116045,
+                "known_for_department": "Acting",
+                "name": "Werner Kreindl",
+                "original_name": "Werner Kreindl",
+                "popularity": 4.144,
+                "profile_path": "/eQyH17LQkU9Yfm0IE2rkCJoZF1G.jpg",
+                "cast_id": 5,
+                "character": "Chef der Plattenfirma",
+                "credit_id": "533b041d9251416342000121",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 26247,
+                "known_for_department": "Acting",
+                "name": "Eva Maria Meineke",
+                "original_name": "Eva Maria Meineke",
+                "popularity": 2.052,
+                "profile_path": "/kbT7VxNlu88kL6Kpkuqp27qQc0s.jpg",
+                "cast_id": 6,
+                "character": "Frau Pichota",
+                "credit_id": "533b04589251416332000112",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542516,
+                "known_for_department": "Acting",
+                "name": "Edith Kuntze-Pellogio",
+                "original_name": "Edith Kuntze-Pellogio",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Bew\u00e4hrungshelferin",
+                "credit_id": "565b7ecac3a3685066003c51",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542517,
+                "known_for_department": "Acting",
+                "name": "Palma Falck",
+                "original_name": "Palma Falck",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Frau Budeck",
+                "credit_id": "565b7ed4c3a3685069003da5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1542518,
+                "known_for_department": "Acting",
+                "name": "Ado Riegler",
+                "original_name": "Ado Riegler",
+                "popularity": 1.116,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Priester",
+                "credit_id": "565b7edec3a368508100399c",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542519,
+                "known_for_department": "Acting",
+                "name": "Josef Kreindl",
+                "original_name": "Josef Kreindl",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Chef der Plattenfirma",
+                "credit_id": "565b7ee8925141692b003bd6",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542520,
+                "known_for_department": "Acting",
+                "name": "K\u00e4the Ebner",
+                "original_name": "K\u00e4the Ebner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Josef's Frau",
+                "credit_id": "565b7ef1c3a368506d004055",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542521,
+                "known_for_department": "Acting",
+                "name": "Peter Staimmer",
+                "original_name": "Peter Staimmer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "junger Mann",
+                "credit_id": "565b7ef9c3a3685072003d55",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542522,
+                "known_for_department": "Acting",
+                "name": "Hans Brammer",
+                "original_name": "Hans Brammer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Lehrer",
+                "credit_id": "565b7f01c3a3685079003c49",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20553,
+                "known_for_department": "Camera",
+                "name": "Thomas Mauch",
+                "original_name": "Thomas Mauch",
+                "popularity": 1.868,
+                "profile_path": null,
+                "credit_id": "565b7e50c3a3685079003c1b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20554,
+                "known_for_department": "Editing",
+                "name": "Beate Mainka-Jellinghaus",
+                "original_name": "Beate Mainka-Jellinghaus",
+                "popularity": 2.608,
+                "profile_path": null,
+                "credit_id": "565b7e63c3a3685074003f31",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50870,
+                "known_for_department": "Directing",
+                "name": "Alexander Kluge",
+                "original_name": "Alexander Kluge",
+                "popularity": 1.742,
+                "profile_path": "/3zC5rpInRtutN29trvMIXJV3cx0.jpg",
+                "credit_id": "52fe4a2a9251416c910c5821",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50870,
+                "known_for_department": "Directing",
+                "name": "Alexander Kluge",
+                "original_name": "Alexander Kluge",
+                "popularity": 1.742,
+                "profile_path": "/3zC5rpInRtutN29trvMIXJV3cx0.jpg",
+                "credit_id": "565b7e41c3a3685069003d8c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50870,
+                "known_for_department": "Directing",
+                "name": "Alexander Kluge",
+                "original_name": "Alexander Kluge",
+                "popularity": 1.742,
+                "profile_path": "/3zC5rpInRtutN29trvMIXJV3cx0.jpg",
+                "credit_id": "555ca3a09251416b530015c9",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72908,
+                "known_for_department": "Directing",
+                "name": "Edgar Reitz",
+                "original_name": "Edgar Reitz",
+                "popularity": 2.779,
+                "profile_path": "/1i5hiMeElDm4LnYxIkdleFmKG4d.jpg",
+                "credit_id": "565b7e5a9251416919003cb6",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1304970,
+                "known_for_department": "Acting",
+                "name": "Bernd H\u00f6ltz",
+                "original_name": "Bernd H\u00f6ltz",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "565b7e709251416925003c71",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1359063,
+                "known_for_department": "Sound",
+                "name": "Heinz Pusl",
+                "original_name": "Heinz Pusl",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "565b7e8ec3a3685072003d36",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542513,
+                "known_for_department": "Production",
+                "name": "Werner Leckebusch",
+                "original_name": "Werner Leckebusch",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "565b7e7ac3a3685079003c23",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542514,
+                "known_for_department": "Sound",
+                "name": "Klaus Eckelt",
+                "original_name": "Klaus Eckelt",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "565b7e839251416925003c75",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542515,
+                "known_for_department": "Sound",
+                "name": "Hansj\u00f6rg Wicha",
+                "original_name": "Hansj\u00f6rg Wicha",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "565b7e97925141691b003ca9",
+                "department": "Sound",
+                "job": "Sound"
+            }
+        ]
+    },
+    "videos": {
+        "results": []
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/gKNYytFLuh1uiLFxguojAfPoPgf.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1280
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1090,
+                "iso_639_1": "de",
+                "file_path": "/6bYaY1vzN9pHdJvSCBQjKI23deq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 727
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1090,
+                "iso_639_1": "en",
+                "file_path": "/5mgzMGHIcZ3vrmaYi7FDn97kGE5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 727
+            },
+            {
+                "aspect_ratio": 0.686,
+                "height": 2186,
+                "iso_639_1": "de",
+                "file_path": "/99oEORcsYvXO9771KZeFA7cIxa0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/7DM2LfxJY3TvHF0tsSkOubQscWd.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1090,
+                "iso_639_1": "en",
+                "file_path": "/jKST9TZWm1BZpPhhedB740TFXA8.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 727
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/30mpfsmJvOoLnrDsHOZDX5WCCSO.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1090,
+                "iso_639_1": "en",
+                "file_path": "/euUQ4pcS1p01Z6vKPrQXtdavUVx.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 727
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 1532,
+                "iso_639_1": "de",
+                "file_path": "/Tay16aLnOUY6SpvgFGFIGRxH5P.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 209966,
+                "name": "new german cinema"
+            }
+        ]
+    },
+    "title_english": "Abschied von gestern - (Anita G.)",
+    "year": "1966",
+    "rated": "N/A",
+    "director_list": [
+        "Alexander Kluge"
+    ],
+    "writer_list": [
+        "Alexander Kluge"
+    ],
+    "main_cast": [
+        "Alexandra Kluge",
+        " G\u00fcnter Mack",
+        " Eva Maria Meineke"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        }
+    ],
+    "imdb_rating": "7.0",
+    "imdb_votes": "1,037",
+    "wikipedia_url": null,
+    "wikipedia_summary": null,
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": null
+}

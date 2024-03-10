@@ -1,0 +1,3523 @@
+{
+    "adult": false,
+    "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://a24films.com/films/midsommar",
+    "id": 530385,
+    "imdb_id": "tt8772262",
+    "original_language": "en",
+    "original_title": "Midsommar",
+    "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "popularity": 42.245,
+    "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "production_companies": [
+        {
+            "id": 39407,
+            "logo_path": "/1ht2ayBUdGgKuLRCkTjyGVEY5VL.png",
+            "name": "B-Reel Films",
+            "origin_country": "SE"
+        },
+        {
+            "id": 123620,
+            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+            "name": "Square Peg",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-07-03",
+    "revenue": 47969371,
+    "runtime": 147,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Let the festivities begin.",
+    "title": "Midsommar",
+    "video": false,
+    "vote_average": 7.162,
+    "vote_count": 6359,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1373737,
+                "known_for_department": "Acting",
+                "name": "Florence Pugh",
+                "original_name": "Florence Pugh",
+                "popularity": 90.807,
+                "profile_path": "/4VghWSpWzH3z2PuJVSKUUZ9thFE.jpg",
+                "cast_id": 3,
+                "character": "Dani",
+                "credit_id": "5b5f6d979251414fcb004fa9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1007683,
+                "known_for_department": "Acting",
+                "name": "Jack Reynor",
+                "original_name": "Jack Reynor",
+                "popularity": 14.06,
+                "profile_path": "/vbPewOkSGGQl93wgshDlczMqiOk.jpg",
+                "cast_id": 5,
+                "character": "Christian",
+                "credit_id": "5b5f99140e0a263fb70004c9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1410478,
+                "known_for_department": "Acting",
+                "name": "William Jackson Harper",
+                "original_name": "William Jackson Harper",
+                "popularity": 11.291,
+                "profile_path": "/5Oy037YttIweiqNGaErkalNmH0G.jpg",
+                "cast_id": 6,
+                "character": "Josh",
+                "credit_id": "5b5f991c0e0a263fc2000489",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93491,
+                "known_for_department": "Acting",
+                "name": "Will Poulter",
+                "original_name": "Will Poulter",
+                "popularity": 42.619,
+                "profile_path": "/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg",
+                "cast_id": 4,
+                "character": "Mark",
+                "credit_id": "5b5f990bc3a368583c000596",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2096149,
+                "known_for_department": "Acting",
+                "name": "Vilhelm Blomgren",
+                "original_name": "Vilhelm Blomgren",
+                "popularity": 4.295,
+                "profile_path": "/uxfGg0gwEJS6CvY0PMNk90yoO71.jpg",
+                "cast_id": 9,
+                "character": "Pelle",
+                "credit_id": "5b5f994b0e0a263fb30004e6",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2209530,
+                "known_for_department": "Acting",
+                "name": "Isabelle Grill",
+                "original_name": "Isabelle Grill",
+                "popularity": 6.146,
+                "profile_path": "/5g2ytU0fLCRHM20PHwjAAW3IYz2.jpg",
+                "cast_id": 44,
+                "character": "Maja",
+                "credit_id": "5c3154efc3a36819bba5b024",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 239349,
+                "known_for_department": "Acting",
+                "name": "Gunnel Fred",
+                "original_name": "Gunnel Fred",
+                "popularity": 5.572,
+                "profile_path": "/qpszltzBSTK0smwpfpGFJvN24um.jpg",
+                "cast_id": 50,
+                "character": "Siv",
+                "credit_id": "5c462c850e0a26494fc7ecc4",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1457454,
+                "known_for_department": "Acting",
+                "name": "Ellora Torchia",
+                "original_name": "Ellora Torchia",
+                "popularity": 4.255,
+                "profile_path": "/81ei6es6IaZLFTMZO8UWsGN4k4M.jpg",
+                "cast_id": 7,
+                "character": "Connie",
+                "credit_id": "5b5f99270e0a263fbc0004b9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2249745,
+                "known_for_department": "Acting",
+                "name": "Archie Madekwe",
+                "original_name": "Archie Madekwe",
+                "popularity": 18.388,
+                "profile_path": "/1NcgslNYzWtk5wYg9tgdX012bzQ.jpg",
+                "cast_id": 64,
+                "character": "Simon",
+                "credit_id": "5d66e323ecbde9000f95a0f8",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64975,
+                "known_for_department": "Acting",
+                "name": "Henrik Norl\u00e9n",
+                "original_name": "Henrik Norl\u00e9n",
+                "popularity": 5.928,
+                "profile_path": "/eiOu61USG30JqBKq6Axc05IU6yc.jpg",
+                "cast_id": 63,
+                "character": "Ulf",
+                "credit_id": "5d2e122a839d93000fefddb0",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2423315,
+                "known_for_department": "Acting",
+                "name": "Agnes Westerlund Rase",
+                "original_name": "Agnes Westerlund Rase",
+                "popularity": 2.456,
+                "profile_path": "/sXNtvq9ds0MYil8KXkGuDKFM2HO.jpg",
+                "cast_id": 74,
+                "character": "Dagny",
+                "credit_id": "5d94586921c4ca001d7fa6c9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1153231,
+                "known_for_department": "Acting",
+                "name": "Julia Ragnarsson",
+                "original_name": "Julia Ragnarsson",
+                "popularity": 8.676,
+                "profile_path": "/4T4jdhGmapP5tx3v7u1odez3KyG.jpg",
+                "cast_id": 11,
+                "character": "Inga",
+                "credit_id": "5b634e87925141405602fd7b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 221034,
+                "known_for_department": "Acting",
+                "name": "Mats Blomgren",
+                "original_name": "Mats Blomgren",
+                "popularity": 3.298,
+                "profile_path": "/cAi41iolaDnWq69EZXU2j4V7nJv.jpg",
+                "cast_id": 60,
+                "character": "Odd",
+                "credit_id": "5d2124d755b0c01c876a5e9e",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 132502,
+                "known_for_department": "Acting",
+                "name": "Lars V\u00e4ringer",
+                "original_name": "Lars V\u00e4ringer",
+                "popularity": 1.318,
+                "profile_path": "/6o6i4dU4QagWfYJYQxVRjoKGtTu.jpg",
+                "cast_id": 37,
+                "character": "Stev",
+                "credit_id": "5bec6e80c3a36812e4000ae6",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1078910,
+                "known_for_department": "Acting",
+                "name": "Anna \u00c5str\u00f6m",
+                "original_name": "Anna \u00c5str\u00f6m",
+                "popularity": 5.49,
+                "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                "cast_id": 43,
+                "character": "Karin",
+                "credit_id": "5c3154c4925141635e70d3fa",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1711720,
+                "known_for_department": "Acting",
+                "name": "Hampus Hallberg",
+                "original_name": "Hampus Hallberg",
+                "popularity": 2.214,
+                "profile_path": "/bYnBaZFYIombQzvYhiGMW8pn1pG.jpg",
+                "cast_id": 12,
+                "character": "Ingemar",
+                "credit_id": "5b71ce3bc3a368188f19856c",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 47072,
+                "known_for_department": "Acting",
+                "name": "Liv Mj\u00f6nes",
+                "original_name": "Liv Mj\u00f6nes",
+                "popularity": 8.14,
+                "profile_path": "/zvqnt17OHw80AErzdnm5a7Y8UA0.jpg",
+                "cast_id": 47,
+                "character": "Ulla",
+                "credit_id": "5c462c100e0a264962c80a65",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1167002,
+                "known_for_department": "Acting",
+                "name": "Louise Peterhoff",
+                "original_name": "Louise Peterhoff",
+                "popularity": 5.415,
+                "profile_path": "/hpLjNXQNdEkCnkvqC26TwCT722l.jpg",
+                "cast_id": 49,
+                "character": "Hanna",
+                "credit_id": "5c462c720e0a26496bc7f6ba",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1618603,
+                "known_for_department": "Acting",
+                "name": "Katarina Weidhagen",
+                "original_name": "Katarina Weidhagen",
+                "popularity": 1.686,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Ylva",
+                "credit_id": "5bec6ed29251413cf0000927",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50935,
+                "known_for_department": "Acting",
+                "name": "Bj\u00f6rn Andr\u00e9sen",
+                "original_name": "Bj\u00f6rn Andr\u00e9sen",
+                "popularity": 9.759,
+                "profile_path": "/x3uO4FVbpLLjyyEf7xErhYo5FU.jpg",
+                "cast_id": 46,
+                "character": "Dan",
+                "credit_id": "5c462c049251410e0a4f13b3",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2209531,
+                "known_for_department": "Acting",
+                "name": "Tomas Engstr\u00f6m",
+                "original_name": "Tomas Engstr\u00f6m",
+                "popularity": 0.694,
+                "profile_path": "/houznCrciMAbTdOudwkUaFI46Zp.jpg",
+                "cast_id": 45,
+                "character": "Jarl",
+                "credit_id": "5c3155049251415f3c70f474",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2333284,
+                "known_for_department": "Acting",
+                "name": "Dag Andersson",
+                "original_name": "Dag Andersson",
+                "popularity": 1.214,
+                "profile_path": "/4CgCmYdqwIfKFRoyvB1IU1PVvb2.jpg",
+                "cast_id": 59,
+                "character": "Sven",
+                "credit_id": "5d2124a894d8a8049a4217b0",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 568303,
+                "known_for_department": "Acting",
+                "name": "Lennart R. Svensson",
+                "original_name": "Lennart R. Svensson",
+                "popularity": 2.969,
+                "profile_path": "/ab2z91oyHQXA5WCFPSuC0IzdmqP.jpg",
+                "cast_id": 53,
+                "character": "Mats",
+                "credit_id": "5cdc6532925141767ecf0217",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1081275,
+                "known_for_department": "Acting",
+                "name": "Anders Beckman",
+                "original_name": "Anders Beckman",
+                "popularity": 3.382,
+                "profile_path": null,
+                "cast_id": 54,
+                "character": "Arne",
+                "credit_id": "5cdc65c70e0a264c87cc90d1",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2180302,
+                "known_for_department": "Acting",
+                "name": "Rebecka Johnston",
+                "original_name": "Rebecka Johnston",
+                "popularity": 3.004,
+                "profile_path": "/sC4FSWcxJBwtE0mzTinHFJAvk99.jpg",
+                "cast_id": 41,
+                "character": "Ulrika",
+                "credit_id": "5bf5ff6c0e0a26265e0ca4a5",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837048,
+                "known_for_department": "Acting",
+                "name": "Tove Skeidsvoll",
+                "original_name": "Tove Skeidsvoll",
+                "popularity": 1.346,
+                "profile_path": "/taX8ame1tz3w2Z2YOcErO9AyLTr.jpg",
+                "cast_id": 56,
+                "character": "Majvor",
+                "credit_id": "5cdc66820e0a26045cd11eae",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946235,
+                "known_for_department": "Acting",
+                "name": "Anders Back",
+                "original_name": "Anders Back",
+                "popularity": 1.388,
+                "profile_path": "/6MRAkJ58rVXPO2ichqjjqXUM4vL.jpg",
+                "cast_id": 39,
+                "character": "Valentin",
+                "credit_id": "5bec6ebc0e0a263286000910",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 990347,
+                "known_for_department": "Acting",
+                "name": "Anki Larsson",
+                "original_name": "Anki Larsson",
+                "popularity": 2.275,
+                "profile_path": "/3ITrigmi5RxDgbUzJI4uSzxtaGK.jpg",
+                "cast_id": 38,
+                "character": "Irma",
+                "credit_id": "5bec6e9ac3a36812f6000999",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423316,
+                "known_for_department": "Acting",
+                "name": "Levente Puczk\u00f3-Smith",
+                "original_name": "Levente Puczk\u00f3-Smith",
+                "popularity": 1.286,
+                "profile_path": null,
+                "cast_id": 75,
+                "character": "Ruben",
+                "credit_id": "5d94595da06efe001e5ac4cc",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1779707,
+                "known_for_department": "Acting",
+                "name": "Frans Cavallin Rosengarten",
+                "original_name": "Frans Cavallin Rosengarten",
+                "popularity": 1.128,
+                "profile_path": null,
+                "cast_id": 76,
+                "character": "Bror",
+                "credit_id": "5d945978a06efe001e5ac512",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 64418,
+                "known_for_department": "Acting",
+                "name": "Vilmos Kolba",
+                "original_name": "Vilmos Kolba",
+                "popularity": 2.324,
+                "profile_path": null,
+                "cast_id": 77,
+                "character": "Elder",
+                "credit_id": "5d94598a87ae7b0014a44f70",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423318,
+                "known_for_department": "Acting",
+                "name": "Mih\u00e1ly Kasz\u00e1s",
+                "original_name": "Mih\u00e1ly Kasz\u00e1s",
+                "popularity": 0.694,
+                "profile_path": null,
+                "cast_id": 78,
+                "character": "Torbj\u00f6rn",
+                "credit_id": "5d9459b821c4ca00117fbb1e",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2423319,
+                "known_for_department": "Acting",
+                "name": "Gabi F\u00f3n",
+                "original_name": "Gabi F\u00f3n",
+                "popularity": 1.219,
+                "profile_path": null,
+                "cast_id": 79,
+                "character": "Dani's Mother",
+                "credit_id": "5d9459cd21c4ca00277f6fb5",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423320,
+                "known_for_department": "Acting",
+                "name": "Zsolt Boj\u00e1ri",
+                "original_name": "Zsolt Boj\u00e1ri",
+                "popularity": 0.971,
+                "profile_path": null,
+                "cast_id": 80,
+                "character": "Dani's Father",
+                "credit_id": "5d9459e2a06efe00265aa368",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2146492,
+                "known_for_department": "Acting",
+                "name": "Klaudia Cs\u00e1nyi",
+                "original_name": "Klaudia Cs\u00e1nyi",
+                "popularity": 1.566,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Terri",
+                "credit_id": "5bbd3396c3a368590101fa6e",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1823469,
+                "known_for_department": "Acting",
+                "name": "Anna Berentzen",
+                "original_name": "Anna Berentzen",
+                "popularity": 1.388,
+                "profile_path": null,
+                "cast_id": 81,
+                "character": "Pizza Waitress",
+                "credit_id": "5d945a2721c4ca00307f8b57",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1281174,
+                "known_for_department": "Acting",
+                "name": "Austin R. Grant",
+                "original_name": "Austin R. Grant",
+                "popularity": 4.168,
+                "profile_path": "/2sYSl9yx80bplnCbOGqlxelvetE.jpg",
+                "cast_id": 62,
+                "character": "Hipster Guy",
+                "credit_id": "5d21257c15c6361729f69ba5",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3523029,
+                "known_for_department": "Acting",
+                "name": "Maximilian Slash Marton",
+                "original_name": "Maximilian Slash Marton",
+                "popularity": 0.778,
+                "profile_path": "/m2lvpmIGfsueXp7glCCRPXooZsF.jpg",
+                "cast_id": 132,
+                "character": "Evert (uncredited)",
+                "credit_id": "6266d9a2f92532009f113ee8",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16235,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Andrea Flesch",
+                "original_name": "Andrea Flesch",
+                "popularity": 1.455,
+                "profile_path": "/qI28UvgaSCbCEeXylueMeCam5on.jpg",
+                "credit_id": "5b71ce6ac3a368189917a935",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 23619,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Katalin Jakots",
+                "original_name": "Katalin Jakots",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5d94677f21c4ca00117fcd77",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92388,
+                "known_for_department": "Sound",
+                "name": "Jay Peck",
+                "original_name": "Jay Peck",
+                "popularity": 3.108,
+                "profile_path": null,
+                "credit_id": "5d946822a097dc002a23fab9",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107596,
+                "known_for_department": "Visual Effects",
+                "name": "Luc Julien",
+                "original_name": "Luc Julien",
+                "popularity": 1.165,
+                "profile_path": null,
+                "credit_id": "5d94603c87ae7b002ca4a9af",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131399,
+                "known_for_department": "Production",
+                "name": "Lars Knudsen",
+                "original_name": "Lars Knudsen",
+                "popularity": 2.588,
+                "profile_path": "/y4ZPOAn2oe2KsszWkMGJeahONlU.jpg",
+                "credit_id": "5b551d9b0e0a2673cf009dff",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 148740,
+                "known_for_department": "Sound",
+                "name": "Gene Park",
+                "original_name": "Gene Park",
+                "popularity": 1.443,
+                "profile_path": null,
+                "credit_id": "5d9456ef21c4ca00117fb754",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 148740,
+                "known_for_department": "Sound",
+                "name": "Gene Park",
+                "original_name": "Gene Park",
+                "popularity": 1.443,
+                "profile_path": null,
+                "credit_id": "5d94655da097dc002a23f4f7",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236318,
+                "known_for_department": "Production",
+                "name": "Thomas Benski",
+                "original_name": "Thomas Benski",
+                "popularity": 1.286,
+                "profile_path": "/hojuXBcXgETtdVjOZycoPZLTa53.jpg",
+                "credit_id": "5d945634a097dc001223e68b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1046729,
+                "known_for_department": "Production",
+                "name": "Jessica Kelly",
+                "original_name": "Jessica Kelly",
+                "popularity": 3.751,
+                "profile_path": null,
+                "credit_id": "5d9457e9a06efe00125b1c46",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1077406,
+                "known_for_department": "Production",
+                "name": "Jeanette Klintberg",
+                "original_name": "Jeanette Klintberg",
+                "popularity": 2.042,
+                "profile_path": null,
+                "credit_id": "5d9457fd21c4ca00307f85e4",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1113553,
+                "known_for_department": "Editing",
+                "name": "Jennifer Lame",
+                "original_name": "Jennifer Lame",
+                "popularity": 4.4,
+                "profile_path": "/nwiKUZoGn298QWYgICPDbhMUSgc.jpg",
+                "credit_id": "64b6db7213654500e462e943",
+                "department": "Editing",
+                "job": "Additional Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1145520,
+                "known_for_department": "Directing",
+                "name": "Ari Aster",
+                "original_name": "Ari Aster",
+                "popularity": 16.044,
+                "profile_path": "/7ycICw9yVpk6bzTKLRiPd9eSfHA.jpg",
+                "credit_id": "5b2498910e0a2667140028f6",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1145520,
+                "known_for_department": "Directing",
+                "name": "Ari Aster",
+                "original_name": "Ari Aster",
+                "popularity": 16.044,
+                "profile_path": "/7ycICw9yVpk6bzTKLRiPd9eSfHA.jpg",
+                "credit_id": "6295a52a5cea180052ff0580",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1163117,
+                "known_for_department": "Production",
+                "name": "Fredrik Heinig",
+                "original_name": "Fredrik Heinig",
+                "popularity": 2.188,
+                "profile_path": null,
+                "credit_id": "5b7b56e792514101f7000c1d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1173858,
+                "known_for_department": "Production",
+                "name": "Patrik Andersson",
+                "original_name": "Patrik Andersson",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "5b7b56f4c3a3681982000f3e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1173858,
+                "known_for_department": "Production",
+                "name": "Patrik Andersson",
+                "original_name": "Patrik Andersson",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "5d945db9a06efe001e5aca12",
+                "department": "Art",
+                "job": "Conceptual Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277640,
+                "known_for_department": "Sound",
+                "name": "Ruy Garc\u00eda",
+                "original_name": "Ruy Garc\u00eda",
+                "popularity": 2.043,
+                "profile_path": null,
+                "credit_id": "5d94650ca06efe00125b3583",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1335178,
+                "known_for_department": "Art",
+                "name": "Henrik Svensson",
+                "original_name": "Henrik Svensson",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5cf5a8329251415f8eb91044",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1374793,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Izabell Janositz",
+                "original_name": "Izabell Janositz",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "6102ccba6517d6005e37f709",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1379436,
+                "known_for_department": "Camera",
+                "name": "Fabrizio Sciarra",
+                "original_name": "Fabrizio Sciarra",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "5b81aa330e0a264599016c59",
+                "department": "Camera",
+                "job": "Steadicam Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1379436,
+                "known_for_department": "Camera",
+                "name": "Fabrizio Sciarra",
+                "original_name": "Fabrizio Sciarra",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "5b81aa24c3a36865550183ab",
+                "department": "Camera",
+                "job": "\"A\" Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1427826,
+                "known_for_department": "Art",
+                "name": "Csaba L\u00f2di",
+                "original_name": "Csaba L\u00f2di",
+                "popularity": 1.932,
+                "profile_path": null,
+                "credit_id": "5d9462bb87ae7b001ca4772b",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1510879,
+                "known_for_department": "Directing",
+                "name": "Lex Hogan",
+                "original_name": "Lex Hogan",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "5d94641b21c4ca001d7fc530",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1539990,
+                "known_for_department": "Sound",
+                "name": "Ric Schnupp",
+                "original_name": "Ric Schnupp",
+                "popularity": 2.461,
+                "profile_path": "/AjJjCuP1sHIkYch92muQ7le4fzy.jpg",
+                "credit_id": "5d94657d21c4ca00117fcabd",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1555322,
+                "known_for_department": "Visual Effects",
+                "name": "Vico Sharabani",
+                "original_name": "Vico Sharabani",
+                "popularity": 1.31,
+                "profile_path": null,
+                "credit_id": "5d94606f87ae7b0024a4af16",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1568900,
+                "known_for_department": "Directing",
+                "name": "Melissa Lawrence",
+                "original_name": "Melissa Lawrence",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "5b79cdff0e0a264731031ecd",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1580455,
+                "known_for_department": "Sound",
+                "name": "Ben Foster",
+                "original_name": "Ben Foster",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "646e91d3ea394901342175ef",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1580941,
+                "known_for_department": "Sound",
+                "name": "Bobby Krlic",
+                "original_name": "Bobby Krlic",
+                "popularity": 1.62,
+                "profile_path": "/edyQ97jkTRbWBARUaB31ghl4mMT.jpg",
+                "credit_id": "5cf599d5c3a36818da232fe7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583093,
+                "known_for_department": "Art",
+                "name": "Eszter Tak\u00e1cs",
+                "original_name": "Eszter Tak\u00e1cs",
+                "popularity": 0.699,
+                "profile_path": null,
+                "credit_id": "5bf5ffa80e0a2626740c3498",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1587110,
+                "known_for_department": "Sound",
+                "name": "Zsolt Magyar",
+                "original_name": "Zsolt Magyar",
+                "popularity": 1.195,
+                "profile_path": null,
+                "credit_id": "5b71ce8b925141405417d515",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1594303,
+                "known_for_department": "Directing",
+                "name": "Anna Vnuk",
+                "original_name": "Anna Vnuk",
+                "popularity": 0.84,
+                "profile_path": "/zs5jJJSEvtTEmCjJlLOE6rFfDP9.jpg",
+                "credit_id": "5d9461e121c4ca001d7fbc64",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1601773,
+                "known_for_department": "Visual Effects",
+                "name": "Csaba Juh\u00e1sz",
+                "original_name": "Csaba Juh\u00e1sz",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5d945f93a06efe00125b2744",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1629836,
+                "known_for_department": "Camera",
+                "name": "Marcos Attila Boh\u00f3rquez",
+                "original_name": "Marcos Attila Boh\u00f3rquez",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "5d946353a06efe00125b31f7",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1650351,
+                "known_for_department": "Camera",
+                "name": "Pawel Pogorzelski",
+                "original_name": "Pawel Pogorzelski",
+                "popularity": 3.829,
+                "profile_path": "/mCUSXTkDMmJaX4FoQ7adjIcJaOu.jpg",
+                "credit_id": "5b634e6d0e0a267ef603647e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1657567,
+                "known_for_department": "Sound",
+                "name": "Kreigh Carter",
+                "original_name": "Kreigh Carter",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d94627187ae7b002ca4abef",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1712034,
+                "known_for_department": "Lighting",
+                "name": "J. Owen Rogers",
+                "original_name": "J. Owen Rogers",
+                "popularity": 2.656,
+                "profile_path": null,
+                "credit_id": "5d9463aba097dc001a23e18d",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1726048,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anna T\u00f6rj\u00e9k",
+                "original_name": "Anna T\u00f6rj\u00e9k",
+                "popularity": 1.166,
+                "profile_path": null,
+                "credit_id": "6102cae822931a007224902f",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1733485,
+                "known_for_department": "Production",
+                "name": "Ben Rimmer",
+                "original_name": "Ben Rimmer",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5d94566521c4ca00117fb68b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1733485,
+                "known_for_department": "Production",
+                "name": "Ben Rimmer",
+                "original_name": "Ben Rimmer",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "6102c8a04284ea005d17b2ef",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1784619,
+                "known_for_department": "Crew",
+                "name": "\u00c1rp\u00e1d Hal\u00e1sz",
+                "original_name": "\u00c1rp\u00e1d Hal\u00e1sz",
+                "popularity": 1.149,
+                "profile_path": null,
+                "credit_id": "6102cd4d8d1b8e005d40fb14",
+                "department": "Crew",
+                "job": "Animal Wrangler"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1790655,
+                "known_for_department": "Editing",
+                "name": "Lucian Johnston",
+                "original_name": "Lucian Johnston",
+                "popularity": 1.635,
+                "profile_path": "/nI9MYZfpOcnR5nbYhE8nk2t8Z91.jpg",
+                "credit_id": "5b9def4ac3a368440301315b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1793973,
+                "known_for_department": "Production",
+                "name": "G\u00e1bor Cs\u00f6ge",
+                "original_name": "G\u00e1bor Cs\u00f6ge",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d94616b87ae7b0014a45eef",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1793974,
+                "known_for_department": "Production",
+                "name": "Adam Heisler",
+                "original_name": "Adam Heisler",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5d9461f8a06efe00265ab3ae",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1824499,
+                "known_for_department": "Production",
+                "name": "Jeffrey Penman",
+                "original_name": "Jeffrey Penman",
+                "popularity": 2.186,
+                "profile_path": null,
+                "credit_id": "5d94573ca06efe00125b1ade",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1831266,
+                "known_for_department": "Crew",
+                "name": "G\u00e9za Kov\u00e1cs",
+                "original_name": "G\u00e9za Kov\u00e1cs",
+                "popularity": 1.556,
+                "profile_path": null,
+                "credit_id": "5b9defa90e0a2675590128dc",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1846451,
+                "known_for_department": "Directing",
+                "name": "Beau Ferris",
+                "original_name": "Beau Ferris",
+                "popularity": 2.894,
+                "profile_path": null,
+                "credit_id": "5b7780a50e0a264734005216",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1846451,
+                "known_for_department": "Directing",
+                "name": "Beau Ferris",
+                "original_name": "Beau Ferris",
+                "popularity": 2.894,
+                "profile_path": null,
+                "credit_id": "5d945729a06efe00125b1ac9",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1846451,
+                "known_for_department": "Directing",
+                "name": "Beau Ferris",
+                "original_name": "Beau Ferris",
+                "popularity": 2.894,
+                "profile_path": null,
+                "credit_id": "5b7728e60e0a26045a001ab4",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1858279,
+                "known_for_department": "Crew",
+                "name": "G\u00e1sp\u00e1r Szab\u00f3",
+                "original_name": "G\u00e1sp\u00e1r Szab\u00f3",
+                "popularity": 3.889,
+                "profile_path": "/uLw52oLWaVLhpTHkpsKatARRGiJ.jpg",
+                "credit_id": "5d945d11a097dc0022241906",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1863964,
+                "known_for_department": "Sound",
+                "name": "G\u00e1bor Erdei",
+                "original_name": "G\u00e1bor Erdei",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "5b71ce7bc3a36853750ffb6a",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1979668,
+                "known_for_department": "Production",
+                "name": "Philip Westgren",
+                "original_name": "Philip Westgren",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5b7b57169251410200000d21",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2023244,
+                "known_for_department": "Visual Effects",
+                "name": "Asaf Yeger",
+                "original_name": "Asaf Yeger",
+                "popularity": 1.165,
+                "profile_path": null,
+                "credit_id": "5d94609da097dc001a23db07",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2061530,
+                "known_for_department": "Camera",
+                "name": "G\u00e1bor Kotschy",
+                "original_name": "G\u00e1bor Kotschy",
+                "popularity": 0.621,
+                "profile_path": null,
+                "credit_id": "5d946123a06efe00265ab1ef",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2062134,
+                "known_for_department": "Camera",
+                "name": "P\u00e9ter R\u00e1cz Tiger",
+                "original_name": "P\u00e9ter R\u00e1cz Tiger",
+                "popularity": 0.972,
+                "profile_path": null,
+                "credit_id": "6102c9644f33ad005db29fad",
+                "department": "Camera",
+                "job": "Digital Imaging Technician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2109684,
+                "known_for_department": "Camera",
+                "name": "Miklos Mnagy",
+                "original_name": "Miklos Mnagy",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b7728fa92514156f200193a",
+                "department": "Camera",
+                "job": "Data Wrangler"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2111888,
+                "known_for_department": "Production",
+                "name": "Pelle Nilsson",
+                "original_name": "Pelle Nilsson",
+                "popularity": 1.098,
+                "profile_path": null,
+                "credit_id": "5b7b570c0e0a267c71000d81",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2114907,
+                "known_for_department": "Camera",
+                "name": "Zolt\u00e1n Kristoffy",
+                "original_name": "Zolt\u00e1n Kristoffy",
+                "popularity": 1.219,
+                "profile_path": null,
+                "credit_id": "5d94639b87ae7b001ca478f1",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2128889,
+                "known_for_department": "Directing",
+                "name": "Reszeli-So\u00f3s Andr\u00e1s",
+                "original_name": "Reszeli-So\u00f3s Andr\u00e1s",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b9def6d0e0a267563011a40",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2128890,
+                "known_for_department": "Directing",
+                "name": "\u00c1kos Strommer",
+                "original_name": "\u00c1kos Strommer",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "5b9def7d0e0a26756501224f",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2132215,
+                "known_for_department": "Camera",
+                "name": "Bence Czeh",
+                "original_name": "Bence Czeh",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5ba539b9c3a368083d01ce2b",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2143088,
+                "known_for_department": "Visual Effects",
+                "name": "Robin Aristorenas",
+                "original_name": "Robin Aristorenas",
+                "popularity": 1.133,
+                "profile_path": null,
+                "credit_id": "5d9460b687ae7b001ca470dd",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2193994,
+                "known_for_department": "Visual Effects",
+                "name": "Robin Scott Graham",
+                "original_name": "Robin Scott Graham",
+                "popularity": 1.616,
+                "profile_path": null,
+                "credit_id": "5d945f5687ae7b0014a45b4d",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2245561,
+                "known_for_department": "Visual Effects",
+                "name": "Gergely Tak\u00e1cs",
+                "original_name": "Gergely Tak\u00e1cs",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5c6ba9f10e0a266daca8a281",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2254901,
+                "known_for_department": "Costume & Make-Up",
+                "name": "M\u00f3nika T\u00f3th",
+                "original_name": "M\u00f3nika T\u00f3th",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d9467a221c4ca00307f9a49",
+                "department": "Costume & Make-Up",
+                "job": "Hair Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2277933,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Matyas Borda",
+                "original_name": "Matyas Borda",
+                "popularity": 0.757,
+                "profile_path": null,
+                "credit_id": "6102cba74e52ed0075867c20",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetic Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2339011,
+                "known_for_department": "Production",
+                "name": "Tyler Campellone",
+                "original_name": "Tyler Campellone",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5d945719a06efe00265aa079",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423313,
+                "known_for_department": "Production",
+                "name": "Tintin Scheynius",
+                "original_name": "Tintin Scheynius",
+                "popularity": 1.78,
+                "profile_path": null,
+                "credit_id": "5d94576821c4ca00307f8405",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423321,
+                "known_for_department": "Art",
+                "name": "Martin Karlqvist",
+                "original_name": "Martin Karlqvist",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d945da5a06efe001e5ac9c4",
+                "department": "Art",
+                "job": "Conceptual Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423322,
+                "known_for_department": "Art",
+                "name": "Nille Svensson",
+                "original_name": "Nille Svensson",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5d945e6e87ae7b002ca4a790",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423325,
+                "known_for_department": "Visual Effects",
+                "name": "Istv\u00e1n Vajda",
+                "original_name": "Istv\u00e1n Vajda",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "5d946015a06efe00265aafbd",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2423329,
+                "known_for_department": "Visual Effects",
+                "name": "Samuel Karlsson",
+                "original_name": "Samuel Karlsson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d946051a06efe00125b2906",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423335,
+                "known_for_department": "Camera",
+                "name": "Csaba Aknay",
+                "original_name": "Csaba Aknay",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d94611021c4ca00307f9462",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423337,
+                "known_for_department": "Production",
+                "name": "Amna Maksumic",
+                "original_name": "Amna Maksumic",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d94620ea097dc00222424c4",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2423338,
+                "known_for_department": "Production",
+                "name": "Jennifer Ricci",
+                "original_name": "Jennifer Ricci",
+                "popularity": 1.604,
+                "profile_path": null,
+                "credit_id": "5d94622d21c4ca00307f966e",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423339,
+                "known_for_department": "Sound",
+                "name": "J\u00f3zsef Szabados",
+                "original_name": "J\u00f3zsef Szabados",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "5d94628887ae7b0014a46137",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423340,
+                "known_for_department": "Camera",
+                "name": "D\u00e1niel Dobszay",
+                "original_name": "D\u00e1niel Dobszay",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "5d94636321c4ca00277f7792",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423341,
+                "known_for_department": "Camera",
+                "name": "Tyler Furner",
+                "original_name": "Tyler Furner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d94637121c4ca00307f9849",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423342,
+                "known_for_department": "Lighting",
+                "name": "Phil Sokoloff",
+                "original_name": "Phil Sokoloff",
+                "popularity": 0.829,
+                "profile_path": null,
+                "credit_id": "5d9463bb21c4ca00277f782f",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2423344,
+                "known_for_department": "Art",
+                "name": "Rico Olsen",
+                "original_name": "Rico Olsen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5d94644f21c4ca00307f9962",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2721958,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Athina Sapanidis",
+                "original_name": "Athina Sapanidis",
+                "popularity": 1.011,
+                "profile_path": null,
+                "credit_id": "6102cbeb4f33ad005db2a72a",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetic Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2721959,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Andrea Kozma",
+                "original_name": "Andrea Kozma",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6102cc194f33ad005db2a774",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetic Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3295078,
+                "known_for_department": "Costume & Make-Up",
+                "name": "M\u00e1ty\u00e1s T\u00f3th",
+                "original_name": "M\u00e1ty\u00e1s T\u00f3th",
+                "popularity": 0.702,
+                "profile_path": null,
+                "credit_id": "6182249ea097dc002ab71d61",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3340764,
+                "known_for_department": "Acting",
+                "name": "Sophie S\u00f6rensen",
+                "original_name": "Sophie S\u00f6rensen",
+                "popularity": 2.744,
+                "profile_path": "/e9aRkE8qVsiD2lWMcxftLyx8tGp.jpg",
+                "credit_id": "64cd802b85090f01445aa4b8",
+                "department": "Sound",
+                "job": "ADR Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4337771,
+                "known_for_department": "Visual Effects",
+                "name": "Thurman Martin III",
+                "original_name": "Thurman Martin III",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "653822939c24fc00e33a4f71",
+                "department": "Visual Effects",
+                "job": "Visual Effects Coordinator"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Midsommar | Director | Official Featurette HD | A24",
+                "key": "4t5ZmFJGuwA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2022-04-15T21:22:02.000Z",
+                "id": "62645a62713ed400aa1bc2d6"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "\u201cWin Couples Therapy\u201d",
+                "key": "qQ3qxTIsOhQ",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "published_at": "2019-09-25T12:59:57.000Z",
+                "id": "5d8cb06479b3d4000f8807fe"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "The Director's Cut Promo",
+                "key": "CCrkiJFJGMA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "published_at": "2019-08-27T16:00:22.000Z",
+                "id": "5d8cb07079b3d40027884c34"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "\u201cHappy Midsummer!\u201d",
+                "key": "elNrBRG0wPA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "published_at": "2019-06-21T15:50:29.000Z",
+                "id": "5d8cb07ad9f4a6000e5329a2"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "1Vnghdsjmd0",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2019-05-14T13:00:03.000Z",
+                "id": "5cdacbbe9251410c9dd0edb6"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Teaser Trailer",
+                "key": "I0UWIya-O0s",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "published_at": "2019-03-05T15:00:02.000Z",
+                "id": "5c7ee75cc3a3684e8fd2870e"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+                "vote_average": 5.574,
+                "vote_count": 15,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/8yE6wv1l570zWyh6zmkFxysw3Kc.jpg",
+                "vote_average": 5.556,
+                "vote_count": 33,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 816,
+                "iso_639_1": null,
+                "file_path": "/iNNhPRLRbdp1ESbm91KJzyUIyIJ.jpg",
+                "vote_average": 5.458,
+                "vote_count": 15,
+                "width": 1451
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 960,
+                "iso_639_1": null,
+                "file_path": "/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
+                "vote_average": 5.456,
+                "vote_count": 7,
+                "width": 1706
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/lXROVuH79JEyfpc5mNPZmiXbto2.jpg",
+                "vote_average": 5.394,
+                "vote_count": 10,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/erUspt9lnOPXLOW5Ec1Swu0qYGK.jpg",
+                "vote_average": 5.39,
+                "vote_count": 6,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/g6GtOfXtzDpY73ef7wludoorTti.jpg",
+                "vote_average": 5.338,
+                "vote_count": 13,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/uFvVvHia2UMlS0rtE8cetUnFJdb.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/nyN1Qal8SJd0Y2UsBtj4SyE51zc.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/yzab3bEmKwyxaUmxw1h6VWkj6zf.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/vuhhbFnqkiTWSfUjYzuXBh1nwru.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/8xlq21ppNksi2qkH9zYg6go1pDt.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/isAQUpm8ZEWKDo35yBaPsSIUsBR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/8HNP1MlhsqmsujY5B0RnTlQyfSV.jpg",
+                "vote_average": 5.276,
+                "vote_count": 12,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/zTtK1ZpdKQ3Kqbb82nd7voZdAic.jpg",
+                "vote_average": 5.264,
+                "vote_count": 8,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/A01oDpNVI3Yax6BfjVSPaTy1Gqa.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/4flWhS16tQFGn9hpMhaVVXWZC5F.jpg",
+                "vote_average": 5.206,
+                "vote_count": 9,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 816,
+                "iso_639_1": null,
+                "file_path": "/eEDZtyTfuYkfZcpMuUKHlXpYex.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1451
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/xpTgqQwSjyaMKEEBcyx5dWKceJx.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/reU8qaO848nkCay7WPtJcdi61p5.jpg",
+                "vote_average": 5.138,
+                "vote_count": 8,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/jNPy3wnVFfPmvESZ2P0CF6rLHwg.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 816,
+                "iso_639_1": null,
+                "file_path": "/1hH6Dl86Uwl4R2sFsrpwSITiKzu.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 1451
+            },
+            {
+                "aspect_ratio": 1.78,
+                "height": 1685,
+                "iso_639_1": null,
+                "file_path": "/t3mQ48WhWKVWK7yjWrmY2tD5F0P.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/3syomyeIcZAWTdbqjKdGr1OBjy0.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/zLNQcj4MhyQSfUSyxgJhmQLIfZ8.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1921
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/raG5F9Vm1334wTFobG2Vi1Btu7c.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/hfOc4Uvm80bPBfPIT8P2YNc0ZCW.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/crzaptunX8Lbd8Okgty6J0eJryD.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/twHJbKdaMYjbsDwpHzXzQlCLXvF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/j9q6cHFJambWjgGxdJK1fzDlNXt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "pt",
+                "file_path": "/2X9Xp3ZYZ3MHSzf4EoqKS2jt2Tk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/n0Tjkf8h0iqrIYL5hGuOJtevIL6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/iyLSmuDi96Yua7CiMWMJD9mbizi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/66W4MwjshbHMtwSUYmxph4hKeIW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/7vpMGh34em98GyYwzVzQubIn3RK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/2O1PEnIAoIMDIwijHARvXYHwgq3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/AeXDoA9F9eF5QYlxJqm0gG11ekC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/pEiNDMIsnwVEtr2AavtX6pJrlWc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/gOJpASUqT2dm9q9LcShFTNl0QS7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/zY1PWkqfr12ln57CKSjczHwjCyt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/9WkcKvTKsJt4ezCvMrIAvuUVBC1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/oQybyb9BjYDaktoFk7Wc5iJZDWV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/5lo5NEkrE3MYmW5UlEODSS6xdYG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/49B1aZCDFFtjDT35HhKwMjszGP2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/kStbsYREcCVWYxe54Z8kmpt3yUT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/r1AdCPjLiC9dQZTP0YQKIHnLUaj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/4YkkBqv7zm1rzCl6OTg3Ov12P1d.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/uTUw0NfJoz1Zqhc24VQK3j6cNYR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/zaKFGrRxFHZTgXnFN4epD1pEPrc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/jjtEK3DDB3GwyE9Bf534w2LiUPP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/3uXgkO7wm8N9bAMO9ethkfoWnF9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/4LMVyVK81qkyVpkaHOQxuFsNaFn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/n5GSQBR6cveSPUintlcw4CPoMbP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/vzUBcmaYJKQrHW7Bne7kgmL5zHV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/5q8n9bybaEXYMY8RtPmfVibybJU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/w56dF4BnIxw2WVLXEfoPVssBX5Q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "es",
+                "file_path": "/vxKs0JLPT63lcYZTK8P6b3SaFff.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/hWM3StxQsgmaabAPX5w0eg6r2GH.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/mkhRoEwDMlQcNH8nn5u74zVjbOI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 7.316,
+                "height": 313,
+                "iso_639_1": "en",
+                "file_path": "/vOvRZEAeAHOT2bzb6Z5jvVPmZSW.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2290
+            },
+            {
+                "aspect_ratio": 7.294,
+                "height": 592,
+                "iso_639_1": "en",
+                "file_path": "/lvUduaLPW0PvNoejAqlFqvaxdNH.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4318
+            },
+            {
+                "aspect_ratio": 2.5,
+                "height": 250,
+                "iso_639_1": "ja",
+                "file_path": "/hSD8q7eMNkzByTXPcRyous0Y4xw.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 625
+            },
+            {
+                "aspect_ratio": 4.699,
+                "height": 166,
+                "iso_639_1": "fi",
+                "file_path": "/abq8dNAKOuI6rJZtccvApjGmerH.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 780
+            },
+            {
+                "aspect_ratio": 4.972,
+                "height": 856,
+                "iso_639_1": "es",
+                "file_path": "/mjf2CyGrMqjUjsjXsaEsakBrOdA.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4256
+            },
+            {
+                "aspect_ratio": 2.353,
+                "height": 544,
+                "iso_639_1": "th",
+                "file_path": "/9eM7zLbDYn9ZHeh5wuLXK7b3Y8F.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 7.294,
+                "height": 592,
+                "iso_639_1": "en",
+                "file_path": "/zwO1bgnlCg4O31rb2yD8pT0EKWD.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4318
+            },
+            {
+                "aspect_ratio": 7.294,
+                "height": 592,
+                "iso_639_1": "en",
+                "file_path": "/ndRZhcVC1AEuJfjuSFjsYMbEwEt.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4318
+            },
+            {
+                "aspect_ratio": 5.036,
+                "height": 248,
+                "iso_639_1": "bg",
+                "file_path": "/idu70LdjEKLrmMiygoFs62GRpSE.svg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1249
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+                "vote_average": 5.466,
+                "vote_count": 69,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/j3avFpFKXyz2E3vMq5exlEo5Os.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/7bPoTglv9AAt666us0qChxancpd.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1825,
+                "iso_639_1": "pt",
+                "file_path": "/sZ6Bjq1VVfiTrALlev0ganz7uka.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1217
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/eycO6M2s38xO1888Gq2gSrXf0A6.jpg",
+                "vote_average": 5.354,
+                "vote_count": 60,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1499,
+                "iso_639_1": "en",
+                "file_path": "/vqPtSD5kJJTEFuJluj4C1J8wKKf.jpg",
+                "vote_average": 5.326,
+                "vote_count": 7,
+                "width": 1060
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5ap5PzUmVwuKNs9Dm4NbeDugWgB.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/1UDB0UbnneguuPeVtLA8jYoktNl.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/5cUG6mLefkztx42RUynNlrWQwc0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.67,
+                "height": 1710,
+                "iso_639_1": "ko",
+                "file_path": "/bAaeuzr7vzf8EWbhVAyXVIMhXZa.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1146
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "he",
+                "file_path": "/4xWLpYByBPzPWpp4hhKT5Bu9W7B.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/17pvY55Zr60niVovNvgt72mwvES.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/nprODlgWtWhoqpypAvbUhQTXhP6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.676,
+                "height": 1440,
+                "iso_639_1": "pl",
+                "file_path": "/tCg0FgIo8TWuYRbPOtQtt3zTkxH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 973
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "tr",
+                "file_path": "/4hUSc9oKcudbYOyt8EVP65LnaQV.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2700,
+                "iso_639_1": "hu",
+                "file_path": "/xWI89ILpXDjhed31EL5NIxfyhyV.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1800
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 2560,
+                "iso_639_1": "ja",
+                "file_path": "/8fpyy5NC1busoN4WV8dBl3eBf8q.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1709
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ru",
+                "file_path": "/nCZDd6sJ7OdonxiDUNgncrKusQn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/hAlF7s6O5pooeSsAcprJoMQNlCf.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/A68EGr4WVlQdZcXAfyqFzzWP0Ua.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.684,
+                "height": 2280,
+                "iso_639_1": "pt",
+                "file_path": "/6OvJuJR2FNPmLY18u777goVjhzw.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1560
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1223,
+                "iso_639_1": "en",
+                "file_path": "/8I0qqrHWhEDnbgTD1qqYp8Qihoq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 815
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/yweC2s3UgtSTWp681ZUR2SWs4it.jpg",
+                "vote_average": 5.304,
+                "vote_count": 24,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/bozDCie26Fa7G2qhP5IBiSYCtfS.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ip4Mj8YM9EozXt0J7KYWlFc30ra.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/jb1T7qI2Ta7wWgzTLQYvhXfNaC.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/6AEThrHaW6Rxu5XQKP6QiBKbZIs.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "pt",
+                "file_path": "/hR4dXPlWq5Nekwjqbp3gFGeiiZS.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/53p7M8w35cGCjQVsgVLpPIYEck0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/h8yuMc4BpwITgcwKL9vuOo964JB.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1584,
+                "iso_639_1": "en",
+                "file_path": "/sVhCjYFyJr9Gn9BGIxFzqhD5XYj.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1056
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/b8t6BmQ5YnoKDsJlZlsXrETKwAN.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/pJxfGCjubx6qhtiJRhBRDQGo2oo.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/bntHpWNQwYsmdSzIlBi6efJH6fr.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.676,
+                "height": 1360,
+                "iso_639_1": null,
+                "file_path": "/sTtaHJxQdA2TWQyioA1msUPUGpl.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 919
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "uk",
+                "file_path": "/1eHsQgVbfOZUGpAQvKzzK3NByNF.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sv",
+                "file_path": "/bI5tX0XWIdKFmWkVJBGn0WA8tXt.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2222,
+                "iso_639_1": "tr",
+                "file_path": "/8ZdcNIhsqn8eORVhfLpzzCkCRgG.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 1728,
+                "iso_639_1": "he",
+                "file_path": "/wvDJ5ggX3ijpxYqlTO1zvJQfrZw.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/gSGsxuO3mN1NfTKFlTLVdj156vF.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1774,
+                "iso_639_1": "en",
+                "file_path": "/93uHy4f6PXJaEtAhBEV47AeyhnR.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1242
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/coGEv0igqIQHiPXPIYuSTatPexU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/52ysUPEXo4CI8xjwz5vNAO6kTzd.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/nPVYx3uOs4dsOKGhqdBwWCz3fD1.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/nJGcSIpUW1Bisn3WUxPYyYFBfN4.jpg",
+                "vote_average": 5.068,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2121,
+                "iso_639_1": "en",
+                "file_path": "/thEZbZNCXFyqVesSH0gBrr1Zvdb.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/kwdnHccfcQY80G9nm1I2szKzMbT.jpg",
+                "vote_average": 5.048,
+                "vote_count": 25,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/fAZjg86ZWvMmH6Tcs1zwDQyvdBZ.jpg",
+                "vote_average": 5.022,
+                "vote_count": 10,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/cZXiAXvG68mn6NNB5LYQBAzZA7G.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/zVK3O24pCP3sLCGQ5xj1U51QVEq.jpg",
+                "vote_average": 4.898,
+                "vote_count": 10,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 989,
+                "iso_639_1": "en",
+                "file_path": "/jfbIXBNZCEryNJGWj9neBT5J0Ze.jpg",
+                "vote_average": 4.866,
+                "vote_count": 6,
+                "width": 668
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2047,
+                "iso_639_1": "en",
+                "file_path": "/lAjnrhrI6yTmXloS2aTk39FEbi9.jpg",
+                "vote_average": 4.794,
+                "vote_count": 12,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fi",
+                "file_path": "/n5ir5MSyPoJrR23NvULLb0nTFWE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2048,
+                "iso_639_1": "ko",
+                "file_path": "/fB6piWswzQ54BJol2siU61Tnljq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1438
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/9lQZUYk25WBpHT9J2PKVfDe1iGl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2000,
+                "iso_639_1": "el",
+                "file_path": "/tNURkT4sydekqisvS1qNtF7omZc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sk",
+                "file_path": "/cykb883Zl1pp5mDUoP8BugJssSv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "cs",
+                "file_path": "/sgTmBcAXfZtWm0g5XVaY4OK9aoh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 1425,
+                "iso_639_1": "ko",
+                "file_path": "/fwX9ZKDMyyID9wFAy973sOBiFMI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": null,
+                "file_path": "/vb5QCwK1N2ckjGTykW2HM3ThPfT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.562,
+                "height": 2560,
+                "iso_639_1": null,
+                "file_path": "/lKDYCETgueAYJMoWo5NUoSw1tnD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/r4yakVA7o7Do76QsrlZFvgukzae.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 2500,
+                "iso_639_1": "hu",
+                "file_path": "/fdOoMcIbYYJV1dSzCvjQMCvA0kh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1735
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2137,
+                "iso_639_1": "ko",
+                "file_path": "/xcPOcHCSWiaqoKZhQBQLrRzpdMN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/rzgPP3PCFou1VP4EE4fZ9jEd1J1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pl",
+                "file_path": "/1fLr50N1ROCFVswqb6FkS2cI7tO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/ollsbcSi68oCWyc3s73kyWnvQ2E.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/mvtf6Y79lrfsAjFWsqZyFBdRj5H.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "fr",
+                "file_path": "/dMFeiVwRmTdHzm6lI24M4SXhT12.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1414,
+                "iso_639_1": "it",
+                "file_path": "/cCyD3BZ5DZl15wY9EV3seWo6yL0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2560,
+                "iso_639_1": "pt",
+                "file_path": "/4d7ZTZ7wK967HjE1rLUc3UKVNCI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1621,
+                "iso_639_1": "en",
+                "file_path": "/ta4n2EB66aEM45ZXgIHdI7AHAOe.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1082
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1623,
+                "iso_639_1": "en",
+                "file_path": "/i70XKAVgbtuvGhhP47CVm97RY43.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1082
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/qbIFk17has9miheuzebLQ43kbIn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/eeK6UysFxNxN9FhAnBrv73vbAFj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2132,
+                "iso_639_1": "th",
+                "file_path": "/vmKUZy14AM6SabUMKQQST0DHNRT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "ja",
+                "file_path": "/aie2E6uAot41qV7kxiiMS5oCqsh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "hr",
+                "file_path": "/aDpfYzlENVJcL8GFwyMbbaEg8tE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/dDJ5v6W4LTF0cKX2Y9NRFazROZS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/a4Uwb4vnep76r1HRNduFgT9MRez.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/5BiJGXmGLxqxLPCZQK9xw7Uzb5P.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1418,
+                "iso_639_1": "zh",
+                "file_path": "/jSwwNFOS3Cs0AmPMZCOQM4ymlvj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 992
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/mLMfOJRr0QPWEThEwHRpCAKGJIa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.68,
+                "height": 1000,
+                "iso_639_1": "pt",
+                "file_path": "/pPdmjKkHDXWskfBWeXhN35FTOt2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 680
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1322,
+                "iso_639_1": "en",
+                "file_path": "/8B3km8xukRjXHGibm6yqc1Bho53.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 934
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 990,
+                "iso_639_1": "en",
+                "file_path": "/4nBp8caWRIvxzw65fRCNDMwRT8v.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/pN79rs8NM58edlKw3RzNwZnulqt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 846,
+                "iso_639_1": "en",
+                "file_path": "/v0v9znRdH60Rr9hQa6saHyz6UGd.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 564
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1090,
+                "iso_639_1": "en",
+                "file_path": "/xeDStAJzaNMTQUSccklV4qGrb2b.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 736
+            },
+            {
+                "aspect_ratio": 0.684,
+                "height": 1608,
+                "iso_639_1": "en",
+                "file_path": "/wMEjYDOYzg21vNdRZA48YEXudbE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1070,
+                "iso_639_1": "en",
+                "file_path": "/uWsvzTzP1F7h3mrS42Y0sT4tg0q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.753,
+                "height": 1428,
+                "iso_639_1": "en",
+                "file_path": "/jTGlaUfYCp40a9ePvYwgtubanau.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1075
+            },
+            {
+                "aspect_ratio": 0.669,
+                "height": 2800,
+                "iso_639_1": "en",
+                "file_path": "/xrdxLueaWhE2cpTdUppdzBCf4F1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1873
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1223,
+                "iso_639_1": "en",
+                "file_path": "/hJKQHSapS5V3OBFCbizvcUs1MGG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 815
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1621,
+                "iso_639_1": "fr",
+                "file_path": "/tSRu1mFm2KOUGeat7V6GsR20GzR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1082
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1610,
+                "iso_639_1": "en",
+                "file_path": "/2NFrTcIuj5kl8sn2TwriwYkriWI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1074
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1051,
+                "iso_639_1": "en",
+                "file_path": "/mz50rlDxNhxZQySUdDztibUuPZP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 736
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 905,
+                "iso_639_1": "en",
+                "file_path": "/i0Z8vEPjZkCWYqSBUuJETQoXM47.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 640
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1583,
+                "iso_639_1": "en",
+                "file_path": "/8amaqaPpol9BSzU2QSKP8GJyoHb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1055
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1583,
+                "iso_639_1": "en",
+                "file_path": "/dHUXdDhcMidAVccoOoGaNAtAoCK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1055
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 914,
+                "iso_639_1": "en",
+                "file_path": "/guDRrZJoEwbKgZKBcx8QRhRjcv0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 609
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 960,
+                "iso_639_1": "en",
+                "file_path": "/3Z0agbpOMmnNhWJqCeIq0UtxiCm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 640
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1090,
+                "iso_639_1": "en",
+                "file_path": "/leKMOFnKo2niuvr26yfaryGOLLC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 727
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 990,
+                "iso_639_1": "en",
+                "file_path": "/f21mFURRP5xpPlM8NDY7DqkB8VW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 660
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "bg",
+                "file_path": "/bSjQXwRp5gI9UwWGfc5po0NSNf7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1112,
+                "iso_639_1": "tr",
+                "file_path": "/4NhA7b4KdiDntvTcFMkCRKWCt2c.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 741
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1104,
+                "iso_639_1": null,
+                "file_path": "/qS8mcmSNJNl7geTMMraYi53qi0O.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 736
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1013,
+                "iso_639_1": null,
+                "file_path": "/1iOMA6EneQ9cxIoEJ6CM44pvYHT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 675
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1125,
+                "iso_639_1": "en",
+                "file_path": "/9RLk3TggAIZliYzBOXIGmpcL41t.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.662,
+                "height": 2979,
+                "iso_639_1": null,
+                "file_path": "/AbVBJncgSWCftgvRButnJ5QCSEG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1972
+            },
+            {
+                "aspect_ratio": 0.74,
+                "height": 2700,
+                "iso_639_1": "en",
+                "file_path": "/h3H1NG6oUhplI2CsvXRA1IreBSR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4720,
+                "name": "ritual"
+            },
+            {
+                "id": 2340,
+                "name": "paranoia"
+            },
+            {
+                "id": 1192,
+                "name": "sweden"
+            },
+            {
+                "id": 6158,
+                "name": "cult"
+            },
+            {
+                "id": 11528,
+                "name": "hallucinogenic drug"
+            },
+            {
+                "id": 9696,
+                "name": "magic mushroom"
+            },
+            {
+                "id": 10983,
+                "name": "anthropology"
+            },
+            {
+                "id": 11083,
+                "name": "paganism"
+            },
+            {
+                "id": 18514,
+                "name": "death of family"
+            },
+            {
+                "id": 164698,
+                "name": "boyfriend girlfriend relationship"
+            },
+            {
+                "id": 177923,
+                "name": "midsummer"
+            },
+            {
+                "id": 185718,
+                "name": "cultural conflict"
+            },
+            {
+                "id": 208298,
+                "name": "bad trip"
+            },
+            {
+                "id": 209568,
+                "name": "folk horror"
+            },
+            {
+                "id": 241804,
+                "name": "toxic relationship"
+            },
+            {
+                "id": 243370,
+                "name": "midnight sun"
+            },
+            {
+                "id": 246313,
+                "name": "isolated community"
+            },
+            {
+                "id": 253709,
+                "name": "summer festival"
+            },
+            {
+                "id": 253807,
+                "name": "traumatized woman"
+            }
+        ]
+    },
+    "title_english": "Midsommar",
+    "year": "2019",
+    "rated": "R",
+    "director_list": [
+        "Ari Aster"
+    ],
+    "writer_list": [
+        "Ari Aster"
+    ],
+    "main_cast": [
+        "Florence Pugh",
+        " Jack Reynor",
+        " Vilhelm Blomgren"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "imdb_rating": "7.1",
+    "imdb_votes": "380,353",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Midsommar",
+    "wikipedia_summary": "Midsommar is a 2019 folk horror film written and directed by Ari Aster. The film stars Florence Pugh and Jack Reynor as a dysfunctional American couple who travel to rural Sweden with a group of friends for a midsummer festival, but find themselves in the clutches of a sinister cult claiming to practice Scandinavian paganism. Supporting actors include William Jackson Harper, Vilhelm Blomgren, Ellora Torchia, Archie Madekwe, and Will Poulter.\nA co-production between the United States and Sweden, the film was initially pitched to Aster as a straightforward slasher film set among Swedish cultists. While elements of the original concept remain in the final product, the finished film focuses on a deteriorating relationship inspired by a difficult breakup experienced by Aster himself. The film's soundtrack, composed by British electronic musician Bobby Krlic (better known as The Haxan Cloak), takes inspiration from Nordic folk music. The film was shot on location in Budapest from July to October 2018.\nMidsommar was theatrically released in the United States by A24 on July 3, 2019, and in Sweden by Nordisk Film on July 10, 2019. The film grossed $48 million and received positive reviews, with praise for Aster's direction and Pugh's performance in particular, although it polarized general audiences.",
+    "wikipedia_plot": "American student Dani is left deeply traumatized after her bipolar sister Terri kills their parents and herself. The incident further strains Dani's relationship with her increasingly distant boyfriend, a fellow student named Christian, who, with his friends Mark and Josh, has been invited by their Swedish friend Pelle to attend a midsummer festival at his ancestral commune, the H\u00e5rga, in the rural H\u00e4lsingland region of Sweden. The festival occurs only once every 90 years; Josh, who is writing his thesis on European midsummer festivities, regards it as a once-in-a-lifetime opportunity. Christian had not discussed the trip with Dani, as he intended to break up with her before her family tragedy happened, but he reluctantly invites her along after an argument.\nUpon arrival at the commune, they meet Simon and Connie, a British couple who were invited by Pelle's commune-brother Ingemar, who offers the group psychedelic mushrooms, causing Dani to have a bad trip and hallucinate about her dead family. The day after their arrival, the group witnesses an \u00e4ttestupa ceremony, where two elders commit suicide by jumping off a cliff onto the rocks below. When one of the elders survives the fall, the commune members mimic his wails of pain before crushing his head with a mallet. Commune elder Siv attempts to calm Connie and Simon by explaining that every member of their community does this at the age of 72, and that it is believed to be a great honor.\nChristian also decides to write his thesis on the H\u00e5rga commune, irritating Josh by plagiarizing his idea. Disturbed by the ceremonies, Dani attempts to leave, but Pelle convinces her to stay. He explains that he too was orphaned after his parents perished in a fire, and the commune became his new family. Connie and Simon demand to leave and are supposedly driven to a nearby train station individually. During his thesis research, Christian is told that outsiders are sometimes brought into the commune for \"mating\" purposes to avoid incest. He is encouraged to participate, but refuses. After unwittingly urinating on a sacred tree, Mark is lured away from the group by one of the female commune members and murdered in the woods. That night, Josh sneaks out of bed to take illicit photographs of the commune's sacred texts. He is caught and distracted by a man wearing Mark's skinned face, and is then bludgeoned to death with a mallet and dragged away.\nThe following day, both Dani and Christian are separately pressured into drinking a hallucinogenic tea. Dani wins a maypole dancing competition and is crowned May Queen. Christian is drugged and participates in a sex ritual designed to impregnate Maja, a young member of the H\u00e5rga, while older nude female members watch and mimic Maja's moans. Dani witnesses the ritual and has a panic attack while the commune's women surround her, mimicking her cries of sorrow. After the ritual, a naked Christian attempts to flee. He discovers Josh's severed leg planted in a flowerbed and Simon, barely alive on display in a barn, the latter having been made into a blood eagle. An elder then paralyzes Christian with a drug.\nFor the final ceremony, the commune leaders explain that the commune must offer nine human sacrifices to purge it of evil. The first four victims (Mark, Josh, Simon, and Connie) were outsiders lured to them by Pelle and Ingemar, while the next four victims (the two \u00e4ttestupa elders, plus volunteers Ingemar and Ulf) are from the commune. As the May Queen, Dani must choose either Christian or a randomly chosen commune member as the final sacrifice. She chooses Christian, who is stuffed into a disemboweled brown bear's body and placed in a triangular wooden temple alongside the other sacrifices. The commune members to be sacrificed are given drugs and told they will feel no fear or pain, but Christian is not and remains paralyzed. The structure is set alight, and the commune members mimic the screams of those being burned alive. Dani initially sobs in horror and grief, but the closing shot is her smiling widely.",
+    "wikipedia_plot_html": "<p>American student Dani is left deeply traumatized after her bipolar sister Terri kills their parents and herself. The incident further strains Dani's relationship with her increasingly distant boyfriend, a fellow student named Christian, who, with his friends Mark and Josh, has been invited by their Swedish friend Pelle to attend a midsummer festival at his ancestral commune, the H\u00e5rga, in the rural H\u00e4lsingland region of Sweden. The festival occurs only once every 90 years; Josh, who is writing his thesis on European midsummer festivities, regards it as a once-in-a-lifetime opportunity. Christian had not discussed the trip with Dani, as he intended to break up with her before her family tragedy happened, but he reluctantly invites her along after an argument.\n</p><p>Upon arrival at the commune, they meet Simon and Connie, a British couple who were invited by Pelle's commune-brother Ingemar, who offers the group psychedelic mushrooms, causing Dani to have a bad trip and hallucinate about her dead family. The day after their arrival, the group witnesses an <i>\u00e4ttestupa</i> ceremony, where two elders commit suicide by jumping off a cliff onto the rocks below. When one of the elders survives the fall, the commune members mimic his wails of pain before crushing his head with a mallet. Commune elder Siv attempts to calm Connie and Simon by explaining that every member of their community does this at the age of 72, and that it is believed to be a great honor.\n</p><p>Christian also decides to write his thesis on the H\u00e5rga commune, irritating Josh by plagiarizing his idea. Disturbed by the ceremonies, Dani attempts to leave, but Pelle convinces her to stay. He explains that he too was orphaned after his parents perished in a fire, and the commune became his new family. Connie and Simon demand to leave and are supposedly driven to a nearby train station individually. During his thesis research, Christian is told that outsiders are sometimes brought into the commune for \"mating\" purposes to avoid incest. He is encouraged to participate, but refuses. After unwittingly urinating on a sacred tree, Mark is lured away from the group by one of the female commune members and murdered in the woods. That night, Josh sneaks out of bed to take illicit photographs of the commune's sacred texts. He is caught and distracted by a man wearing Mark's skinned face, and is then bludgeoned to death with a mallet and dragged away.\n</p><p>The following day, both Dani and Christian are separately pressured into drinking a hallucinogenic tea. Dani wins a maypole dancing competition and is crowned May Queen. Christian is drugged and participates in a sex ritual designed to impregnate Maja, a young member of the H\u00e5rga, while older nude female members watch and mimic Maja's moans. Dani witnesses the ritual and has a panic attack while the commune's women surround her, mimicking her cries of sorrow. After the ritual, a naked Christian attempts to flee. He discovers Josh's severed leg planted in a flowerbed and Simon, barely alive on display in a barn, the latter having been made into a blood eagle. An elder then paralyzes Christian with a drug.\n</p><p>For the final ceremony, the commune leaders explain that the commune must offer nine human sacrifices to purge it of evil. The first four victims (Mark, Josh, Simon, and Connie) were outsiders lured to them by Pelle and Ingemar, while the next four victims (the two <i>\u00e4ttestupa</i> elders, plus volunteers Ingemar and Ulf) are from the commune. As the May Queen, Dani must choose either Christian or a randomly chosen commune member as the final sacrifice. She chooses Christian, who is stuffed into a disemboweled brown bear's body and placed in a triangular wooden temple alongside the other sacrifices. The commune members to be sacrificed are given drugs and told they will feel no fear or pain, but Christian is not and remains paralyzed. The structure is set alight, and the commune members mimic the screams of those being burned alive. Dani initially sobs in horror and grief, but the closing shot is her smiling widely.\n</p>",
+    "wikipedia_critics": "On the review aggregator website Rotten Tomatoes, the film holds an approval rating of 83% based on 404 reviews, and an average rating of 7.6/10. The site's critical consensus reads, \"Ambitious, impressively crafted, and above all unsettling, Midsommar further proves writer-director Ari Aster is a horror auteur to be reckoned with.\" On Metacritic, which uses a weighted average, the film has a score of 72 out of 100, based on 54 reviews, indicating \"generally favorable reviews\".John DeFore of The Hollywood Reporter described the film as the \"horror equivalent of a destination wedding\", and \"more unsettling than frightening, [but] still a trip worth taking.\" Writing for Variety, Andrew Barker noted that it is \"neither the masterpiece nor the disaster that the film's most vocal viewers are bound to claim. Rather, it's an admirably strange, thematically muddled curiosity from a talented filmmaker who allows his ambitions to outpace his execution.\" David Edelstein of Vulture praised Pugh's performance as \"amazingly vivid\" and noted that Aster \"paces Midsommar more like an opera (Wagner, not Puccini) than a scare picture,\" but concluded that the film \"doesn't jell because its impulses are so bifurcated. It's a parable of a woman's religious awakening\u2014that's also a woman's fantasy of revenge against a man who didn't meet her emotional needs\u2014that's also a male director's masochistic fantasy of emasculation at the hands of a matriarchal cult.\" In The New York Times, Manohla Dargis was critical of the character depth behind Dani and Christian, finding them \"instructively uninteresting\" and stereotypically gendered as a couple.Eric Kohn of IndieWire summarized the film as a \"perverse breakup movie,\" adding that \"Aster doesn't always sink the biggest surprises, but he excels at twisting the knife. After a deflowering that makes Ken Russell's The Devils look tame, Aster finds his way to a startling reality check.\" Time Out's Joshua Rothkopf awarded the film a 5/5 star-rating, writing, \"A savage yet evolved slice of Swedish folk-horror, Ari Aster's hallucinatory follow-up to Hereditary proves him a horror director with no peer.\"For The A.V. Club, A. A. Dowd stated that the film \"rivals Hereditary in the cruel shock department\", and labelled it a \"B+ effort\". Writing for Inverse, Eric Francisco commented that the film feels \"like a victory lap after Hereditary\", and that Aster \"takes his sweet time to lull viewers into his clutches ... But like how the characters experience time, its passage is a vague notion.\" He described the film as \"a sharp portrayal of gaslighting\". Richard Brody of The New Yorker said that the film \"is built on such a void of insight and experience, such a void of character and relationships, that even the first level of the house of narrative cards can't stand.\" He added, \"In the end, the subject of Midsommar is as simple as it is regressive: lucky Americans, stay home.\" Emma Madden in The Guardian criticised the film for its depiction of disabled characters as \"monstrous\", and argued it resurrects harmful horror film tropes of ableism and eugenics.Tomris Laffly of RogerEbert.com rated the film 4 out of 4 stars, describing it as a \"terrifically juicy, apocalyptic cinematic sacrament that dances around a fruitless relationship in dizzying circles\". A Vanity Fair article from December 2019 reflecting on the 2010s in horror films argued that Midsommar was part of a trend of \"elevated horror\" along with Aster's previous Hereditary and Robert Eggers directed The Witch, and that it was an example of \"horror at its best\".",
+    "wikipedia_full_html": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p class=\"mw-empty-elt\">\n\n\n</p>\n<p><i><b>Midsommar</b></i> is a 2019 folk horror film written and directed by Ari Aster. The film stars Florence Pugh and Jack Reynor as a dysfunctional American couple who travel to rural Sweden with a group of friends for a midsummer festival, but find themselves in the clutches of a sinister cult claiming to practice Scandinavian paganism. Supporting actors include William Jackson Harper, Vilhelm Blomgren, Ellora Torchia, Archie Madekwe, and Will Poulter.\n</p><p>A co-production between the United States and Sweden, the film was initially pitched to Aster as a straightforward slasher film set among Swedish cultists. While elements of the original concept remain in the final product, the finished film focuses on a deteriorating relationship inspired by a difficult breakup experienced by Aster himself. The film's soundtrack, composed by British electronic musician Bobby Krlic (better known as The Haxan Cloak), takes inspiration from Nordic folk music. The film was shot on location in Budapest from July to October 2018.\n</p><p><i>Midsommar</i> was theatrically released in the United States by A24 on July 3, 2019, and in Sweden by Nordisk Film on July 10, 2019. The film grossed $48 million and received positive reviews, with praise for Aster's direction and Pugh's performance in particular, although it polarized general audiences.\n</p>\n\n<h2>Plot</h2>\n<p>American student Dani is left deeply traumatized after her bipolar sister Terri kills their parents and herself. The incident further strains Dani's relationship with her increasingly distant boyfriend, a fellow student named Christian, who, with his friends Mark and Josh, has been invited by their Swedish friend Pelle to attend a midsummer festival at his ancestral commune, the H\u00e5rga, in the rural H\u00e4lsingland region of Sweden. The festival occurs only once every 90 years; Josh, who is writing his thesis on European midsummer festivities, regards it as a once-in-a-lifetime opportunity. Christian had not discussed the trip with Dani, as he intended to break up with her before her family tragedy happened, but he reluctantly invites her along after an argument.\n</p><p>Upon arrival at the commune, they meet Simon and Connie, a British couple who were invited by Pelle's commune-brother Ingemar, who offers the group psychedelic mushrooms, causing Dani to have a bad trip and hallucinate about her dead family. The day after their arrival, the group witnesses an <i>\u00e4ttestupa</i> ceremony, where two elders commit suicide by jumping off a cliff onto the rocks below. When one of the elders survives the fall, the commune members mimic his wails of pain before crushing his head with a mallet. Commune elder Siv attempts to calm Connie and Simon by explaining that every member of their community does this at the age of 72, and that it is believed to be a great honor.\n</p><p>Christian also decides to write his thesis on the H\u00e5rga commune, irritating Josh by plagiarizing his idea. Disturbed by the ceremonies, Dani attempts to leave, but Pelle convinces her to stay. He explains that he too was orphaned after his parents perished in a fire, and the commune became his new family. Connie and Simon demand to leave and are supposedly driven to a nearby train station individually. During his thesis research, Christian is told that outsiders are sometimes brought into the commune for \"mating\" purposes to avoid incest. He is encouraged to participate, but refuses. After unwittingly urinating on a sacred tree, Mark is lured away from the group by one of the female commune members and murdered in the woods. That night, Josh sneaks out of bed to take illicit photographs of the commune's sacred texts. He is caught and distracted by a man wearing Mark's skinned face, and is then bludgeoned to death with a mallet and dragged away.\n</p><p>The following day, both Dani and Christian are separately pressured into drinking a hallucinogenic tea. Dani wins a maypole dancing competition and is crowned May Queen. Christian is drugged and participates in a sex ritual designed to impregnate Maja, a young member of the H\u00e5rga, while older nude female members watch and mimic Maja's moans. Dani witnesses the ritual and has a panic attack while the commune's women surround her, mimicking her cries of sorrow. After the ritual, a naked Christian attempts to flee. He discovers Josh's severed leg planted in a flowerbed and Simon, barely alive on display in a barn, the latter having been made into a blood eagle. An elder then paralyzes Christian with a drug.\n</p><p>For the final ceremony, the commune leaders explain that the commune must offer nine human sacrifices to purge it of evil. The first four victims (Mark, Josh, Simon, and Connie) were outsiders lured to them by Pelle and Ingemar, while the next four victims (the two <i>\u00e4ttestupa</i> elders, plus volunteers Ingemar and Ulf) are from the commune. As the May Queen, Dani must choose either Christian or a randomly chosen commune member as the final sacrifice. She chooses Christian, who is stuffed into a disemboweled brown bear's body and placed in a triangular wooden temple alongside the other sacrifices. The commune members to be sacrificed are given drugs and told they will feel no fear or pain, but Christian is not and remains paralyzed. The structure is set alight, and the commune members mimic the screams of those being burned alive. Dani initially sobs in horror and grief, but the closing shot is her smiling widely.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<h3>Development</h3>\n<p>In May 2018, it was announced that Ari Aster would write and direct the film, with Lars Knudsen serving as producer. B-Reel Films, a Swedish company, produced the film alongside Square Peg, with A24 distributing. Aster's previous horror film, <i>Hereditary</i>, had been a huge critical success, making over $80 million to become A24's highest-grossing film worldwide. According to Aster, he had been approached by B-Reel executives Martin Karlqvist and Patrik Andersson to helm a slasher film set in Sweden, an idea which he initially rejected as he felt he \"had no way into the story.\" Aster ultimately devised a plot in which the two central characters are experiencing relationship tensions verging on a breakup, and wrote the surrounding screenplay around this theme. He described the result as \"a breakup movie dressed in the clothes of a folk horror film.\" Aster has mentioned 1981 Albert Brooks film <i>Modern Romance</i> as an inspiration for <i>Midsommar</i>, and also called it \"<i>The Wizard of Oz</i> for perverts\".</p><p>Aster worked with the film's production designer Henrik Svensson to develop the film's folklore elements and the traditions of the H\u00e5rga, while visiting H\u00e4lsingland together. He researched H\u00e4lsingeg\u00e5rds, \"centuries-old farms that typically had painting on the walls\", to develop a stylized version for the set, as well as May Day and midsummer celebrations in Swedish, German and English folklore. Aster also researched spiritual movements and communities, saying he particularly drew inspiration from Rudolf Steiner's anthroposophy and the theosophy movement.</p><p>Florence Pugh, Jack Reynor, Will Poulter, Vilhem Blomgren, William Jackson Harper, Ellora Torchia, and Archie Madekwe joined the cast in July 2018.</p>\n\n<h3>Filming</h3>\n<p>Some early scenes set in the United States were also filmed there; Dani's apartment was filmed in Brooklyn, New York City, while other scenes where Christian's friends interact were filmed in Utah. The majority of the film was shot in Hungary rather than Sweden, primarily due to financial constraints, but also as Sweden limits daily film shoots to no longer than eight hours. Principal photography began on July 30, 2018, in Budapest, and wrapped that October.</p><p>Harper said the shoot was \"arduous\" due to the heat. Wasps were highly abundant and a major issue on set. Pugh reflected \"the shoot was totally nuts\" and commended Aster's direction: \"he was dealing with possibly 100, 120 people, additional extras and actors there, all speaking in three different languages and he was the captain of the ship\".</p><p>Ahead of filming the drug use scenes, Reynor said that the cast discussed their own experiences with psychedelic mushrooms. On her breakdown scene with the H\u00e5rga, Pugh commended the other women involved, saying they \"made this scene possible\" as she typically struggles to cry on camera. She reflected: \"I knew I would never be so open and so raw and so exhausted like I was that day ever again\".</p><p>The sex scene between Christian and Maja was filmed on the final day. Reynor said he spent time attempting to boost morale among the other cast members involved, none of whom spoke English, including Isabelle Grill (who plays Maja) who was appearing in her first feature film role. He reflected he felt male nudity was unusual for a horror film, where female nudity is more typical. He said that he \"advocated for as much full-frontal nudity as possible, I really wanted to embrace the feeling of being exposed and the humiliation of this character. And I felt really, really vulnerable, more than I had actually even anticipated.\u201d</p>\n\n<h3>Props and costume design</h3>\n<p>Svensson said the mallet prop used for the senicide scene was a replica of one at a museum in Stockholm, and that the cliff-jumping was based on historic practices in Sweden. Costume designer Andrea Flesch developed the H\u00e5rga's costumes with antique linen from Hungary and Romania, and buttons from Sweden. Aster asked for the clothing to appear handmade, and for the H\u00e5rga to dress in white. Many of their costumes were hand-embroidered with rune designs unique to individual community members, signifying their families and occupations. Murals and tapestries in the background of some scenes indicate events in the film.</p><p>In April 2020, A24 announced it would be auctioning off props from its films and television series, including the 10,000-silk-flower May Queen dress worn by Pugh, which was reportedly purchased by the Academy Museum of Motion Pictures for $65,000, after both Ariana Grande and Halsey had expressed interest on social media. The proceeds were donated to provide COVID-19 pandemic relief for firefighters and their families. Other items from the film that sold at auction were the bear costume worn by Reynor for $4,760, the mallet used to crush a cult member's skull for $10,000, and other villager costumes that sold in the $4,500 range. All the proceeds from the <i>Midsommar</i> collection raised over $100,000 for the FDNY Foundation.</p>\n\n<h3>Post-production</h3>\n<p>Aster said the visual effects for the psychedelic scenes involved considerable trial and error: \"I'm sure for some of those shots we got to the point where we had 60 versions. In one iteration the tripping was way too distracting and you're not paying attention to the characters, and then you brought it down to the point where if you are paying attention to the characters, you'll never notice the tripping effects.\" The more minimal visual effects were settled on a week before the first screening.</p><p>There was around a six-week debate as to whether the film would be given an NC-17 rating or R rating by the MPAA for its US release due to its graphic nudity, with it eventually being given an R rating after cuts. An NC-17 rating is considered harmful to a film's box-office performance.</p>\n\n<h2>Music</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Aster wrote the film while listening to British electronic musician The Haxan Cloak's 2013 album <i>Excavation</i>. Aster later recruited him to compose the film's score, credited under his real name Bobby Krlic. Krlic began composing the music before filming began, taking inspiration from Nordic folk music, and collaborating closely with Aster. The film makes use of diegetic music, where events on screen meld with the score.</p><p>The soundtrack album was released on July 5, 2019 via Milan Records.</p>\n\n<h2>Release</h2>\n<p><i>Midsommar</i> had a pre-release screening at the Alamo Drafthouse Cinema in New York City, on June 18, 2019. The film was theatrically released in the United States on July 3, 2019.</p>\n\n<h3>Director's cut</h3>\n<p>Aster's original 171-minute cut of the film, which A24 asked Aster to trim down for a wide theatrical release, had its world premiere at the Film Society of Lincoln Center in New York City on August 20, 2019. It was shown in theaters across the United States for a weekend starting on August 29, 2019. The director's cut was released as an Apple TV exclusive on September 24, 2019. On physical media, it saw a British release on Blu-ray and DVD on October 28, 2019, an Australian Blu-ray release on November 6, 2019 and a US release on Blu-ray in July 2020.</p>\n\n<h3>Home media</h3>\n<p><i>Midsommar</i> was released on Digital HD on September 24, 2019, and on DVD and Blu-ray on October 8, 2019. The director's cut of the film was then released on Blu-ray and 4K Ultra HD Blu-ray as an A24 shop exclusive on July 20, 2020, in limited copies.</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p><i>Midsommar</i> grossed $27.5<span>\u00a0</span>million in the United States and Canada, and $20.5<span>\u00a0</span>million in other territories, for a total worldwide gross of $48<span>\u00a0</span>million.</p><p>In the United States and Canada, the film was projected to gross $8\u201310 million from 2,707 theaters over its first five days. It made $3 million on its first day, including $1.1 million from Tuesday night previews, which <i>Deadline Hollywood</i> called a \"smashing start\". It went on to debut to $10.9 million, finishing sixth at the box office; <i>IndieWire</i> said it was \"just decent\" given its estimated $8 million budget, but the film would likely find success in home media. In its second weekend, the film dropped 44% to $3.7 million, finishing in eighth, and then made $1.6 million in its third weekend, finishing in ninth.</p>\n\n<h3>Audience reception</h3>\n<p>Audiences polled by CinemaScore gave the film a grade of \"C+\" on an A+ to F scale, while those at PostTrak gave it an average 3 out of 5 stars, with 50% saying they would definitely recommend it. Ankur Pathak of <i>The Huffington Post</i> says it \"divided audiences (and some critics)\", while <i>Screen Rant</i> writer Mark Birrell said it was \"one of the most polarizing horror movies of 2019\" among general audiences. Birrell cited, as the film's positive qualities, its performances, cinematography, music, its atmospheric tone, which Birel said was grounded in realism and a high level of attention to detail, and its themes, which included its exploration of mental health issues. However, he attributed its uneven audience reception to negative aspects, such its length, its lack of subtlety, its derivativeness and poor use of genre clich\u00e9s, its over-stylization, its tendency to be over-serious, the implausible plot, the one-dimensionality of the characters, which Birell found irritating, and the fact that he did not find the film scary.</p>\n\n<h3>Critical response</h3>\n<p>On the review aggregator website Rotten Tomatoes, the film holds an approval rating of 83% based on 404 reviews, and an average rating of 7.6/10. The site's critical consensus reads, \"Ambitious, impressively crafted, and above all unsettling, <i>Midsommar</i> further proves writer-director Ari Aster is a horror auteur to be reckoned with.\" On Metacritic, which uses a weighted average, the film has a score of 72 out of 100, based on 54 reviews, indicating \"generally favorable reviews\".</p><p>John DeFore of <i>The Hollywood Reporter</i> described the film as the \"horror equivalent of a destination wedding\", and \"more unsettling than frightening, [but] still a trip worth taking.\" Writing for <i>Variety</i>, Andrew Barker noted that it is \"neither the masterpiece nor the disaster that the film's most vocal viewers are bound to claim. Rather, it's an admirably strange, thematically muddled curiosity from a talented filmmaker who allows his ambitions to outpace his execution.\" David Edelstein of <i>Vulture</i> praised Pugh's performance as \"amazingly vivid\" and noted that Aster \"paces <i>Midsommar</i> more like an opera (Wagner, not Puccini) than a scare picture,\" but concluded that the film \"doesn't jell because its impulses are so bifurcated. It's a parable of a woman's religious awakening\u2014that's also a woman's fantasy of revenge against a man who didn't meet her emotional needs\u2014that's also a male director's masochistic fantasy of emasculation at the hands of a matriarchal cult.\" In <i>The New York Times</i>, Manohla Dargis was critical of the character depth behind Dani and Christian, finding them \"instructively uninteresting\" and stereotypically gendered as a couple.</p><p>Eric Kohn of <i>IndieWire</i> summarized the film as a \"perverse breakup movie,\" adding that \"Aster doesn't always sink the biggest surprises, but he excels at twisting the knife. After a deflowering that makes Ken Russell's <i>The Devils</i> look tame, Aster finds his way to a startling reality check.\" <i>Time Out</i><span>'</span>s Joshua Rothkopf awarded the film a 5/5 star-rating, writing, \"A savage yet evolved slice of Swedish folk-horror, Ari Aster's hallucinatory follow-up to <i>Hereditary</i> proves him a horror director with no peer.\"</p><p>For <i>The A.V. Club</i>, A. A. Dowd stated that the film \"rivals <i>Hereditary</i> in the cruel shock department\", and labelled it a \"B+ effort\". Writing for <i>Inverse</i>, Eric Francisco commented that the film feels \"like a victory lap after <i>Hereditary</i>\", and that Aster \"takes his sweet time to lull viewers into his clutches\u00a0... But like how the characters experience time, its passage is a vague notion.\" He described the film as \"a sharp portrayal of gaslighting\". Richard Brody of <i>The New Yorker</i> said that the film \"is built on such a void of insight and experience, such a void of character and relationships, that even the first level of the house of narrative cards can't stand.\" He added, \"In the end, the subject of <i>Midsommar</i> is as simple as it is regressive: lucky Americans, stay home.\" Emma Madden in <i>The Guardian</i> criticised the film for its depiction of disabled characters as \"monstrous\", and argued it resurrects harmful horror film tropes of ableism and eugenics.</p><p>Tomris Laffly of RogerEbert.com rated the film 4 out of 4 stars, describing it as a \"terrifically juicy, apocalyptic cinematic sacrament that dances around a fruitless relationship in dizzying circles\". A <i>Vanity Fair</i> article from December 2019 reflecting on the 2010s in horror films argued that <i>Midsommar</i> was part of a trend of \"elevated horror\" along with Aster's previous <i>Hereditary</i> and Robert Eggers directed <i>The Witch</i>, and that it was an example of \"horror at its best\".</p>\n\n<h3>Accolades</h3>\n<h2>Themes and analysis</h2>\n<p>Writing in <i>The Guardian</i>, Steve Rose describes <i>Midsommar</i> as \"a powerful study of grief, betrayal, breakups, and more\". Rose suggests that Dani's three male companions may be seen as representing \"toxic masculinity\", or analogues of the three male companions in <i>The Wizard of Oz</i> (namely the Tin Man, Cowardly Lion and Scarecrow). Rose proposes that the film may be read as a \"parable of snarky, city-smart, modern rationalism undone by primal rural values\". Alternatively, he proposes that the villagers' traditions could be read as far-right, white nationalist or eugenicist.</p><p>In <i>Vox</i>, Alissa Wilkinson described <i>Midsommar</i>'s story as following Dani's emotional journey and following fairy tale conventions, where Dani loses her family at the beginning and goes on to become a Queen, as with Cinderella and Snow White. The article also notes the use of imagery foreshadowing later events throughout the film. Aster himself said \"We begin as Dani loses a family, and we end as Dani gains one. And so, for better or worse, [the H\u00e5rga] are there to provide exactly what she is lacking, and exactly what she needs, in true fairy tale fashion.\"</p><p>Monica Wolfe discussed <i>Midsommar</i> as reflecting themes of globalization and American imperialism in a 2022 article in the <i>Journal of Popular Film and Television</i>. Wolfe outlines the film's competing ideologies of femininity versus masculinity, academic knowledge versus folk knowledge, and capitalism versus communism, writing that \"the horror of the film is driven by the objectified Other\u2019s resistance to the imperial power\u2019s desire to dominate physical place and own ideological space, but is complicated by a suggestion that, in this unique case, the Other is also a nationalist, right-wing power, and the tension between home and foreign reflects that of a new Cold War.\"</p><p>The film's central sex scene, between Christian and Maja, has been the subject of debate as to whether it depicts rape. An article in <i>Sexuality &amp; Culture</i> asserts that \"the ambiguous nature of this scene may be viewed as problematic because it blurs the line between consent and sexual assault\" and that the film has implications for contemporary understandings of rape, particularly of males.</p><p>Yusuke Narita, a Japanese professor at Yale University, positively cited a scene in the film where an elderly person is forced to jump off a cliff. Narita used this as an example of \"mass suicide\" or \"mass seppuku\", which he claimed was the only way to solve the aging crisis in Japan. The comments resulted in a major controversy but also resulted in Narita becoming a popular figure among some young Japanese people.</p>\n\n<h2>See also</h2>\n<ul><li><i>The Wicker Man</i>, a 1973 British folk horror film revolving around a pagan cult.</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n\n<ul><li><span><span>Official website</span></span> <span typeof=\"mw:File/Frameless\"></span></li>\n<li><i>Midsommar</i> at IMDb</li>\n<li><i>Midsommar</i> at Metacritic </li>\n<li><i>Midsommar</i> at Rotten Tomatoes</li></ul>"
+}

@@ -1,0 +1,798 @@
+{
+    "adult": false,
+    "backdrop_path": "/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
+    "belongs_to_collection": null,
+    "budget": 2700000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 340103,
+    "imdb_id": "tt3976144",
+    "original_language": "en",
+    "original_title": "The Monster",
+    "overview": "A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something that lurks in the darkness and it\u2019s coming after them.",
+    "popularity": 19.18,
+    "poster_path": "/hfZlhea7wCNQK78VfZC3gDJ4si.jpg",
+    "production_companies": [
+        {
+            "id": 18239,
+            "logo_path": null,
+            "name": "Atlas Independent",
+            "origin_country": ""
+        },
+        {
+            "id": 49724,
+            "logo_path": null,
+            "name": "Unbroken Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-11-11",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Stay in the light",
+    "title": "The Monster",
+    "video": false,
+    "vote_average": 5.475,
+    "vote_count": 522,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 35028,
+                "known_for_department": "Acting",
+                "name": "Zoe Kazan",
+                "original_name": "Zoe Kazan",
+                "popularity": 14.225,
+                "profile_path": "/xzTMbybHtckbiEmbKkbXVNegSVs.jpg",
+                "cast_id": 2,
+                "character": "Kathy",
+                "credit_id": "5553e19bc3a368208c0004e5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1130510,
+                "known_for_department": "Acting",
+                "name": "Ella Ballentine",
+                "original_name": "Ella Ballentine",
+                "popularity": 6.909,
+                "profile_path": "/djrT2ksD14FVRV1aruThqweZmWo.jpg",
+                "cast_id": 3,
+                "character": "Lizzy",
+                "credit_id": "55e09e169251416f960003ac",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77222,
+                "known_for_department": "Acting",
+                "name": "Aaron Douglas",
+                "original_name": "Aaron Douglas",
+                "popularity": 12.79,
+                "profile_path": "/hDAlimxTkFyWORistWPJsvTKDYJ.jpg",
+                "cast_id": 5,
+                "character": "Jesse",
+                "credit_id": "55e09ea09251416f940003a2",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1690480,
+                "known_for_department": "Acting",
+                "name": "Christine Ebadi",
+                "original_name": "Christine Ebadi",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Leslie Williams",
+                "credit_id": "57f73c7d92514122bc000123",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63812,
+                "known_for_department": "Acting",
+                "name": "Marc Hickox",
+                "original_name": "Marc Hickox",
+                "popularity": 1.244,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "John Brooks",
+                "credit_id": "5880398ac3a368312500467a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100,
+                "known_for_department": "Acting",
+                "name": "Scott Speedman",
+                "original_name": "Scott Speedman",
+                "popularity": 21.508,
+                "profile_path": "/d0fzWMIzsMAXS2M04SKFMof6zQX.jpg",
+                "cast_id": 4,
+                "character": "Roy",
+                "credit_id": "55e09e3a9251416f8e0003fd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113211,
+                "known_for_department": "Acting",
+                "name": "Chris Webb",
+                "original_name": "Chris Webb",
+                "popularity": 4.413,
+                "profile_path": "/lEDEd4EGe3hNNOnW5KlR7TPfwqK.jpg",
+                "cast_id": 7,
+                "character": "Monster",
+                "credit_id": "58803863c3a368312c003f13",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57203,
+                "known_for_department": "Production",
+                "name": "William Green",
+                "original_name": "William Green",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "588eac679251412f77001e77",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18953,
+                "known_for_department": "Production",
+                "name": "Richard Suckle",
+                "original_name": "Richard Suckle",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "588eac3092514118480126aa",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66074,
+                "known_for_department": "Writing",
+                "name": "Bryan Bertino",
+                "original_name": "Bryan Bertino",
+                "popularity": 3.241,
+                "profile_path": "/8vGpQ5cQZMJEttCxOWiPjYENNpc.jpg",
+                "credit_id": "5553e178c3a3682080000512",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66074,
+                "known_for_department": "Writing",
+                "name": "Bryan Bertino",
+                "original_name": "Bryan Bertino",
+                "popularity": 3.241,
+                "profile_path": "/8vGpQ5cQZMJEttCxOWiPjYENNpc.jpg",
+                "credit_id": "588eac3ec3a36874b9001fa3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66074,
+                "known_for_department": "Writing",
+                "name": "Bryan Bertino",
+                "original_name": "Bryan Bertino",
+                "popularity": 3.241,
+                "profile_path": "/8vGpQ5cQZMJEttCxOWiPjYENNpc.jpg",
+                "credit_id": "5553e180c3a368208600056a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105835,
+                "known_for_department": "Acting",
+                "name": "Robert Menzies",
+                "original_name": "Robert Menzies",
+                "popularity": 2.401,
+                "profile_path": "/hmKWmfuZLb2y4evxrI4uZbSeiZ7.jpg",
+                "credit_id": "588eac779251412f74001fd2",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110257,
+                "known_for_department": "Production",
+                "name": "J. E. Moore",
+                "original_name": "J. E. Moore",
+                "popularity": 1.574,
+                "profile_path": null,
+                "credit_id": "588eacadc3a36876a5002159",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 979724,
+                "known_for_department": "Production",
+                "name": "Ilona Smyth",
+                "original_name": "Ilona Smyth",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "588eac029251412e230020c4",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1276700,
+                "known_for_department": "Production",
+                "name": "Aaron L. Ginsburg",
+                "original_name": "Aaron L. Ginsburg",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "588eac56925141183d012446",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1279803,
+                "known_for_department": "Camera",
+                "name": "Julie Kirkwood",
+                "original_name": "Julie Kirkwood",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "58849b27c3a3684f3a0168b7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1281629,
+                "known_for_department": "Crew",
+                "name": "Cassandra Ebner",
+                "original_name": "Cassandra Ebner",
+                "popularity": 7.189,
+                "profile_path": "/ykIe7cvJjrdBgPilC5sCsZkwXCz.jpg",
+                "credit_id": "64601a1ca672540164ddaf5b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1418416,
+                "known_for_department": "Art",
+                "name": "Shane Boucher",
+                "original_name": "Shane Boucher",
+                "popularity": 1.498,
+                "profile_path": null,
+                "credit_id": "588eac0e9251412f77001e4d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1418417,
+                "known_for_department": "Art",
+                "name": "Garren Dunbar",
+                "original_name": "Garren Dunbar",
+                "popularity": 1.788,
+                "profile_path": null,
+                "credit_id": "588eac1d9251412fd70020b6",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1470107,
+                "known_for_department": "Production",
+                "name": "Ali Brown",
+                "original_name": "Ali Brown",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "588eac8fc3a36874b9001fcd",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547767,
+                "known_for_department": "Production",
+                "name": "Adrienne Biddle",
+                "original_name": "Adrienne Biddle",
+                "popularity": 1.47,
+                "profile_path": null,
+                "credit_id": "588eac4ac3a36876a500211d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547771,
+                "known_for_department": "Editing",
+                "name": "Maria Gonzales",
+                "original_name": "Maria Gonzales",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "588eabf5c3a36874a300fcd6",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1747484,
+                "known_for_department": "Production",
+                "name": "Kerstin Emhoff",
+                "original_name": "Kerstin Emhoff",
+                "popularity": 0.699,
+                "profile_path": null,
+                "credit_id": "588eac83c3a368766c002175",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1747485,
+                "known_for_department": "Production",
+                "name": "Jared Carnevale",
+                "original_name": "Jared Carnevale",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "588eac9bc3a36874b9001fd1",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2197868,
+                "known_for_department": "Sound",
+                "name": "Tom Hajdu",
+                "original_name": "Tom Hajdu",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5c6ac72ec3a3686fb6da63be",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2197869,
+                "known_for_department": "Sound",
+                "name": "Andy Milburn",
+                "original_name": "Andy Milburn",
+                "popularity": 0.652,
+                "profile_path": null,
+                "credit_id": "5c6ac7340e0a260e9e968876",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2257403,
+                "known_for_department": "Sound",
+                "name": "tomandandy",
+                "original_name": "tomandandy",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "63a43861e24b93007e5cd0ca",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "The Monster | Official Trailer HD | A24",
+                "key": "tbyCUdzR87Y",
+                "published_at": "2016-10-06T17:00:03.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "id": "57f7d0279251417636002135"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/uEARwi5E8jfIr3Z6EQP1sFstbLF.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/mCbg6YFtcHVs7sMBsElsJTBenvL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hvjZv5eukqxwbs4v99eDk0IyqU9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/ypZvQ0PbFBC1D6GqcO0LF6Q9rY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.653,
+                "height": 1085,
+                "iso_639_1": "en",
+                "file_path": "/iwGgzjDmRO1IvFBDMclrQqhhTeM.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3964
+            },
+            {
+                "aspect_ratio": 3.653,
+                "height": 1085,
+                "iso_639_1": "en",
+                "file_path": "/5TVTGDj4fHdB5INbznj3x6dIwjW.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3964
+            },
+            {
+                "aspect_ratio": 5.166,
+                "height": 349,
+                "iso_639_1": "en",
+                "file_path": "/9ZZEB3R3akxC0i5A4DZhgdSFrf8.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1803
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/t880VymerwpaQ5vWA0TV8GtU2X3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/hfZlhea7wCNQK78VfZC3gDJ4si.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/eCl3o3cx6nBic4HOxpZgauxZ75V.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "ja",
+                "file_path": "/zFzv9bAyzaYdKIgFkQ4cvuMRX2H.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1068
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1600,
+                "iso_639_1": "de",
+                "file_path": "/zAsSiRtDx8wc9eulP4bSLBDcCAl.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1131
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/4jeBOkbil3lKyfJSzYeRyQrfY15.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 755,
+                "iso_639_1": "en",
+                "file_path": "/bZqvgz347MMvavenBElZgStuRQc.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 510
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/zuiviKw5ILc7J3i4ETDwJm9RUv1.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.713,
+                "height": 2147,
+                "iso_639_1": "pt",
+                "file_path": "/9UB2BONFa0eNUqqwT1DjUnzqFcd.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1530
+            },
+            {
+                "aspect_ratio": 0.725,
+                "height": 828,
+                "iso_639_1": "th",
+                "file_path": "/8X5n7kXGgJwTFhSFHa13ld1Lti6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "ja",
+                "file_path": "/aW1qPgUxVJCPFit0O7N1aK5Co0t.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.692,
+                "height": 904,
+                "iso_639_1": "es",
+                "file_path": "/2wWmKgjwQrA6vtmYILAwzC6vzFJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 626
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ko",
+                "file_path": "/pW4IEzum0MZ1yT3jA7k6NPhz2il.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ko",
+                "file_path": "/fi9fdrC5GlvyuK04XnHaf1FrT2L.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/cnax8khpvG3WiBJ49QI72kl8Kfw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/zywULpG8XOiPdszWragGPlLKIkJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/xPSy1qoG2xQUFErwsNGkWCZTcK8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2560,
+                "iso_639_1": "en",
+                "file_path": "/b0obEc7rvaOKu6yk21BrPXjxYUU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ro1zso5BLRFVN0tzmswy49dWmMn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/cmZLgDgS7ZTV0DY274NT7JQ7Iju.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/wNTPLeV3zbPFOcaPpSLLEfTnkzr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5600,
+                "name": "daughter"
+            },
+            {
+                "id": 456,
+                "name": "mother"
+            },
+            {
+                "id": 1299,
+                "name": "monster"
+            },
+            {
+                "id": 2217,
+                "name": "rain"
+            },
+            {
+                "id": 5774,
+                "name": "forest"
+            },
+            {
+                "id": 7464,
+                "name": "alcoholism"
+            },
+            {
+                "id": 13063,
+                "name": "car accident"
+            },
+            {
+                "id": 18171,
+                "name": "thunderstorm"
+            }
+        ]
+    },
+    "title_english": "The Monster",
+    "year": "2016",
+    "rated": "R",
+    "director_list": [
+        "Bryan Bertino"
+    ],
+    "writer_list": [
+        "Bryan Bertino"
+    ],
+    "main_cast": [
+        "Zoe Kazan",
+        " Ella Ballentine",
+        " Aaron Douglas"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "imdb_rating": "5.4",
+    "imdb_votes": "18,930",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Monster_(2016_film)",
+    "wikipedia_summary": "The Monster (originally titled There Are Monsters) is a 2016 American monster horror film written and directed by Bryan Bertino, and starring Zoe Kazan and Ella Ballentine. The film was released through DirecTV Cinema on October 6, 2016, before opening in a limited release on November 11, 2016, via A24. Its plot follows a troubled mother and her adolescent daughter who find themselves stranded at night on a country road with a malicious creature hunting them.",
+    "wikipedia_plot": "Kathy (Zoe Kazan) is driving her teenage daughter Lizzy (Ella Ballentine) to her father's house as it is his turn for custody. Tired of taking care of her abusive, unstable, alcoholic mother, Lizzy makes it clear she wants to live with her father permanently. As night falls, Kathy hits a wolf with her car. But its injuries look like they were sustained by an animal attack rather than their car. Kathy is injured in the collision, forcing Lizzy to call a tow truck and ambulance.\nThe tow truck arrives and its driver, Jesse, begins working underneath the car. Lizzy notices the wolf's body is gone and now becomes frightened. Tired with bickering, Kathy gets out of the car to talk to Jesse but cannot find him. Jesse's severed arm abruptly lands on the hood of the car. A severely mauled Jesse crawls out of the woods, only for a monstrous creature to drag him under the tow truck and eat him before Kathy can help.\nAttracted by the sound of music emanating from Lizzy's teddy bear, the monster drags Kathy out from the car. Luckily, it is scared away by the approaching ambulance before it is able to kill Kathy. As Kathy and Lizzy cower in the ambulance, the monster slaughters the EMT team. It smashes into the ambulance when Kathy tries to drive off, causing her to swerve into the woods.\nKathy begins vomiting up blood and realizes she has internal bleeding. Now aware that the monster is scared away by bright light, Kathy uses her lighter to make a torch and tells her daughter her plan. She is going to run into the woods so the monster will chase her while Lizzy escapes to get help. Kathy finally admits to Lizzy she does truly love her; even more than life itself.\nUnder the impression Lizzy has gotten away, Kathy allows the monster to attack and kill her. But Lizzy, who was unwilling to leave her mother behind, chases it away with the flashlight. A distraught and enraged Lizzy, now determined to avenge Kathy's death, uses her mother's lighter and a spray can from the ambulance to set the monster ablaze. Despite being fatally injured, it attempts to lunge at Lizzy with its last bits of strength, but she finally beats it to death with a large stick.\nLizzy recalls a particularly hateful, alcohol-fueled encounter, after which Kathy apologized and correctly predicted that Lizzy would grow up to be a better person than she was. As the sun rises, Lizzy emerges from the woods.",
+    "wikipedia_plot_html": "<p>Kathy (Zoe Kazan) is driving her teenage daughter Lizzy (Ella Ballentine) to her father's house as it is his turn for custody. Tired of taking care of her abusive, unstable, alcoholic mother, Lizzy makes it clear she wants to live with her father permanently. As night falls, Kathy hits a wolf with her car. But its injuries look like they were sustained by an animal attack rather than their car. Kathy is injured in the collision, forcing Lizzy to call a tow truck and ambulance.\n</p><p>The tow truck arrives and its driver, Jesse, begins working underneath the car. Lizzy notices the wolf's body is gone and now becomes frightened. Tired with bickering, Kathy gets out of the car to talk to Jesse but cannot find him. Jesse's severed arm abruptly lands on the hood of the car. A severely mauled Jesse crawls out of the woods, only for a monstrous creature to drag him under the tow truck and eat him before Kathy can help.\n</p><p>Attracted by the sound of music emanating from Lizzy's teddy bear, the monster drags Kathy out from the car. Luckily, it is scared away by the approaching ambulance before it is able to kill Kathy. As Kathy and Lizzy cower in the ambulance, the monster slaughters the EMT team. It smashes into the ambulance when Kathy tries to drive off, causing her to swerve into the woods.\n</p><p>Kathy begins vomiting up blood and realizes she has internal bleeding. Now aware that the monster is scared away by bright light, Kathy uses her lighter to make a torch and tells her daughter her plan. She is going to run into the woods so the monster will chase her while Lizzy escapes to get help. Kathy finally admits to Lizzy she does truly love her; even more than life itself.\n</p><p>Under the impression Lizzy has gotten away, Kathy allows the monster to attack and kill her. But Lizzy, who was unwilling to leave her mother behind, chases it away with the flashlight. A distraught and enraged Lizzy, now determined to avenge Kathy's death, uses her mother's lighter and a spray can from the ambulance to set the monster ablaze. Despite being fatally injured, it attempts to lunge at Lizzy with its last bits of strength, but she finally beats it to death with a large stick.\n</p><p>Lizzy recalls a particularly hateful, alcohol-fueled encounter, after which Kathy apologized and correctly predicted that Lizzy would grow up to be a better person than she was. As the sun rises, Lizzy emerges from the woods.\n</p>",
+    "wikipedia_critics": "The Monster received positive reviews from film critics. On the review aggregator website Rotten Tomatoes, 80% of 49 critics' reviews are positive, with an average rating of 6.8/10. The website's consensus reads: \"The Monster uses its effectively simple setup and a powerful lead performance from Zoe Kazan to deliver a traditional yet subtly subversive\u2014and thoroughly entertaining\u2014horror story.\" Metacritic, which uses a weighted average, assigned the film a score of 69 out of 100, based on 13 critics, indicating \"generally favorable\" reviews.Manohla Dargis, in her review for The New York Times, compared the film to other horror stories about \"monstrous motherhood\" released for art house and multiplex crowds, saying The Monster was \"cleverly pitched somewhere in between.\" Of the two main actresses and their roles, Dargis noted \"Ms. Kazan gives her lungs a workout, and while she\u2019s more persuasive as a scream queen than as a mother, she and Ms. Ballentine get the job done.\" Justin Chang of the Los Angeles Times praised Bertino's establishment of suspense, writing that he \"doles out the jolts with a judicious hand. For a while, The Monster smartly keeps its teeth-snapping main attraction either on the edges of the frame or draped in shadow, distracting us instead with the sinister patter of raindrops on the windshield, or the glow of a flashlight beam...  Not least of the surprises here is that even when The Monster is trying to scare you witless, its every scene insistently reaffirms its characters\u2019 humanity.\"Brian Tallerico of RogerEbert.com praised the creature effects, likening to those in Alien, as well as Kazan's performance, which he wrote \"captures the truth of the moment in which Kathy struggles. Kazan doesn\u2019t play the symbolism of the piece. She plays a mother fighting for the life of her child and herself. It\u2019s a committed, fearless performance in how it never betrays the reality of her dilemma. It\u2019s not a typical performance from Kazan, but it\u2019s a great one.\" The Hollywood Reporter's Justin Lowe wrote that the film \"reduces primal fear to its fundamental elements,\" praising cinematographer Julie Kirkwood\u2019s \"ominously prowling camera and sometimes deliberately murky lighting consistently amplify tension by obscuring the threat lurking just beyond the frame.\" Dennis Harvey of Variety commended the film's establishment of characters and its \"conceptual simplicity...  sharply assembled in all departments, wringing the maximum suspense and variety out of what might have easily become a claustrophobically monotonous handful of outdoor and car-interior locations.\"",
+    "wikipedia_full_html": "<p><i><b>The Monster</b></i> (originally titled <i><b>There Are Monsters</b></i>) is a 2016 American monster horror film written and directed by Bryan Bertino, and starring Zoe Kazan and Ella Ballentine. The film was released through DirecTV Cinema on October 6, 2016, before opening in a limited release on November 11, 2016, via A24. Its plot follows a troubled mother and her adolescent daughter who find themselves stranded at night on a country road with a malicious creature hunting them.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Kathy (Zoe Kazan) is driving her teenage daughter Lizzy (Ella Ballentine) to her father's house as it is his turn for custody. Tired of taking care of her abusive, unstable, alcoholic mother, Lizzy makes it clear she wants to live with her father permanently. As night falls, Kathy hits a wolf with her car. But its injuries look like they were sustained by an animal attack rather than their car. Kathy is injured in the collision, forcing Lizzy to call a tow truck and ambulance.\n</p><p>The tow truck arrives and its driver, Jesse, begins working underneath the car. Lizzy notices the wolf's body is gone and now becomes frightened. Tired with bickering, Kathy gets out of the car to talk to Jesse but cannot find him. Jesse's severed arm abruptly lands on the hood of the car. A severely mauled Jesse crawls out of the woods, only for a monstrous creature to drag him under the tow truck and eat him before Kathy can help.\n</p><p>Attracted by the sound of music emanating from Lizzy's teddy bear, the monster drags Kathy out from the car. Luckily, it is scared away by the approaching ambulance before it is able to kill Kathy. As Kathy and Lizzy cower in the ambulance, the monster slaughters the EMT team. It smashes into the ambulance when Kathy tries to drive off, causing her to swerve into the woods.\n</p><p>Kathy begins vomiting up blood and realizes she has internal bleeding. Now aware that the monster is scared away by bright light, Kathy uses her lighter to make a torch and tells her daughter her plan. She is going to run into the woods so the monster will chase her while Lizzy escapes to get help. Kathy finally admits to Lizzy she does truly love her; even more than life itself.\n</p><p>Under the impression Lizzy has gotten away, Kathy allows the monster to attack and kill her. But Lizzy, who was unwilling to leave her mother behind, chases it away with the flashlight. A distraught and enraged Lizzy, now determined to avenge Kathy's death, uses her mother's lighter and a spray can from the ambulance to set the monster ablaze. Despite being fatally injured, it attempts to lunge at Lizzy with its last bits of strength, but she finally beats it to death with a large stick.\n</p><p>Lizzy recalls a particularly hateful, alcohol-fueled encounter, after which Kathy apologized and correctly predicted that Lizzy would grow up to be a better person than she was. As the sun rises, Lizzy emerges from the woods.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Zoe Kazan as Kathy</li>\n<li>Ella Ballentine as Lizzy\n<ul><li>Keira Knightley as Adult Lizzy (voice)</li></ul></li>\n<li>Aaron Douglas as Jesse</li>\n<li>Christine Ebadi as Leslie Williams</li>\n<li>Marc Hickox as John Brooks</li>\n<li>Scott Speedman as Roy</li>\n<li>Chris Webb as Monster</li>\n<li>Meeko as Wolf</li></ul>\n\n<h2>Production</h2>\n<h3>Concept</h3>\n<p>In 2014, Bryan Bertino announced that he would direct the film from a screenplay he also wrote. William Green and Aaron Ginsburg of Atlas Entertainment and Adrienne Biddle of Unbroken Pictures would serve as producers, while Richard Suckle and Sonny Mallhi would serve as executive producers.</p><p>\nCommenting on his aspirations writing the screenplay, Bertino stated: </p><blockquote class=\"templatequote\"><p>I did decide I was going to push myself to explore different kinds of fear, but finding my window in is always going to be the victims first. Even though monsters aren't real, it was fascinating to me to think, \"Okay, I'm going to write a story in which I'm not necessarily here to tell you if monsters are real or not, I'm just saying what would happen if you broke down on the side of the road and there was a monster? What would you do? How terrifying would that be?</p></blockquote>\n\n<h3>Casting</h3>\n<p>Elisabeth Moss was originally announced to star in the film in May 2014. The following year, after Moss dropped out of the production, Zoe Kazan joined the cast, replacing Moss. Commenting on committing to the project, Kazan stated that she was \"really captured by the story of these two people, especially of the mother really struggling against her worst behaviors to protect her child. She's not in the habit of taking very good care of her daughter and I don't think she's well equipped for motherhood. I was moved by that storyline.\" To get into the mindset of being a mother, Kazan asked Ballentine's mother for baby photos of her.</p><p>In August 2015, it was announced that Scott Speedman, Aaron Douglas and Ella Ballentine all joined the cast of the film. Speedman, who had previously starred in Bertino's directorial debut <i>The Strangers</i> (2008), was cast as Roy, Kathy's boyfriend.\n</p>\n\n<h3>Filming</h3>\n<p>Filming began in Ottawa, Ontario in the summer of 2015. Principal photography concluded on August 21, 2015. Reflecting on the shoot, Kazan stated: \"We were in a very isolated situation shooting in rural Ontario, and there wasn't a lot around. [Ella Ballentine and I] were basically the only actors in the film, so we spent a tremendous amount of time together and with her mom. It wasn't all because we were just trying to bond for the movie, it was also because we enjoyed each other's company. It definitely helped that bond as did the three days of rehearsal.\"</p>\n\n<h2>Release</h2>\n<h3>Theatrical distribution</h3>\n<p>In May 2015, A24 acquired U.S distribution rights to the film. In April 2016, the first image of Kazan's character was revealed. The film\u2019s original title, <i>There Are Monsters</i>, was changed to <i>The Monster</i> in August 2016.</p><p>The film was released on the DirecTV Cinema platform on October 6, 2016. On November 11, 2016, the film was given a limited theatrical release simultaneously with its debut on other video on demand platforms.</p><p>The film screened at the Beyond Fest on October 6, 2016, the Tacoma Film Festival on October 7, 2016, and the Sitges Film Festival on October 15, 2016.</p>\n\n<h3>Home media</h3>\n<p>The film was released on Blu-ray and DVD on January 24, 2017.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p><i>The Monster</i> received positive reviews from film critics. On the review aggregator website Rotten Tomatoes, 80% of 49 critics' reviews are positive, with an average rating of 6.8/10. The website's consensus reads: \"<i>The Monster</i> uses its effectively simple setup and a powerful lead performance from Zoe Kazan to deliver a traditional yet subtly subversive\u2014and thoroughly entertaining\u2014horror story.\" Metacritic, which uses a weighted average, assigned the film a score of 69 out of 100, based on 13 critics, indicating \"generally favorable\" reviews.</p><p>Manohla Dargis, in her review for <i>The New York Times</i>, compared the film to other horror stories about \"monstrous motherhood\" released for art house and multiplex crowds, saying <i>The Monster</i> was \"cleverly pitched somewhere in between.\" Of the two main actresses and their roles, Dargis noted \"Ms. Kazan gives her lungs a workout, and while she\u2019s more persuasive as a scream queen than as a mother, she and Ms. Ballentine get the job done.\" Justin Chang of the <i>Los Angeles Times</i> praised Bertino's establishment of suspense, writing that he \"doles out the jolts with a judicious hand. For a while, <i>The Monster</i> smartly keeps its teeth-snapping main attraction either on the edges of the frame or draped in shadow, distracting us instead with the sinister patter of raindrops on the windshield, or the glow of a flashlight beam...\u00a0 Not least of the surprises here is that even when <i>The Monster</i> is trying to scare you witless, its every scene insistently reaffirms its characters\u2019 humanity.\"</p><p>Brian Tallerico of <i>RogerEbert.com</i> praised the creature effects, likening to those in <i>Alien</i>, as well as Kazan's performance, which he wrote \"captures the truth of the moment in which Kathy struggles. Kazan doesn\u2019t play the symbolism of the piece. She plays a mother fighting for the life of her child and herself. It\u2019s a committed, fearless performance in how it never betrays the reality of her dilemma. It\u2019s not a typical performance from Kazan, but it\u2019s a great one.\" <i>The Hollywood Reporter</i><span>'</span>s Justin Lowe wrote that the film \"reduces primal fear to its fundamental elements,\" praising cinematographer Julie Kirkwood\u2019s \"ominously prowling camera and sometimes deliberately murky lighting consistently amplify tension by obscuring the threat lurking just beyond the frame.\" Dennis Harvey of <i>Variety</i> commended the film's establishment of characters and its \"conceptual simplicity...\u00a0 sharply assembled in all departments, wringing the maximum suspense and variety out of what might have easily become a claustrophobically monotonous handful of outdoor and car-interior locations.\"</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>The Monster</i> at IMDb</li>\n<li><i>The Monster</i> at AllMovie</li></ul>\n<!-- \nNewPP limit report\nParsed by mw\u2010api\u2010ext.eqiad.main\u2010ddb75c599\u2010jlqjd\nCached time: 20231205160515\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.452 seconds\nReal time usage: 0.567 seconds\nPreprocessor visited node count: 2885/1000000\nPost\u2010expand include size: 66276/2097152 bytes\nTemplate argument size: 4925/2097152 bytes\nHighest expansion depth: 23/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 80069/5000000 bytes\nLua time usage: 0.277/10.000 seconds\nLua memory usage: 8331275/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  526.030      1 -total\n 30.95%  162.791     22 Template:Cite_web\n 23.21%  122.086      1 Template:Rotten_Tomatoes_prose\n 22.99%  120.919      1 Template:Reflist\n 15.38%   80.898      1 Template:Infobox_film\n 14.53%   76.452      1 Template:Bryan_Bertino\n 14.18%   74.613      1 Template:Navbox\n 12.86%   67.661      1 Template:Infobox\n 10.46%   55.048      1 Template:Short_description\n  7.57%   39.832      8 Template:Wikidata\n-->"
+}

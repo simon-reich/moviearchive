@@ -1,0 +1,840 @@
+{
+    "adult": false,
+    "backdrop_path": "/cdnH7gY7B1qehoLOcAiQoLw6kKe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 179109,
+    "imdb_id": "tt2821088",
+    "original_language": "fr",
+    "original_title": "Les Salauds",
+    "overview": "Marco returns to Paris after his brother-in-law's suicide, where he targets the man his sister believes caused the tragedy - though he is ill-prepared for her secrets as they quickly muddy the waters.",
+    "popularity": 9.416,
+    "poster_path": "/zSgi7jVGP8jNMhAUpU2v34eaxcS.jpg",
+    "production_companies": [
+        {
+            "id": 856,
+            "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+            "name": "Wild Bunch",
+            "origin_country": "FR"
+        },
+        {
+            "id": 94,
+            "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+            "name": "ARTE France Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 140,
+            "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+            "name": "Pandora Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 25308,
+            "logo_path": null,
+            "name": "Alcatraz Films",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "2013-08-07",
+    "revenue": 12247,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A neo-noir nightmare.",
+    "title": "Bastards",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 90,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5443,
+                "known_for_department": "Acting",
+                "name": "Vincent Lindon",
+                "original_name": "Vincent Lindon",
+                "popularity": 7.383,
+                "profile_path": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
+                "cast_id": 2,
+                "character": "Marco Silvestri",
+                "credit_id": "52fe4da1c3a36847f826ba8f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20710,
+                "known_for_department": "Acting",
+                "name": "Chiara Mastroianni",
+                "original_name": "Chiara Mastroianni",
+                "popularity": 3.562,
+                "profile_path": "/tFqa9RlIFn2wxI4TTK5btzvJxVq.jpg",
+                "cast_id": 3,
+                "character": "Rapha\u00eblle",
+                "credit_id": "52fe4da1c3a36847f826ba93",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21550,
+                "known_for_department": "Acting",
+                "name": "Julie Bataille",
+                "original_name": "Julie Bataille",
+                "popularity": 3.164,
+                "profile_path": "/dEWYrEkaAmSjRKPmijRhNjr47Wl.jpg",
+                "cast_id": 4,
+                "character": "Sandra",
+                "credit_id": "52fe4da1c3a36847f826ba97",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24365,
+                "known_for_department": "Acting",
+                "name": "Michel Subor",
+                "original_name": "Michel Subor",
+                "popularity": 3.007,
+                "profile_path": "/il6f0zTI3YZx6pEe13x1vEQo5eX.jpg",
+                "cast_id": 5,
+                "character": "Edouard Laporte",
+                "credit_id": "52fe4da1c3a36847f826ba9b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 126726,
+                "known_for_department": "Acting",
+                "name": "Lola Cr\u00e9ton",
+                "original_name": "Lola Cr\u00e9ton",
+                "popularity": 5.73,
+                "profile_path": "/nD1MS6GZe32kR6JhmXtYghD0P0u.jpg",
+                "cast_id": 6,
+                "character": "Justine",
+                "credit_id": "52fe4da1c3a36847f826ba9f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13609,
+                "known_for_department": "Acting",
+                "name": "Alex Descas",
+                "original_name": "Alex Descas",
+                "popularity": 4.324,
+                "profile_path": "/1FUMJTbVflnDR8vZL3J1Hv8f7tV.jpg",
+                "cast_id": 7,
+                "character": "Dr. B\u00e9thanie",
+                "credit_id": "52fe4da1c3a36847f826baa3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136170,
+                "known_for_department": "Acting",
+                "name": "Gr\u00e9goire Colin",
+                "original_name": "Gr\u00e9goire Colin",
+                "popularity": 4.988,
+                "profile_path": "/1HLfq8oddSZYpwOVJFp8mkKQMAb.jpg",
+                "cast_id": 8,
+                "character": "Xavier",
+                "credit_id": "52fe4da1c3a36847f826baa7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 77310,
+                "known_for_department": "Acting",
+                "name": "Florence Loiret Caille",
+                "original_name": "Florence Loiret Caille",
+                "popularity": 7.889,
+                "profile_path": "/lNIVTZfgOvxbPIo4YgcXfepHKqF.jpg",
+                "cast_id": 36,
+                "character": "Elys\u00e9e",
+                "credit_id": "5d1137ff9251413222b9ad63",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 240734,
+                "known_for_department": "Acting",
+                "name": "Jeanne Disson",
+                "original_name": "Jeanne Disson",
+                "popularity": 3.361,
+                "profile_path": "/k9CrHdtDomuWn8O3bhyyrcccUk1.jpg",
+                "cast_id": 38,
+                "character": "Audrey",
+                "credit_id": "6083bb4c27167100574709b3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1175709,
+                "known_for_department": "Acting",
+                "name": "Christophe Miossec",
+                "original_name": "Christophe Miossec",
+                "popularity": 0.828,
+                "profile_path": "/amRNLXmCobHMw6AN4LmQrXJwxC8.jpg",
+                "cast_id": 10,
+                "character": "Guy",
+                "credit_id": "52fe4da1c3a36847f826baaf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 32513,
+                "known_for_department": "Acting",
+                "name": "H\u00e9l\u00e8ne Filli\u00e8res",
+                "original_name": "H\u00e9l\u00e8ne Filli\u00e8res",
+                "popularity": 3.912,
+                "profile_path": "/thIjfEmxHw0bJEFBm9iefDce7zi.jpg",
+                "cast_id": 11,
+                "character": "Banker",
+                "credit_id": "52fe4da2c3a36847f826bab3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1426355,
+                "known_for_department": "Acting",
+                "name": "Claire Tran",
+                "original_name": "Claire Tran",
+                "popularity": 4.857,
+                "profile_path": "/hfDgetPGGLOi5EqZ5BmjK3SG5lD.jpg",
+                "cast_id": 33,
+                "character": "Nurse",
+                "credit_id": "5b83b5bac3a368655804996c",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109598,
+                "known_for_department": "Directing",
+                "name": "\u0160ar\u016bnas Bartas",
+                "original_name": "\u0160ar\u016bnas Bartas",
+                "popularity": 1.551,
+                "profile_path": "/uRBRAgAKmg3486QtafZS8XVgDh0.jpg",
+                "cast_id": 35,
+                "character": "Foreign Shipowner",
+                "credit_id": "5c72ed7a0e0a262c067e861c",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 136169,
+                "known_for_department": "Acting",
+                "name": "Nicole Dogu\u00e9",
+                "original_name": "Nicole Dogu\u00e9",
+                "popularity": 0.65,
+                "profile_path": "/uLTV3ZuFhFnhLDw0umsM0KTXruI.jpg",
+                "cast_id": 37,
+                "character": "Police Inspector",
+                "credit_id": "6083bb28e860170040cd2715",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20772,
+                "known_for_department": "Acting",
+                "name": "Laurent Gr\u00e9vill",
+                "original_name": "Laurent Gr\u00e9vill",
+                "popularity": 2.249,
+                "profile_path": "/Nw4DKtGUgTB3j5kUJeE6auDKnn.jpg",
+                "cast_id": 39,
+                "character": "Jacques",
+                "credit_id": "614a747a2b531d00624feb57",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3242896,
+                "known_for_department": "Acting",
+                "name": "Yann Antoine Bizette",
+                "original_name": "Yann Antoine Bizette",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Joseph",
+                "credit_id": "614a748fd6c3000043e33a0f",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1062732,
+                "known_for_department": "Acting",
+                "name": "\u00c9lise Lhomeau",
+                "original_name": "\u00c9lise Lhomeau",
+                "popularity": 1.073,
+                "profile_path": "/bVGr2uLJqkDRl3QlCG8PlDicv1s.jpg",
+                "cast_id": 41,
+                "character": "Babysitter",
+                "credit_id": "614a749f609750004393ac20",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559648,
+                "known_for_department": "Acting",
+                "name": "Jean-Christophe Folly",
+                "original_name": "Jean-Christophe Folly",
+                "popularity": 4.536,
+                "profile_path": "/z7BnkThx3Et0ByplxDQWqFdHHH4.jpg",
+                "cast_id": 42,
+                "character": "",
+                "credit_id": "614a74cc2b531d002940f1ad",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8570,
+                "known_for_department": "Production",
+                "name": "Vincent Maraval",
+                "original_name": "Vincent Maraval",
+                "popularity": 1.55,
+                "profile_path": "/8zjv7mH8DTiaIegk5mAysf1Gra.jpg",
+                "credit_id": "577de5c5c3a36817f4005351",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 6.317,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "52fe4da2c3a36847f826bab9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 6.317,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "52fe4da1c3a36847f826ba8b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14196,
+                "known_for_department": "Camera",
+                "name": "Agn\u00e8s Godard",
+                "original_name": "Agn\u00e8s Godard",
+                "popularity": 1.69,
+                "profile_path": "/684UZWONgJHqqEVGqdHd9yKmMCb.jpg",
+                "credit_id": "52fe4da2c3a36847f826bac5",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32463,
+                "known_for_department": "Production",
+                "name": "R\u00e9mi Burah",
+                "original_name": "R\u00e9mi Burah",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "577de5969251415d9e00542c",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33505,
+                "known_for_department": "Production",
+                "name": "Christoph Friedel",
+                "original_name": "Christoph Friedel",
+                "popularity": 0.98,
+                "profile_path": "/9hsigb5rNFrkI8PGyOJjiwMfJ6P.jpg",
+                "credit_id": "577de5bdc3a36817f8005520",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56787,
+                "known_for_department": "Production",
+                "name": "Brahim Chioua",
+                "original_name": "Brahim Chioua",
+                "popularity": 0.859,
+                "profile_path": null,
+                "credit_id": "577de59d9251415d9b0053b2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 45135,
+                "known_for_department": "Production",
+                "name": "Claudia Steffen",
+                "original_name": "Claudia Steffen",
+                "popularity": 0.631,
+                "profile_path": null,
+                "credit_id": "577de5d59251415d9b0053d5",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62471,
+                "known_for_department": "Art",
+                "name": "Michel Barth\u00e9l\u00e9my",
+                "original_name": "Michel Barth\u00e9l\u00e9my",
+                "popularity": 0.744,
+                "profile_path": "/6xzjT9LkH8upjKU5GEz3ylMyATB.jpg",
+                "credit_id": "52fe4da2c3a36847f826bad1",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73724,
+                "known_for_department": "Writing",
+                "name": "Jean-Pol Fargeau",
+                "original_name": "Jean-Pol Fargeau",
+                "popularity": 1.96,
+                "profile_path": "/iby2OMwVqH9h1BJdU1wIPi4u8SK.jpg",
+                "credit_id": "52fe4da2c3a36847f826babf",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 957442,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Judy Shrewsbury",
+                "original_name": "Judy Shrewsbury",
+                "popularity": 1.566,
+                "profile_path": "/662N2ZWsA06Qa3LcubMvJbZT74c.jpg",
+                "credit_id": "52fe4da2c3a36847f826bad7",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169491,
+                "known_for_department": "Directing",
+                "name": "Pierre S\u00e9n\u00e9las",
+                "original_name": "Pierre S\u00e9n\u00e9las",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "577de6309251415d91005380",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1175710,
+                "known_for_department": "Editing",
+                "name": "Annette Dutertre",
+                "original_name": "Annette Dutertre",
+                "popularity": 2.082,
+                "profile_path": "/gDz8706DHzN1KA23ySLzr9ogJfx.jpg",
+                "credit_id": "52fe4da2c3a36847f826bacb",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1329761,
+                "known_for_department": "Art",
+                "name": "Claire Vaysse",
+                "original_name": "Claire Vaysse",
+                "popularity": 0.608,
+                "profile_path": null,
+                "credit_id": "577de603c3a36817e30057e0",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1365892,
+                "known_for_department": "Sound",
+                "name": "Tindersticks",
+                "original_name": "Tindersticks",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b8d0c4a0e0a261d7c0497ee",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1451497,
+                "known_for_department": "Production",
+                "name": "Olivier P\u00e8re",
+                "original_name": "Olivier P\u00e8re",
+                "popularity": 1.708,
+                "profile_path": "/u38ZLJyVIbQDzevKEskaSp6jEnA.jpg",
+                "credit_id": "577de5ccc3a36817f4005356",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1476491,
+                "known_for_department": "Production",
+                "name": "Nicolas Lublin",
+                "original_name": "Nicolas Lublin",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "577de5f6c3a36817f10056b4",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1483091,
+                "known_for_department": "Sound",
+                "name": "Stuart Staples",
+                "original_name": "Stuart Staples",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "577de5eb9251415d9800502b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646502,
+                "known_for_department": "Production",
+                "name": "Laurence Clerc",
+                "original_name": "Laurence Clerc",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "577de5b5c3a36817e1005437",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646503,
+                "known_for_department": "Production",
+                "name": "Olivier Th\u00e9ry-Lapiney",
+                "original_name": "Olivier Th\u00e9ry-Lapiney",
+                "popularity": 1.294,
+                "profile_path": null,
+                "credit_id": "577de5de9251415da4005127",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1646504,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Am\u00e9lie Bouilly",
+                "original_name": "Am\u00e9lie Bouilly",
+                "popularity": 0.706,
+                "profile_path": null,
+                "credit_id": "577de613c3a36817ea005958",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646505,
+                "known_for_department": "Art",
+                "name": "Karine Dhont",
+                "original_name": "Karine Dhont",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "577de61cc3a36817e60053c1",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646506,
+                "known_for_department": "Directing",
+                "name": "Christelle Lahaye",
+                "original_name": "Christelle Lahaye",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "577de6289251415da4005156",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "BASTARDS (LES SALAUDS) Trailer | New Release 2013",
+                "key": "D__eY2cVF5k",
+                "published_at": "2013-09-19T22:16:32.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "id": "533ec707c3a368544800a444"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/cdnH7gY7B1qehoLOcAiQoLw6kKe.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ukKnj6ne3wVQuYLM2DMzwTh2f17.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/5t3KKL93c1r8tFlAlM8LznUpfc3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/apm3Xqr2wmO1N0TO45EbujAvS3b.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.736,
+                "height": 800,
+                "iso_639_1": "fr",
+                "file_path": "/hVXJGr6lztzH4ibWKUq3qHspmyf.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 589
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/yZHraldIklpwnFx0Jhlexk01sUC.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/zSgi7jVGP8jNMhAUpU2v34eaxcS.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1543,
+                "iso_639_1": "da",
+                "file_path": "/qK5IVfyNyI6MUoX9Kwssg6dmQ4e.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2137,
+                "iso_639_1": "ko",
+                "file_path": "/tuM1b0BpXUpyBvZ6lyinIUh9JpV.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/a5vPGPeli5KI88Zs2f67Acrlm49.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "ja",
+                "file_path": "/mM8qXTOy5LOJXy2acaq5p63gHYV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1068
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "es",
+                "file_path": "/ttL9x15VzwsjyEk4v3h1SyyX5BA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": "fr",
+                "file_path": "/fdqPEsfHDMdpdXYK1c2exBUKudh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.736,
+                "height": 2717,
+                "iso_639_1": "fr",
+                "file_path": "/bABrn0fiErBYiQ3gAb2rQ8zyPA1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            }
+        ]
+    },
+    "title_english": "Bastards",
+    "year": "2013",
+    "rated": "Unrated",
+    "director_list": [
+        "Claire Denis"
+    ],
+    "writer_list": [
+        "Jean-Pol Fargeau",
+        " Claire Denis"
+    ],
+    "main_cast": [
+        "Vincent Lindon",
+        " Chiara Mastroianni",
+        " Julie Bataille"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "imdb_rating": "6.1",
+    "imdb_votes": "3,660",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bastards",
+    "wikipedia_summary": "Bastards or The Bastards may refer to:",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><b>Bastards</b> or <b>The Bastards</b> may refer to:\n</p>\n\n<h2>Film</h2>\n<ul><li><i>Bastards</i> (2006 film), a 2006 Russian film</li>\n<li><i>The Bastards</i> (film), 2007 Romanian film</li>\n<li><i>Bastards</i> (2013 film), a 2013 French film by Claire Denis</li>\n<li><i>Father Figures</i>, a 2017 American comedy film originally called Bastards</li></ul>\n\n<h2>Music</h2>\n<ul><li>Lars Frederiksen and the Bastards, a 2000s American street punk band</li></ul>\n\n<h3>Albums</h3>\n<ul><li><i>Bastards</i> (Bj\u00f6rk album), 2012</li>\n<li><i>Bastards</i> (Cerebral Fix album) or the title song, 1991</li>\n<li><i>Bastards</i> (Mot\u00f6rhead album), 1993</li>\n<li><i>The Bastards</i> (album), a 2020 album by Palaye Royale</li>\n<li><i>Bastards</i> (Saigon Kick album), 1999</li></ul>\n\n<h3>Songs</h3>\n<ul><li>\"Bastards\", by the Bloody Hawaiians from <i>The Threegos</i>, 1994</li>\n<li>\"Bastards\", by Defeater from <i>Letters Home</i>, 2013</li>\n<li>\"Bastards\", by the Golden Dogs from <i>Everything in 3 Parts</i>, 2004</li>\n<li>\"Bastards\", by Kesha from <i>Rainbow</i>, 2017</li>\n<li>\"Bastards\", by Machine Head from <i>Catharsis</i>, 2018</li>\n<li>\"Bastards\", by the Real McKenzies from <i>Clash of the Tartans</i>, 1998</li>\n<li>\"Bastards\", by Shut Up and Dance, mixed by Nicolette, from <i>DJ-Kicks: Nicolette</i>, 1997</li></ul>\n\n<h2>Other uses</h2>\n<ul><li>Bastard brothers, 18th century British surveyor-architects and civic dignitaries</li></ul>\n\n<h2>See also</h2>\n<ul><li>Bastard (disambiguation)</li>\n<li><i>\u00a1Bastardos!</i>, the eighth studio album by rock band Blues Traveler, 2005</li></ul>"
+}

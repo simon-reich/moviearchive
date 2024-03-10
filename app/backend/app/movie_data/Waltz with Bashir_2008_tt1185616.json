@@ -1,0 +1,838 @@
+{
+    "adult": false,
+    "backdrop_path": "/oTclC89GNdGQ25XjowvMlCpLyMi.jpg",
+    "belongs_to_collection": null,
+    "budget": 1500000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://waltzwithbashir.com",
+    "id": 8885,
+    "imdb_id": "tt1185616",
+    "original_language": "he",
+    "original_title": "Vals Im Bashir",
+    "overview": "An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+    "popularity": 12.622,
+    "poster_path": "/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg",
+    "production_companies": [
+        {
+            "id": 17931,
+            "logo_path": null,
+            "name": "Bridgit Folman Film Gang",
+            "origin_country": "IL"
+        },
+        {
+            "id": 76921,
+            "logo_path": "/dkPpGhEL2uQ5bmNDAqSZRFp894g.png",
+            "name": "Les Films d'Ici",
+            "origin_country": "FR"
+        },
+        {
+            "id": 703,
+            "logo_path": "/lMV4teVPQWJxIaiDsAsU7Vdh1iC.png",
+            "name": "Razor Film Produktion",
+            "origin_country": "DE"
+        },
+        {
+            "id": 183975,
+            "logo_path": null,
+            "name": "ITVS International",
+            "origin_country": ""
+        },
+        {
+            "id": 1245,
+            "logo_path": "/suKdkPTtHn0DzGYmrXCA506dJON.png",
+            "name": "TSR",
+            "origin_country": "CH"
+        },
+        {
+            "id": 201,
+            "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+            "name": "ARTE",
+            "origin_country": "FR"
+        },
+        {
+            "id": 5975,
+            "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+            "name": "YLE",
+            "origin_country": "FI"
+        },
+        {
+            "id": 792,
+            "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+            "name": "RTBF",
+            "origin_country": "BE"
+        },
+        {
+            "id": 45531,
+            "logo_path": "/aQ7chdTN42fz0qtmih3yYnDWp4F.png",
+            "name": "SBS",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "FI",
+            "name": "Finland"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "IL",
+            "name": "Israel"
+        },
+        {
+            "iso_3166_1": "CH",
+            "name": "Switzerland"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-06-12",
+    "revenue": 11179372,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Hebrew",
+            "iso_639_1": "he",
+            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Waltz with Bashir",
+    "video": false,
+    "vote_average": 7.705,
+    "vote_count": 896,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56198,
+                "known_for_department": "Directing",
+                "name": "Ari Folman",
+                "original_name": "Ari Folman",
+                "popularity": 1.394,
+                "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+                "cast_id": 18,
+                "character": "Self (voice)",
+                "credit_id": "52fe44c4c3a36847f80a9029",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1550586,
+                "known_for_department": "Acting",
+                "name": "Mickey Leon",
+                "original_name": "Mickey Leon",
+                "popularity": 1.96,
+                "profile_path": "/ctWyq71xAGmKlI4BuOApFb09mfs.jpg",
+                "cast_id": 23,
+                "character": "Boaz Rein-Buskila (voice)",
+                "credit_id": "5ec57b09d2147c0023bc4842",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 585502,
+                "known_for_department": "Directing",
+                "name": "Ori Sivan",
+                "original_name": "Ori Sivan",
+                "popularity": 1.708,
+                "profile_path": "/wpp0ZBd3oWz3pBT8kSRgdDsuUh9.jpg",
+                "cast_id": 20,
+                "character": "Self (voice)",
+                "credit_id": "5ec57aae8e2e0000201d7c35",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 147420,
+                "known_for_department": "Acting",
+                "name": "Yehezkel Lazarov",
+                "original_name": "Yehezkel Lazarov",
+                "popularity": 3.039,
+                "profile_path": "/qK8NKvLUUQtZrYIyXwaGp6x3Yzl.jpg",
+                "cast_id": 24,
+                "character": "Carmi Cna'an (voice)",
+                "credit_id": "5ec57b256c84920021296bfd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 72569,
+                "known_for_department": "Acting",
+                "name": "Ronny Dayag",
+                "original_name": "Ronny Dayag",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Self (voice)",
+                "credit_id": "52fe44c4c3a36847f80a8fef",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2646508,
+                "known_for_department": "Acting",
+                "name": "Shmuel Frenkel",
+                "original_name": "Shmuel Frenkel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Self (voice)",
+                "credit_id": "5ec57ac99979d2001f3345e3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2646509,
+                "known_for_department": "Acting",
+                "name": "Zahava Solomon",
+                "original_name": "Zahava Solomon",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Self (voice)",
+                "credit_id": "5ec57add0c0b3800226c6616",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 72567,
+                "known_for_department": "Acting",
+                "name": "Ron Ben-Yishai",
+                "original_name": "Ron Ben-Yishai",
+                "popularity": 1.094,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Self (voice)",
+                "credit_id": "52fe44c4c3a36847f80a8fe7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 72573,
+                "known_for_department": "Acting",
+                "name": "Dror Harazi",
+                "original_name": "Dror Harazi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Self (voice)",
+                "credit_id": "52fe44c4c3a36847f80a8feb",
+                "order": 8
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16707,
+                "known_for_department": "Production",
+                "name": "Gerhard Meixner",
+                "original_name": "Gerhard Meixner",
+                "popularity": 0.828,
+                "profile_path": "/SJ1YCcxlH56hyp8h9tJWc3wVjf.jpg",
+                "credit_id": "52fe44c4c3a36847f80a900d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16708,
+                "known_for_department": "Production",
+                "name": "Roman Paul",
+                "original_name": "Roman Paul",
+                "popularity": 1.26,
+                "profile_path": "/y6LNgzutvOClL1xw1qKVT0wA5kg.jpg",
+                "credit_id": "52fe44c4c3a36847f80a9001",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41793,
+                "known_for_department": "Production",
+                "name": "Serge Lalou",
+                "original_name": "Serge Lalou",
+                "popularity": 2.093,
+                "profile_path": "/lJgdWev2t6vJL6I3984sFu92Nuk.jpg",
+                "credit_id": "52fe44c4c3a36847f80a8ffb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46266,
+                "known_for_department": "Sound",
+                "name": "Max Richter",
+                "original_name": "Max Richter",
+                "popularity": 1.574,
+                "profile_path": "/keYPSx2YlyRCk8KY7YaZ81fZ1Y3.jpg",
+                "credit_id": "52fe44c4c3a36847f80a8ff5",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 51088,
+                "known_for_department": "Sound",
+                "name": "Aviv Aldema",
+                "original_name": "Aviv Aldema",
+                "popularity": 2.019,
+                "profile_path": null,
+                "credit_id": "52fe44c4c3a36847f80a9025",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56198,
+                "known_for_department": "Directing",
+                "name": "Ari Folman",
+                "original_name": "Ari Folman",
+                "popularity": 1.394,
+                "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+                "credit_id": "52fe44c4c3a36847f80a902f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56198,
+                "known_for_department": "Directing",
+                "name": "Ari Folman",
+                "original_name": "Ari Folman",
+                "popularity": 1.394,
+                "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+                "credit_id": "52fe44c4c3a36847f80a8fe3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 72574,
+                "known_for_department": "Editing",
+                "name": "Nili Feller",
+                "original_name": "Nili Feller",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe44c4c3a36847f80a9019",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 72575,
+                "known_for_department": "Production",
+                "name": "Yael Nahlieli",
+                "original_name": "Yael Nahlieli",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe44c4c3a36847f80a9007",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 124806,
+                "known_for_department": "Art",
+                "name": "David Polonsky",
+                "original_name": "David Polonsky",
+                "popularity": 0.618,
+                "profile_path": null,
+                "credit_id": "52fe44c4c3a36847f80a9013",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 124809,
+                "known_for_department": "Visual Effects",
+                "name": "Roei Tzoref",
+                "original_name": "Roei Tzoref",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe44c4c3a36847f80a901f",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Waltz with Bashir (2008) Theatrical Trailer HD 720p",
+                "key": "XbXdwBNkCmk",
+                "published_at": "2009-04-04T20:14:22.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": false,
+                "id": "533ec664c3a368544800145c"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/oTclC89GNdGQ25XjowvMlCpLyMi.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/s84fkqQeKWICwIzdQR4b76VE5mO.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/cMoiIk3tD6qshxccYRjjym7l5YV.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 792,
+                "iso_639_1": null,
+                "file_path": "/5X9eIZz9Dtu8zESjnZSLqlCRjD6.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1408
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1079,
+                "iso_639_1": null,
+                "file_path": "/fIhB3gAohLMyiHq2RQ5JRIeajMn.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/hurUkJ0ILw2RKiRTmBglje3UGkc.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/3bYpxqtb0AjVpEpldYnVaIRUXrt.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.085,
+                "height": 1299,
+                "iso_639_1": "en",
+                "file_path": "/tmAmgaQ66MztLl36YHv0mfreM8H.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4008
+            },
+            {
+                "aspect_ratio": 2.8,
+                "height": 280,
+                "iso_639_1": "pt",
+                "file_path": "/nrSTsrpqydKSo6f2m3Msiee3CKb.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 784
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1024,
+                "iso_639_1": "it",
+                "file_path": "/d6knZ8YiFtWSLgbAFLKkijzeJAk.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 768
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 753,
+                "iso_639_1": "ja",
+                "file_path": "/1Rlx3CmcqHBEZkdNLI4kRcvdGLT.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 502
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2871,
+                "iso_639_1": "fr",
+                "file_path": "/zhbhGwkP8IX1iKoPkQVwThMyZ56.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1914
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/tdr54JxHqP01QmgSW53nBvHrxPe.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "he",
+                "file_path": "/kMDSxw15QTu4hGChkp9j146DRrH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/7RFy9EEAnJrBC4WWszSkuc3wwhL.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1058
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1024,
+                "iso_639_1": "en",
+                "file_path": "/h6chJvbAWhlNsXcKaQ9p2EthKpK.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 683
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1024,
+                "iso_639_1": "en",
+                "file_path": "/jQ7xr1EjJ1UKKWoJrbauu51XMCm.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 683
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "fr",
+                "file_path": "/gcrdBS5PQRqOFk7qlqZsXpngvub.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.699,
+                "height": 750,
+                "iso_639_1": "he",
+                "file_path": "/1rvL9aKnj3SqCKGZxicVktVSlTn.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 524
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2871,
+                "iso_639_1": "fr",
+                "file_path": "/6kGg5lAotJwUy7Ssq6Dvc5Zft4Z.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1914
+            },
+            {
+                "aspect_ratio": 0.749,
+                "height": 2670,
+                "iso_639_1": "fr",
+                "file_path": "/sUJ18dgyiPkw8AtyS86tXg8Qsyb.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 900,
+                "iso_639_1": "ko",
+                "file_path": "/4VWhpwPpD5LiRNMLTtarvi9NmmF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 635
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1071,
+                "iso_639_1": "bg",
+                "file_path": "/gN0oD3ZciQkye6Vw6olbPjcvpin.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "he",
+                "file_path": "/vFKU6Pxtfbz0PytltP0jBML1ukD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "ja",
+                "file_path": "/s0WqB45Aek21OD33wwoH9sxf06F.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.703,
+                "height": 2165,
+                "iso_639_1": "hu",
+                "file_path": "/9xoMbFemz6zZmXk2FClYzS8QUMN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1523
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1418,
+                "iso_639_1": "de",
+                "file_path": "/1XrsTcz7v8Elz4HaXtDo1OZGzgN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "it",
+                "file_path": "/flKMX4SHfkmb8A2COWYk92RXhvC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/taBWuizS5DzviIVq83qnZPUKCXm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1380,
+                "iso_639_1": "it",
+                "file_path": "/3jDIPBR1IDcdbuLLUSL8onf88ct.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "it",
+                "file_path": "/sGAtiRvDa5imUeCSsCui5WqyF2c.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/kJhqPFWzCLYIJ4Z7yKEGbh0vo4C.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/y0t0yTyrEkzDf0Yl8uiSLrVPWvQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 536,
+                "name": "israel"
+            },
+            {
+                "id": 5907,
+                "name": "palestinian-israeli conflict"
+            },
+            {
+                "id": 537,
+                "name": "palestine"
+            },
+            {
+                "id": 539,
+                "name": "middle east"
+            },
+            {
+                "id": 3030,
+                "name": "nightmare"
+            },
+            {
+                "id": 1583,
+                "name": "mass murder"
+            },
+            {
+                "id": 14546,
+                "name": "massacre"
+            },
+            {
+                "id": 254584,
+                "name": "sabra"
+            },
+            {
+                "id": 254585,
+                "name": "shatila"
+            },
+            {
+                "id": 322980,
+                "name": "animated documentary"
+            }
+        ]
+    },
+    "title_english": "Waltz with Bashir",
+    "year": "2008",
+    "rated": "R",
+    "director_list": [
+        "Ari Folman"
+    ],
+    "writer_list": [
+        "Ari Folman"
+    ],
+    "main_cast": [
+        "Ari Folman",
+        " Ron Ben-Yishai",
+        " Ronny Dayag"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "91/100"
+        }
+    ],
+    "imdb_rating": "8.0",
+    "imdb_votes": "59,732",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Waltz_with_Bashir",
+    "wikipedia_summary": "Waltz with Bashir (Hebrew: \u05d5\u05d0\u05dc\u05e1 \u05e2\u05dd \u05d1\u05d0\u05e9\u05d9\u05e8, translit. Vals Im Bashir) is a 2008 Israeli adult animated war docudrama film written, produced, and directed by Ari Folman. It depicts Folman's search for lost memories of his experience as a soldier during the 1982 Lebanon War and the Sabra and Shatila massacre.The film premiered at the 2008 Cannes Film Festival, where it competed for the Palme d'Or. Subsequently, it received wide acclaim from critics and audiences alike, with particular praise given to its themes, animation, direction, story, Max Richter's score and editing, and grossed over $11 million at the global box office. It won numerous awards, including the Golden Globe Award for Best Foreign Language Film, the National Society of Film Critics Award for Best Film, the C\u00e9sar Award for Best Foreign Film, and the International Documentary Association Award for Best Feature Documentary, and was nominated for many more, including the Academy Award for Best Foreign Language Film, the BAFTA Award for Best Film Not in the English Language, and the Annie Award for Best Animated Feature.\nBashir and the stop-motion $9.99, both released in 2008, were the first Israeli feature-length animated films released theatrically since Joseph the Dreamer in 1962.",
+    "wikipedia_plot": "In 2006, Ari Folman meets with Boaz, an old friend who tells Ari he is being haunted by a recurrent nightmare in which 26 rabidly angry dogs run toward his home through the streets of Tel Aviv, destroying everything in their way. Boaz explains that, during the 1982 Lebanon War, the other soldiers in his unit knew he would not be able to kill a human, so they gave him the job of killing the dogs when they infiltrated a village at night so the animals would not alert the villagers to their presence, and he vividly remembers each of the 26 dogs he killed. Ari is surprised to find that, although he had also fought in the conflict during his stint as an infantry soldier in the Israel Defense Forces, he recalls nothing of his deployment. Troubled by this, later that night he has a vision of his younger self and two other soldiers bathing at night in the Mediterranean just off the coast of Beirut under the light of flares descending over the city. He recognizes the vision as being connected to the Sabra and Shatila massacre, but he cannot remember enough to put this fragment in context.\nEarly the next morning, Ari rushes off to see a childhood friend, who is a professional therapist. His friend advises him to seek out others who were in Beirut at the time of the massacre to gain a better understanding of what happened and, hopefully, revive his own memories. The friend further explains that, given the nature of human memory, the vision might not be an exact record of what actually occurred, though it certainly relates to matters of great importance to Ari's inner world.\nAri interviews friends and other soldiers who fought in the war, as well as a psychologist specializing in PTSD and Israeli TV reporter Ron Ben-Yishai, who was in Beirut covering the war when the massacre took place. Eventually, Ari's memories start to come back into focus, and he remembers that he \"was in the second or third ring\" of soldiers involved in the massacre, as his unit fired flares into the sky at night in support of the Israeli-allied Lebanese Christian Phalange militia while they perpetrated the massacre in retaliation for the assassination of Bachir Gemayel. While he did not know what the militia was up to until after they were finished, he concludes that the holes in his memory were a defense mechanism, as his younger self had felt as responsible for the massacre as those who actually carried it out. The film ends with the animation dissolving into actual news footage of the aftermath of the massacre.",
+    "wikipedia_plot_html": "<p>In 2006, Ari Folman meets with Boaz, an old friend who tells Ari he is being haunted by a recurrent nightmare in which 26 rabidly angry dogs run toward his home through the streets of Tel Aviv, destroying everything in their way. Boaz explains that, during the 1982 Lebanon War, the other soldiers in his unit knew he would not be able to kill a human, so they gave him the job of killing the dogs when they infiltrated a village at night so the animals would not alert the villagers to their presence, and he vividly remembers each of the 26 dogs he killed. Ari is surprised to find that, although he had also fought in the conflict during his stint as an infantry soldier in the Israel Defense Forces, he recalls nothing of his deployment. Troubled by this, later that night he has a vision of his younger self and two other soldiers bathing at night in the Mediterranean just off the coast of Beirut under the light of flares descending over the city. He recognizes the vision as being connected to the Sabra and Shatila massacre, but he cannot remember enough to put this fragment in context.\n</p><p>Early the next morning, Ari rushes off to see a childhood friend, who is a professional therapist. His friend advises him to seek out others who were in Beirut at the time of the massacre to gain a better understanding of what happened and, hopefully, revive his own memories. The friend further explains that, given the nature of human memory, the vision might not be an exact record of what actually occurred, though it certainly relates to matters of great importance to Ari's inner world.\n</p><p>Ari interviews friends and other soldiers who fought in the war, as well as a psychologist specializing in PTSD and Israeli TV reporter Ron Ben-Yishai, who was in Beirut covering the war when the massacre took place. Eventually, Ari's memories start to come back into focus, and he remembers that he \"was in the second or third ring\" of soldiers involved in the massacre, as his unit fired flares into the sky at night in support of the Israeli-allied Lebanese Christian Phalange militia while they perpetrated the massacre in retaliation for the assassination of Bachir Gemayel. While he did not know what the militia was up to until after they were finished, he concludes that the holes in his memory were a defense mechanism, as his younger self had felt as responsible for the massacre as those who actually carried it out. The film ends with the animation dissolving into actual news footage of the aftermath of the massacre.\n</p>",
+    "wikipedia_critics": "On review aggregator website Rotten Tomatoes, the film holds a 96% \"fresh\" rating based on reviews from 153 critics, for an average rating of 8.4/10; the site's \"critics consensus\" states: \"A wholly innovative, original, and vital history lesson, with pioneering animation, Waltz With Bashir delivers its message about the Middle East in a mesmerizing fashion.\" On Metacritic, the film holds a weighted average score of 91/100 based on 33 critics, indicating \"universal acclaim\".\nIndieWire named the film the tenth best of the year, based on the site's annual survey of 100 film critics. Xan Brooks of The Guardian called it \"an extraordinary, harrowing, provocative picture.\" The film was praised for \"inventing a new cinematographic language\" at the Tokyo Filmex festival. The World Socialist Web Site's David Walsh described it as a \"painfully honest\" anti-war film and \"one of the most extraordinary and haunting films at the Toronto film festival.\" Despite the positive critical reception, the film was only moderately commercially successful in Israel itself.Several writers described the film as part of the Israeli \"shooting and crying\" tradition (where soldiers express remorse about their actions, but do not do anything concrete to remedy the situation), but Folman has disputed this.",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Waltz with Bashir</b></i> (Hebrew: <span lang=\"he\" dir=\"rtl\">\u05d5\u05d0\u05dc\u05e1 \u05e2\u05dd \u05d1\u05d0\u05e9\u05d9\u05e8</span>, translit.\u00a0<i><b>Vals Im Bashir</b></i>) is a 2008 Israeli adult animated war docudrama film written, produced, and directed by Ari Folman. It depicts Folman's search for lost memories of his experience as a soldier during the 1982 Lebanon War and the Sabra and Shatila massacre.</p><p>The film premiered at the 2008 Cannes Film Festival, where it competed for the Palme d'Or. Subsequently, it received wide acclaim from critics and audiences alike, with particular praise given to its themes, animation, direction, story, Max Richter's score and editing, and grossed over $11 million at the global box office. It won numerous awards, including the Golden Globe Award for Best Foreign Language Film, the National Society of Film Critics Award for Best Film, the C\u00e9sar Award for Best Foreign Film, and the International Documentary Association Award for Best Feature Documentary, and was nominated for many more, including the Academy Award for Best Foreign Language Film, the BAFTA Award for Best Film Not in the English Language, and the Annie Award for Best Animated Feature.\n</p><p><i>Bashir</i> and the stop-motion <i>$9.99</i>, both released in 2008, were the first Israeli feature-length animated films released theatrically since <i>Joseph the Dreamer</i> in 1962.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>In 2006, Ari Folman meets with Boaz, an old friend who tells Ari he is being haunted by a recurrent nightmare in which 26 rabidly angry dogs run toward his home through the streets of Tel Aviv, destroying everything in their way. Boaz explains that, during the 1982 Lebanon War, the other soldiers in his unit knew he would not be able to kill a human, so they gave him the job of killing the dogs when they infiltrated a village at night so the animals would not alert the villagers to their presence, and he vividly remembers each of the 26 dogs he killed. Ari is surprised to find that, although he had also fought in the conflict during his stint as an infantry soldier in the Israel Defense Forces, he recalls nothing of his deployment. Troubled by this, later that night he has a vision of his younger self and two other soldiers bathing at night in the Mediterranean just off the coast of Beirut under the light of flares descending over the city. He recognizes the vision as being connected to the Sabra and Shatila massacre, but he cannot remember enough to put this fragment in context.\n</p><p>Early the next morning, Ari rushes off to see a childhood friend, who is a professional therapist. His friend advises him to seek out others who were in Beirut at the time of the massacre to gain a better understanding of what happened and, hopefully, revive his own memories. The friend further explains that, given the nature of human memory, the vision might not be an exact record of what actually occurred, though it certainly relates to matters of great importance to Ari's inner world.\n</p><p>Ari interviews friends and other soldiers who fought in the war, as well as a psychologist specializing in PTSD and Israeli TV reporter Ron Ben-Yishai, who was in Beirut covering the war when the massacre took place. Eventually, Ari's memories start to come back into focus, and he remembers that he \"was in the second or third ring\" of soldiers involved in the massacre, as his unit fired flares into the sky at night in support of the Israeli-allied Lebanese Christian Phalange militia while they perpetrated the massacre in retaliation for the assassination of Bachir Gemayel. While he did not know what the militia was up to until after they were finished, he concludes that the holes in his memory were a defense mechanism, as his younger self had felt as responsible for the massacre as those who actually carried it out. The film ends with the animation dissolving into actual news footage of the aftermath of the massacre.\n</p>\n\n<h2>Cast</h2>\n<p>Most of the interview subjects look very similar in real life and in the film, but two of Ari Folman's friends asked that he have an actor rerecord their interviews and have the animators not base the design of their character on their actual appearance.\n</p>\n<ul><li>Ari Folman, an Israeli filmmaker who recently finished his military reserve service. Some twenty years before, he served in the IDF during the Lebanon War.</li>\n<li>Boaz Rein-Buskila (voiced by Miki Leon), an accountant and Israeli Lebanon War veteran suffering from nightmares.</li>\n<li>Ori Sivan, an Israeli filmmaker who previously co-directed two films with Folman and is his long-time friend.</li>\n<li>Carmi Can'an (voiced by Yehezkel Lazarov), an Israeli Lebanon War veteran who once was Folman's friend and now lives in the Netherlands. Carmi chose to be a combat soldier to prove his masculinity, but, in response to Folman's remark that he was expected to excel in science, testifies that, after the war, \"he could be nobody\".</li>\n<li>Ronny Dayag, an Israeli Lebanon War veteran and high food engineer. During the war, he was a Merkava tank crewman. Dayag testifies that, as the only survivor of an ambush on his unit, he suffers from survivor's guilt.</li>\n<li>Shmuel Frenkel, an Israeli Lebanon War veteran who was in Ari Folman's infantry unit. By interviewing Frenkel, Folman learns he had repressed the fact that, at one point, his company were confronted by and killed a boy who had an RPG. The title of the film comes from a scene in which the unit is under heavy fire and Frenkel forcefully takes another soldier's MAG, goes into the open, and fires wildly, in \"some sort of trance\" as he \"waltzes\" between enemy bullets with Bashir's image on posters in the background.</li>\n<li>Zahava Solomon, an Israeli psychologist and researcher in the field of psychological trauma. Zahava provides professional analysis for some events in the movie, using clinical terms. For example, she explains that Folman's confrontation with the boy with the RPG was forgotten because his brain used a defence mechanism called dissociation. She further illustrates the mechanism with an example of a past patient of hers, who was a photographer in that war. At some point, his dissociation ceased to work and he lost his mind.</li>\n<li>Ron Ben-Yishai, an Israeli journalist who was the first to cover the Sabra and Shatila massacre.</li>\n<li>Dror Harazi, an Israeli Lebanon War veteran. During the war, he commanded a tank that was stationed outside the Shatila refugee camp during the massacre.</li></ul>\n\n<h2>Title</h2>\n<p>The film takes its title from a scene in which Shmuel Frenkel, one of the interviewees and the commander of Folman's infantry unit at the time of the film's events, grabs a general purpose machine gun and \"dances an insane waltz\" (to the tune of Chopin's Waltz in C-sharp minor) amid heavy enemy fire on a Beirut street festooned with huge posters of Bashir Gemayel. The title also refers to Israel's short-lived political waltz with Bashir Gemayel as president of Lebanon.</p>\n\n<h2>Production</h2>\n<p>The film took four years to complete. It is unusual, as it is a feature-length documentary that, excluding one short segment of archival news footage at the end, consists entirely of animation. Stylistically, it combines classical music, 1980s music, realistic graphics, and surrealistic scenes together with illustrations similar to comics.\n</p><p>The animation, with its dark hues representing the overall feel of the film, uses a unique style invented by Yoni Goodman at the Bridgit Folman Film Gang studio in Israel. The technique is often confused with rotoscoping, an animation style in which the drawings are done over live footage, but is actually a combination of Adobe Flash cutouts and classic animation. Each drawing was sliced into hundreds of pieces that were moved in relation to one another to create the illusion of movement. The film was first constructed as a 90-minute video using live-action footage shot in a sound studio, and then turned into storyboards and animatics. From there, 2,300 illustrations were drawn based on the storyboards, which were used to create the actual film scenes using Flash animation, classic animation, and 3D technologies.</p><p>The comics medium, in particular Joe Sacco, the novels <i>Catch-22</i>, <i>The Adventures of Wesley Jackson</i>, and <i>Slaughterhouse-Five</i>, and painter Otto Dix, were mentioned by Folman and art director David Polonsky as influences on the film. The film itself was adapted into a graphic novel in 2009.</p><p>The score for the film was composed by minimalist electronic musician Max Richter, while the featured songs are by OMD (\"Enola Gay\"), PiL (\"This is Not a Love Song\"), Navadey Haukaf (\u05e0\u05d5\u05d5\u05d3\u05d9 \u05d4\u05d0\u05d5\u05db\u05e3, or \"Good Morning Lebanon\", which was written for the film), Haclique (\"Incubator\"), and Zeev Tene (\"Beirut\", which is a remake of the Cake song \"I Bombed Korea\"). Some reviewers view the music as playing an active role in the film, commentating on events, rather than simply accompanying them.</p>\n\n<h2>Release</h2>\n<p><i>Waltz with Bashir</i> opened in five theaters in the United States on 25 December 2008, grossing $50,021 in its first weekend. By the end of its run, on 14 May 2009, it had grossed $2,283,849 at the domestic box office. Overseas, <i>Waltz</i> earned $8,842,000, for a worldwide total of $11,125,849.</p>\n\n<h3>Critical response</h3>\n<p>On review aggregator website Rotten Tomatoes, the film holds a 96% \"fresh\" rating based on reviews from 153 critics, for an average rating of 8.4/10; the site's \"critics consensus\" states: \"A wholly innovative, original, and vital history lesson, with pioneering animation, <i>Waltz With Bashir</i> delivers its message about the Middle East in a mesmerizing fashion.\" On Metacritic, the film holds a weighted average score of 91/100 based on 33 critics, indicating \"universal acclaim\".\n</p><p><i>IndieWire</i> named the film the tenth best of the year, based on the site's annual survey of 100 film critics. Xan Brooks of <i>The Guardian</i> called it \"an extraordinary, harrowing, provocative picture.\" The film was praised for \"inventing a new cinematographic language\" at the Tokyo Filmex festival. The World Socialist Web Site's David Walsh described it as a \"painfully honest\" anti-war film and \"one of the most extraordinary and haunting films at the Toronto film festival.\" Despite the positive critical reception, the film was only moderately commercially successful in Israel itself.</p><p>Several writers described the film as part of the Israeli \"shooting and crying\" tradition (where soldiers express remorse about their actions, but do not do anything concrete to remedy the situation), but Folman has disputed this.</p>\n\n<h3>Lebanon screening</h3>\n<p>The film is banned in some Arab countries (including Lebanon), with the harshest criticism in Lebanon, as the film depicts a vague and violent time in Lebanon's history. A movement of bloggers, among them the Lebanese Inner Circle and +961, have rebelled against the Lebanese government's ban of the film, and have managed to get the film seen by local Lebanese critics. In defiance of the government's request to ban it, the film was privately screened in Beirut in January 2009 in front of 90 people. Since then, many screenings have taken place, and unofficial copies of the film are also available in the country. Folman saw the screening as a source of great pride: \"I was overwhelmed and excited. I wish I could have been there. I wish one day I'll be able to present the film myself in Beirut. For me, it will be the happiest day of my life.\"</p>\n\n<h3>Top ten lists</h3>\n<p>The film appeared on many critics' top ten lists of the best films of 2008, including:</p>\n\n<p>It was also ranked #34 in <i>Empire</i> magazine's \"The 100 Best Films of World Cinema\" in 2010, and #4 in Current TV's \"50 Documentaries to See Before You Die\" in 2011.\n</p>\n\n<h3>Awards and nominations</h3>\n<p><i>Waltz with Bashir</i> was the first animated film to receive a nomination for the Academy Award for Best Foreign Language Film and the second to be nominated for the Golden Globe Award for Best Foreign Language Film (France's <i>Persepolis</i> was the first a year prior). It was also the first R-rated animated film to be considered for those honors. The film was the first Israeli winner of the Golden Globe Award for Best Foreign Language Film since <i>The Policeman</i> (1971), and the first documentary to win the award. Although submitted for the Academy Award for Best Animated Feature, it failed to be nominated, and it became ineligible for the Academy Award for Documentary Feature when the academy announced a new rule stating that only documentaries with a qualifying run in both New York and Los Angeles by 31 August could be nominated.</p><p>The film was included in the National Board of Review's list of the Top Five Foreign Films of 2008. It received nominations for Annie and BAFTA Awards for Best Animated Feature, but lost to <i>Kung Fu Panda</i> and <i>WALL-E</i>, respectively. Folman won the WGA's Best Documentary Feature Screenplay award and the DGA's Outstanding Directorial Achievement in Documentary award for his work on the film.\n</p>\n\n<h2>See also</h2>\n<ul><li>Bachir Gemayel</li>\n<li>Posttraumatic stress disorder</li></ul>\n\n<h3>Films</h3>\n<ul><li><i>Beaufort</i></li>\n<li><i>Cup Final</i></li>\n<li><i>Foxtrot</i></li>\n<li><i>Lebanon</i></li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><span><span>Official website</span></span></li>\n<li><i>Waltz with Bashir</i> at IMDb</li>\n<li><i>Waltz with Bashir</i> at Box Office Mojo</li>\n<li><i>Waltz with Bashir</i> at Rotten Tomatoes</li>\n<li><i>Waltz with Bashir</i> at Metacritic </li>\n<li><span>\"Ari Folman presents his film 'Waltz with Bashir,'\"</span> on YouTube, \"france24english\", 16 May 2008.</li>\n<li>Sebastian Musch: Freud in Beirut - Mechanisms of Trauma in Waltz with Bashir</li></ul>\n\n\n\n<!-- \nNewPP limit report\nParsed by mw1449\nCached time: 20231203064522\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.780 seconds\nReal time usage: 1.038 seconds\nPreprocessor visited node count: 5910/1000000\nPost\u2010expand include size: 323237/2097152 bytes\nTemplate argument size: 78416/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 5/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 161726/5000000 bytes\nLua time usage: 0.406/10.000 seconds\nLua memory usage: 17211507/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  819.279      1 -total\n 25.43%  208.371      1 Template:Reflist\n 14.66%  120.117     15 Template:Cite_web\n 13.97%  114.475     13 Template:Navbox\n 10.54%   86.346      2 Template:Infobox\n 10.45%   85.644      1 Template:Infobox_film\n  9.79%   80.175      1 Template:Lang-he\n  8.32%   68.167      1 Template:Ari_Folman\n  7.78%   63.703      1 Template:Navboxes\n  6.45%   52.851      1 Template:Short_description\n-->"
+}

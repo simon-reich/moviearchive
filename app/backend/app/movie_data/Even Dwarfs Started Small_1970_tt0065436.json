@@ -1,0 +1,603 @@
+{
+    "adult": false,
+    "backdrop_path": "/sZRR4sTJrXszqW6gGqg846FzuP.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 11900,
+    "imdb_id": "tt0065436",
+    "original_language": "de",
+    "original_title": "Auch Zwerge haben klein angefangen",
+    "overview": "The inhabitants of an institution in a remote country rebel against their keepers. Their acts of rebellion are by turns humorous, boring and alarming. An allegory on the problematic nature of fully liberating the human spirit, as both commendable and disturbing elements of our nature come forward. The film shows how justifiable revolt may be empowering, but may also turn to chaos and depravity. The allegory is developed in part by the fact that the film is cast entirely with dwarfs",
+    "popularity": 6.856,
+    "poster_path": "/b0jmVC1a4LghH9BtzTPn1DELvBP.jpg",
+    "production_companies": [
+        {
+            "id": 843,
+            "logo_path": null,
+            "name": "Werner Herzog Filmproduktion",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "1970-09-16",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Even Dwarfs Started Small",
+    "video": false,
+    "vote_average": 6.582,
+    "vote_count": 98,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70870,
+                "known_for_department": "Acting",
+                "name": "Helmut D\u00f6ring",
+                "original_name": "Helmut D\u00f6ring",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 1,
+                "character": "Hombr\u00e9",
+                "credit_id": "52fe449d9251416c7503b017",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70871,
+                "known_for_department": "Acting",
+                "name": "Paul Glauer",
+                "original_name": "Paul Glauer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Erzieher",
+                "credit_id": "52fe449d9251416c7503b01b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70872,
+                "known_for_department": "Acting",
+                "name": "Gisela Hertwig",
+                "original_name": "Gisela Hertwig",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Pobrecita",
+                "credit_id": "52fe449d9251416c7503b01f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70873,
+                "known_for_department": "Acting",
+                "name": "Hertel Minkner",
+                "original_name": "Hertel Minkner",
+                "popularity": 0.652,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Chicklets",
+                "credit_id": "52fe449d9251416c7503b023",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578737,
+                "known_for_department": "Acting",
+                "name": "Gertrud Piccini",
+                "original_name": "Gertrud Piccini",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Piccini",
+                "credit_id": "56c3e6f59251416ba9000e20",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578738,
+                "known_for_department": "Acting",
+                "name": "Marianne Saar",
+                "original_name": "Marianne Saar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Theresa",
+                "credit_id": "56c3e6fdc3a3687207000fd8",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578739,
+                "known_for_department": "Acting",
+                "name": "Brigitte Saar",
+                "original_name": "Brigitte Saar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Cochina",
+                "credit_id": "56c3e705c3a3687203000f06",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578740,
+                "known_for_department": "Acting",
+                "name": "Gerd Gickel",
+                "original_name": "Gerd Gickel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Pepe",
+                "credit_id": "56c3e70cc3a3687207000fdf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578741,
+                "known_for_department": "Acting",
+                "name": "Erna Gschwendtner",
+                "original_name": "Erna Gschwendtner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Azucar",
+                "credit_id": "56c3e7149251416ba7000f7a",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578742,
+                "known_for_department": "Acting",
+                "name": "Gerhard Maerz",
+                "original_name": "Gerhard Maerz",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Territory",
+                "credit_id": "56c3e71ec3a36871fd000e13",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578743,
+                "known_for_department": "Acting",
+                "name": "Alfredo Piccini",
+                "original_name": "Alfredo Piccini",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Anselmo",
+                "credit_id": "56c3e7269251416bba000e81",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578744,
+                "known_for_department": "Acting",
+                "name": "Erna Smollarz",
+                "original_name": "Erna Smollarz",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Schweppes",
+                "credit_id": "56c3e72f9251416bac000ddb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578745,
+                "known_for_department": "Acting",
+                "name": "Lajos Zsarnoczay",
+                "original_name": "Lajos Zsarnoczay",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Chapparo",
+                "credit_id": "56c3e7379251416bae000f3a",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1448455,
+                "known_for_department": "Acting",
+                "name": "Pepi Hermine",
+                "original_name": "Pepi Hermine",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "The President",
+                "credit_id": "56c3e7409251416bb1000e7b",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 6.993,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "52fe449d9251416c7503b02f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 6.993,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "52fe449d9251416c7503b029",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 6.993,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "52fe449d9251416c7503b035",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20553,
+                "known_for_department": "Camera",
+                "name": "Thomas Mauch",
+                "original_name": "Thomas Mauch",
+                "popularity": 1.868,
+                "profile_path": null,
+                "credit_id": "52fe449d9251416c7503b041",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20554,
+                "known_for_department": "Editing",
+                "name": "Beate Mainka-Jellinghaus",
+                "original_name": "Beate Mainka-Jellinghaus",
+                "popularity": 2.608,
+                "profile_path": null,
+                "credit_id": "52fe449d9251416c7503b047",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20555,
+                "known_for_department": "Sound",
+                "name": "Herbert Prasch",
+                "original_name": "Herbert Prasch",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "56c3e6dac3a3687200000f99",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49497,
+                "known_for_department": "Production",
+                "name": "Walter Saxer",
+                "original_name": "Walter Saxer",
+                "popularity": 2.167,
+                "profile_path": null,
+                "credit_id": "56c3e6c89251416ba7000f6b",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49501,
+                "known_for_department": "Sound",
+                "name": "Florian Fricke",
+                "original_name": "Florian Fricke",
+                "popularity": 1.22,
+                "profile_path": "/qa5a0Q28i8wnHbz9KUv2ykAuAr6.jpg",
+                "credit_id": "52fe449d9251416c7503b03b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1463981,
+                "known_for_department": "Acting",
+                "name": "Wolfgang von Ungern-Sternberg",
+                "original_name": "Wolfgang von Ungern-Sternberg",
+                "popularity": 0.692,
+                "profile_path": null,
+                "credit_id": "56c3e6d19251416bba000e6b",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578736,
+                "known_for_department": "Production",
+                "name": "Francisco Ariza",
+                "original_name": "Francisco Ariza",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "56c3e6bec3a3687203000ef8",
+                "department": "Production",
+                "job": "Production Manager"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Even Dwarves Started Small",
+                "key": "Yu8L1J9GvOU",
+                "published_at": "2009-11-15T19:35:48.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Clip",
+                "official": false,
+                "id": "533ec671c3a368544800212b"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/sZRR4sTJrXszqW6gGqg846FzuP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/o9h6Y1oVdqiOBglD6CTJqml5e2r.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1801,
+                "iso_639_1": "de",
+                "file_path": "/95u351ON9S45uVLdG3DsKXgKSxH.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1201
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2250,
+                "iso_639_1": "en",
+                "file_path": "/b0jmVC1a4LghH9BtzTPn1DELvBP.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 1135,
+                "iso_639_1": "de",
+                "file_path": "/zU4g40951s9CxjhwatkwoQLpIzT.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/2jt9Cw1o7JchR4Tka1RiADJ9Fe9.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 800,
+                "iso_639_1": "en",
+                "file_path": "/ahJYCIi4o5xkDluWlH3u0GurRTD.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 533
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/tkQuevusSQHjImazqvt9jAAJfhJ.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.711,
+                "height": 1024,
+                "iso_639_1": "ja",
+                "file_path": "/kJvlivqdkY4AU8wLXQvas1NapD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 728
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 1441,
+                "iso_639_1": "it",
+                "file_path": "/vQfOvLnW7LP04MmqeC65txe6XKM.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1017
+            },
+            {
+                "aspect_ratio": 0.696,
+                "height": 1435,
+                "iso_639_1": "es",
+                "file_path": "/hYVx3bLoT2Ef5fsQ70h0g9FZLkJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 999
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1980,
+                "iso_639_1": "de",
+                "file_path": "/4zLTVtjNgakH8PtmiMclgt0ITOc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 750,
+                "iso_639_1": "de",
+                "file_path": "/qEx8wI35RAVAGsUyEpCxOhN7b3Z.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 525
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "it",
+                "file_path": "/jG8S8KIzxKi1EZCey0QdzlYiAm4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1067
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3927,
+                "name": "rage and hate"
+            },
+            {
+                "id": 5290,
+                "name": "small person"
+            },
+            {
+                "id": 5726,
+                "name": "insurrection"
+            },
+            {
+                "id": 4914,
+                "name": "malice"
+            },
+            {
+                "id": 10508,
+                "name": "teacher"
+            },
+            {
+                "id": 14796,
+                "name": "destruction"
+            },
+            {
+                "id": 188725,
+                "name": "trenches"
+            },
+            {
+                "id": 205685,
+                "name": "animal cruelty"
+            }
+        ]
+    },
+    "title_english": "Even Dwarfs Started Small",
+    "year": "1970",
+    "rated": "Not Rated",
+    "director_list": [
+        "Werner Herzog"
+    ],
+    "writer_list": [
+        "Werner Herzog"
+    ],
+    "main_cast": [
+        "Helmut D\u00f6ring",
+        " Paul Glauer",
+        " Gisela Hertwig"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        }
+    ],
+    "imdb_rating": "6.7",
+    "imdb_votes": "6,160",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Even_Dwarfs_Started_Small",
+    "wikipedia_summary": "Even Dwarfs Started Small (German: Auch Zwerge haben klein angefangen) is a 1970 West German absurdist comedy-drama film written, produced, and directed by Werner Herzog.",
+    "wikipedia_plot": "Dwarfs confined in an institution on a remote island rebel against the guards and director, also dwarfs, in a display of mayhem. They gleefully break windows and dishes, cackle maniacally, abandon a running truck to drive itself in circles, engineer food fights and cock fights, look at pin-up magazines, set fire to pots of flowers, kill a large pig, torment some blind dwarfs, and perform a mock crucifixion of a monkey.",
+    "wikipedia_plot_html": "<p>Dwarfs confined in an institution on a remote island rebel against the guards and director, also dwarfs, in a display of mayhem. They gleefully break windows and dishes, cackle maniacally, abandon a running truck to drive itself in circles, engineer food fights and cock fights, look at pin-up magazines, set fire to pots of flowers, kill a large pig, torment some blind dwarfs, and perform a mock crucifixion of a monkey.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>Even Dwarfs Started Small</b></i> (German: <i lang=\"de\">Auch Zwerge haben klein angefangen</i>) is a 1970 West German absurdist comedy-drama film written, produced, and directed by Werner Herzog.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Dwarfs confined in an institution on a remote island rebel against the guards and director, also dwarfs, in a display of mayhem. They gleefully break windows and dishes, cackle maniacally, abandon a running truck to drive itself in circles, engineer food fights and cock fights, look at pin-up magazines, set fire to pots of flowers, kill a large pig, torment some blind dwarfs, and perform a mock crucifixion of a monkey.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Helmut D\u00f6ring as Hombr\u00e9</li>\n<li>Paul Glauer as Erzieher</li>\n<li>Gisela Hertwig as Pobrecita</li>\n<li>Hertel Minkner as Chicklets</li>\n<li>Gertrud Piccini as Piccini</li>\n<li>Marianne Saar as Theresa</li>\n<li>Brigitte Saar as Cochina</li>\n<li>Gerd Gickel as Pepe</li>\n<li>Erna Gschwendtner as Azucar</li></ul>\n\n<h2>Production</h2>\n<p>The film was shot on the Canary Islands, at Lanzarote. It was produced during the same time period as Herzog's <i>Fata Morgana</i> and <i>The Flying Doctors of East Africa</i>, and there are visual and thematic connections between the three works. Notably, the goggles worn by the blind dwarfs are the same style as the goggles which several people wear in <i>Fata Morgana</i>.</p><p>During the filming, Herzog gave some surprising stage directions to elicit particular performances from the actors. In directing one dwarf who continually struggled not to laugh, Herzog repeatedly told the actor that he must not laugh, but then made funny faces at him as soon as he started filming.</p><p>While filming the scene where a van drives in circles with no one at the wheel, one of the actors was run over, but immediately stood up uninjured. During the flower burning scene, the same actor caught fire and Werner Herzog raced over and beat the fire out. The actor only had minor injuries from the fire. After these two accidents, Herzog promised the actors that if they made it through the rest of filming without any more injuries he would jump into a cactus patch and allow the actors to film him doing so. The film was finished without any further injuries and the director made good his promise and dived into the cacti. Herzog has said, \"Getting out was a lot more difficult than jumping in.\" The vehicle-in-circles scene was inspired by an incident that occurred when Herzog worked as a steward at the Munich Oktoberfest as a young man. Part of his duty was ensuring that drunk patrons did not attempt to drive their cars home, so when a drunk man insisted that he was capable of driving, Herzog got into his car with him, placed the steering wheel on full lock, then got out of his car. The man passed out and the car continued to drive in a circle until it ran out of petrol. This situation was repeated at the end Herzog's 1977 film Stroszek where Stroszek abandons the truck, on fire, circling the parking lot of a roadside amusement park before he kills himself aboard a ski-lift.\n</p>\n\n<h2>Reception</h2>\n<p><i>Even Dwarfs Started Small</i> has a 100% approval rating on Rotten Tomatoes.</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Even Dwarfs Started Small</i> at IMDb</li>\n<li><i>Even Dwarfs Started Small</i> at Rotten Tomatoes</li></ul>\n\n<!-- \nNewPP limit report\nParsed by mw1376\nCached time: 20231203071843\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.480 seconds\nReal time usage: 0.648 seconds\nPreprocessor visited node count: 1889/1000000\nPost\u2010expand include size: 50390/2097152 bytes\nTemplate argument size: 4308/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 5/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 21876/5000000 bytes\nLua time usage: 0.314/10.000 seconds\nLua memory usage: 21238187/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  573.856      1 -total\n 17.20%   98.703      1 Template:Lang-de\n 16.18%   92.844      1 Template:Werner_Herzog\n 15.81%   90.698      1 Template:Navbox\n 15.00%   86.102      1 Template:Reflist\n 14.58%   83.675      1 Template:Infobox_film\n 12.33%   70.779      1 Template:Infobox\n 11.73%   67.320      1 Template:Cite_book\n 10.41%   59.716      1 Template:Short_description\n  9.09%   52.147      1 Template:More_citations_needed_section\n-->"
+}

@@ -1,0 +1,775 @@
+{
+    "adult": false,
+    "backdrop_path": "/8g9ZdvHX6jszRY71aVtpRUmHQzJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 958182,
+    "imdb_id": "tt24079846",
+    "original_language": "es",
+    "original_title": "Heroico",
+    "overview": "Luis, an 18-year-old boy with Indigenous roots, enters the Heroic Military College in hopes of ensuring a better future. There, he encounters a rigid and institutionally violent system designed to turn him into a perfect soldier.",
+    "popularity": 50.038,
+    "poster_path": "/w0iYqKZYoVmyoX0Av4FdsDiDXWo.jpg",
+    "production_companies": [
+        {
+            "id": 2801,
+            "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+            "name": "Film i V\u00e4st",
+            "origin_country": "SE"
+        },
+        {
+            "id": 33384,
+            "logo_path": "/bLV4TDUm4H6UjFSr3d1oidO4rhy.png",
+            "name": "Common Ground Pictures",
+            "origin_country": "SE"
+        },
+        {
+            "id": 17116,
+            "logo_path": null,
+            "name": "TEOREMA",
+            "origin_country": "MX"
+        },
+        {
+            "id": 191621,
+            "logo_path": "/f9Vkl26ue8YdcnSxeIGasY1s1R5.png",
+            "name": "Filmadora",
+            "origin_country": "MX"
+        },
+        {
+            "id": 148503,
+            "logo_path": "/9YEQ1qThOSJshp11831hMNzH48P.png",
+            "name": "CTT Exp & Rentals",
+            "origin_country": "MX"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2023-09-21",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Espa\u00f1ol"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There are no rights here, not even humans.",
+    "title": "Heroic",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 10,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3491797,
+                "known_for_department": "Acting",
+                "name": "Santiago Sandoval",
+                "original_name": "Santiago Sandoval",
+                "popularity": 0.6,
+                "profile_path": "/5MIGO2VVkk8rASsxMEKUCy77veW.jpg",
+                "cast_id": 2,
+                "character": "Luis N\u00fa\u00f1ez Rosales",
+                "credit_id": "624a154a8c7b0f0063767ec4",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2732919,
+                "known_for_department": "Acting",
+                "name": "Fernando Cuautle",
+                "original_name": "Fernando Cuautle",
+                "popularity": 0.694,
+                "profile_path": "/yxGoMBPVvieHrSkA2A0LACWcr68.jpg",
+                "cast_id": 12,
+                "character": "Eugenio Sierra",
+                "credit_id": "63b9a538ae6f0900bd1db46f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1376187,
+                "known_for_department": "Acting",
+                "name": "M\u00f3nica del Carmen",
+                "original_name": "M\u00f3nica del Carmen",
+                "popularity": 5.386,
+                "profile_path": "/3PwKvW9KfnoxxUlwlTxIGkHTFwy.jpg",
+                "cast_id": 3,
+                "character": "Yanin",
+                "credit_id": "624a154d05f9cf009e9420d9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2451959,
+                "known_for_department": "Acting",
+                "name": "Esteban Caicedo",
+                "original_name": "Esteban Caicedo",
+                "popularity": 0.84,
+                "profile_path": "/uojA3qzqChRfZXdcWwdd8X9nDPD.jpg",
+                "cast_id": 13,
+                "character": "Mario",
+                "credit_id": "63cdb626e24b93008967880a",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3886433,
+                "known_for_department": "Acting",
+                "name": "Isabel Yudice",
+                "original_name": "Isabel Yudice",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Andrea",
+                "credit_id": "63cdb66b6d97e600b74deebc",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3105709,
+                "known_for_department": "Camera",
+                "name": "Carlos Gerardo Garc\u00eda",
+                "original_name": "Carlos Gerardo Garc\u00eda",
+                "popularity": 0.75,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Rat\u00f3n",
+                "credit_id": "63cdb643d363e500ba79077b",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7363,
+                "known_for_department": "Editing",
+                "name": "\u00d3scar Figueroa",
+                "original_name": "\u00d3scar Figueroa",
+                "popularity": 1.417,
+                "profile_path": null,
+                "credit_id": "64a25183e9da69011e573c0a",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7366,
+                "known_for_department": "Art",
+                "name": "Ivonne Fuentes",
+                "original_name": "Ivonne Fuentes",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6bf7be6d8800ffac8e09",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20717,
+                "known_for_department": "Sound",
+                "name": "Ra\u00fal Locatelli",
+                "original_name": "Ra\u00fal Locatelli",
+                "popularity": 1.96,
+                "profile_path": "/vn9EudSKtHxVIJD3Pf8o23EjhRy.jpg",
+                "credit_id": "647f6ca4be6d8800ac4a1a5e",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1082434,
+                "known_for_department": "Directing",
+                "name": "Michel Franco",
+                "original_name": "Michel Franco",
+                "popularity": 3.958,
+                "profile_path": "/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg",
+                "credit_id": "6390e053d7107e008cebe5e5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1098086,
+                "known_for_department": "Acting",
+                "name": "Murcof",
+                "original_name": "Murcof",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64a2519911386c00e214e1e2",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277636,
+                "known_for_department": "Production",
+                "name": "Marco Polo Constandse",
+                "original_name": "Marco Polo Constandse",
+                "popularity": 1.903,
+                "profile_path": null,
+                "credit_id": "64a25320e8d02800c546338d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1383918,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gabriela Fern\u00e1ndez",
+                "original_name": "Gabriela Fern\u00e1ndez",
+                "popularity": 1.788,
+                "profile_path": null,
+                "credit_id": "64a251bce8d02800c546324c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1438420,
+                "known_for_department": "Visual Effects",
+                "name": "Ra\u00fal Luna",
+                "original_name": "Ra\u00fal Luna",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "647f6cb2be6d8800ac4a1a69",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1439152,
+                "known_for_department": "Directing",
+                "name": "Mat\u00edas Estevez Ciganda",
+                "original_name": "Mat\u00edas Estevez Ciganda",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "647f6c0938520200ca6227c6",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1533424,
+                "known_for_department": "Directing",
+                "name": "David Zonana",
+                "original_name": "David Zonana",
+                "popularity": 1.646,
+                "profile_path": "/bCgIkWD5eJwARuW0CfOCl6jMK9A.jpg",
+                "credit_id": "624a152ae8a3e100a7335725",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1533424,
+                "known_for_department": "Directing",
+                "name": "David Zonana",
+                "original_name": "David Zonana",
+                "popularity": 1.646,
+                "profile_path": "/bCgIkWD5eJwARuW0CfOCl6jMK9A.jpg",
+                "credit_id": "6390e05ecede6900cc260dbf",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1533424,
+                "known_for_department": "Directing",
+                "name": "David Zonana",
+                "original_name": "David Zonana",
+                "popularity": 1.646,
+                "profile_path": "/bCgIkWD5eJwARuW0CfOCl6jMK9A.jpg",
+                "credit_id": "64a251d8d400f3010c35cd36",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1610512,
+                "known_for_department": "Sound",
+                "name": "Erik Bjerknes",
+                "original_name": "Erik Bjerknes",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "647f6c7b3852020108e35730",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1610512,
+                "known_for_department": "Sound",
+                "name": "Erik Bjerknes",
+                "original_name": "Erik Bjerknes",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "647f6c75d4653700e2e07c82",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1768067,
+                "known_for_department": "Camera",
+                "name": "Carolina Costa",
+                "original_name": "Carolina Costa",
+                "popularity": 0.6,
+                "profile_path": "/3o621CanDZyNKNpsRNOa04t7eVC.jpg",
+                "credit_id": "63a3420b43501100ef5e1ce6",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1783955,
+                "known_for_department": "Production",
+                "name": "Jonas Kellagher",
+                "original_name": "Jonas Kellagher",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "63a3423ee24b93008c8e8f48",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1819548,
+                "known_for_department": "Production",
+                "name": "Jose Nacif",
+                "original_name": "Jose Nacif",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "64a251368e20c5010d4dc8c3",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1962961,
+                "known_for_department": "Directing",
+                "name": "Eduardo Giralt Brun",
+                "original_name": "Eduardo Giralt Brun",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "63cdb6d02d8ef30081266448",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2226853,
+                "known_for_department": "Sound",
+                "name": "Gustav Forsberg",
+                "original_name": "Gustav Forsberg",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "647f6c89ca7ec600ffa411b6",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2392456,
+                "known_for_department": "Production",
+                "name": "Erendira Nu\u00f1ez Larios",
+                "original_name": "Erendira Nu\u00f1ez Larios",
+                "popularity": 1.153,
+                "profile_path": null,
+                "credit_id": "63a342335cea18007adc8a2c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2724695,
+                "known_for_department": "Directing",
+                "name": "Ignacio L\u00f3pez",
+                "original_name": "Ignacio L\u00f3pez",
+                "popularity": 1.159,
+                "profile_path": null,
+                "credit_id": "647f6c2d38520200e9c4cb25",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2757811,
+                "known_for_department": "Sound",
+                "name": "Jonathan Ayala Colon",
+                "original_name": "Jonathan Ayala Colon",
+                "popularity": 0.968,
+                "profile_path": null,
+                "credit_id": "647f6ce0b3316b012da23132",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3217575,
+                "known_for_department": "Crew",
+                "name": "Victoria Escobar",
+                "original_name": "Victoria Escobar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6ceaca7ec601390036a6",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553379,
+                "known_for_department": "Production",
+                "name": "Kristina B\u00f6rjeson",
+                "original_name": "Kristina B\u00f6rjeson",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "64a2511ee9da69010146876b",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3681217,
+                "known_for_department": "Directing",
+                "name": "Sara Ramos",
+                "original_name": "Sara Ramos",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6c3a3852020108e35722",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3942120,
+                "known_for_department": "Camera",
+                "name": "Nicolas Gril",
+                "original_name": "Nicolas Gril",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6cbe71ffdf00eb3f0010",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4099851,
+                "known_for_department": "Directing",
+                "name": "Agust\u00edn Peralta Lemes",
+                "original_name": "Agust\u00edn Peralta Lemes",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "647f6c2071ffdf00aee75605",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4099854,
+                "known_for_department": "Directing",
+                "name": "Diana Villarreal",
+                "original_name": "Diana Villarreal",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6c49b3316b00ae87f4f2",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4099856,
+                "known_for_department": "Sound",
+                "name": "Vidar Leimar",
+                "original_name": "Vidar Leimar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6c9a385202012940108f",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4099858,
+                "known_for_department": "Camera",
+                "name": "Josefina Matus",
+                "original_name": "Josefina Matus",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "647f6cca3852020148f935b6",
+                "department": "Camera",
+                "job": "First Assistant Camera"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Heroico | Trailer | 21 de septiembre | Cin\u00e9polis Distribuci\u00f3n",
+                "key": "afXiHNTAXdM",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2023-08-14T18:51:07.000Z",
+                "id": "64fd6dce2dffd8010013a1ae"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1440,
+                "iso_639_1": null,
+                "file_path": "/8g9ZdvHX6jszRY71aVtpRUmHQzJ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2560
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1440,
+                "iso_639_1": null,
+                "file_path": "/uTVejvgvXQHX03bO66mlJbSOC2q.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2560
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/jsVCkWwZ8Brq2kS7jlyW8rToo81.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/w0iYqKZYoVmyoX0Av4FdsDiDXWo.jpg",
+                "vote_average": 5.392,
+                "vote_count": 8,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1418,
+                "iso_639_1": "es",
+                "file_path": "/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 945
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/rD9OdVyGgzubAIt6teozDln10CT.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1418,
+                "iso_639_1": "es",
+                "file_path": "/sDSCeg5NhCB9SXaxVwsijGDcXmn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 945
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1418,
+                "iso_639_1": "es",
+                "file_path": "/4ndaLXPIeGHivg6kpldvvcvYzKs.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 945
+            },
+            {
+                "aspect_ratio": 0.696,
+                "height": 1682,
+                "iso_639_1": "es",
+                "file_path": "/5RysJa4FzBuxMH5n1c6Me1y8sAr.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1170
+            },
+            {
+                "aspect_ratio": 0.696,
+                "height": 1682,
+                "iso_639_1": "es",
+                "file_path": "/37KYGHvQ6VyHvBhxDso6I97G2YR.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1170
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/xunWEJgXOW9gOKcuiA4xJbKsEGM.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1646,
+                "iso_639_1": "es",
+                "file_path": "/bBotGLOhLZWSKeux0fvjye2LyLy.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1098
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1316,
+                "iso_639_1": "es",
+                "file_path": "/fEjZonhRAcciEmXcVSYjwtiMaQc.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 921
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/xvJEBtPnJpP06x2CaRAPVyzbu9j.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1547,
+                "name": "mexico city, mexico"
+            },
+            {
+                "id": 209987,
+                "name": "new mexican cinema"
+            },
+            {
+                "id": 213810,
+                "name": "social thriller"
+            },
+            {
+                "id": 254161,
+                "name": "m\u00e9xico"
+            },
+            {
+                "id": 285006,
+                "name": "cine mexicano"
+            },
+            {
+                "id": 293507,
+                "name": "militar training"
+            },
+            {
+                "id": 313821,
+                "name": "militar"
+            },
+            {
+                "id": 316421,
+                "name": "drama"
+            }
+        ]
+    },
+    "title_english": "Heroic",
+    "year": "2023",
+    "rated": "N/A",
+    "director_list": [
+        "David Zonana"
+    ],
+    "writer_list": [
+        "David Zonana"
+    ],
+    "main_cast": [
+        "Santiago Sandoval",
+        " Fernando Cuautle",
+        " Esteban Caicedo"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        }
+    ],
+    "imdb_rating": "7.2",
+    "imdb_votes": "399",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heroic_(film)",
+    "wikipedia_summary": "Heroic (Spanish: Heroico) is a 2023 Mexican-Swedish drama film written, directed and produced by David Zonana. It stars Santiago Sandoval Carbajal. It had its world premiere at the 2023 Sundance Film Festival on 21 January 2023.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>Heroic</b></i> (Spanish: <i lang=\"es\">Heroico</i>) is a 2023 Mexican-Swedish drama film written, directed and produced by David Zonana. It stars Santiago Sandoval Carbajal. It had its world premiere at the 2023 Sundance Film Festival on 21 January 2023.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Premise</h2>\n<p>Luis, an Indigenous 18-year-old boy, encounters an institutionally violent system inside the Heroic Military College, which he enters in hope of a better future.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Santiago Sandoval Carbajal as Luis</li>\n<li>Esteban Caicedo</li>\n<li>Fernando Cuautle</li>\n<li>M\u00f3nica del Carmen</li>\n<li>Carlos Gerardo Garc\u00eda</li>\n<li>Isabel Yudice</li></ul>\n\n<h2>Release</h2>\n<p><i>Heroic</i> had its world premiere at the 2023 Sundance Film Festival on 21 January 2023. It was also screened in the Panorama section at the 73rd Berlin International Film Festival in February 2023.</p><p>Prior to its release, Wild Bunch acquired its distribution rights.</p>\n\n<h2>Reception</h2>\n<p>On the review aggregator website Rotten Tomatoes, 85% of 13 critics' reviews are positive, with an average rating of 8.4/10.</p><p>Erin Brady from <i>/Film</i> wrote: \"<i>Heroic</i> is likely a movie that won't work for everyone, as a few intentionally horrifying moments of casual brutality will have viewers squirming. However, by utilizing the camera as an intensely rigid weapon, the film drives home its intentions in a way that's neither overbearing nor vague. It is a powerful example of the power of visual storytelling, of allowing the technical aspects of movies to tell a painful story in a way mere words cannot.\" Meanwhile, Jordan Mintzer from <i>The Hollywood Reporter</i> wrote: \"There are no real surprises in <i>Heroic</i>, which sets its course to hell in the opening scene and follows a straight path there for the next 90 minutes. We learn little about Luis beyond the fact that his dad, who abandoned the family, was a soldier as well, or that his mother\u2019s cancer is the only reason he entered the academy.\"</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Heroic</i> at IMDb</li>\n<li><i>Heroic</i> at Rotten Tomatoes</li></ul><!-- \nNewPP limit report\nParsed by mw\u2010api\u2010ext.eqiad.main\u201055c76dfb6f\u2010jrdmz\nCached time: 20231206115623\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.311 seconds\nReal time usage: 0.424 seconds\nPreprocessor visited node count: 1759/1000000\nPost\u2010expand include size: 27002/2097152 bytes\nTemplate argument size: 3938/2097152 bytes\nHighest expansion depth: 23/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 20240/5000000 bytes\nLua time usage: 0.192/10.000 seconds\nLua memory usage: 16318670/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n--><!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  394.130      1 -total\n 25.95%  102.270      1 Template:Reflist\n 22.59%   89.038      1 Template:Lang-es\n 22.14%   87.267      6 Template:Cite_web\n 21.88%   86.255      1 Template:Infobox_film\n 17.51%   69.028      1 Template:Infobox\n 13.77%   54.252      1 Template:Short_description\n  9.59%   37.814      1 Template:Imdb_title\n  7.87%   31.002      2 Template:Pagetype\n  6.58%   25.947     10 Template:Main_other\n-->"
+}

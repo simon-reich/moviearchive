@@ -1,0 +1,542 @@
+{
+    "adult": false,
+    "backdrop_path": "/lP0dbVqq7ux4OHvbwZ5FsYSx8Wa.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81387783",
+    "id": 728116,
+    "imdb_id": "tt11423784",
+    "original_language": "mr",
+    "original_title": "The Disciple",
+    "overview": "Self-doubt, sacrifice and struggle converge into an existential crisis for a devoted classical vocalist as the mastery he strives for remains elusive.",
+    "popularity": 7.672,
+    "poster_path": "/ecESTxoNwnFNNknJrflxnMMzD7v.jpg",
+    "production_companies": [
+        {
+            "id": 108082,
+            "logo_path": null,
+            "name": "Zoo Entertainment",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-09-03",
+    "revenue": 0,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "Gujarati",
+            "iso_639_1": "gu",
+            "name": ""
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+        },
+        {
+            "english_name": "Bengali",
+            "iso_639_1": "bn",
+            "name": "\u09ac\u09be\u0982\u09b2\u09be"
+        },
+        {
+            "english_name": "Marathi",
+            "iso_639_1": "mr",
+            "name": ""
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "If you want to walk this path, learn to be lonely and hungry.",
+    "title": "The Disciple",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 50,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2727796,
+                "known_for_department": "Acting",
+                "name": "Aditya Modak",
+                "original_name": "Aditya Modak",
+                "popularity": 1.258,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Sharad Nerulkar",
+                "credit_id": "5f243f7b6f31af003598c30e",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2727794,
+                "known_for_department": "Acting",
+                "name": "Arun Dravid",
+                "original_name": "Arun Dravid",
+                "popularity": 0.828,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Pandit Vinayak Pradhan",
+                "credit_id": "5f243f4c6f31af003898ae27",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 980175,
+                "known_for_department": "Directing",
+                "name": "Sumitra Bhave",
+                "original_name": "Sumitra Bhave",
+                "popularity": 0.84,
+                "profile_path": "/gqMeU8Hz8bWayiQ05kwGnoN1yrz.jpg",
+                "cast_id": 2,
+                "character": "Vidushi Sindhubai Jadhav (Maai)",
+                "credit_id": "5f200037c50ad20036b130f9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2993533,
+                "known_for_department": "Acting",
+                "name": "Deepika Bhida Bhagwat",
+                "original_name": "Deepika Bhida Bhagwat",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Sneha",
+                "credit_id": "603b7a224e52ed004ddfb70c",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1307641,
+                "known_for_department": "Directing",
+                "name": "Kiran Yadnyopavit",
+                "original_name": "Kiran Yadnyopavit",
+                "popularity": 1.176,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Father",
+                "credit_id": "5f2000414a2226003561a463",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2993536,
+                "known_for_department": "Acting",
+                "name": "Abhishek Kale",
+                "original_name": "Abhishek Kale",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "",
+                "credit_id": "603b7a68176a9448ad540b2e",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2993538,
+                "known_for_department": "Acting",
+                "name": "Neela Khedkar",
+                "original_name": "Neela Khedkar",
+                "popularity": 0.605,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Grandmother",
+                "credit_id": "603b7a92c2ff3d005007001d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2993539,
+                "known_for_department": "Acting",
+                "name": "Makarand Mukund",
+                "original_name": "Makarand Mukund",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Kishore",
+                "credit_id": "603b7aa543494f4e7fad9a3d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2993541,
+                "known_for_department": "Acting",
+                "name": "Kristy Banerjee",
+                "original_name": "Kristy Banerjee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Shaswati Bose",
+                "credit_id": "603b7abb92e55b004cff334f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2993542,
+                "known_for_department": "Acting",
+                "name": "Prasad Vanarse",
+                "original_name": "Prasad Vanarse",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Rajan Joshi",
+                "credit_id": "603b7acbd9554b004d9308a3",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11218,
+                "known_for_department": "Directing",
+                "name": "Alfonso Cuar\u00f3n",
+                "original_name": "Alfonso Cuar\u00f3n",
+                "popularity": 10.672,
+                "profile_path": "/eoCHiXaQzGgx9RiwXnt3k239FLc.jpg",
+                "credit_id": "5f243dba6f31af003798add0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86881,
+                "known_for_department": "Acting",
+                "name": "Vivek Gomber",
+                "original_name": "Vivek Gomber",
+                "popularity": 2.666,
+                "profile_path": "/AbhN52mOpNVBjDgkCo1QlivPhig.jpg",
+                "credit_id": "5f21e1f356b9f700361b3e88",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1314293,
+                "known_for_department": "Sound",
+                "name": "Naren Chandavarkar",
+                "original_name": "Naren Chandavarkar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f45466b511d090037baed99",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1361809,
+                "known_for_department": "Directing",
+                "name": "Chaitanya Tamhane",
+                "original_name": "Chaitanya Tamhane",
+                "popularity": 0.921,
+                "profile_path": "/ebLzusAkvnPt9TfNtOhLYdjqiXY.jpg",
+                "credit_id": "5f2000114a2226003663c822",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1361809,
+                "known_for_department": "Directing",
+                "name": "Chaitanya Tamhane",
+                "original_name": "Chaitanya Tamhane",
+                "popularity": 0.921,
+                "profile_path": "/ebLzusAkvnPt9TfNtOhLYdjqiXY.jpg",
+                "credit_id": "5f45453aec370c0032512dc3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1361809,
+                "known_for_department": "Directing",
+                "name": "Chaitanya Tamhane",
+                "original_name": "Chaitanya Tamhane",
+                "popularity": 0.921,
+                "profile_path": "/ebLzusAkvnPt9TfNtOhLYdjqiXY.jpg",
+                "credit_id": "5f454619cee4810035a7f181",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1403376,
+                "known_for_department": "Camera",
+                "name": "Micha\u0142 Soboci\u0144ski",
+                "original_name": "Micha\u0142 Soboci\u0144ski",
+                "popularity": 0.6,
+                "profile_path": "/8ynCfcZRj8LLHDjFUaAUjCHK2HJ.jpg",
+                "credit_id": "5f454505ec370c0030512578",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1576985,
+                "known_for_department": "Production",
+                "name": "Rakesh Mehra",
+                "original_name": "Rakesh Mehra",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f4545551d01910033db717e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1893017,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sachin Lovalekar",
+                "original_name": "Sachin Lovalekar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f4fd34fde11e500340e0ccb",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2007867,
+                "known_for_department": "Sound",
+                "name": "Anita Kushwahar",
+                "original_name": "Anita Kushwahar",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f45465d1d01910033db73e0",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2754871,
+                "known_for_department": "Art",
+                "name": "Pooja Talreja",
+                "original_name": "Pooja Talreja",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f4545a39652200036522c5e",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2754879,
+                "known_for_department": "Art",
+                "name": "Ravin Karde",
+                "original_name": "Ravin Karde",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5f4545e768929c0036b2cf4c",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "#BIFF2020 A Window on Asian Cinema - The Disciple / \uc544\uc2dc\uc544 \uc601\ud654\uc758 \ucc3d - \uc218\uc5c5\uc2dc\ub300",
+                "key": "bjGnXnfGL5s",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2020-09-17T10:00:24.000Z",
+                "id": "5f6ab246688cd0003722e84c"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/lP0dbVqq7ux4OHvbwZ5FsYSx8Wa.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 904,
+                "iso_639_1": null,
+                "file_path": "/zn2itlUinS6E4oDUKDUp7dG4huu.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1607
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 896,
+                "iso_639_1": null,
+                "file_path": "/uyUvHmHgCHOkJVIqSaySueHTAoK.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1593
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1151,
+                "iso_639_1": null,
+                "file_path": "/tJfh24YX1ROCOFk8d1ewzYrLRte.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1151,
+                "iso_639_1": null,
+                "file_path": "/5EHyhbJPWnyX1ZCigE6VxqjFTUD.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1716,
+                "iso_639_1": null,
+                "file_path": "/2EzoQKtxU0rQOhtLbAs8yjG9DGt.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 3051
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/7uBpwsNNbpnERCnVSOHYV1n0CJC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2047
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 12.269,
+                "height": 104,
+                "iso_639_1": "en",
+                "file_path": "/OJC43wui528iyaCiKG1Ce8be9L.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1276
+            },
+            {
+                "aspect_ratio": 7.286,
+                "height": 175,
+                "iso_639_1": "en",
+                "file_path": "/a3mcXshzMupQlMXiixmeJaMpaMY.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1275
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/ecESTxoNwnFNNknJrflxnMMzD7v.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/u1eBrIMlHF4kUOMDoIssGdYhbOW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "The Disciple",
+    "year": "2020",
+    "rated": "TV-MA",
+    "director_list": [
+        "Chaitanya Tamhane"
+    ],
+    "writer_list": [
+        "Chaitanya Tamhane"
+    ],
+    "main_cast": [
+        "Aditya Modak",
+        " Arun Dravid",
+        " Sumitra Bhave"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "imdb_rating": "7.1",
+    "imdb_votes": "2,957",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Disciple",
+    "wikipedia_summary": "A disciple is a follower and student of a mentor, teacher, or other figure.  It can refer to:",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p>A <b>disciple</b> is a follower and student of a mentor, teacher, or other figure.  It can refer to:\n</p>\n\n<h2>Religion</h2>\n<ul><li>Disciple (Christianity), a student of Jesus Christ</li>\n<li>Twelve Apostles of Jesus, sometimes called the Twelve Disciples</li>\n<li>Seventy disciples in the Gospel of Luke</li>\n<li>Christian Church (Disciples of Christ), a Protestant denomination in North America descended from the Campbell movement</li>\n<li>Disciples of Christ (Campbell Movement), a Christian group that arose during the Second Great Awakening</li>\n<li>Disciples of `Abdu'l-Bah\u00e1, 19 Western Bah\u00e1'\u00eds</li>\n<li>The ten principal disciples of Buddha</li>\n<li>Disciples of Confucius</li>\n<li>Disciples of Jesus in Islam</li>\n<li>Student of Kriya Yoga, of direct lineage to Mahavatar Babaji</li>\n<li>Sahabah, the disciples of Muhammad</li>\n<li>Follower of Paramahansa Yogananda</li>\n<li>\u015aishya, the disciple in the Guru\u2013shishya tradition of Hinduism</li>\n<li><i>\u015ar\u0101vaka</i> (Sanskrit) or <i>savaka</i> (Pali), disciples in Buddhism and Jainism</li>\n<li>Tarmida ('disciple'), a junior priest in Mandaeism</li></ul>\n\n<h2>Books, games, and films</h2>\n<ul><li><i>Disciple</i> (film), a 2013 Finnish film</li>\n<li><i>Disciples</i> (film), a 2014 American horror film</li>\n<li>Disciple (Image Comics), a <i>Spawn</i> character</li>\n<li>The Disciples (Demonata), demon hunters in the Demonata novels by Darren Shan</li>\n<li><i>The Disciples</i> (novel) (1993), a spy novel by Joe Andrew</li>\n<li><i>Disciples: Sacred Lands</i>, a computer game published by Strategy First in 1999</li>\n<li><i>Disciples II: Dark Prophecy</i>, a computer game released in 2002</li>\n<li><i>Disciples III: Renaissance</i>,  a computer game released in 2010</li>\n<li><i>The Disciple</i> (2020 film), a 2020 Indian film</li></ul>\n\n<h2>Music</h2>\n<ul><li>Disciple (band), Christian metal band\n<ul><li><i>Disciple</i> (album), 2005 studio album by the band</li></ul></li>\n<li>The Disciples (band), a London reggae band</li>\n<li>Disciples (production team), British production trio</li>\n<li>xDISCIPLEx A.D., a Christian hardcore punk band</li>\n<li>\"Disciple\", a song by Nas on the album <i>Street's Disciple</i></li>\n<li>\"Disciple\", a song by Raven on the album <i>Architect of Fear</i></li>\n<li>\"Disciple\", a song by Slayer on the album <i>God Hates Us All</i></li>\n<li>\"Disciples\", a song by Tame Impala on the album <i>Currents</i></li></ul>\n\n<h2>Other</h2>\n<ul><li>The Disciple, the ring name of professional wrestler Brutus Beefcake</li>\n<li>Black Disciples, a street gang based in Chicago, Illinois</li>\n<li>Gangster Disciples, a street gang based in Chicago, Illinois</li></ul>\n\n<h2>See also</h2>\n<ul><li>Apostle (disambiguation)</li>\n<li>Disciples of Christ (disambiguation)</li></ul>"
+}

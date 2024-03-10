@@ -1,0 +1,518 @@
+{
+    "adult": false,
+    "backdrop_path": "/bf2qMkrj8Ifx97mQzFn1YS6h4uh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 29972,
+    "imdb_id": "tt1103963",
+    "original_language": "zh",
+    "original_title": "\u4e8c\u5341\u56db\u57ce\u8bb0",
+    "overview": "24 City chronicles the dramatic closing of a once-prosperous state-owned factory in Chengdu, southwest China and its conversion into a sprawling luxury apartment complex. Three generations, eight characters : old workers, factory executives and yuppies, their stories melt into the History of China.",
+    "popularity": 8.901,
+    "poster_path": "/qoVSdZNIWsKzK1gLl0bGFFLGOBg.jpg",
+    "production_companies": [
+        {
+            "id": 3407,
+            "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+            "name": "Shanghai Film Group",
+            "origin_country": "CN"
+        },
+        {
+            "id": 1079,
+            "logo_path": null,
+            "name": "Xstream Pictures",
+            "origin_country": "CN"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4667,
+            "logo_path": "/kW2HfJ2R3xBfXRW6jdevcSGavHT.png",
+            "name": "Bitters End",
+            "origin_country": "JP"
+        },
+        {
+            "id": 94949,
+            "logo_path": null,
+            "name": "China Resources",
+            "origin_country": ""
+        },
+        {
+            "id": 567,
+            "logo_path": null,
+            "name": "Office Kitano",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2008-09-27",
+    "revenue": 0,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "\u666e\u901a\u8bdd"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "24 City",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 47,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6720,
+                "known_for_department": "Acting",
+                "name": "Joan Chen",
+                "original_name": "Joan Chen",
+                "popularity": 15.028,
+                "profile_path": "/7uMTJpY8B2hufXqmlxJpaUPpcJi.jpg",
+                "cast_id": 11,
+                "character": "Xiao Hua",
+                "credit_id": "52fe4608c3a368484e07cfbf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105398,
+                "known_for_department": "Acting",
+                "name": "L\u00fc Liping",
+                "original_name": "L\u00fc Liping",
+                "popularity": 3.065,
+                "profile_path": "/rOXUN6qQ6p1KCIb2Lcpgh5ZORHw.jpg",
+                "cast_id": 12,
+                "character": "Hao Dali",
+                "credit_id": "52fe4608c3a368484e07cfc3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 24044,
+                "known_for_department": "Acting",
+                "name": "Zhao Tao",
+                "original_name": "Zhao Tao",
+                "popularity": 2.713,
+                "profile_path": "/dHcZ83DLBcWKxKHtVkTkBlS49fE.jpg",
+                "cast_id": 13,
+                "character": "Su Na",
+                "credit_id": "52fe4608c3a368484e07cfc7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 931172,
+                "known_for_department": "Acting",
+                "name": "Chen Jianbin",
+                "original_name": "Chen Jianbin",
+                "popularity": 7.306,
+                "profile_path": "/wvXLFIUvdSayQfrZot8ce0rorPl.jpg",
+                "cast_id": 14,
+                "character": "Song Wei-Dong",
+                "credit_id": "530b9454c3a368763500003f",
+                "order": 3
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24011,
+                "known_for_department": "Directing",
+                "name": "Jia Zhangke",
+                "original_name": "Jia Zhangke",
+                "popularity": 3.752,
+                "profile_path": "/ysDC1ugI5AibdnuCmelFfgPIRb2.jpg",
+                "credit_id": "52fe4608c3a368484e07cf85",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24011,
+                "known_for_department": "Directing",
+                "name": "Jia Zhangke",
+                "original_name": "Jia Zhangke",
+                "popularity": 3.752,
+                "profile_path": "/ysDC1ugI5AibdnuCmelFfgPIRb2.jpg",
+                "credit_id": "52fe4608c3a368484e07cfa3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24011,
+                "known_for_department": "Directing",
+                "name": "Jia Zhangke",
+                "original_name": "Jia Zhangke",
+                "popularity": 3.752,
+                "profile_path": "/ysDC1ugI5AibdnuCmelFfgPIRb2.jpg",
+                "credit_id": "52fe4608c3a368484e07cf8b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25471,
+                "known_for_department": "Camera",
+                "name": "Nelson Yu Lik-wai",
+                "original_name": "Nelson Yu Lik-wai",
+                "popularity": 3.063,
+                "profile_path": null,
+                "credit_id": "58936e7bc3a3684a22000485",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25472,
+                "known_for_department": "Sound",
+                "name": "Lim Giong",
+                "original_name": "Lim Giong",
+                "popularity": 1.553,
+                "profile_path": "/86K1ZzLANr8CtiyIEg2L4tkqwA4.jpg",
+                "credit_id": "52fe4608c3a368484e07cfbb",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27998,
+                "known_for_department": "Editing",
+                "name": "Kong Jinglei",
+                "original_name": "Kong Jinglei",
+                "popularity": 0.728,
+                "profile_path": "/qTFDr3GBKBf5HWP7HKzxw6wolx2.jpg",
+                "credit_id": "5e2eb0d1c56d2d001a4dcaf1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 73141,
+                "known_for_department": "Production",
+                "name": "Shozo Ichiyama",
+                "original_name": "Shozo Ichiyama",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe4608c3a368484e07cf9d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105393,
+                "known_for_department": "Writing",
+                "name": "Yongming Zhai",
+                "original_name": "Yongming Zhai",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "52fe4608c3a368484e07cf91",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 105394,
+                "known_for_department": "Production",
+                "name": "Chow Keung",
+                "original_name": "Chow Keung",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4608c3a368484e07cf97",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 105395,
+                "known_for_department": "Production",
+                "name": "Yong Tang",
+                "original_name": "Yong Tang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4608c3a368484e07cfa9",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105396,
+                "known_for_department": "Production",
+                "name": "Ren Zhonglun",
+                "original_name": "Ren Zhonglun",
+                "popularity": 1.847,
+                "profile_path": "/vvp3QT01fNWCBqrtU7VzhQZIeu2.jpg",
+                "credit_id": "52fe4608c3a368484e07cfaf",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105397,
+                "known_for_department": "Sound",
+                "name": "Yoshihiro Hanno",
+                "original_name": "Yoshihiro Hanno",
+                "popularity": 1.011,
+                "profile_path": null,
+                "credit_id": "52fe4608c3a368484e07cfb5",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 997118,
+                "known_for_department": "Camera",
+                "name": "Wang Yu",
+                "original_name": "Wang Yu",
+                "popularity": 1.008,
+                "profile_path": null,
+                "credit_id": "58936e709251417ed7000515",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1181008,
+                "known_for_department": "Sound",
+                "name": "Zhang Yang",
+                "original_name": "Zhang Yang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5e2eb08c4ca6760014492346",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1467697,
+                "known_for_department": "Art",
+                "name": "Liu Qiang",
+                "original_name": "Liu Qiang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5dc2b96fa9b9a400131bc794",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2072943,
+                "known_for_department": "Editing",
+                "name": "Lin Xudong",
+                "original_name": "Lin Xudong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5dc2b963470ead00138bdcfe",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2250468,
+                "known_for_department": "Production",
+                "name": "Wang Hong",
+                "original_name": "Wang Hong",
+                "popularity": 0.884,
+                "profile_path": null,
+                "credit_id": "643bcb9537806204bc15e6a1",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "24 CITY: Trailer",
+                "key": "34-aVx6Qa_8",
+                "published_at": "2009-02-26T20:50:11.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": false,
+                "id": "5aaa40a29251410570009e8b"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bf2qMkrj8Ifx97mQzFn1YS6h4uh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/qoVSdZNIWsKzK1gLl0bGFFLGOBg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/aJ81fiN3Eix6sZABc72QVdfr4h7.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/zAtPh6od2wiaarDxwnpXeD3IgKF.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1260,
+                "iso_639_1": "ko",
+                "file_path": "/47Lp5YXn0wcfXeqehzHpKxvj6dw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 945
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": null,
+                "file_path": "/e4sMgTgSwwui4Rl96o8hUmbvjrj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "zh",
+                "file_path": "/1YlRHL8hzRua6IkTA3U42f8B6Iw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1382,
+                "name": "factory"
+            },
+            {
+                "id": 478,
+                "name": "china"
+            },
+            {
+                "id": 1439,
+                "name": "flat"
+            },
+            {
+                "id": 9767,
+                "name": "beautiful woman"
+            }
+        ]
+    },
+    "title_english": "24 City",
+    "year": "2008",
+    "rated": "Not Rated",
+    "director_list": [
+        "Zhangke Jia"
+    ],
+    "writer_list": [
+        "Zhangke Jia",
+        " Yongming Zhai"
+    ],
+    "main_cast": [
+        "Jianbin Chen",
+        " Joan Chen",
+        " Liping L\u00fc"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "imdb_rating": "7.1",
+    "imdb_votes": "2,290",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/24_City",
+    "wikipedia_summary": "24 City (Chinese: \u4e8c\u5341\u56db\u57ce\u8bb0) is a 2008 Chinese film directed and co-written by Jia Zhangke. The film follows three generations of characters in Chengdu (in the 1950s, the 1970s and the present) as a state-owned factory gives way to a modern apartment complex. The film was also known as The Story of 24 City during production.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>24 City</b></i> (Chinese: <span lang=\"zh-Hans\">\u4e8c\u5341\u56db\u57ce\u8bb0</span>) is a 2008 Chinese film directed and co-written by Jia Zhangke. The film follows three generations of characters in Chengdu (in the 1950s, the 1970s and the present) as a state-owned factory gives way to a modern apartment complex. The film was also known as <i>The Story of 24 City</i> during production.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Production</h2>\n<p>The apartment complex featured in the film is an actual development (also called \"24 City\") built on the former site of an airplane engine manufacturing facility. Jia will also produce a documentary about the location.</p><p>The film's narrative style is described by critics as a blend of fictive and documentary story-telling, and it consists of authentic interviews and fictive scenes delivered by actors (but presented in a documentary format).</p>\n\n<h2>Release</h2>\n<p><i>24 City</i> made its debut shown in competition for the Palme d'Or at the 2008 Cannes Film Festival.  <i>Film Comment</i>, the official journal of the Film Society of Lincoln Center, listed the film at the end of 2008 as the second-best unreleased (without U.S. theatrical release) film of the year.</p>\n\n<h3>Reception</h3>\n<p>On Rotten Tomatoes, the film holds a 89% approval rating based on 44 reviews, with an average score of 7.4/10. The consensus reads, \"One of China's most talented directors blurs the lines between non-fiction, drama, and musical theater in this vivid portrait of a country in cultural flux.\" On Metacritic, the film has an average score of 75 out of 100, based on 11 reviews, indicating \"generally favorable reviews\".</p><p><i>The Hollywood Reporter</i> called the film a \"moving elegy to modern-day China\" and said of the film's documentary strain that it \"prevails to simple, yet emotionally reverberating effect\".</p><p><i>Time</i> also reviewed the film favorably: \"the film interweaves the political overview \u2014 of a city institution being torn down to be replaced by commercial and residential buildings \u2014 with personal anecdotes that are poignant and charming.\"</p><p><i>Screen International</i> states \"the latest chapter in Jia Zhangke's chronicles of modern Chinese history is certain to reinforce the director's status as an international arthouse icon.\"</p><p><i>The New York Times</i> film critic Manohla Dargis gave the film a rave and stated \"...the often amazing and intricately structured '24 City,' the latest from the Chinese director Jia Zhang-ke...shot in digital so sharp it looks hyper-real and projected digitally, the movie takes as its point of departure the closing of a state-owned munitions factory in southwest China... Mr. Jia is one of the most original filmmakers working today, creating movies about a country that seems like a sequel.\"</p><p>Anthony Kaufman of <i>IndieWire</i> praised the film and states \"Jia's masterful aesthetic remains consistent, mixing documentary and fiction with intriguing results.\"</p><p>J. Hoberman of the <i>Village Voice</i> described the film as \"so meaningfully framed that it could have been shot by Andy Warhol or Chantal Akerman\", and called the film as one of the stand-outs of this year's films in competition at the Cannes Film Festival.</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>24 City</i> at IMDb</li>\n<li><i>24 City</i> at AllMovie</li>\n<li><i>24 City</i> at 2008 Cannes Film Festival</li>\n<li><i>24 City</i> at the Chinese Movie Database</li>\n<li><i>24 City</i> at Rotten Tomatoes</li></ul>\n<!-- \nNewPP limit report\nParsed by mw1492\nCached time: 20231203064532\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.407 seconds\nReal time usage: 0.539 seconds\nPreprocessor visited node count: 2655/1000000\nPost\u2010expand include size: 57102/2097152 bytes\nTemplate argument size: 5111/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 51360/5000000 bytes\nLua time usage: 0.276/10.000 seconds\nLua memory usage: 25977680/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  502.663      1 -total\n 62.04%  311.873      3 Template:Infobox\n 36.93%  185.649      1 Template:Infobox_film\n 24.79%  124.586      1 Template:Infobox_Chinese/Chinese\n 24.59%  123.625      1 Template:Reflist\n 19.57%   98.358      2 Template:Lang\n 16.38%   82.335      8 Template:Cite_web\n 13.19%   66.277      1 Template:Jia_Zhangke\n 12.81%   64.398      1 Template:Navbox\n  9.56%   48.031      1 Template:Short_description\n-->"
+}

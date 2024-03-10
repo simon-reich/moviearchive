@@ -1,0 +1,3376 @@
+{
+    "adult": false,
+    "backdrop_path": "/AmO8I38bkHwKhgxPNrd6djBQyPU.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B07H9KG2PB",
+    "id": 361292,
+    "imdb_id": "tt1034415",
+    "original_language": "en",
+    "original_title": "Suspiria",
+    "overview": "Young American dancer Susie Bannion arrives in 1970s Berlin to audition for the world-renowned Helena Markos Dance Company. When she vaults to the role of lead dancer, the woman she replaces breaks down and accuses the company's female directors of witchcraft. Meanwhile, an inquisitive psychotherapist and a member of the troupe uncover dark and sinister secrets as they probe the depths of the studio's hidden underground chambers.",
+    "popularity": 20.837,
+    "poster_path": "/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
+    "production_companies": [
+        {
+            "id": 10989,
+            "logo_path": null,
+            "name": "Muskat Filmed Properties",
+            "origin_country": "US"
+        },
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 46344,
+            "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+            "name": "Frenesy Film",
+            "origin_country": "IT"
+        },
+        {
+            "id": 53085,
+            "logo_path": null,
+            "name": "First Sun",
+            "origin_country": "IT"
+        },
+        {
+            "id": 64061,
+            "logo_path": null,
+            "name": "MeMo Films",
+            "origin_country": "IT"
+        },
+        {
+            "id": 50498,
+            "logo_path": "/zTSRlzyDZX287q289qb4pghILyI.png",
+            "name": "K Period Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 34982,
+            "logo_path": "/uvTmiRZzNfG88dVXi9hQ7eFNirq.png",
+            "name": "Mythology Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 43906,
+            "logo_path": "/1L7GZUhSOgSOEHMeBA4hQro21ZK.png",
+            "name": "Vega Baby",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-10-11",
+    "revenue": 7900000,
+    "runtime": 152,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Give your soul to the dance.",
+    "title": "Suspiria",
+    "video": false,
+    "vote_average": 6.934,
+    "vote_count": 2318,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 118545,
+                "known_for_department": "Acting",
+                "name": "Dakota Johnson",
+                "original_name": "Dakota Johnson",
+                "popularity": 39.551,
+                "profile_path": "/8eJeDm5ILi5W25X2uatVRtWMDg2.jpg",
+                "cast_id": 3,
+                "character": "Susie Bannion / Naomi Bannion",
+                "credit_id": "574cc5c0c3a36812f00000f4",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3063,
+                "known_for_department": "Acting",
+                "name": "Tilda Swinton",
+                "original_name": "Tilda Swinton",
+                "popularity": 21.102,
+                "profile_path": "/gWbX3a7V2MgRMRzekfITNcb27xV.jpg",
+                "cast_id": 2,
+                "character": "Madame Blanc / Helena Markos / Dr. Klemperer",
+                "credit_id": "574cc5b5c3a36812e70000c0",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1137824,
+                "known_for_department": "Acting",
+                "name": "Mia Goth",
+                "original_name": "Mia Goth",
+                "popularity": 67.788,
+                "profile_path": "/jlxfhuAiNpPEAsyswSfY3njn36m.jpg",
+                "cast_id": 5,
+                "character": "Sara Simms",
+                "credit_id": "57f43523925141398a0012c9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10255,
+                "known_for_department": "Acting",
+                "name": "Angela Winkler",
+                "original_name": "Angela Winkler",
+                "popularity": 5.304,
+                "profile_path": "/vX2MuzSTmhxx1uWrplsUP6aXaV6.jpg",
+                "cast_id": 8,
+                "character": "Miss Tanner",
+                "credit_id": "57f746e5c3a3683aff0003ec",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 45195,
+                "known_for_department": "Acting",
+                "name": "Ingrid Caven",
+                "original_name": "Ingrid Caven",
+                "popularity": 4.233,
+                "profile_path": "/tAZHoIEmv0ES4lnDIXjEobKluuX.jpg",
+                "cast_id": 10,
+                "character": "Miss Vendegast",
+                "credit_id": "58bd0fa6c3a36866860426e4",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 56734,
+                "known_for_department": "Acting",
+                "name": "Chlo\u00eb Grace Moretz",
+                "original_name": "Chlo\u00eb Grace Moretz",
+                "popularity": 38.13,
+                "profile_path": "/cfI3GcUFyzAmNINzwO7bdxIIf1H.jpg",
+                "cast_id": 4,
+                "character": "Patricia Hingle",
+                "credit_id": "57f43514c3a3683b7b002343",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1314208,
+                "known_for_department": "Acting",
+                "name": "Elena Fokina",
+                "original_name": "Elena Fokina",
+                "popularity": 1.286,
+                "profile_path": "/4zUuPhXJqgTYSMCPLlni4TP6kkc.jpg",
+                "cast_id": 33,
+                "character": "Olga Ivanova",
+                "credit_id": "5b164e3b925141786e013d11",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4529,
+                "known_for_department": "Acting",
+                "name": "Sylvie Testud",
+                "original_name": "Sylvie Testud",
+                "popularity": 4.193,
+                "profile_path": "/yafOAmaZkJ8BOEWLoQcWJVx2EYT.jpg",
+                "cast_id": 6,
+                "character": "Miss Griffith",
+                "credit_id": "57f4353bc3a36805ac001241",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 66188,
+                "known_for_department": "Acting",
+                "name": "Ren\u00e9e Soutendijk",
+                "original_name": "Ren\u00e9e Soutendijk",
+                "popularity": 3.355,
+                "profile_path": "/3tNFGRfh0duFGbQgM65vAlDebHG.jpg",
+                "cast_id": 29,
+                "character": "Miss Huller",
+                "credit_id": "5a6a005c9251417763000040",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1520917,
+                "known_for_department": "Acting",
+                "name": "Christine Leboutte",
+                "original_name": "Christine Leboutte",
+                "popularity": 1.073,
+                "profile_path": "/6N209XIWkVU378o4o2n06YDjGfK.jpg",
+                "cast_id": 35,
+                "character": "Miss Balfour",
+                "credit_id": "5b164e49925141782b011231",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 138047,
+                "known_for_department": "Acting",
+                "name": "Ma\u0142gorzata Bela",
+                "original_name": "Ma\u0142gorzata Bela",
+                "popularity": 1.736,
+                "profile_path": "/f2chToPuJYm7wGBl1QYcDV4pvhd.jpg",
+                "cast_id": 9,
+                "character": "Susie's Mother / Death",
+                "credit_id": "57f746efc3a3683ae4000376",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 67174,
+                "known_for_department": "Acting",
+                "name": "Fabrizia Sacchi",
+                "original_name": "Fabrizia Sacchi",
+                "popularity": 2.627,
+                "profile_path": "/z0lEGHkIo5cmUyatrq7C4lCjk2z.jpg",
+                "cast_id": 32,
+                "character": "Pavla",
+                "credit_id": "5b164e34925141789c013258",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 69055,
+                "known_for_department": "Acting",
+                "name": "Jessica Harper",
+                "original_name": "Jessica Harper",
+                "popularity": 4.695,
+                "profile_path": "/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg",
+                "cast_id": 7,
+                "character": "Anke Meier",
+                "credit_id": "57f746d3c3a3683b2b000450",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174771,
+                "known_for_department": "Acting",
+                "name": "Jessica Batut",
+                "original_name": "Jessica Batut",
+                "popularity": 1.4,
+                "profile_path": "/xx7LpynFTL8OqEJhZlbSTUVelU6.jpg",
+                "cast_id": 109,
+                "character": "Miss Mandel",
+                "credit_id": "5beabf5c92514143db04f4af",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1229590,
+                "known_for_department": "Acting",
+                "name": "Alek Wek",
+                "original_name": "Alek Wek",
+                "popularity": 1.582,
+                "profile_path": "/458t5004taXZJNTijUMuzut6Svz.jpg",
+                "cast_id": 82,
+                "character": "Miss Millius",
+                "credit_id": "5b8d147b0e0a261d700487ed",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1871540,
+                "known_for_department": "Acting",
+                "name": "Vincenza Modica",
+                "original_name": "Vincenza Modica",
+                "popularity": 1.62,
+                "profile_path": "/xznKlMpS8Nzali62ykANXTzF2lM.jpg",
+                "cast_id": 86,
+                "character": "Miss Marks",
+                "credit_id": "5beaba0e92514143ea05246d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1789600,
+                "known_for_department": "Acting",
+                "name": "Vanda Capriolo",
+                "original_name": "Vanda Capriolo",
+                "popularity": 1.435,
+                "profile_path": "/fg1XHgXBKnvtLzYu4V6zo49MtzU.jpg",
+                "cast_id": 30,
+                "character": "Alberta",
+                "credit_id": "5b1628ed0e0a262de5012f60",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2039736,
+                "known_for_department": "Acting",
+                "name": "Brigitte Cuvelier",
+                "original_name": "Brigitte Cuvelier",
+                "popularity": 1.22,
+                "profile_path": "/15ui2I03vN8YBUbQ3tVO6mgS4p6.jpg",
+                "cast_id": 85,
+                "character": "Miss Kaplitt",
+                "credit_id": "5beab9c6c3a368174a0525ca",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174756,
+                "known_for_department": "Acting",
+                "name": "Gala Moody",
+                "original_name": "Gala Moody",
+                "popularity": 1.427,
+                "profile_path": "/ttwaSBeqVBLA3W07oV0sM7TkqpO.jpg",
+                "cast_id": 98,
+                "character": "Caroline",
+                "credit_id": "5beabd91c3a3681742055f45",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174754,
+                "known_for_department": "Acting",
+                "name": "Anne-Lise Brevers",
+                "original_name": "Anne-Lise Brevers",
+                "popularity": 1.38,
+                "profile_path": "/r3zTh4RIGjFwKkrIp5ABmMbQz1M.jpg",
+                "cast_id": 96,
+                "character": "Sonia",
+                "credit_id": "5beabcfa0e0a263c0005469c",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174757,
+                "known_for_department": "Acting",
+                "name": "Sara Sguotti",
+                "original_name": "Sara Sguotti",
+                "popularity": 0.98,
+                "profile_path": "/pnz3dt5L6Nj82Iwb052wM7bzOp6.jpg",
+                "cast_id": 99,
+                "character": "Doll",
+                "credit_id": "5beabda00e0a263bf5054ce9",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174758,
+                "known_for_department": "Acting",
+                "name": "Halla Thordardottir",
+                "original_name": "Halla Thordardottir",
+                "popularity": 1.38,
+                "profile_path": "/7xbQEDgDZLV0qZfBJ0nMsjWXEkk.jpg",
+                "cast_id": 100,
+                "character": "Mascia",
+                "credit_id": "5beabdb092514143e604facc",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057953,
+                "known_for_department": "Acting",
+                "name": "Olivia Ancona",
+                "original_name": "Olivia Ancona",
+                "popularity": 0.6,
+                "profile_path": "/57oIWpeLJGhR3wt4vYtLc5tAhxS.jpg",
+                "cast_id": 34,
+                "character": "Marketa",
+                "credit_id": "5b164e430e0a262dca0156c4",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174739,
+                "known_for_department": "Acting",
+                "name": "Marjolaine Uscotti",
+                "original_name": "Marjolaine Uscotti",
+                "popularity": 1.4,
+                "profile_path": "/318VROCt113dsiNgRCqC6aK4LFK.jpg",
+                "cast_id": 87,
+                "character": "Miss Daniels",
+                "credit_id": "5beaba2292514143e604f811",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174747,
+                "known_for_department": "Acting",
+                "name": "Sharon Campbell",
+                "original_name": "Sharon Campbell",
+                "popularity": 1.03,
+                "profile_path": null,
+                "cast_id": 91,
+                "character": "Miss Martincin",
+                "credit_id": "5beababec3a3681730055a8d",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174743,
+                "known_for_department": "Acting",
+                "name": "Elfriede Hock",
+                "original_name": "Elfriede Hock",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 90,
+                "character": "Miss Mauceri",
+                "credit_id": "5beaba81c3a3681742055cad",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174755,
+                "known_for_department": "Acting",
+                "name": "Iaia Ferri",
+                "original_name": "Iaia Ferri",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 97,
+                "character": "Judith",
+                "credit_id": "5beabd5c9251415828040f6a",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174749,
+                "known_for_department": "Acting",
+                "name": "Cl\u00e9mentine Houdart",
+                "original_name": "Cl\u00e9mentine Houdart",
+                "popularity": 1.38,
+                "profile_path": "/qUvADFBRktj3I9sh7qjLm9NbagB.jpg",
+                "cast_id": 92,
+                "character": "Miss Boutaher",
+                "credit_id": "5beabafe0e0a263bf305367e",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1988363,
+                "known_for_department": "Sound",
+                "name": "Charo Calvo",
+                "original_name": "Charo Calvo",
+                "popularity": 0.986,
+                "profile_path": null,
+                "cast_id": 88,
+                "character": "Miss Killen",
+                "credit_id": "5beaba5092514143e204f018",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174759,
+                "known_for_department": "Acting",
+                "name": "Stephanie McMann",
+                "original_name": "Stephanie McMann",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 101,
+                "character": "Siobhan",
+                "credit_id": "5beabdbc92514143e204f302",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174752,
+                "known_for_department": "Acting",
+                "name": "Majon van der Schot",
+                "original_name": "Majon van der Schot",
+                "popularity": 1.38,
+                "profile_path": "/qVKVEeeymQyTJErCDluwAu6ba8y.jpg",
+                "cast_id": 95,
+                "character": "Janine",
+                "credit_id": "5beabb9092514143f2053120",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174760,
+                "known_for_department": "Acting",
+                "name": "Maria Bregianni",
+                "original_name": "Maria Bregianni",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 102,
+                "character": "Sadie",
+                "credit_id": "5beabdc692514143ea052754",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174761,
+                "known_for_department": "Acting",
+                "name": "Josepha Madoki",
+                "original_name": "Josepha Madoki",
+                "popularity": 1.388,
+                "profile_path": "/tRtRZUqZLggcPRAoYCjO5ApcsJp.jpg",
+                "cast_id": 103,
+                "character": "Liza Jane",
+                "credit_id": "5beabdd4c3a368173d05e277",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174762,
+                "known_for_department": "Acting",
+                "name": "Navala Chaudhari",
+                "original_name": "Navala Chaudhari",
+                "popularity": 1.38,
+                "profile_path": "/dh5gsnMeaWYA4NqJ8PlTazOdr1Z.jpg",
+                "cast_id": 104,
+                "character": "Marianne",
+                "credit_id": "5beabdf50e0a263c0a054d1a",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174763,
+                "known_for_department": "Acting",
+                "name": "Karina El Amrani",
+                "original_name": "Karina El Amrani",
+                "popularity": 2.644,
+                "profile_path": null,
+                "cast_id": 105,
+                "character": "Hermione",
+                "credit_id": "5beabe050e0a263bf8055d7a",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 224158,
+                "known_for_department": "Acting",
+                "name": "Doris Hick",
+                "original_name": "Doris Hick",
+                "popularity": 2.362,
+                "profile_path": null,
+                "cast_id": 108,
+                "character": "Frau Sesame",
+                "credit_id": "5beabf19c3a36876cf023c2c",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2174751,
+                "known_for_department": "Acting",
+                "name": "Mikael Olsson",
+                "original_name": "Mikael Olsson",
+                "popularity": 0.6,
+                "profile_path": "/lSyOavomQwO6PntgLRGTuV0Fcmj.jpg",
+                "cast_id": 93,
+                "character": "Agent Glockner",
+                "credit_id": "5beabb28c3a368173a055ed4",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 591878,
+                "known_for_department": "Camera",
+                "name": "Fred Kelemen",
+                "original_name": "Fred Kelemen",
+                "popularity": 1.4,
+                "profile_path": "/qBcX8xfAHifClU7IjQMRmaAMEXU.jpg",
+                "cast_id": 94,
+                "character": "Agent Albrecht",
+                "credit_id": "5beabb3a92514143e604f909",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1570004,
+                "known_for_department": "Acting",
+                "name": "Greta Bohacek",
+                "original_name": "Greta Bohacek",
+                "popularity": 6.699,
+                "profile_path": "/KdXP13Di2pfY53djW1Uzlq7Czh.jpg",
+                "cast_id": 106,
+                "character": "Young Susie",
+                "credit_id": "5beabeaac3a368173a056237",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2174768,
+                "known_for_department": "Acting",
+                "name": "Joel-Dennis Bienstock",
+                "original_name": "Joel-Dennis Bienstock",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 107,
+                "character": "Mennonite Priest",
+                "credit_id": "5beabed892514143f504ef3f",
+                "order": 39
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 1761936,
+                "known_for_department": "Acting",
+                "name": "Toby Ashraf",
+                "original_name": "Toby Ashraf",
+                "popularity": 1.4,
+                "profile_path": "/v0NIXx8FFw8NSDvQemmfSKAqTHf.jpg",
+                "cast_id": 122,
+                "character": "Student at Backyard (uncredited)",
+                "credit_id": "5e1058096f43ec00145a17d9",
+                "order": 40
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2952,
+                "known_for_department": "Production",
+                "name": "Avy Kaufman",
+                "original_name": "Avy Kaufman",
+                "popularity": 3.146,
+                "profile_path": null,
+                "credit_id": "5b1650600e0a262dc7014d7e",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4955,
+                "known_for_department": "Directing",
+                "name": "Dario Argento",
+                "original_name": "Dario Argento",
+                "popularity": 8.826,
+                "profile_path": "/2WjQlcLxhvmO9NtCfNh2npMVYqp.jpg",
+                "credit_id": "5bf662fe9251415cc80c15e5",
+                "department": "Writing",
+                "job": "Original Film Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20204,
+                "known_for_department": "Writing",
+                "name": "James Vanderbilt",
+                "original_name": "James Vanderbilt",
+                "popularity": 10.587,
+                "profile_path": "/pg4kZ7a3GDoSqmuF8Tmw4jw5L6N.jpg",
+                "credit_id": "5b164f0892514178420135c2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20208,
+                "known_for_department": "Production",
+                "name": "Brad Fischer",
+                "original_name": "Brad Fischer",
+                "popularity": 4.095,
+                "profile_path": "/xJbGB0pDWKc4tniAQpFxhL7xLyT.jpg",
+                "credit_id": "5b164eab0e0a262dd9014fb2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39725,
+                "known_for_department": "Writing",
+                "name": "David Kajganich",
+                "original_name": "David Kajganich",
+                "popularity": 2.076,
+                "profile_path": "/claUYE6NYS4dtjU3cB86VJ4jhAj.jpg",
+                "credit_id": "5a0691fcc3a36878bd00a071",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39725,
+                "known_for_department": "Writing",
+                "name": "David Kajganich",
+                "original_name": "David Kajganich",
+                "popularity": 2.076,
+                "profile_path": "/claUYE6NYS4dtjU3cB86VJ4jhAj.jpg",
+                "credit_id": "5b164eb5c3a36853400189ca",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44959,
+                "known_for_department": "Acting",
+                "name": "Daria Nicolodi",
+                "original_name": "Daria Nicolodi",
+                "popularity": 3.608,
+                "profile_path": "/7BeyE9kpWZ6SuwR0onXLvteKRXW.jpg",
+                "credit_id": "5bf8aa1dc3a36813a600318d",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44959,
+                "known_for_department": "Acting",
+                "name": "Daria Nicolodi",
+                "original_name": "Daria Nicolodi",
+                "popularity": 3.608,
+                "profile_path": "/7BeyE9kpWZ6SuwR0onXLvteKRXW.jpg",
+                "credit_id": "5be432dec3a36810ca03008f",
+                "department": "Writing",
+                "job": "Original Film Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54110,
+                "known_for_department": "Sound",
+                "name": "Frank Kruse",
+                "original_name": "Frank Kruse",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5bf6619cc3a36818ae0c2dec",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54110,
+                "known_for_department": "Sound",
+                "name": "Frank Kruse",
+                "original_name": "Frank Kruse",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5bf661909251417c1d05914b",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54963,
+                "known_for_department": "Sound",
+                "name": "Lars Ginzel",
+                "original_name": "Lars Ginzel",
+                "popularity": 1.551,
+                "profile_path": null,
+                "credit_id": "5bf6620d9251415ccc0c0a55",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61122,
+                "known_for_department": "Production",
+                "name": "William Sherak",
+                "original_name": "William Sherak",
+                "popularity": 3.207,
+                "profile_path": "/lOh6jL1NKoCbaNZgRF0VMkwT0xb.jpg",
+                "credit_id": "5b164ee3925141784e012ec2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70885,
+                "known_for_department": "Writing",
+                "name": "Thomas De Quincey",
+                "original_name": "Thomas De Quincey",
+                "popularity": 0.77,
+                "profile_path": null,
+                "credit_id": "6460440fa67254018587c0d5",
+                "department": "Writing",
+                "job": "Original Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74336,
+                "known_for_department": "Acting",
+                "name": "Thom Yorke",
+                "original_name": "Thom Yorke",
+                "popularity": 3.228,
+                "profile_path": "/kVBSJNIMqQCMIkA84ENSz2YMhKj.jpg",
+                "credit_id": "5a06920f92514113f200956c",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74336,
+                "known_for_department": "Acting",
+                "name": "Thom Yorke",
+                "original_name": "Thom Yorke",
+                "popularity": 3.228,
+                "profile_path": "/kVBSJNIMqQCMIkA84ENSz2YMhKj.jpg",
+                "credit_id": "5b164f2292514178420135ca",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78160,
+                "known_for_department": "Directing",
+                "name": "Luca Guadagnino",
+                "original_name": "Luca Guadagnino",
+                "popularity": 4.288,
+                "profile_path": "/lO2GD4s6fRloZLEhsZgBlhJQasE.jpg",
+                "credit_id": "56041b4b92514111720020bd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78160,
+                "known_for_department": "Directing",
+                "name": "Luca Guadagnino",
+                "original_name": "Luca Guadagnino",
+                "popularity": 4.288,
+                "profile_path": "/lO2GD4s6fRloZLEhsZgBlhJQasE.jpg",
+                "credit_id": "5a69ff629251414a25013d1a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84258,
+                "known_for_department": "Editing",
+                "name": "Walter Fasano",
+                "original_name": "Walter Fasano",
+                "popularity": 3.594,
+                "profile_path": "/4GKmfdJoZXXFDBmC3YgaWzdz59X.jpg",
+                "credit_id": "5a06924292514114030096da",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91311,
+                "known_for_department": "Production",
+                "name": "Stefano Spadoni",
+                "original_name": "Stefano Spadoni",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5b164eeb925141786e013d71",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 117213,
+                "known_for_department": "Art",
+                "name": "Simon Webber",
+                "original_name": "Simon Webber",
+                "popularity": 1.479,
+                "profile_path": null,
+                "credit_id": "5b1650280e0a262dca015b62",
+                "department": "Art",
+                "job": "Concept Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 124697,
+                "known_for_department": "Sound",
+                "name": "Markus Stemler",
+                "original_name": "Markus Stemler",
+                "popularity": 1.302,
+                "profile_path": null,
+                "credit_id": "5bf6622f9251412f3505ba27",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 239885,
+                "known_for_department": "Crew",
+                "name": "Franco Ragusa",
+                "original_name": "Franco Ragusa",
+                "popularity": 1.453,
+                "profile_path": null,
+                "credit_id": "5b165051925141782b011324",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 470995,
+                "known_for_department": "Camera",
+                "name": "Sayombhu Mukdeeprom",
+                "original_name": "Sayombhu Mukdeeprom",
+                "popularity": 2.283,
+                "profile_path": "/61V3lEBQUTJt11zofaCjGzzHXle.jpg",
+                "credit_id": "5a06922c92514113ec0095ce",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1110466,
+                "known_for_department": "Production",
+                "name": "Marco Morabito",
+                "original_name": "Marco Morabito",
+                "popularity": 0.98,
+                "profile_path": "/gLQusGPXo5gYmZlpQPxXCYRu1Xx.jpg",
+                "credit_id": "5b164ec70e0a262de2014d8f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1145972,
+                "known_for_department": "Art",
+                "name": "Merissa Lombardo",
+                "original_name": "Merissa Lombardo",
+                "popularity": 0.716,
+                "profile_path": null,
+                "credit_id": "5b164f66c3a3685358017be5",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1186326,
+                "known_for_department": "Production",
+                "name": "Paul Deason",
+                "original_name": "Paul Deason",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5a69ff389251414a2b013d92",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1193617,
+                "known_for_department": "Art",
+                "name": "Inbal Weinberg",
+                "original_name": "Inbal Weinberg",
+                "popularity": 1.166,
+                "profile_path": "/6vXjNLJJLjCnkd1IEMjuH92zVFT.jpg",
+                "credit_id": "5a69ffa40e0a260d740148fd",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1281188,
+                "known_for_department": "Directing",
+                "name": "Tiziana Kinkela",
+                "original_name": "Tiziana Kinkela",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "64d33cdfd100b600ff08793b",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1318470,
+                "known_for_department": "Directing",
+                "name": "Ferdinando Cito Filomarino",
+                "original_name": "Ferdinando Cito Filomarino",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "64d33b45dd926a01e896f218",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1334421,
+                "known_for_department": "Production",
+                "name": "Stella Savino",
+                "original_name": "Stella Savino",
+                "popularity": 1.228,
+                "profile_path": null,
+                "credit_id": "5b164ed9c3a368533a010293",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1334421,
+                "known_for_department": "Production",
+                "name": "Stella Savino",
+                "original_name": "Stella Savino",
+                "popularity": 1.228,
+                "profile_path": null,
+                "credit_id": "5a69ff989251414a22013f66",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1356638,
+                "known_for_department": "Sound",
+                "name": "Thomas Diesel",
+                "original_name": "Thomas Diesel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bf6627b9251415cc10c148a",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1403422,
+                "known_for_department": "Crew",
+                "name": "Brooke Ensign",
+                "original_name": "Brooke Ensign",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1651859251417842013a89",
+                "department": "Crew",
+                "job": "Unit Publicist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1404208,
+                "known_for_department": "Art",
+                "name": "Monica Sallustio",
+                "original_name": "Monica Sallustio",
+                "popularity": 1.196,
+                "profile_path": null,
+                "credit_id": "5a69ffbe0e0a260d670155b0",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1411064,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joe Hopker",
+                "original_name": "Joe Hopker",
+                "popularity": 1.694,
+                "profile_path": null,
+                "credit_id": "5b164fac0e0a262de2014e17",
+                "department": "Costume & Make-Up",
+                "job": "Hairdresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1411325,
+                "known_for_department": "Directing",
+                "name": "Rickie-Lee Roberts",
+                "original_name": "Rickie-Lee Roberts",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64d33aa7db4ed600c55ed054",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1444970,
+                "known_for_department": "Directing",
+                "name": "Rachel Griffiths",
+                "original_name": "Rachel Griffiths",
+                "popularity": 3.407,
+                "profile_path": null,
+                "credit_id": "5b16517b925141783b0157a5",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1482130,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Manolo Garc\u00eda",
+                "original_name": "Manolo Garc\u00eda",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5eccf7fb19690c001c70707b",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1486641,
+                "known_for_department": "Directing",
+                "name": "Katharina Dietl",
+                "original_name": "Katharina Dietl",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "64d33c9fd100b600c5cefc68",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1532396,
+                "known_for_department": "Sound",
+                "name": "Robin Urdang",
+                "original_name": "Robin Urdang",
+                "popularity": 1.15,
+                "profile_path": null,
+                "credit_id": "5b1650b10e0a262dd6013de2",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1539417,
+                "known_for_department": "Production",
+                "name": "Katie Bullock-Webster",
+                "original_name": "Katie Bullock-Webster",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5a69fffec3a3685a8a014098",
+                "department": "Crew",
+                "job": "Post Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1546748,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marco Alzari",
+                "original_name": "Marco Alzari",
+                "popularity": 2.285,
+                "profile_path": null,
+                "credit_id": "5b1650690e0a262dee015429",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1574476,
+                "known_for_department": "Visual Effects",
+                "name": "Virginia Cefaly",
+                "original_name": "Virginia Cefaly",
+                "popularity": 0.972,
+                "profile_path": null,
+                "credit_id": "5bf6608ac3a368189f0d3953",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1574481,
+                "known_for_department": "Visual Effects",
+                "name": "Luca Saviotti",
+                "original_name": "Luca Saviotti",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5bf661440e0a264f6e06472a",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1586124,
+                "known_for_department": "Art",
+                "name": "Merlin Ortner",
+                "original_name": "Merlin Ortner",
+                "popularity": 1.266,
+                "profile_path": null,
+                "credit_id": "5a69ffb10e0a260d64015171",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1586126,
+                "known_for_department": "Art",
+                "name": "Christin Busse",
+                "original_name": "Christin Busse",
+                "popularity": 1.642,
+                "profile_path": null,
+                "credit_id": "5b164f5dc3a36853300191d6",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1589763,
+                "known_for_department": "Acting",
+                "name": "Carlo Antonelli",
+                "original_name": "Carlo Antonelli",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b164e7f925141789101336b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1597798,
+                "known_for_department": "Production",
+                "name": "Massimiliano Violante",
+                "original_name": "Massimiliano Violante",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "5b164f1ac3a368534f0144e4",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1600000,
+                "known_for_department": "Sound",
+                "name": "Miroslav Babi\u0107",
+                "original_name": "Miroslav Babi\u0107",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5a6a0036c3a3680eb7000016",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1600000,
+                "known_for_department": "Sound",
+                "name": "Miroslav Babi\u0107",
+                "original_name": "Miroslav Babi\u0107",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5bf6628cc3a368637506158e",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1626340,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giulia Piersanti",
+                "original_name": "Giulia Piersanti",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b164f6f9251417888010052",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1643963,
+                "known_for_department": "Production",
+                "name": "Michael Frenschkowski",
+                "original_name": "Michael Frenschkowski",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5a69ff4c9251414a19014475",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1648134,
+                "known_for_department": "Art",
+                "name": "Dan Perri",
+                "original_name": "Dan Perri",
+                "popularity": 0.812,
+                "profile_path": null,
+                "credit_id": "5b16513f925141782900f917",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1717424,
+                "known_for_department": "Production",
+                "name": "Natalie Galazka",
+                "original_name": "Natalie Galazka",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "5b164e960e0a262dd30134e2",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1737364,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Hannah Scott",
+                "original_name": "Hannah Scott",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5b1650070e0a262dc7014d4b",
+                "department": "Costume & Make-Up",
+                "job": "Wigmaker"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1789614,
+                "known_for_department": "Crew",
+                "name": "Sacha Guttenstein",
+                "original_name": "Sacha Guttenstein",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5b16503a925141782900f8a8",
+                "department": "Crew",
+                "job": "Post Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1789617,
+                "known_for_department": "Directing",
+                "name": "Riccardo Zurla",
+                "original_name": "Riccardo Zurla",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64d33abf03726400fffc6c4a",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1811287,
+                "known_for_department": "Crew",
+                "name": "Damien Jalet",
+                "original_name": "Damien Jalet",
+                "popularity": 0.98,
+                "profile_path": "/ySTHr5O2siCy7tSlm4rw1qQ2B6r.jpg",
+                "credit_id": "5b165163925141783b015796",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2019164,
+                "known_for_department": "Camera",
+                "name": "Simone Barbona",
+                "original_name": "Simone Barbona",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "63b09dc7be4b3600828309a3",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057953,
+                "known_for_department": "Acting",
+                "name": "Olivia Ancona",
+                "original_name": "Olivia Ancona",
+                "popularity": 0.6,
+                "profile_path": "/57oIWpeLJGhR3wt4vYtLc5tAhxS.jpg",
+                "credit_id": "5b1650da0e0a262de5014568",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057954,
+                "known_for_department": "Production",
+                "name": "Francesco Melzi d'Eril",
+                "original_name": "Francesco Melzi d'Eril",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b164ebe0e0a262dd0014e9c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057955,
+                "known_for_department": "Production",
+                "name": "Gabriele Moratti",
+                "original_name": "Gabriele Moratti",
+                "popularity": 0.651,
+                "profile_path": null,
+                "credit_id": "5b164ecf0e0a262ddc01315f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057957,
+                "known_for_department": "Production",
+                "name": "Silvia Venturini Fendi",
+                "original_name": "Silvia Venturini Fendi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b164f10925141782900f4be",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057960,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sonia Cedrone",
+                "original_name": "Sonia Cedrone",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5b164f7d925141783b0156a1",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057961,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lydia De Martin",
+                "original_name": "Lydia De Martin",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5b164f870e0a262ddf016009",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057962,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Agnese Colotti",
+                "original_name": "Agnese Colotti",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5b164f9192514178910133fc",
+                "department": "Costume & Make-Up",
+                "job": "Additional Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057963,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Andrea Eusebi",
+                "original_name": "Andrea Eusebi",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5b164f980e0a262ddf01601b",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057964,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Elisabetta Flotta",
+                "original_name": "Elisabetta Flotta",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b164fa1925141784e012f42",
+                "department": "Costume & Make-Up",
+                "job": "Additional Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057965,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Frieda Basso Boccabella",
+                "original_name": "Frieda Basso Boccabella",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1650720e0a262de2014e6f",
+                "department": "Costume & Make-Up",
+                "job": "Key Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057967,
+                "known_for_department": "Production",
+                "name": "Chiara Brambilla",
+                "original_name": "Chiara Brambilla",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5b165083c3a368535201712a",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057968,
+                "known_for_department": "Art",
+                "name": "Liliana Liberanome",
+                "original_name": "Liliana Liberanome",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5b16508d0e0a262dea013b3e",
+                "department": "Art",
+                "job": "Location Scout"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057969,
+                "known_for_department": "Production",
+                "name": "Matteo Canalis Wandel",
+                "original_name": "Matteo Canalis Wandel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b165097c3a368535d01a436",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057971,
+                "known_for_department": "Production",
+                "name": "Benjamin Walters",
+                "original_name": "Benjamin Walters",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1650ebc3a368534c010e62",
+                "department": "Production",
+                "job": "Researcher"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057973,
+                "known_for_department": "Crew",
+                "name": "Ernestine Kahn",
+                "original_name": "Ernestine Kahn",
+                "popularity": 1.58,
+                "profile_path": null,
+                "credit_id": "5b1651550e0a262dca015c10",
+                "department": "Crew",
+                "job": "Dialect Coach"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057973,
+                "known_for_department": "Crew",
+                "name": "Ernestine Kahn",
+                "original_name": "Ernestine Kahn",
+                "popularity": 1.58,
+                "profile_path": null,
+                "credit_id": "5b16514cc3a368535d01a4d7",
+                "department": "Crew",
+                "job": "Dialogue Coach"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057975,
+                "known_for_department": "Production",
+                "name": "Sarah Dombrink",
+                "original_name": "Sarah Dombrink",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5b16518d925141783b0157c4",
+                "department": "Production",
+                "job": "Researcher"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057976,
+                "known_for_department": "Crew",
+                "name": "Martina Campagna",
+                "original_name": "Martina Campagna",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b16519e0e0a262ddf01613a",
+                "department": "Crew",
+                "job": "Assistant Script"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2180408,
+                "known_for_department": "Crew",
+                "name": "Alessio Franco",
+                "original_name": "Alessio Franco",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5bf660ea0e0a26266f0ca749",
+                "department": "Crew",
+                "job": "Visual Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2180409,
+                "known_for_department": "Visual Effects",
+                "name": "Maria D'Agostini",
+                "original_name": "Maria D'Agostini",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5bf661649251415cd10c4d85",
+                "department": "Visual Effects",
+                "job": "Visual Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2202204,
+                "known_for_department": "Directing",
+                "name": "Dennis Becker",
+                "original_name": "Dennis Becker",
+                "popularity": 1.105,
+                "profile_path": null,
+                "credit_id": "64d33ae203726400fffc6c69",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215986,
+                "known_for_department": "Lighting",
+                "name": "Matteo Attolini",
+                "original_name": "Matteo Attolini",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "63b09db07ef3811fde353235",
+                "department": "Lighting",
+                "job": "Electrician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2332516,
+                "known_for_department": "Directing",
+                "name": "Luca Lachin",
+                "original_name": "Luca Lachin",
+                "popularity": 2.423,
+                "profile_path": null,
+                "credit_id": "64d33a9703726400c572cfd9",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2628013,
+                "known_for_department": "Directing",
+                "name": "Emese Matuz",
+                "original_name": "Emese Matuz",
+                "popularity": 0.631,
+                "profile_path": null,
+                "credit_id": "64d33b22bf31f201cd4d3805",
+                "department": "Directing",
+                "job": "Additional Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2784703,
+                "known_for_department": "Directing",
+                "name": "Rosario Pucciarelli",
+                "original_name": "Rosario Pucciarelli",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "64d33b17dd926a01ea9d0320",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3027734,
+                "known_for_department": "Lighting",
+                "name": "Francesco Galli",
+                "original_name": "Francesco Galli",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "63b09debbe4b360091a0f036",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4205347,
+                "known_for_department": "Directing",
+                "name": "Alberto Calveri",
+                "original_name": "Alberto Calveri",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "64d33c929463180430356a7f",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4205352,
+                "known_for_department": "Directing",
+                "name": "Bobby McGee",
+                "original_name": "Bobby McGee",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "64d33d91db4ed600ffb622e8",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Featurette: The Making Of",
+                "key": "Oc9cVYipFmU",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2019-05-04T17:00:01.000Z",
+                "id": "64d1556e4d679100e24171c1"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Featurette: The Secret Language Of Dance",
+                "key": "iDEmE3d9BN8",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2019-01-15T17:00:11.000Z",
+                "id": "64d1559e549dda00ffa505db"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Featurette: The Transformations",
+                "key": "NIw8-R24qFk",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2018-12-03T18:00:08.000Z",
+                "id": "64d15548d9f4a603b876aa9d"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Clip: You're in a Company Now",
+                "key": "_pg7-indu7Q",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": true,
+                "published_at": "2018-11-02T17:00:01.000Z",
+                "id": "64d15559d8d32900c794e10c"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official UK Trailer #2",
+                "key": "gh728YmlSFE",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2018-11-01T13:43:32.000Z",
+                "id": "64d154fad9f4a603b876aa8f"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Clip: We'll Have to Build You Up",
+                "key": "Yyn9WX92SqQ",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": true,
+                "published_at": "2018-10-26T16:59:57.000Z",
+                "id": "64d15529945d36011c3d37c2"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Clip: Take Olga To Her Room",
+                "key": "Mma3dQWHTvI",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": true,
+                "published_at": "2018-10-25T17:00:06.000Z",
+                "id": "64d155156d4c97010d51c19f"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Clip: Susie's First Dance",
+                "key": "eQIII8V3SLU",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": true,
+                "published_at": "2018-10-18T16:59:49.000Z",
+                "id": "64d1558585090f01445c73af"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official UK Trailer",
+                "key": "wWPrzN6tTNE",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2018-10-18T12:00:45.000Z",
+                "id": "64d1546b85090f00c87e202e"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Clip: Improvise Freely",
+                "key": "1IruXDYtg7I",
+                "published_at": "2018-08-28T16:59:54.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": true,
+                "id": "5b85e404c3a3683f81002d0c"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer",
+                "key": "BY6QKRl56Ok",
+                "published_at": "2018-08-23T12:59:49.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "id": "5b7ef9b192514104e9019b95"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Teaser Trailer",
+                "key": "3uGIEY7tdg8",
+                "published_at": "2018-06-04T13:00:02.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": true,
+                "id": "5b15476ec3a36853460083fb"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/AmO8I38bkHwKhgxPNrd6djBQyPU.jpg",
+                "vote_average": 5.352,
+                "vote_count": 21,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+                "vote_average": 5.338,
+                "vote_count": 13,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/qTaVO6YybaEqgr5ydZQ296H7MRh.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/dDwzMvjEfzldnPJwOwqYDHTjO4a.jpg",
+                "vote_average": 5.27,
+                "vote_count": 10,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hjkCG7fuxBaLR8mcdxCD4URnUXS.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/akpWGpQQ0NyypqRL36svpUE2fvc.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1946,
+                "iso_639_1": null,
+                "file_path": "/pDlyQLlCNz022yprr6Sfzg40fRp.jpg",
+                "vote_average": 5.172,
+                "vote_count": 16,
+                "width": 3460
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/jgTQoVM4FHtrBFXBhquG2JGOe2P.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eSqjfaN8bWWAFfpOYtG6zzcDhc3.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/tAJ2eUGyE7xbStPq3Ees2F2vRhv.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/7RvRD6xkeRj256HUXJ7VUNZ8WEV.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.78,
+                "height": 1036,
+                "iso_639_1": null,
+                "file_path": "/5uzt68bmvJgFmGIXoe8ruNNspWb.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 1844
+            },
+            {
+                "aspect_ratio": 1.78,
+                "height": 1036,
+                "iso_639_1": null,
+                "file_path": "/76csfHvdZvdZTzwN87ygDuqKJFV.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 1844
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/t8BeJR0MqlJ1yQFHdsNNJX7kTWS.jpg",
+                "vote_average": 4.938,
+                "vote_count": 7,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1037,
+                "iso_639_1": null,
+                "file_path": "/2jfCepJmKgFH8eRhlZ5pgpmjglX.jpg",
+                "vote_average": 4.846,
+                "vote_count": 11,
+                "width": 1843
+            },
+            {
+                "aspect_ratio": 1.78,
+                "height": 723,
+                "iso_639_1": null,
+                "file_path": "/9iaDt4ZYuqVlBzwTzPyk9t4GYr7.jpg",
+                "vote_average": 4.774,
+                "vote_count": 10,
+                "width": 1287
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/iWelmKhYe0sPX8DC7ZXZzMcQHJv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/krorW6vcvGUGEHBobn0YbtdxpGt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/4jEqA153VRso3VXLzYIcFxGDr48.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/b0hM1Gnpv3OYIlGQvgCD4OqWJc7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/jfKrAa9mVtfAXQFLCZEvAkXUkTm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/vOSa6DHDQxWFpXIhxVCoQlNZ4jb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/6cOwAjx7Srch2wNYuKofxtcADsO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "cn",
+                "file_path": "/y1V3EKGTLM8xe2z9v2k9Bq2pikV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/bPEC7Fnu9t6ErVlfDWorcMqDOGA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/iUNURUpoc8v3tkDdpHnDOZnvVDU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 2.253,
+                "height": 363,
+                "iso_639_1": "en",
+                "file_path": "/tjbSuL8GCaheOo4NLqvr5mS0SE9.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 818
+            },
+            {
+                "aspect_ratio": 3.615,
+                "height": 493,
+                "iso_639_1": "he",
+                "file_path": "/sl1zzOPuA1K8FTbnarCMMrBr5T.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1782
+            },
+            {
+                "aspect_ratio": 2.457,
+                "height": 599,
+                "iso_639_1": "cn",
+                "file_path": "/82bDghnPL12ie1hUNkL4YLyzszn.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1472
+            },
+            {
+                "aspect_ratio": 2.513,
+                "height": 1299,
+                "iso_639_1": "zh",
+                "file_path": "/2sVwZwecwRcM1OpdGX8jWGPB4WU.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3265
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
+                "vote_average": 5.824,
+                "vote_count": 37,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/xP63I4ulHl7DKInxL9cS1b15wNq.jpg",
+                "vote_average": 5.462,
+                "vote_count": 39,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1350,
+                "iso_639_1": "pt",
+                "file_path": "/qklGv6ZvmIpEP7RTInbngyKUT5V.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/qntguRoupnAASFdld8kTDe68fEn.jpg",
+                "vote_average": 5.38,
+                "vote_count": 47,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/olskObLfS60X8HcHJv69yF7cS04.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/4yKhl47eTkCfIFEaij20jtK184B.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1350,
+                "iso_639_1": "uk",
+                "file_path": "/parGhD6Yv9SkgOHouA9c5so70ga.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1969,
+                "iso_639_1": "el",
+                "file_path": "/2NuojVpY5u1jh4onA8kV89DGb7l.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1378
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 2383,
+                "iso_639_1": "hu",
+                "file_path": "/4eLRuCSRP261aiAFq0knWtYOkjx.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1654
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/4rSzVLZBZReYslS6YTwcDNGHz8j.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/zTAX1qCikgdXTsH87lb694xs4Rv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "pl",
+                "file_path": "/zMLrBOXB0WwKu4pTv0JFWSt3ZU5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/l6B0z9Y2yOVUy6HWbr27u3a5D5M.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/3oEGtqTUlAcb9RzO1aLW4GWZVdQ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/32RXrK1nQYbCgKvD0G48ZIJGTJQ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/KKIRvcBG9eOICtYBuiGHK2GlAZ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2047,
+                "iso_639_1": null,
+                "file_path": "/nrGfEZIlgpTUo6vEAyUNedCjYdR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ipBGrQCd93VUIjekQ6Xriw9bwVj.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/hfqW3gF0GBTuu1mXy7Ra7gv9DzY.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2362,
+                "iso_639_1": "it",
+                "file_path": "/uNFVxeGuAt9Vc33cMwkTI5d6FBx.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1654
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2268,
+                "iso_639_1": "ko",
+                "file_path": "/l7RweYloEealQuhaaldcxDU5VS8.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1583
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/6wkPtxXs8OgswEQSx0cgpMNSqiy.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/ietR9LYrnud7ibM73d6VW97aEpD.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/6ubC43xjm9XP8HO8pRElGVbHGgj.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/qEXhaLJf1Kolv1DgAHS4RfUqV3Q.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 857
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2756,
+                "iso_639_1": null,
+                "file_path": "/uuue0PyOd97L2WOkyia0mn68Z4l.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1837
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5p7gZKj5PP2Xm4mztCjVP0Z5c4f.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2014,
+                "iso_639_1": "en",
+                "file_path": "/aYY0RbRBbkzlBhv7INn0Dm0eyeZ.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1343
+            },
+            {
+                "aspect_ratio": 0.556,
+                "height": 989,
+                "iso_639_1": "el",
+                "file_path": "/5nVnurs9fFCZ45bAIJzDRiz6sax.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.699,
+                "height": 1500,
+                "iso_639_1": "el",
+                "file_path": "/xfoDyfoPzacipJ5NNzBWwMCem55.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1049
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2362,
+                "iso_639_1": "it",
+                "file_path": "/sbcGfMusL6kZhN8Fj4otRzBfnyv.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1654
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1398,
+                "iso_639_1": "uk",
+                "file_path": "/cf7tsOa75y8gKyuHsyzjvdS9ANY.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 932
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1500,
+                "iso_639_1": null,
+                "file_path": "/7IIYXohgh5JsMg78De2XMgYHCXM.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1013
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1143,
+                "iso_639_1": "ru",
+                "file_path": "/AeCJP1EOtLX5rrwWgzEDi1wWGkG.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1143,
+                "iso_639_1": "ru",
+                "file_path": "/apsIcPGXIK6cY4HSca9vfOcPrjI.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1143,
+                "iso_639_1": "ru",
+                "file_path": "/iwCVWvJXwjjY05VPDczMbJfvaBv.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1143,
+                "iso_639_1": "ru",
+                "file_path": "/mebdnaVk3n8ZpN3y7VngJfKgdDD.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1143,
+                "iso_639_1": "ru",
+                "file_path": "/q0yx8KBpD0NduOOngpAtC0fVp9Y.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 960,
+                "iso_639_1": "ru",
+                "file_path": "/8e8yHPbzprm3zwRDdrSZNgZdObj.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 674
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/cKK7B3pKAufP10Fujvy68mab59D.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2000,
+                "iso_639_1": "uk",
+                "file_path": "/c9HBH0D1YiX2PVczZihBnCUWsaU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1334
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 1157,
+                "iso_639_1": "en",
+                "file_path": "/8Aa8C6IoM6r7DHCcSUcVqwXtfwF.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 768
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1080,
+                "iso_639_1": "de",
+                "file_path": "/1ybxDQkBxiGFxGxvg7IffXfOsPG.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5DzeMzFhpWALildM450WwfvlQLG.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/oIOLPhaRDIPjDBxRsnwjezxQvtb.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2000,
+                "iso_639_1": null,
+                "file_path": "/jBEX7N0zoAr4gkQdEYqLFc1YqEF.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1350
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/n3SynvCDixbVXAB6cIRFwxdlnjX.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1776,
+                "iso_639_1": "en",
+                "file_path": "/j2We31y2L8c8OxidyoKUNxh0ax9.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 1184
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/uB9Zq5QGNFcS8UlUEWL24Fip6ph.jpg",
+                "vote_average": 4.968,
+                "vote_count": 11,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/niCl4MKhvOOSOkfvO9SGUhdwTwy.jpg",
+                "vote_average": 4.954,
+                "vote_count": 9,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/7i7CcEpUdS6ViAgjCSY3YuF9wyk.jpg",
+                "vote_average": 4.954,
+                "vote_count": 9,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/bLPmfLA6U9kXjO7ZMg3wIC5txRi.jpg",
+                "vote_average": 4.938,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1350,
+                "iso_639_1": "en",
+                "file_path": "/vF1twpLJapYBqaxqNgCPSj581yg.jpg",
+                "vote_average": 4.902,
+                "vote_count": 26,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/sh1AZL5L0kLCikgOufryIUYvtFV.jpg",
+                "vote_average": 4.882,
+                "vote_count": 8,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.648,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/fJpamoBVCfoCsswVv4EBYM7olNa.jpg",
+                "vote_average": 4.878,
+                "vote_count": 15,
+                "width": 1327
+            },
+            {
+                "aspect_ratio": 0.678,
+                "height": 900,
+                "iso_639_1": "en",
+                "file_path": "/7ALfz0nF1YLNZmWNiSrW5BwGaXR.jpg",
+                "vote_average": 4.78,
+                "vote_count": 17,
+                "width": 610
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/A1g1wzWXUkRuu3eR5ihfCfuT02o.jpg",
+                "vote_average": 4.774,
+                "vote_count": 10,
+                "width": 1013
+            },
+            {
+                "aspect_ratio": 0.663,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/yahmqPX175c8xjqr8aOwvfRpYM0.jpg",
+                "vote_average": 4.774,
+                "vote_count": 10,
+                "width": 796
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2916,
+                "iso_639_1": "en",
+                "file_path": "/4VuOGKVWFgIZTUwDbw37DAh7OzL.jpg",
+                "vote_average": 4.724,
+                "vote_count": 11,
+                "width": 1944
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/q37YBWK4HJda1SWRbWaHxHhKTba.jpg",
+                "vote_average": 4.724,
+                "vote_count": 11,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/cpOU6WhmiadhVo3dKW72qt8k1CL.jpg",
+                "vote_average": 4.706,
+                "vote_count": 21,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/kLJAM2YugpXeiqEUHgc0REQqrql.jpg",
+                "vote_average": 4.68,
+                "vote_count": 24,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/mS13BWYRWPDXRPXbcWda5yh6cIn.jpg",
+                "vote_average": 4.576,
+                "vote_count": 14,
+                "width": 810
+            },
+            {
+                "aspect_ratio": 0.65,
+                "height": 1910,
+                "iso_639_1": "en",
+                "file_path": "/HAoiOYYzdnHG1yyWOsEjxuzDiq.jpg",
+                "vote_average": 4.576,
+                "vote_count": 14,
+                "width": 1242
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1080,
+                "iso_639_1": "fr",
+                "file_path": "/tmPhFQBUsxMuDUmGr0ysKTZAQEg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 874,
+                "iso_639_1": null,
+                "file_path": "/otShBlkryqm6HpgxaSj82vR1Ose.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 582
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1382,
+                "iso_639_1": "ja",
+                "file_path": "/fYy8KG9n5Nl4oGJVGksulAzZfut.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 980
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2048,
+                "iso_639_1": "ko",
+                "file_path": "/fgcerMp3iVPcxuA0h1ISMW20OBG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1437
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2268,
+                "iso_639_1": "ko",
+                "file_path": "/zfTFQgnU7cHRouWsl1EmVFvWIwa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1513
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1066,
+                "iso_639_1": "th",
+                "file_path": "/5xfUlnkE7vVlqiyzqfmizgCB4X8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 2725,
+                "iso_639_1": "zh",
+                "file_path": "/7dbd9x40BfSyqSIuawUtaP4aMr8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "fr",
+                "file_path": "/oexak0Phtqf83viCNURcoosAwl1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2149,
+                "iso_639_1": "ko",
+                "file_path": "/8ZogouZF4ErI4INhhlIfG47ovG5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2149,
+                "iso_639_1": "ko",
+                "file_path": "/3N7i5hHY6tW2SMaAQfjRaCFYyVl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2149,
+                "iso_639_1": "ko",
+                "file_path": "/ndUx8hZbGYnQJgzgcyt63K73CT9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2149,
+                "iso_639_1": "ko",
+                "file_path": "/jAwFjmbUc4lYgYN845pQ0Iqw0tB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2149,
+                "iso_639_1": "ko",
+                "file_path": "/grvodkfxsl4KFOvMcKwDA87vLIY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2268,
+                "iso_639_1": "ko",
+                "file_path": "/1kCahP4lx0A4jSXusmElliFo7Vf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1583
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2268,
+                "iso_639_1": "ko",
+                "file_path": "/lBft7jwLrTcFHlB1DqUB6pHYq65.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1583
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2268,
+                "iso_639_1": "ko",
+                "file_path": "/nlpxFTEe50kjQZJl4Q5gyggoR9p.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1583
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2865,
+                "iso_639_1": "ko",
+                "file_path": "/bNlqVHcndbuhGMDMz3vgMZUP1qB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 1440,
+                "iso_639_1": "pl",
+                "file_path": "/cGW8XU6BvORXm9bYT9LJe9TUglm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 999
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1392,
+                "iso_639_1": "ja",
+                "file_path": "/aCCZ1Pc3j0QBm7q2sGSiceaVHkK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 984
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1692,
+                "iso_639_1": "ja",
+                "file_path": "/uaZSq2EdzNLwGS2Cba5VfespvyM.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2450,
+                "iso_639_1": "it",
+                "file_path": "/2ym0oTghjGB08NPPax5M7jnSxws.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1716
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2362,
+                "iso_639_1": "it",
+                "file_path": "/t331HtJVL8xlryztUtw6ZHnX4sw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1654
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2450,
+                "iso_639_1": "it",
+                "file_path": "/dx9bw5XETCLqfZNhQPqe1tGouY0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1633
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2362,
+                "iso_639_1": "it",
+                "file_path": "/jRvn6ZbDQ875QhuKtlji34qh5jL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1574
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "fr",
+                "file_path": "/dM5TUzAQ762xHDwHfXljwqBgQlA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2167,
+                "iso_639_1": "hu",
+                "file_path": "/a6yvMTpGmPhr1hYJhqgs0PPzLI6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1532
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/w2HCSBKC02t4NVrRACZP3Disa9s.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/1pz1TLKIrCyHKNX9SpJd3eU8yxA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.681,
+                "height": 1322,
+                "iso_639_1": "pt",
+                "file_path": "/fQgc0fRABDZXsP80v4Moho2DOMQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/mUE1EVlNKwr7LNZXpIuWRiTVjsu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/y4YTRiAMl3FY1DRbBQHZj6GFVAq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1066,
+                "iso_639_1": "ja",
+                "file_path": "/bH7wzjzPCC69k7twtLkXYFsMjlG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 711
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 1040,
+                "iso_639_1": "ja",
+                "file_path": "/u8GxWyzs1xq7wpd0zLCqoMAw4aD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 736
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 960,
+                "iso_639_1": "en",
+                "file_path": "/wmasXSKIkXOriNfY2RRREu8cbf5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 640
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1188,
+                "iso_639_1": "en",
+                "file_path": "/lgl51Qcw5ocmdpzUtjxYzWixhip.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 792
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 849,
+                "iso_639_1": "en",
+                "file_path": "/jjrSayXldBT0myI3MFc7O2yGjqD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1134,
+                "iso_639_1": "en",
+                "file_path": "/bi85feyLIEscJZUmjwXiOZzm8Y5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 756
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1618,
+                "iso_639_1": "en",
+                "file_path": "/j41LTf9Z2KUWgwye3Mp5KDioOOy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1079
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1620,
+                "iso_639_1": "en",
+                "file_path": "/o8EXNvBVcOJa8CxAlbBFw3BIxFy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1620,
+                "iso_639_1": "en",
+                "file_path": "/DJLzSKL8I921mZ5Nkx101p4yfB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 967,
+                "iso_639_1": "en",
+                "file_path": "/z1AhKVtuLqrJ5IXbGBVON6EqzGU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 644
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 885,
+                "iso_639_1": "ja",
+                "file_path": "/iQY9TJkEreSoD4TSSvSSh8i1Z4k.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 590
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1075,
+                "iso_639_1": "en",
+                "file_path": "/3tIteVYyaW1YqmOp2iIpxiMZoea.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 717
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1181,
+                "iso_639_1": "en",
+                "file_path": "/hEwYrpMrQRrxfTnZboJjweqa5uO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 2802,
+                "iso_639_1": "cn",
+                "file_path": "/tf1wMRdYOBnxqmPDW0DV8uNzG3z.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 846,
+                "iso_639_1": "en",
+                "file_path": "/gJbkr0lniAbxJbQdRa1Vv3U3jNk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 564
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 220,
+                "name": "berlin, germany"
+            },
+            {
+                "id": 1346,
+                "name": "dance performance"
+            },
+            {
+                "id": 1475,
+                "name": "telepathy"
+            },
+            {
+                "id": 1228,
+                "name": "1970s"
+            },
+            {
+                "id": 11627,
+                "name": "paranormal phenomena"
+            },
+            {
+                "id": 5086,
+                "name": "telekinesis"
+            },
+            {
+                "id": 9714,
+                "name": "remake"
+            },
+            {
+                "id": 10551,
+                "name": "ballet"
+            },
+            {
+                "id": 15001,
+                "name": "demon"
+            },
+            {
+                "id": 33934,
+                "name": "choreographer"
+            },
+            {
+                "id": 40931,
+                "name": "witchcraft"
+            },
+            {
+                "id": 156174,
+                "name": "occult"
+            },
+            {
+                "id": 157351,
+                "name": "living dead"
+            },
+            {
+                "id": 162745,
+                "name": "ritual sacrifice"
+            },
+            {
+                "id": 163210,
+                "name": "choreography"
+            },
+            {
+                "id": 165244,
+                "name": "ballet school"
+            },
+            {
+                "id": 176561,
+                "name": "spiritualism"
+            },
+            {
+                "id": 186747,
+                "name": "dance company"
+            },
+            {
+                "id": 203360,
+                "name": "psychotherapist"
+            },
+            {
+                "id": 238137,
+                "name": "mysterious events"
+            },
+            {
+                "id": 269233,
+                "name": "good versus evil"
+            }
+        ]
+    },
+    "title_english": "Suspiria",
+    "year": "2018",
+    "rated": "R",
+    "director_list": [
+        "Luca Guadagnino"
+    ],
+    "writer_list": [
+        "Dario Argento",
+        " Daria Nicolodi",
+        " David Kajganich"
+    ],
+    "main_cast": [
+        "Chlo\u00eb Grace Moretz",
+        " Tilda Swinton",
+        " Doris Hick"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "imdb_rating": "6.7",
+    "imdb_votes": "88,970",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suspiria",
+    "wikipedia_summary": "Suspiria (Latin: [s\u028as\u02c8pi\u02d0ri.a]) is a 1977 Italian supernatural horror film directed by Dario Argento, who co-wrote the screenplay with Daria Nicolodi, partially based on Thomas De Quincey's 1845 essay Suspiria de Profundis. The film stars Jessica Harper as an American ballet student who transfers to a prestigious dance academy but realizes, after a series of brutal murders, that the academy is a front for a supernatural conspiracy. It also features Stefania Casini, Flavio Bucci, Miguel Bos\u00e9, Alida Valli, Udo Kier, and Joan Bennett, in her final film role.\nThe film is the first of the trilogy Argento refers to as The Three Mothers, which also comprises Inferno (1980) and The Mother of Tears (2007). Suspiria has received a positive response from critics for its visual and stylistic flair, use of vibrant colors and its score by Argento and the progressive rock band Goblin.\nSuspiria was nominated for two Saturn Awards: Best Supporting Actress for Bennett in 1978, and Best DVD Classic Film Release, in 2002. It is recognised as one of the most influential films in the horror genre. It served as the inspiration for a 2018 film of the same title, directed by Luca Guadagnino.",
+    "wikipedia_plot": "Suzy Bannion, a young American ballet student, arrives in Freiburg, Baden-W\u00fcrttemberg, Germany during a torrential downpour to study at the co-ed Tanz Akademie, a prestigious German dance school. She sees another student, Pat Hingle, flee the school in terror. Suzy is refused entry to the school and forced to stay in town overnight. Pat takes refuge at a friend's apartment and tells her that something sinister happened at the school. Pat is ambushed by a shadowy figure who stabs her repeatedly and drags her to the roof of the apartment building before hanging her with a noose by throwing her through the building's skylight. Pat's friend is also killed after being impaled by a falling giant shard of glass while trying to alert other tenants to the murder.\nSuzy returns to the school the next morning, where she meets Miss Tanner, the head instructor, and Madame Blanc, the deputy headmistress. Tanner introduces Suzy to Pavlos, one of the school's servants. She also meets classmates Sara and Olga, her new roommate. Suzy experiences an unsettling encounter with one of the school's matrons and Blanc's nephew, Albert, before passing out during a dance class. When she regains consciousness, Suzy learns that Olga has thrown her out of her apartment, forcing her to live at the school with Sara in the room next door.\nWhile the students are preparing for supper one night, maggots rain down from the ceilings of their rooms due to a shipment of spoiled food in the attic, forcing them to sleep in one of the dance studios. During the night, a woman enters the room but is obscured by a curtain hung around the room's perimeter. Sara, frightened by her hoarse and labored breathing, recognizes her as the school's headmistress, who is supposedly out of town. The next day, the school's blind pianist, Daniel, is abruptly fired by Miss Tanner when his German Shepherd bites Albert. Daniel is stalked by an unseen force while walking through a plaza that night; his dog turns on him and viciously rips out his throat.\nSara tells Suzy that she was the one on the intercom who refused her entry the night Pat was murdered. She reveals that Pat was behaving strangely before her death and promises to show Suzy the notes that she left behind. Sara finds that Pat's notes are missing and is forced to flee when an unseen assailant enters the room. They pursue her through the school before cornering her in the attic. She escapes through a small window before falling into a pit of razor wire, entangling her and allowing her pursuer to kill her by slashing her throat.\nSuzy investigates Sara's disappearance the next morning. Tanner tells her that Sara has fled the school. Suspicious, Suzy contacts Sara's friend and former psychiatrist, Frank Mandel. He reveals that the school was established by Greek \u00e9migr\u00e9e Helena Markos in 1895, who was allegedly a witch. Suzy also consults with Professor Milius, a professor of the occult. He reveals that a coven of witches perishes without their leader, from whom they draw power.\nWhen Suzy returns to the school, she finds that everyone has left to attend the Bolshoi Ballet. After being attacked by a bat and recalling a conversation with Sara about footsteps, she follows the sound of them carefully, leading her to Madame Blanc's office. Remembering that Pat uttered the words secret and iris the night that she was killed, Suzy discovers a hidden door that opens by turning a blue iris on a mural in Blanc's office. Suzy enters the corridor and finds the academy's instructors, led by Madame Blanc, plotting her demise in the form of a human sacrifice. Albert alerts Pavlos to Suzy's presence. Suzy hides in an alcove, where she finds Sara's disfigured corpse.\nPursued by Pavlos, Suzy retreats to Helena Markos's bedroom. Suzy finds Markos sleeping, recognizing her as the headmistress by her labored breathing. She accidentally wakes her by breaking a decorative peacock with crystal plumage. Markos renders herself invisible and taunts Suzy before reanimating Sara's mutilated corpse to murder her. When flashes of lightning inadvertently reveal Markos's silhouette, Suzy impales her through the neck with one of the peacock's broken glass quills. Markos's death causes Sara's corpse to vanish.\nSuzy flees as the school starts to implode. Madame Blanc, Miss Tanner, Pavlos and the rest of the coven perish without the power of Markos to sustain them. Suzy escapes into the rainy night as the school is consumed by fire.",
+    "wikipedia_plot_html": "<p>Suzy Bannion, a young American ballet student, arrives in Freiburg, Baden-W\u00fcrttemberg, Germany during a torrential downpour to study at the co-ed Tanz Akademie, a prestigious German dance school. She sees another student, Pat Hingle, flee the school in terror. Suzy is refused entry to the school and forced to stay in town overnight. Pat takes refuge at a friend's apartment and tells her that something sinister happened at the school. Pat is ambushed by a shadowy figure who stabs her repeatedly and drags her to the roof of the apartment building before hanging her with a noose by throwing her through the building's skylight. Pat's friend is also killed after being impaled by a falling giant shard of glass while trying to alert other tenants to the murder.\n</p><p>Suzy returns to the school the next morning, where she meets Miss Tanner, the head instructor, and Madame Blanc, the deputy headmistress. Tanner introduces Suzy to Pavlos, one of the school's servants. She also meets classmates Sara and Olga, her new roommate. Suzy experiences an unsettling encounter with one of the school's matrons and Blanc's nephew, Albert, before passing out during a dance class. When she regains consciousness, Suzy learns that Olga has thrown her out of her apartment, forcing her to live at the school with Sara in the room next door.\n</p><p>While the students are preparing for supper one night, maggots rain down from the ceilings of their rooms due to a shipment of spoiled food in the attic, forcing them to sleep in one of the dance studios. During the night, a woman enters the room but is obscured by a curtain hung around the room's perimeter. Sara, frightened by her hoarse and labored breathing, recognizes her as the school's headmistress, who is supposedly out of town. The next day, the school's blind pianist, Daniel, is abruptly fired by Miss Tanner when his German Shepherd bites Albert. Daniel is stalked by an unseen force while walking through a plaza that night; his dog turns on him and viciously rips out his throat.\n</p><p>Sara tells Suzy that she was the one on the intercom who refused her entry the night Pat was murdered. She reveals that Pat was behaving strangely before her death and promises to show Suzy the notes that she left behind. Sara finds that Pat's notes are missing and is forced to flee when an unseen assailant enters the room. They pursue her through the school before cornering her in the attic. She escapes through a small window before falling into a pit of razor wire, entangling her and allowing her pursuer to kill her by slashing her throat.\n</p><p>Suzy investigates Sara's disappearance the next morning. Tanner tells her that Sara has fled the school. Suspicious, Suzy contacts Sara's friend and former psychiatrist, Frank Mandel. He reveals that the school was established by Greek \u00e9migr\u00e9e Helena Markos in 1895, who was allegedly a witch. Suzy also consults with Professor Milius, a professor of the occult. He reveals that a coven of witches perishes without their leader, from whom they draw power.\n</p><p>When Suzy returns to the school, she finds that everyone has left to attend the Bolshoi Ballet. After being attacked by a bat and recalling a conversation with Sara about footsteps, she follows the sound of them carefully, leading her to Madame Blanc's office. Remembering that Pat uttered the words <i>secret</i> and <i>iris</i> the night that she was killed, Suzy discovers a hidden door that opens by turning a blue iris on a mural in Blanc's office. Suzy enters the corridor and finds the academy's instructors, led by Madame Blanc, plotting her demise in the form of a human sacrifice. Albert alerts Pavlos to Suzy's presence. Suzy hides in an alcove, where she finds Sara's disfigured corpse.\n</p><p>Pursued by Pavlos, Suzy retreats to Helena Markos's bedroom. Suzy finds Markos sleeping, recognizing her as the headmistress by her labored breathing. She accidentally wakes her by breaking a decorative peacock with crystal plumage. Markos renders herself invisible and taunts Suzy before reanimating Sara's mutilated corpse to murder her. When flashes of lightning inadvertently reveal Markos's silhouette, Suzy impales her through the neck with one of the peacock's broken glass quills. Markos's death causes Sara's corpse to vanish.\n</p><p>Suzy flees as the school starts to implode. Madame Blanc, Miss Tanner, Pavlos and the rest of the coven perish without the power of Markos to sustain them. Suzy escapes into the rainy night as the school is consumed by fire.\n</p>",
+    "wikipedia_critics": "Janet Maslin of The New York Times wrote a mixed review, saying the film had \"slender charms, though they will most assuredly be lost on viewers who are squeamish.\" The Los Angeles Times's Kevin Thomas wrote that the film was \"consistently suspenseful and diverting\" despite being \"marred by stilted, poorly dubbed English dialogue\". John Stark of The San Francisco Examiner was critical, writing: \"Suspiria is mostly gore, with little plot or intrigue.\" Gene Siskel of the Chicago Tribune expressed similar sentiments, criticizing Harper's role to being \"reduced to cowering in corners\" and \"costumed to look much younger than her years\"; while praising Argento's \"visually stylish\" direction, he felt that Suspiria was inferior to his directorial debut The Bird with the Crystal Plumage (1970) and \"plays like a weak imitation of The Exorcist (1973)\".Like Siskel, Bruce McCabe of The Boston Globe likened the film to The Exorcist and The Sentinel (1977), ultimately deeming it \"a fitful, uneven piece of work too often more uncontrolled than the hysteria it's trying to create.\" Dave Kehr of the Chicago Reader gave a favorable review, claiming that \"Argento works so hard for his effects\u2014throwing around shock cuts, colored lights and peculiar camera angles\u2014that it would be impolite not to be a little frightened\". Although J. Hoberman of The Village Voice gave a positive review as well, he called it \"a movie that makes sense only to the eye\". Bob Keaton of the Fort Lauderdale News praised the film's \"well-crafted plot\", likening elements of it to the works of Edgar Allan Poe, adding: \"For the seekers of superficially devilish thrills, Suspiria is just the thing.\" A review in the Colorado Springs Gazette deemed it \"a film to experience and for lovers of cinematic suspense ... Suspiria may prove to be the most harrowing shocker ever filmed.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Suspiria</b></i> (<span>Latin:</span> <span lang=\"la-Latn-fonipa\">[s\u028as\u02c8pi\u02d0ri.a]</span>) is a 1977 Italian supernatural horror film directed by Dario Argento, who co-wrote the screenplay with Daria Nicolodi, partially based on Thomas De Quincey's 1845 essay <i>Suspiria de Profundis</i>. The film stars Jessica Harper as an American ballet student who transfers to a prestigious dance academy but realizes, after a series of brutal murders, that the academy is a front for a supernatural conspiracy. It also features Stefania Casini, Flavio Bucci, Miguel Bos\u00e9, Alida Valli, Udo Kier, and Joan Bennett, in her final film role.\n</p><p>The film is the first of the trilogy Argento refers to as <i>The Three Mothers</i>, which also comprises <i>Inferno</i> (1980) and <i>The Mother of Tears</i> (2007). <i>Suspiria</i> has received a positive response from critics for its visual and stylistic flair, use of vibrant colors and its score by Argento and the progressive rock band Goblin.\n</p><p><i>Suspiria</i> was nominated for two Saturn Awards: Best Supporting Actress for Bennett in 1978, and Best DVD Classic Film Release, in 2002. It is recognised as one of the most influential films in the horror genre. It served as the inspiration for a 2018 film of the same title, directed by Luca Guadagnino.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Suzy Bannion, a young American ballet student, arrives in Freiburg, Baden-W\u00fcrttemberg, Germany during a torrential downpour to study at the co-ed Tanz Akademie, a prestigious German dance school. She sees another student, Pat Hingle, flee the school in terror. Suzy is refused entry to the school and forced to stay in town overnight. Pat takes refuge at a friend's apartment and tells her that something sinister happened at the school. Pat is ambushed by a shadowy figure who stabs her repeatedly and drags her to the roof of the apartment building before hanging her with a noose by throwing her through the building's skylight. Pat's friend is also killed after being impaled by a falling giant shard of glass while trying to alert other tenants to the murder.\n</p><p>Suzy returns to the school the next morning, where she meets Miss Tanner, the head instructor, and Madame Blanc, the deputy headmistress. Tanner introduces Suzy to Pavlos, one of the school's servants. She also meets classmates Sara and Olga, her new roommate. Suzy experiences an unsettling encounter with one of the school's matrons and Blanc's nephew, Albert, before passing out during a dance class. When she regains consciousness, Suzy learns that Olga has thrown her out of her apartment, forcing her to live at the school with Sara in the room next door.\n</p><p>While the students are preparing for supper one night, maggots rain down from the ceilings of their rooms due to a shipment of spoiled food in the attic, forcing them to sleep in one of the dance studios. During the night, a woman enters the room but is obscured by a curtain hung around the room's perimeter. Sara, frightened by her hoarse and labored breathing, recognizes her as the school's headmistress, who is supposedly out of town. The next day, the school's blind pianist, Daniel, is abruptly fired by Miss Tanner when his German Shepherd bites Albert. Daniel is stalked by an unseen force while walking through a plaza that night; his dog turns on him and viciously rips out his throat.\n</p><p>Sara tells Suzy that she was the one on the intercom who refused her entry the night Pat was murdered. She reveals that Pat was behaving strangely before her death and promises to show Suzy the notes that she left behind. Sara finds that Pat's notes are missing and is forced to flee when an unseen assailant enters the room. They pursue her through the school before cornering her in the attic. She escapes through a small window before falling into a pit of razor wire, entangling her and allowing her pursuer to kill her by slashing her throat.\n</p><p>Suzy investigates Sara's disappearance the next morning. Tanner tells her that Sara has fled the school. Suspicious, Suzy contacts Sara's friend and former psychiatrist, Frank Mandel. He reveals that the school was established by Greek \u00e9migr\u00e9e Helena Markos in 1895, who was allegedly a witch. Suzy also consults with Professor Milius, a professor of the occult. He reveals that a coven of witches perishes without their leader, from whom they draw power.\n</p><p>When Suzy returns to the school, she finds that everyone has left to attend the Bolshoi Ballet. After being attacked by a bat and recalling a conversation with Sara about footsteps, she follows the sound of them carefully, leading her to Madame Blanc's office. Remembering that Pat uttered the words <i>secret</i> and <i>iris</i> the night that she was killed, Suzy discovers a hidden door that opens by turning a blue iris on a mural in Blanc's office. Suzy enters the corridor and finds the academy's instructors, led by Madame Blanc, plotting her demise in the form of a human sacrifice. Albert alerts Pavlos to Suzy's presence. Suzy hides in an alcove, where she finds Sara's disfigured corpse.\n</p><p>Pursued by Pavlos, Suzy retreats to Helena Markos's bedroom. Suzy finds Markos sleeping, recognizing her as the headmistress by her labored breathing. She accidentally wakes her by breaking a decorative peacock with crystal plumage. Markos renders herself invisible and taunts Suzy before reanimating Sara's mutilated corpse to murder her. When flashes of lightning inadvertently reveal Markos's silhouette, Suzy impales her through the neck with one of the peacock's broken glass quills. Markos's death causes Sara's corpse to vanish.\n</p><p>Suzy flees as the school starts to implode. Madame Blanc, Miss Tanner, Pavlos and the rest of the coven perish without the power of Markos to sustain them. Suzy escapes into the rainy night as the school is consumed by fire.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<h3>Development</h3>\n<p>Argento based <i>Suspiria</i> in part on Thomas De Quincey's essay <i>Suspiria de Profundis</i> (1845). Critic Maitland McDonagh notes: \"In Argento's reading [of the material], the three mothers generate/inhabit a cinematic world informed by Jungian archetypal imagery, each holding sway over a particular city.\" Argento said the idea for the film came to him after a trip through several European cities, including Lyon, Prague, and Turin. He became fascinated by the \"Magic Triangle\", a point where the countries of France, Germany, and Switzerland meet; this is where Rudolf Steiner, a controversial social reformer and occultist, founded an anthroposophic community. Commenting on witchcraft and the occult, Argento stated: \"There's very little to joke about. It's something that exists.\" The title and general concept of \"The Three Mothers\"\u2014a concept Argento would expand upon in <i>Inferno</i> and <i>Mother of Tears\u2014</i>came from De Quincey's essay, which was an uncredited inspiration for the film. There is a section in the work entitled \"Levana and Our Ladies of Sorrow\". The piece asserts that just as there are three Fates and three Graces, there are three Sorrows: \"Mater Lacrymarum, Our Lady of Tears\", \"Mater Suspiriorum, Our Lady of Sighs\", and \"Mater Tenebrarum, Our Lady of Darkness\".\n</p><p>Daria Nicolodi helped Argento write the screenplay for the film, which combined the occult themes that interested Argento with fairytales that were inspiring to Nicolodi, such as <i>Bluebeard</i>, <i>Pinocchio</i>, and <i>Alice's Adventures in Wonderland</i>. Nicolodi also partially based her contributions to the screenplay on a personal story her grandmother had told her, in which her grandmother had gone to take a piano lesson at an unnamed academy where she believed she encountered black magic. The encounter terrified her grandmother, prompting her to flee. This story, however, was later said by Argento to have been fabricated. Using Nicolodi's core ideas, Argento helped co-write the screenplay, which he chose to set at a dance academy in Freiburg im Breisgau, near the German borders with Switzerland and France. The lead character of Suzy Bannion was based on Snow White. Initially, the characters in the film were very young girls\u2014around eight to ten years old\u2014but this was altered when the film's producers were hesitant to make a film with all young actors. Additionally, the final sequence of the film was based on a dream Nicolodi had while she was staying in Los Angeles.</p>\n\n<h3>Casting</h3>\n<p>American actress Jessica Harper was cast in the lead role of American ballet dancer Suzy Bannion, after attending an audition via the William Morris Agency. Argento chose Harper based on her performance in Brian De Palma's <i>Phantom of the Paradise</i> (1974). Upon being cast in the film, Harper watched Argento's <i>Four Flies on Grey Velvet</i> (1971) to better understand the director's style. Harper turned down a role in Woody Allen's <i>Annie Hall</i> (1977) in order to appear in the film.</p><p>Argento requested Italian actress Stefania Casini for the supporting role of Sara, a request which she obliged, having been an admirer of his films. Daria Nicolodi had originally planned on playing the role of Sara, but was unable to due to an injury, and Casini was brought in at the last minute. German actor Udo Kier was cast in the minor supporting role of Frank Mandel.</p>\n\n<h3>Filming</h3>\n<p>The majority of <i>Suspiria</i> was shot at De Paoli studios in Rome, where key exterior sets (including the fa\u00e7ade of the academy) were constructed. Actress Harper described the film shoot as \"very, very focused\", as Argento \"knew exactly what he was looking for\". The fa\u00e7ade of the academy was replicated on a soundstage from the real-life Whale House in Freiburg. Additional photography took place in Munich, including Daniel's death scene in the <i>K\u00f6nigsplatz</i> square, as well as the opening scene of the film, which was shot on location at the Munich Airport. The scene in which Suzy meets with Dr. Mandel was filmed outside the BMW Headquarters building in Munich.</p>\n<p><i>Suspiria</i> is noteworthy for several stylistic flourishes that have become Argento trademarks, particularly the use of set-piece structures that allow the camera to linger on pronounced visual elements. Cinematographer Luciano Tovoli was hired by Argento to shoot the film, based on color film tests he had completed, which Argento felt matched his vision, in part inspired by <i>Snow White</i> (1937). The film was shot using anamorphic lenses. The production design and cinematography emphasize vivid primary colors, particularly red, creating a deliberately unrealistic, nightmarish setting, emphasized by the use of imbibition Technicolor prints. Commenting on the film's lush colors, Argento said: </p><blockquote><p>We were trying to reproduce the colour of Walt Disney's <i>Snow White</i>; it has been said from the beginning that Technicolor lacked subdued shades, [and] was without nuances\u2014like cut-out cartoons.</p></blockquote>\n<p>The imbibition process, used for <i>The Wizard of Oz</i> (1939) and <i>Gone with the Wind</i> (1939), is much more vivid in its color rendition than emulsion-based release prints, therefore enhancing the nightmarish qualities of the film Argento intended to evoke. It was one of the final feature films to be processed in Technicolor, using the last remaining machine in Rome.</p>\n\n<h3>Post-production</h3>\n<h4>Dubbing</h4>\n<p>All of the actors' dialogue was dubbed through additional dialogue recording\u2014a common practice in Italian filmmaking at the time.</p>\n\n<h4>Musical score</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The Italian progressive rock band Goblin composed most of the film's score in collaboration with Argento himself. Goblin had scored Argento's earlier film <i>Deep Red</i> as well as several films following <i>Suspiria</i>. In the film's opening credits, they are referred to as \"The Goblins\". Like Ennio Morricone's compositions for Sergio Leone, Goblin's score for <i>Suspiria</i> was created before the film was shot. It has been reused in multiple Hong Kong films, including Yuen Woo-ping's martial arts film <i>Dance of the Drunk Mantis</i> (1979) and Tsui Hark's horror-comedy <i>We're Going to Eat You</i> (1980).\n</p><p>The main title theme was named as one of the best songs released between 1977 and 1979 in the book <i>The Pitchfork 500: Our Guide to the Greatest Songs from Punk to the Present</i>, compiled by music website Pitchfork. It has been sampled on the Raekwon and Ghostface Killah song \"Legal Coke\", from the R. A. G. U. mix tape, by RJD2 for the song \"Weather People\" by Cage and by Army of the Pharaohs in their song \"Swords Drawn\".\n</p>\n\n<h2>Release</h2>\n<p><i>Suspiria</i> was released in Italy on 1 February 1977. 20th Century Fox acquired the American distribution rights; due to its violent content, they were hesitant to release <i>Suspiria</i>, but eventually premiered the film in July 1977 through a shell company, International Classics. The original American prints were cut by a total of eight minutes in order for the film to pass with an R-rating. Despite initial reservations, the film's American release was commercially successful, and proved to be Fox's seventh highest-grossing release of the year in theatrical rentals. Of all of Argento's films, <i>Suspiria</i> was his highest\u2013grossing in the United States.</p>\n\n<h3>Critical response</h3>\n<p>Janet Maslin of <i>The New York Times</i> wrote a mixed review, saying the film had \"slender charms, though they will most assuredly be lost on viewers who are squeamish.\" The <i>Los Angeles Times</i><span>'</span>s Kevin Thomas wrote that the film was \"consistently suspenseful and diverting\" despite being \"marred by stilted, poorly dubbed English dialogue\". John Stark of <i>The San Francisco Examiner</i> was critical, writing: \"<i>Suspiria</i> is mostly gore, with little plot or intrigue.\" Gene Siskel of the <i>Chicago Tribune</i> expressed similar sentiments, criticizing Harper's role to being \"reduced to cowering in corners\" and \"costumed to look much younger than her years\"; while praising Argento's \"visually stylish\" direction, he felt that <i>Suspiria</i> was inferior to his directorial debut <i>The Bird with the Crystal Plumage</i> (1970) and \"plays like a weak imitation of <i>The Exorcist</i> (1973)\".</p><p>Like Siskel, Bruce McCabe of <i>The Boston Globe</i> likened the film to <i>The Exorcist</i> and <i>The Sentinel</i> (1977), ultimately deeming it \"a fitful, uneven piece of work too often more uncontrolled than the hysteria it's trying to create.\" Dave Kehr of the <i>Chicago Reader</i> gave a favorable review, claiming that \"Argento works so hard for his effects\u2014throwing around shock cuts, colored lights and peculiar camera angles\u2014that it would be impolite not to be a little frightened\". Although J. Hoberman of <i>The Village Voice</i> gave a positive review as well, he called it \"a movie that makes sense only to the eye\". Bob Keaton of the <i>Fort Lauderdale News</i> praised the film's \"well-crafted plot\", likening elements of it to the works of Edgar Allan Poe, adding: \"For the seekers of superficially devilish thrills, <i>Suspiria</i> is just the thing.\" A review in the <i>Colorado Springs Gazette</i> deemed it \"a film to experience and for lovers of cinematic suspense<span>\u00a0</span>... <i>Suspiria</i> may prove to be the most harrowing shocker ever filmed.\"</p>\n\n<h4>Retrospective assessment</h4>\n<p>In the years since its release, <i>Suspiria</i> has been cited by critics as a cult film. In the book <i>European Nightmares: Horror Cinema in Europe Since 1945</i> (2012), the film is noted for being an \"exemplar of Eurohorror<span>\u00a0</span>... it is excessive but here the excess seems to entail a more forceful retardation of a narrative drive, to the extent that the narrative periodically ceases to exist.\" <i>Suspiria</i> has been praised by film historians and critics for its emphasized employment of color and elaborate set-pieces; film scholar John Kenneth Muir notes that \"each and every frame of <i>Suspiria</i> is composed with an artistic, remarkable attention to color.\"</p><p><i>The Village Voice</i> ranked <i>Suspiria</i> #100 on their list of the 100 greatest films made in the 20th century. Adam Smith of <i>Empire</i> magazine awarded the film a perfect score of five out of five. <i>Empire</i> magazine also ranked <i>Suspiria</i> #312 on their list of the 500 greatest films ever as well as number 45 on their list 'The 100 Best Films of World Cinema'. AllMovie called it \"one of the most striking assaults on the senses ever to be committed to celluloid<span>\u00a0</span>... this unrelenting tale of the supernatural was\u2014and likely still is\u2014the closest a filmmaker has come to capturing a nightmare on film.\" <i>Entertainment Weekly</i> ranked <i>Suspiria</i> #18 on their list of the 25 scariest films ever. A poll of critics of <i>Total Film</i> ranked it #3 on their list of the 50 greatest horror films ever. One of the film's sequences was ranked at #24 on Bravo's <i>The 100 Scariest Movie Moments</i> program. IGN ranked it #20 on their list of the 25 best horror films.</p><p>On the review aggregator Rotten Tomatoes, the film holds a 93% score based on 61 retrospectively collected reviews, with an average rating of 8.40/10. The website's critical consensus states: \"The blood pours freely in Argento's classic <i>Suspiria</i>, a giallo horror as grandiose and glossy as it is gory.\" Rotten Tomatoes also ranked it #61 on their list of the top 100 horror movies. On Metacritic, the film has a weighted average score of 79 out of 100, based on 11 critics, indicating \"generally favorable reviews\".</p>\n\n<h3>Home media</h3>\n<p><i>Suspiria</i> was released on DVD by Anchor Bay Entertainment in a three-disc set on 11 September 2001. This release, which was a limited edition run restricted to 60,000 units, features a THX-certified video master of the film, with a second disc consisting of a 52-minute documentary and other bonus material; the third disc is a CD consisting of the original film score. This release also includes a 28-page booklet and ten lobby card and poster reproductions. Goblin frontman Claudio Simonetti later formed the heavy-metal band Daemonia; the DVD also contains a video of the band playing a reworking of the <i>Suspiria</i> theme. A standard single-disc edition was released by Anchor Bay the following month.</p><p>On 19 December 2017, the independent home media distributor Synapse Films released the film for the first time on Blu-ray in the United States in a limited steelbook package. This release also consists of three discs which include a 4K restoration of the feature film, bonus materials, and the original score on a compact disc. A wide-release version not containing the soundtrack CD was released on 13 March 2018. On 19 November 2019, Synapse released their restoration in 4K but without the soundtrack CD nor an accompanying Blu-ray disc.</p><p>In Italy, the film received a 4K-remastered Blu-ray release via the Italian distributor Videa in February 2017. It did not use the same 4K restoration as the US Synapse release.</p>\n\n<h2>Legacy</h2>\n<p>Three bands\u2014the Norwegian thrash-metal band Susperia; a pioneering mid-1990s UK gothic rock band, Suspiria; and the witch-house project Mater Suspiria Vision\u2014have named themselves after the film. Several albums have also used the title, including an album by gothic metal band Darkwell, an album by Darkwave band Miranda Sex Garden and <i>Suspiria de Profundis</i> by Die Form, which can also be regarded as inspired by Thomas De Quincey's work of the same title. The film's music has also been imitated and sampled by various artists, including Ministry in the track \"Psalm 69\" from their album <i>Psalm 69: The Way to Succeed and the Way to Suck Eggs</i>, Cage Kennylz on \"Weather People\" and Atmosphere on \"Bird Sings Why the Caged I Know\". The American death metal band Infester included a sample from the film in their song, \"Chamber of Reunion\", from their album <i>To the Depths, In Degradation</i> (1994). The Houston, Texas-based Two Star Symphony Orchestra included a track titled \"Goblin Attack\" on their 2004 CD <i>Danse Macabre: Constant Companion</i> that features a strings rendition of the <i>Suspiria</i> theme; the track's title also appears to be a reference to the band Goblin. The 69 Eyes have a song called \"Suspiria Snow White\" on their album <i>Back in Blood</i> (2009). In 1991, the California-based instrumental band Gargamel recorded a version of the <i>Suspiria</i> theme featuring dulcimer and tape manipulations amongst their covers of horror film soundtrack compositions.</p><p>A section of the soundtrack cue \"Markos\" was incorporated into the Australian radiophonic work <i>What's Rangoon to You is Grafton to Me</i>, conceived and written by radio presenter and author Russell Guy, co-narrated by Guy and former ABC-TV newsreader James Dibble, and co-produced by Guy and Graham Wyatt. It was originally broadcast in 1978 on the ABC's \"youth\" radio station 2JJ aka Double Jay (the Sydney-based AM-band precursor to the current Triple J network).</p><p>In books by Simon R. Green, mentions are often made of a \"Black Forest Dance Academy\" in Germany, a place where witches and Satanists gather, a possible reference to <i>Suspiria</i>.</p><p><i>Suspiria</i> is featured in the documentary film <i>Terror in the Aisles</i> (1984). In the comedy-drama film <i>Juno</i> (2007), <i>Suspiria</i> is considered by the title character to be the goriest film ever made, until she is shown <i>The Wizard of Gore</i> and changes her mind, saying it is actually gorier than <i>Suspiria</i>. The film is also mentioned in the episode \"The Seminar\" of <i>The Office</i> (season 7), Kirby Reed's horror film collection in the horror film <i>Scream 4</i> (2011), and in Ryan Murphy\u2019s <i>American Horror Story: Hotel</i> where a character watches <i>Suspiria</i> on television.</p><p>In March 2020, a new score, featuring members of King Gizzard and the Lizard Wizard alongside other Melbourne musicians, was performed live with a screening of the film.</p>\n\n<h2>Related works</h2>\n<h3>Subsequent films</h3>\n<p><i>Suspiria</i> is the first of a trilogy of films by Argento, referred to as \"The Three Mothers\". The trilogy centers around three witches, or \"Mothers of Sorrow\" who unleash evil from three locations in the world. In <i>Suspiria</i>, Helena Marcos is <i>Mater Suspiriorum</i> (<abbr style=\"font-size:85%\" title=\"literal translation\">lit.</abbr> Latin: \"Mother of Sighs\") in Freiburg. Argento's 1980 film <i>Inferno</i> focuses on <i>Mater Tenebrarum</i> (<abbr style=\"font-size:85%\" title=\"literal translation\">lit.</abbr> Latin: \"Mother of Darkness\"), in New York City. The final installment in the trilogy, <i>The Mother of Tears</i> (2007), focuses on <i>Mater Lachrymarum</i> (<abbr style=\"font-size:85%\" title=\"literal translation\">lit.</abbr> Latin: \"Mother of Tears\") in Rome.</p><p>Film scholar L. Andrew Cooper notes \"Aesthetic experience is arguably the ultimate source of 'meaning' in all of Argento's films, but <i>Suspiria</i> and the other films of the Three Mothers trilogy...take their emphasis on aesthetics further by self-consciously connecting their irrational worlds to nineteenth-century romanticism and the aestheticism that grew out of it.\"</p>\n\n<h3>Unfilmed remake</h3>\n<p>It was announced through MTV in 2008 that a remake of <i>Suspiria</i> was in production, to be directed by David Gordon Green, who directed films such as <i>Undertow</i> and <i>Pineapple Express</i>. The announcement was met with hostility by some, including Argento himself. The film was to be produced by Italian production company First Sun. In August 2008, it was reported that Natalie Portman and Annette Savitch's Handsome Charlie Films were set to produce the remake, and that Portman would play the lead role. The project was also announced to be produced by Marco Morabito and Luca Guadagnino. After a period of no news in which it was thought that the remake attempt had failed, Green said in August 2011 that he was still trying to remake the film. It was announced on 15 May 2012 that actress Isabelle Fuhrman would be cast as the lead. Later that year, however, the planned remake was put on hold. In January 2013, Green revealed that it might never happen due to legal issues. In April 2014, Green admitted the remake was too expensive to make during the \"found-footage boom\", and thus the film was ultimately not made.</p><p>In April 2015, an English-language television series based on the film\u2014along with a series based on Sergio Corbucci's <i>Django</i> (1966)\u2014was announced as being developed by Atlantique Productions and Cattleya. Both series were set to consist of twelve 50-minute long episodes, with the possibility of multiple seasons.</p>\n\n<h3>2018 film</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In September 2015, Italian director Gianluca Guadagnino announced at the 72nd Venice Film Festival that he would direct a new version of <i>Suspiria</i>, with the intention of using the cast of his film <i>A Bigger Splash</i> (Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes, and Dakota Johnson). In the lead-up to filming, Johnson stated that she was undertaking ballet training to prepare. On 23 November 2015, Guadagnino revealed shooting would begin in August 2016. In October 2016, it was announced that Chlo\u00eb Grace Moretz would co-star, alongside Johnson and Swinton. The film finished shooting on 10 March 2017 in Berlin. The film was described by Guadagnino as an \"homage\" to the 1977 film rather than a direct remake. Guadagnino's version is set in Berlin circa 1977 (the year in which Argento's film was released), with a thematic focus on \"the uncompromising force of motherhood\".</p>\n\n<h2>Awards</h2>\n<ul><li>1978 Nominated Saturn Award for Best Supporting Actress \u2013 Joan Bennett</li>\n<li>2002 Nominated Saturn Award for Best DVD Classic Film Release</li>\n<li>2018 Won Rondo Hatton Classic Horror Award in the following categories (Synapse):<ul><li>Best DVD/Blu-ray</li>\n<li>Best Restoration</li>\n<li>Best DVD Commentary \u2013 David Del Valle and Derek  Botelho</li>\n<li>Best DVD extra \u2013 <i>A Sigh from the Depths: 40 Years of Suspiri</i>, directed by Daniel Griffith</li></ul></li></ul>\n\n<h2>See also</h2>\n<ul><li>Gothic film \u00a7\u00a0Notable films</li></ul>\n\n<h2>References</h2>\n<h3>Bibliography</h3>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFAllmerHuxleyBrick2012\" class=\"citation book cs1\">Allmer, Patricia; Huxley, David; Brick, Emily (2012). <i>European Nightmares: Horror Cinema in Europe Since the 1945</i>. Columbia University Press. ISBN\u00a0<bdi>978-0-231-85008-7</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=European+Nightmares%3A+Horror+Cinema+in+Europe+Since+the+1945&amp;rft.pub=Columbia+University+Press&amp;rft.date=2012&amp;rft.isbn=978-0-231-85008-7&amp;rft.aulast=Allmer&amp;rft.aufirst=Patricia&amp;rft.au=Huxley%2C+David&amp;rft.au=Brick%2C+Emily&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFBondanella2009\" class=\"citation book cs1\">Bondanella, Peter (2009). <i>A History of Italian Cinema</i>. A&amp;C Black. ISBN\u00a0<bdi>978-1-4411-6069-0</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+Italian+Cinema&amp;rft.pub=A%26C+Black&amp;rft.date=2009&amp;rft.isbn=978-1-4411-6069-0&amp;rft.aulast=Bondanella&amp;rft.aufirst=Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCooper2012\" class=\"citation book cs1\">Cooper, L. Andrew (2012). <i>Dario Argento</i>. University of Illinois Press. ISBN\u00a0<bdi>978-0-252-09438-5</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dario+Argento&amp;rft.pub=University+of+Illinois+Press&amp;rft.date=2012&amp;rft.isbn=978-0-252-09438-5&amp;rft.aulast=Cooper&amp;rft.aufirst=L.+Andrew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCurti2017\" class=\"citation book cs1\">Curti, Roberto (2017). \"1977: Suspiria\". <i>Italian Gothic Horror Films, 1970\u20131979</i>. McFarland. ISBN\u00a0<bdi>978-1-4766-6469-9</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=1977%3A+Suspiria&amp;rft.btitle=Italian+Gothic+Horror+Films%2C+1970%E2%80%931979&amp;rft.pub=McFarland&amp;rft.date=2017&amp;rft.isbn=978-1-4766-6469-9&amp;rft.aulast=Curti&amp;rft.aufirst=Roberto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFMcDonagh2010\" class=\"citation book cs1\">McDonagh, Maitland (2010). <i>Broken Mirrors, Broken Minds: The Dark Dreams of Dario Argento</i>. University of Minnesota Press. ISBN\u00a0<bdi>978-1-4529-1537-1</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Broken+Mirrors%2C+Broken+Minds%3A+The+Dark+Dreams+of+Dario+Argento&amp;rft.pub=University+of+Minnesota+Press&amp;rft.date=2010&amp;rft.isbn=978-1-4529-1537-1&amp;rft.aulast=McDonagh&amp;rft.aufirst=Maitland&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFMuir2007\" class=\"citation book cs1\">Muir, John Kenneth (2007). <i>Horror Films of the 1970s</i>. Vol.\u00a0II. McFarland. ISBN\u00a0<bdi>978-0-7864-3104-5</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Horror+Films+of+the+1970s&amp;rft.pub=McFarland&amp;rft.date=2007&amp;rft.isbn=978-0-7864-3104-5&amp;rft.aulast=Muir&amp;rft.aufirst=John+Kenneth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFSolomon1989\" class=\"citation book cs1\">Solomon, Aubrey (1989). <i>Twentieth Century Fox: A Corporate and Financial History</i>. The Scarecrow Filmmakers Series. Lanham, Maryland: Scarecrow Press. ISBN\u00a0<bdi>978-0-8108-4244-1</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Twentieth+Century+Fox%3A+A+Corporate+and+Financial+History&amp;rft.place=Lanham%2C+Maryland&amp;rft.series=The+Scarecrow+Filmmakers+Series&amp;rft.pub=Scarecrow+Press&amp;rft.date=1989&amp;rft.isbn=978-0-8108-4244-1&amp;rft.aulast=Solomon&amp;rft.aufirst=Aubrey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuspiria\"></span></li></ul>\n\n<h2>External links</h2>\n\n<ul><li><i>Suspiria</i> at IMDb</li>\n<li><i>Suspiria</i> at AllMovie </li>\n<li><i>Suspiria</i> at Rotten Tomatoes</li></ul>\n\n<!-- \nNewPP limit report\nParsed by mw1450\nCached time: 20231201190152\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 1.010 seconds\nReal time usage: 1.218 seconds\nPreprocessor visited node count: 7322/1000000\nPost\u2010expand include size: 175342/2097152 bytes\nTemplate argument size: 13605/2097152 bytes\nHighest expansion depth: 23/100\nExpensive parser function count: 7/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 226884/5000000 bytes\nLua time usage: 0.647/10.000 seconds\nLua memory usage: 30342786/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1096.209      1 -total\n 33.27%  364.684      1 Template:Reflist\n 21.21%  232.536     50 Template:Cite_web\n 11.35%  124.410      1 Template:Infobox_film\n 10.44%  114.443      1 Template:IPA-la\n 10.34%  113.345      1 Template:IPA\n 10.21%  111.971      1 Template:Infobox\n  8.64%   94.669     19 Template:Sfn\n  6.18%   67.721      2 Template:Navbox\n  6.07%   66.534      1 Template:Three_Mothers_trilogy\n-->"
+}

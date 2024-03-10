@@ -1,0 +1,2050 @@
+{
+    "adult": false,
+    "backdrop_path": "/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+    "belongs_to_collection": null,
+    "budget": 32000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 59,
+    "imdb_id": "tt0399146",
+    "original_language": "en",
+    "original_title": "A History of Violence",
+    "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+    "popularity": 24.441,
+    "poster_path": "/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 6363,
+            "logo_path": null,
+            "name": "BenderSpink",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-09-23",
+    "revenue": 60740827,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Tom Stall had the perfect life \u2026 until he became a hero.",
+    "title": "A History of Violence",
+    "video": false,
+    "vote_average": 7.169,
+    "vote_count": 2946,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110,
+                "known_for_department": "Acting",
+                "name": "Viggo Mortensen",
+                "original_name": "Viggo Mortensen",
+                "popularity": 31.504,
+                "profile_path": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg",
+                "cast_id": 2,
+                "character": "Tom Stall / Joey Cusack",
+                "credit_id": "52fe4212c3a36847f8001927",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 49,
+                "known_for_department": "Acting",
+                "name": "Maria Bello",
+                "original_name": "Maria Bello",
+                "popularity": 27.353,
+                "profile_path": "/tFkbad0JoWvYc6XYBITv6EfeLwR.jpg",
+                "cast_id": 3,
+                "character": "Edie Stall",
+                "credit_id": "52fe4212c3a36847f800192b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228,
+                "known_for_department": "Acting",
+                "name": "Ed Harris",
+                "original_name": "Ed Harris",
+                "popularity": 29.263,
+                "profile_path": "/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg",
+                "cast_id": 7,
+                "character": "Carl Fogarty",
+                "credit_id": "52fe4212c3a36847f800193b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227,
+                "known_for_department": "Acting",
+                "name": "William Hurt",
+                "original_name": "William Hurt",
+                "popularity": 13.853,
+                "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg",
+                "cast_id": 6,
+                "character": "Richie Cusack",
+                "credit_id": "52fe4212c3a36847f8001937",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 225,
+                "known_for_department": "Acting",
+                "name": "Ashton Holmes",
+                "original_name": "Ashton Holmes",
+                "popularity": 7.301,
+                "profile_path": "/lJlIrsFSPilYbd4jIVa2hiCphP7.jpg",
+                "cast_id": 5,
+                "character": "Jack Stall",
+                "credit_id": "52fe4212c3a36847f8001933",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 229,
+                "known_for_department": "Acting",
+                "name": "Peter MacNeill",
+                "original_name": "Peter MacNeill",
+                "popularity": 6.708,
+                "profile_path": "/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg",
+                "cast_id": 8,
+                "character": "Sheriff Sam Carney",
+                "credit_id": "52fe4212c3a36847f800193f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 230,
+                "known_for_department": "Acting",
+                "name": "Stephen McHattie",
+                "original_name": "Stephen McHattie",
+                "popularity": 14.468,
+                "profile_path": "/zqOwiEDXYM9AKQgHGJGeIp7QkPh.jpg",
+                "cast_id": 9,
+                "character": "Leland",
+                "credit_id": "52fe4212c3a36847f8001943",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 231,
+                "known_for_department": "Acting",
+                "name": "Greg Bryk",
+                "original_name": "Greg Bryk",
+                "popularity": 15.28,
+                "profile_path": "/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg",
+                "cast_id": 10,
+                "character": "Billy",
+                "credit_id": "52fe4212c3a36847f8001947",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 232,
+                "known_for_department": "Acting",
+                "name": "Kyle Schmid",
+                "original_name": "Kyle Schmid",
+                "popularity": 6.356,
+                "profile_path": "/bqT7iz2jzG32axBoQzMrAvLtppQ.jpg",
+                "cast_id": 11,
+                "character": "Bobby",
+                "credit_id": "52fe4212c3a36847f800194b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 233,
+                "known_for_department": "Acting",
+                "name": "Sumela Kay",
+                "original_name": "Sumela Kay",
+                "popularity": 6.771,
+                "profile_path": "/6KWQvzyYkEbwIQD8BgHV4blkpsO.jpg",
+                "cast_id": 12,
+                "character": "Judy Danvers",
+                "credit_id": "52fe4212c3a36847f800194f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 234,
+                "known_for_department": "Acting",
+                "name": "Gerry Quigley",
+                "original_name": "Gerry Quigley",
+                "popularity": 3.951,
+                "profile_path": "/nfnrdHOtFYhggXrpZvHF4CDAVdH.jpg",
+                "cast_id": 13,
+                "character": "Mick",
+                "credit_id": "52fe4212c3a36847f8001953",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 235,
+                "known_for_department": "Acting",
+                "name": "Deborah Drakeford",
+                "original_name": "Deborah Drakeford",
+                "popularity": 2.192,
+                "profile_path": "/Ars6IJvbWHboJn74cOz6F4eAoFu.jpg",
+                "cast_id": 14,
+                "character": "Charlotte",
+                "credit_id": "52fe4212c3a36847f8001957",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 226,
+                "known_for_department": "Acting",
+                "name": "Heidi Hayes",
+                "original_name": "Heidi Hayes",
+                "popularity": 2.327,
+                "profile_path": "/oHwvVFuKKqDD2w6KQv4KFqzbVXp.jpg",
+                "cast_id": 4,
+                "character": "Sarah Stall",
+                "credit_id": "52fe4212c3a36847f800192f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 237,
+                "known_for_department": "Acting",
+                "name": "Aidan Devine",
+                "original_name": "Aidan Devine",
+                "popularity": 6.013,
+                "profile_path": "/3qrUCw73cAN0923x5jCxAiiSaJE.jpg",
+                "cast_id": 16,
+                "character": "Charlie Roarke",
+                "credit_id": "52fe4212c3a36847f800195f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236,
+                "known_for_department": "Acting",
+                "name": "Bill MacDonald",
+                "original_name": "Bill MacDonald",
+                "popularity": 5.492,
+                "profile_path": "/rxbAbufSIWNo8OJvK2BO4cvWC41.jpg",
+                "cast_id": 15,
+                "character": "Frank Mulligan",
+                "credit_id": "52fe4212c3a36847f800195b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4364135,
+                "known_for_department": "Acting",
+                "name": "Michelle McCree",
+                "original_name": "Michelle McCree",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 89,
+                "character": "Jenny Wyeth",
+                "credit_id": "654b7bfe1ac2927b2ebe140c",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 210221,
+                "known_for_department": "Acting",
+                "name": "Ian Matthews",
+                "original_name": "Ian Matthews",
+                "popularity": 4.621,
+                "profile_path": "/rv0O0HP0PBF9kuh2gkobZFc1x7P.jpg",
+                "cast_id": 78,
+                "character": "Ruben",
+                "credit_id": "5c3639470e0a265a727c8b99",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 201811,
+                "known_for_department": "Acting",
+                "name": "R.D. Reid",
+                "original_name": "R.D. Reid",
+                "popularity": 3.949,
+                "profile_path": "/x7uweLEXSJvTyfYt8lZ9kvBhZci.jpg",
+                "cast_id": 90,
+                "character": "Pat",
+                "credit_id": "654b7c1b67b6130102e1a459",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54198,
+                "known_for_department": "Acting",
+                "name": "Morgan Kelly",
+                "original_name": "Morgan Kelly",
+                "popularity": 4.263,
+                "profile_path": "/om4F7LSkwWUtfh0C1ZZEMYrgo6w.jpg",
+                "cast_id": 77,
+                "character": "Bobby's Buddy",
+                "credit_id": "5c36391692514122f1eaca68",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2562196,
+                "known_for_department": "Acting",
+                "name": "Martha Reilly",
+                "original_name": "Martha Reilly",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 91,
+                "character": "Shoe Saleswoman",
+                "credit_id": "654b7c3c1ac2927b3029ae5e",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1212932,
+                "known_for_department": "Acting",
+                "name": "Jason Barbeck",
+                "original_name": "Jason Barbeck",
+                "popularity": 0.6,
+                "profile_path": "/rpktsYSCTOxlOwOXfmQyoiAFgaU.jpg",
+                "cast_id": 79,
+                "character": "Richie's Thug",
+                "credit_id": "5c36396dc3a368273c1c3d40",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1753894,
+                "known_for_department": "Acting",
+                "name": "Bruce Beaton",
+                "original_name": "Bruce Beaton",
+                "popularity": 2.169,
+                "profile_path": "/qN8QlT4tC5nPZkLY68AhPGWfUxD.jpg",
+                "cast_id": 80,
+                "character": "Richie's Thug",
+                "credit_id": "5c3639969251412306eaaed9",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1948116,
+                "known_for_department": "Acting",
+                "name": "Neven Pajkic",
+                "original_name": "Neven Pajkic",
+                "popularity": 2.657,
+                "profile_path": "/z8ZtenrxsOwXE7YbD9tVyq02DYH.jpg",
+                "cast_id": 81,
+                "character": "Richie's Thug",
+                "credit_id": "5c3639bf9251412303eab04d",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4364138,
+                "known_for_department": "Acting",
+                "name": "Brendan Connor",
+                "original_name": "Brendan Connor",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 92,
+                "character": "Local TV Reporter",
+                "credit_id": "654b7cb7532acb53361cb53a",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4364144,
+                "known_for_department": "Acting",
+                "name": "Nick Antonacci",
+                "original_name": "Nick Antonacci",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 93,
+                "character": "Local TV Reporter",
+                "credit_id": "654b7e2129383500fe0e6591",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 124365,
+                "known_for_department": "Acting",
+                "name": "John Watson",
+                "original_name": "John Watson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 94,
+                "character": "Baseball Coach",
+                "credit_id": "654b7f4541a561336d866f74",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1131499,
+                "known_for_department": "Acting",
+                "name": "Don Allison",
+                "original_name": "Don Allison",
+                "popularity": 2.144,
+                "profile_path": null,
+                "cast_id": 95,
+                "character": "TV Broadcaster",
+                "credit_id": "654b7f5e293835011b5e4fa0",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4364148,
+                "known_for_department": "Acting",
+                "name": "Brittany Payer",
+                "original_name": "Brittany Payer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 96,
+                "character": "Motel Girl",
+                "credit_id": "654b7f6a1ac2927b2dcf7b18",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1470404,
+                "known_for_department": "Acting",
+                "name": "Mitch Boughs",
+                "original_name": "Mitch Boughs",
+                "popularity": 0.608,
+                "profile_path": null,
+                "cast_id": 97,
+                "character": "Kid in Diner",
+                "credit_id": "654b7f7341a561336d866f8c",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 545330,
+                "known_for_department": "Directing",
+                "name": "April Mullen",
+                "original_name": "April Mullen",
+                "popularity": 3.332,
+                "profile_path": "/kkpPBHkeKEa0CXsUEP11hOh6htk.jpg",
+                "cast_id": 98,
+                "character": "Kid in Diner",
+                "credit_id": "654b7f7f67b61300e5dc8558",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1528765,
+                "known_for_department": "Acting",
+                "name": "George King",
+                "original_name": "George King",
+                "popularity": 1.114,
+                "profile_path": null,
+                "cast_id": 99,
+                "character": "Hospital Well-Wisher",
+                "credit_id": "654b7fa067b6130102e1a5f4",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83029,
+                "known_for_department": "Acting",
+                "name": "Shawn Campbell",
+                "original_name": "Shawn Campbell",
+                "popularity": 2.024,
+                "profile_path": "/8Ig2HrGgaDIGGICjgZ7vwcYUH0H.jpg",
+                "cast_id": 100,
+                "character": "Orderly",
+                "credit_id": "654b7fa9fd4f8000e4819fc7",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 224,
+                "known_for_department": "Directing",
+                "name": "David Cronenberg",
+                "original_name": "David Cronenberg",
+                "popularity": 15.045,
+                "profile_path": "/kLHnBnUomcH96PdLRBnuZUzRoY1.jpg",
+                "credit_id": "52fe4212c3a36847f8001923",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 298,
+                "known_for_department": "Production",
+                "name": "Chris Bender",
+                "original_name": "Chris Bender",
+                "popularity": 4.008,
+                "profile_path": "/xTwQ8Jah9BTemz5YFLEIch92eBQ.jpg",
+                "credit_id": "52fe4212c3a36847f8001965",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 305,
+                "known_for_department": "Writing",
+                "name": "Josh Olson",
+                "original_name": "Josh Olson",
+                "popularity": 2.098,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f800196b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 306,
+                "known_for_department": "Writing",
+                "name": "John Wagner",
+                "original_name": "John Wagner",
+                "popularity": 1.813,
+                "profile_path": "/qQ5qRGldEnu8tlj2EyykwkkPptZ.jpg",
+                "credit_id": "5b1edb8a92514166ab011ba0",
+                "department": "Writing",
+                "job": "Graphic Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 307,
+                "known_for_department": "Camera",
+                "name": "Peter Suschitzky",
+                "original_name": "Peter Suschitzky",
+                "popularity": 1.703,
+                "profile_path": "/luMSBjy5mBakdKISk4GI9GrxBT2.jpg",
+                "credit_id": "52fe4212c3a36847f8001977",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 307,
+                "known_for_department": "Camera",
+                "name": "Peter Suschitzky",
+                "original_name": "Peter Suschitzky",
+                "popularity": 1.703,
+                "profile_path": "/luMSBjy5mBakdKISk4GI9GrxBT2.jpg",
+                "credit_id": "5b1edd890e0a264fa100ffb9",
+                "department": "Camera",
+                "job": "\"A\" Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 310,
+                "known_for_department": "Editing",
+                "name": "Ronald Sanders",
+                "original_name": "Ronald Sanders",
+                "popularity": 1.369,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f800197d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 117,
+                "known_for_department": "Sound",
+                "name": "Howard Shore",
+                "original_name": "Howard Shore",
+                "popularity": 2.741,
+                "profile_path": "/nJ606tXnL8vDVHi7qavrV292ljt.jpg",
+                "credit_id": "52fe4212c3a36847f8001983",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4484,
+                "known_for_department": "Writing",
+                "name": "Vince Locke",
+                "original_name": "Vince Locke",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1edb9c0e0a264fb9010543",
+                "department": "Writing",
+                "job": "Graphic Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6629,
+                "known_for_department": "Art",
+                "name": "James McAteer",
+                "original_name": "James McAteer",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "54e230f4c3a368454d008007",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7800,
+                "known_for_department": "Production",
+                "name": "Deirdre Bowen",
+                "original_name": "Deirdre Bowen",
+                "popularity": 3.946,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f80019bf",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8315,
+                "known_for_department": "Art",
+                "name": "Carol Spier",
+                "original_name": "Carol Spier",
+                "popularity": 2.143,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f80019c5",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12614,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Stephan Dupuis",
+                "original_name": "Stephan Dupuis",
+                "popularity": 1.42,
+                "profile_path": null,
+                "credit_id": "63de63e8373ac2007c1fc572",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13551,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Denise Cronenberg",
+                "original_name": "Denise Cronenberg",
+                "popularity": 2.068,
+                "profile_path": null,
+                "credit_id": "54e230d3c3a3684095001ae4",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15229,
+                "known_for_department": "Crew",
+                "name": "John Stoneham Jr.",
+                "original_name": "John Stoneham Jr.",
+                "popularity": 3.059,
+                "profile_path": null,
+                "credit_id": "56606b0f925141790a0039db",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17315,
+                "known_for_department": "Production",
+                "name": "Cale Boyter",
+                "original_name": "Cale Boyter",
+                "popularity": 2.95,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f80019a1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20223,
+                "known_for_department": "Production",
+                "name": "J.C. Spink",
+                "original_name": "J.C. Spink",
+                "popularity": 1.655,
+                "profile_path": "/miBxApg7ak57xeeoK8fE1K5vCXN.jpg",
+                "credit_id": "52fe4212c3a36847f800198f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20228,
+                "known_for_department": "Sound",
+                "name": "Goro Koyama",
+                "original_name": "Goro Koyama",
+                "popularity": 1.444,
+                "profile_path": null,
+                "credit_id": "5b1edc070e0a264fb9010571",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20229,
+                "known_for_department": "Sound",
+                "name": "Andy Malcolm",
+                "original_name": "Andy Malcolm",
+                "popularity": 1.727,
+                "profile_path": null,
+                "credit_id": "5b1edbfb925141677f00d04c",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10830,
+                "known_for_department": "Production",
+                "name": "Toby Emmerich",
+                "original_name": "Toby Emmerich",
+                "popularity": 3.017,
+                "profile_path": "/mfkHPnmazcxDcjyVovNPzhUX1JN.jpg",
+                "credit_id": "52fe4212c3a36847f80019ad",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 27710,
+                "known_for_department": "Production",
+                "name": "Josh Braun",
+                "original_name": "Josh Braun",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f80019a7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62241,
+                "known_for_department": "Production",
+                "name": "Jake Weiner",
+                "original_name": "Jake Weiner",
+                "popularity": 1.4,
+                "profile_path": "/jo8DXL0RlSpuiDgYa2mLFKpps99.jpg",
+                "credit_id": "54e23079c3a368454d007ffd",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65702,
+                "known_for_department": "Production",
+                "name": "Kent Alterman",
+                "original_name": "Kent Alterman",
+                "popularity": 1.576,
+                "profile_path": "/hdXATGeoEyRzmz4eyHwYNjEt05N.jpg",
+                "credit_id": "52fe4212c3a36847f800199b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68748,
+                "known_for_department": "Sound",
+                "name": "Michael O'Farrell",
+                "original_name": "Michael O'Farrell",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "56606b2d9251412204002988",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113982,
+                "known_for_department": "Production",
+                "name": "Justis Greene",
+                "original_name": "Justis Greene",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f80019b3",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94243,
+                "known_for_department": "Sound",
+                "name": "Don White",
+                "original_name": "Don White",
+                "popularity": 0.788,
+                "profile_path": null,
+                "credit_id": "5b1edbb80e0a264fbb00fd49",
+                "department": "Sound",
+                "job": "Foley Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91886,
+                "known_for_department": "Sound",
+                "name": "Wayne Griffin",
+                "original_name": "Wayne Griffin",
+                "popularity": 1.305,
+                "profile_path": null,
+                "credit_id": "56606b3ec3a36875f9003dd2",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134932,
+                "known_for_department": "Sound",
+                "name": "Christian T. Cooke",
+                "original_name": "Christian T. Cooke",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "56606b669251417913003adf",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 558230,
+                "known_for_department": "Sound",
+                "name": "Alastair Gray",
+                "original_name": "Alastair Gray",
+                "popularity": 1.194,
+                "profile_path": null,
+                "credit_id": "5b1edb65c3a368089200f2fc",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 957970,
+                "known_for_department": "Art",
+                "name": "Peter Nicolakakos",
+                "original_name": "Peter Nicolakakos",
+                "popularity": 1.534,
+                "profile_path": null,
+                "credit_id": "54e230e1c3a3684541009033",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 960477,
+                "known_for_department": "Production",
+                "name": "Roger Kass",
+                "original_name": "Roger Kass",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "52fe4212c3a36847f80019b9",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1002652,
+                "known_for_department": "Visual Effects",
+                "name": "Dennis Berardi",
+                "original_name": "Dennis Berardi",
+                "popularity": 4.487,
+                "profile_path": null,
+                "credit_id": "63de6454cd2046009d4ebb63",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1340919,
+                "known_for_department": "Directing",
+                "name": "Dug Rotstein",
+                "original_name": "Dug Rotstein",
+                "popularity": 1.854,
+                "profile_path": null,
+                "credit_id": "56606aab9251417918003731",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1380387,
+                "known_for_department": "Sound",
+                "name": "Clive Turner",
+                "original_name": "Clive Turner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "56606bc3925141790c00383f",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1392106,
+                "known_for_department": "Camera",
+                "name": "Takashi Seida",
+                "original_name": "Takashi Seida",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "56606abd9251417913003abb",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1402037,
+                "known_for_department": "Sound",
+                "name": "Jennifer Dunnington",
+                "original_name": "Jennifer Dunnington",
+                "popularity": 0.755,
+                "profile_path": null,
+                "credit_id": "56606ae2c3a36875e4003663",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1404355,
+                "known_for_department": "Art",
+                "name": "Gordon White",
+                "original_name": "Gordon White",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "63de6424e5593700c744ff59",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1407705,
+                "known_for_department": "Sound",
+                "name": "Mark Zsifkovits",
+                "original_name": "Mark Zsifkovits",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "56606b55925141220400298c",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1409710,
+                "known_for_department": "Camera",
+                "name": "Candide Franklyn",
+                "original_name": "Candide Franklyn",
+                "popularity": 1.003,
+                "profile_path": null,
+                "credit_id": "5b1edd710e0a264f9500f796",
+                "department": "Camera",
+                "job": "Steadicam Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1409710,
+                "known_for_department": "Camera",
+                "name": "Candide Franklyn",
+                "original_name": "Candide Franklyn",
+                "popularity": 1.003,
+                "profile_path": null,
+                "credit_id": "5b1edd790e0a26101000b547",
+                "department": "Camera",
+                "job": "\"B\" Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1413907,
+                "known_for_department": "Sound",
+                "name": "Orest Sushko",
+                "original_name": "Orest Sushko",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "56606b84c3a36875f10039e8",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1415151,
+                "known_for_department": "Visual Effects",
+                "name": "Aaron Weintraub",
+                "original_name": "Aaron Weintraub",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "63de646b373ac2007f013d79",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1419264,
+                "known_for_department": "Visual Effects",
+                "name": "Fiona Campbell Westgate",
+                "original_name": "Fiona Campbell Westgate",
+                "popularity": 1.999,
+                "profile_path": null,
+                "credit_id": "63de6477cd2046007970c7ee",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1423209,
+                "known_for_department": "Art",
+                "name": "Deryck Blake",
+                "original_name": "Deryck Blake",
+                "popularity": 1.796,
+                "profile_path": null,
+                "credit_id": "5b1edcb1925141660f00e453",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1425973,
+                "known_for_department": "Art",
+                "name": "Dusty Reeves",
+                "original_name": "Dusty Reeves",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1edce9c3a36808a3011bae",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1425999,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ciara Brennan",
+                "original_name": "Ciara Brennan",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "63de6442ddd52d00c6c8addd",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1428469,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Mary-Lou Green-Benvenuti",
+                "original_name": "Mary-Lou Green-Benvenuti",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "56606c4a9251417906003818",
+                "department": "Costume & Make-Up",
+                "job": "Key Hair Stylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1445371,
+                "known_for_department": "Sound",
+                "name": "Colin McLellan",
+                "original_name": "Colin McLellan",
+                "popularity": 0.988,
+                "profile_path": null,
+                "credit_id": "5b1edc3a0e0a264fc200fe73",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1445983,
+                "known_for_department": "Lighting",
+                "name": "Scotty Allan",
+                "original_name": "Scotty Allan",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1eddd5c3a36808a3011c1a",
+                "department": "Lighting",
+                "job": "Chief Lighting Technician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1491848,
+                "known_for_department": "Sound",
+                "name": "Chris Navarro",
+                "original_name": "Chris Navarro",
+                "popularity": 1.297,
+                "profile_path": null,
+                "credit_id": "5b1edc1d0e0a264fb901057f",
+                "department": "Sound",
+                "job": "ADR Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535322,
+                "known_for_department": "Visual Effects",
+                "name": "David Neil Trifunovich",
+                "original_name": "David Neil Trifunovich",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5b1edd01c3a3680889011204",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1544338,
+                "known_for_department": "Sound",
+                "name": "Karen Elliott",
+                "original_name": "Karen Elliott",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "56606acfc3a36875ed003625",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1544379,
+                "known_for_department": "Production",
+                "name": "Heather Meehan",
+                "original_name": "Heather Meehan",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "56606c6cc3a36875f9003e0d",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1562476,
+                "known_for_department": "Sound",
+                "name": "Glen Gauthier",
+                "original_name": "Glen Gauthier",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "5b1edc8dc3a3680895012304",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2003570,
+                "known_for_department": "Art",
+                "name": "Gordon Lebredt",
+                "original_name": "Gordon Lebredt",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "63de640ccd2046007970c7bd",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045325,
+                "known_for_department": "Sound",
+                "name": "David Yonson",
+                "original_name": "David Yonson",
+                "popularity": 2.794,
+                "profile_path": null,
+                "credit_id": "5b1edc2e925141669d010ed7",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2058818,
+                "known_for_department": "Sound",
+                "name": "Matthew McKenzie",
+                "original_name": "Matthew McKenzie",
+                "popularity": 2.527,
+                "profile_path": null,
+                "credit_id": "5b1edc4ac3a36808950122e7",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2062438,
+                "known_for_department": "Production",
+                "name": "Luisa Cabbidu",
+                "original_name": "Luisa Cabbidu",
+                "popularity": 0.707,
+                "profile_path": null,
+                "credit_id": "5b1edda5925141679700afe1",
+                "department": "Production",
+                "job": "Extras Casting Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2062439,
+                "known_for_department": "Production",
+                "name": "Zameret Kleiman",
+                "original_name": "Zameret Kleiman",
+                "popularity": 1.403,
+                "profile_path": null,
+                "credit_id": "5b1eddb40e0a264fa30100ad",
+                "department": "Production",
+                "job": "Extras Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2062440,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Patricia Cowmeadow",
+                "original_name": "Patricia Cowmeadow",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b1ede02c3a368088f00f88f",
+                "department": "Costume & Make-Up",
+                "job": "Costume Set Supervisor"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer A History of Violence - english",
+                "key": "dp2CxCsK8nM",
+                "published_at": "2011-11-08T12:21:28.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": false,
+                "id": "533ec651c3a3685448000055"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/b6zLmqCKUFBqrc9zmMVT50YWhjK.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/7ZjTz0LtDG0NiSQLUKKKWFVygz4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/kPI4vyMtLZulQH2pyQgPEFnm6U0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eWk528rqktEclYXnHmPnBlcSsnB.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/22XqDvpeqh0ENETgBvnzKZKuYeF.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "ru",
+                "file_path": "/2NmxcE4tDvUI70dMSjTCVWSkffK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/Q6pWMQkZDNeMpq7sWqMYhQDVRL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/aYsQoUgP1G4NDEUW5I5ttsIthHT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/nH7Syu94kwKxpJjjFznvgUoQeFT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/6CPsEBIlfmmOLt1r87MDxo0K0J6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 8.383,
+                "height": 94,
+                "iso_639_1": "en",
+                "file_path": "/mCShrs1YOIOFsKaXwJT4LrXf76c.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 788
+            },
+            {
+                "aspect_ratio": 3.098,
+                "height": 255,
+                "iso_639_1": "en",
+                "file_path": "/kDPfWADKbqZ0bHufHVB3VIUEpF7.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 790
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/tYn6WVRwTyvK7B6LA6n1aU74LnB.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/b89H43fsV6G9bJx1QlCiG0T15Nn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "de",
+                "file_path": "/gkPumMPNm6B5tXGCwMRes3jnOA4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.716,
+                "height": 1118,
+                "iso_639_1": "it",
+                "file_path": "/hZRFgghyOvYkFZ6dtPtPQ97KXLg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 800,
+                "iso_639_1": "pl",
+                "file_path": "/ruSzhnfByXYs0EavlTuWnQz3PBM.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 533
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/it0O2KbLYZq2meYeG8rTaxlp0cD.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2799,
+                "iso_639_1": "pt",
+                "file_path": "/38Ov2S2Onb77xIA00diPh3R3GrW.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1866
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/5VCbr01tHRvEtS5sdhS2HWd1Av1.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/y8Onw0tZuEb7zfboLr1MIxqCo6U.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/utWbuYKkXQuYLyb3DSYaFwdmxoC.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2799,
+                "iso_639_1": "pt",
+                "file_path": "/kHL9UufbRB87MEeT7jgOW938fdr.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1866
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/vIwRuEMNGJvLlcHdx0An7rE7fjd.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.713,
+                "height": 1038,
+                "iso_639_1": "ko",
+                "file_path": "/76e6VadQglaSRPKSfgFbQauODm4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 740
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 2023,
+                "iso_639_1": "ja",
+                "file_path": "/6XJ7L71qe5YEs5CDJZThExR8EO2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1433
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ukTXf2TR7ihn3Ap7ba1Y8Rpxwyo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/v9EMWkQCoIbt5tbHrTKeIJdESV2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/suxgLkC9yemSFJQ9gR0oRltcWYc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/mGfwbsIkVgFruSdvh8IkNEaROLR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/r5yatOPYyNU2tm6rzdwo1ImCpy9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/iY17TX561JAPygJnUc5kBtvXBo6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/9QNiwBGrql5fDJuR0GWUTTm3ITX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/lBlHB5VlpI8M1jbRBfVKpLZu798.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "en",
+                "file_path": "/w6gPRv4pwAiZ8yJcCLWCRnFG9v4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/vSbdqEroJvQw9zdBXyasaUIzPyo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.673,
+                "height": 1784,
+                "iso_639_1": "es",
+                "file_path": "/rZLpsfxj2qKbJzSzXiKFYrRIeB1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/ePkiADdcrvGRHzeX8Ut6p34mOLG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 800,
+                "iso_639_1": "fr",
+                "file_path": "/hJYscXz67MmCJ9Jr7u0djYSaFHa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "he",
+                "file_path": "/8SNg1tBQ9DIOlLmNyf4DQy8wsSO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/6qtJFRnTfvPqhWCb4ftJ0OaiWLQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1370,
+                "iso_639_1": "hu",
+                "file_path": "/xqolkvo59Qu8bP1uknfTo5ok8id.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 968
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/8rO5fy2P4NCoK7BNkCTytJBBCTP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.712,
+                "height": 2133,
+                "iso_639_1": "es",
+                "file_path": "/o8VaKr8wJQcMxZo77FB5uQjXuqo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1519
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2510,
+                "iso_639_1": "es",
+                "file_path": "/9aI50BDLpVGX8ZHNwcGq57Ch3JH.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1762
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/ipRsLTrGKGUJ0NZKeGymBqfEn1n.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/hl94MG28keaOVjpjesRZfWU9M11.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1012
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/rahg6QpJ22L60JVt0a0YUvgi3Tf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/xz0wsWOQDbHpLafFKe8CtOtYaIF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/ot4DAtGC1XbXjXw23cyrJ8EWlbQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/yPnUpl3aTGds5no1MiY2qNgwFdq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1752,
+                "iso_639_1": "en",
+                "file_path": "/4QXlgxzIo3rrFCbGa6e7CwhZbIY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1168
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/wSdPE2BTAU7Bg4slix7rCIC1DiF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/bjRraMKo7p3bZmxahna5Axd7yOs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1081,
+                "iso_639_1": "en",
+                "file_path": "/aVkELxjT2H4I9iYGrnQRZtgiivr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/vEuxE7h9ZCsuXlUnp26qRGE7F6j.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 827,
+                "iso_639_1": null,
+                "file_path": "/9OFt8Wc2USS79mRDw5939hdkJgK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 584
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "pt",
+                "file_path": "/pB6Bb5jb3v90EMq4u7CQrgJevJH.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2160,
+                "iso_639_1": "fr",
+                "file_path": "/5rAIb7ey5HwtpodpPNqtiweVnay.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/k4cUrS7R8xXQstkyOWkOnGV7F6T.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/6El3xp13cgRdehjRxNKchRm6SXs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1415,
+                "name": "small town"
+            },
+            {
+                "id": 642,
+                "name": "robbery"
+            },
+            {
+                "id": 1447,
+                "name": "indiana, usa"
+            },
+            {
+                "id": 1448,
+                "name": "distrust"
+            },
+            {
+                "id": 276,
+                "name": "philadelphia, pennsylvania"
+            },
+            {
+                "id": 851,
+                "name": "dual identity"
+            },
+            {
+                "id": 848,
+                "name": "double life"
+            },
+            {
+                "id": 1721,
+                "name": "fight"
+            },
+            {
+                "id": 2801,
+                "name": "self-defense"
+            },
+            {
+                "id": 6038,
+                "name": "marriage"
+            },
+            {
+                "id": 10738,
+                "name": "diner"
+            },
+            {
+                "id": 10325,
+                "name": "mistaken identity"
+            },
+            {
+                "id": 9717,
+                "name": "based on comic"
+            },
+            {
+                "id": 10235,
+                "name": "family relationships"
+            },
+            {
+                "id": 8442,
+                "name": "irish mob"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 11578,
+                "name": "mobster"
+            },
+            {
+                "id": 10909,
+                "name": "lawyer"
+            },
+            {
+                "id": 18083,
+                "name": "attempted robbery"
+            },
+            {
+                "id": 18712,
+                "name": "based on graphic novel"
+            },
+            {
+                "id": 296359,
+                "name": "graphic violence"
+            }
+        ]
+    },
+    "title_english": "A History of Violence",
+    "year": "2005",
+    "rated": "R",
+    "director_list": [
+        "David Cronenberg"
+    ],
+    "writer_list": [
+        "John Wagner",
+        " Vince Locke",
+        " Josh Olson"
+    ],
+    "main_cast": [
+        "Viggo Mortensen",
+        " Maria Bello",
+        " Ed Harris"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "imdb_rating": "7.4",
+    "imdb_votes": "249,355",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_History_of_Violence",
+    "wikipedia_summary": "A History of Violence is a 2005 action thriller film directed by David Cronenberg and written by Josh Olson. It is an adaptation of the 1997 graphic novel of the same title by John Wagner and Vince Locke. The film stars Viggo Mortensen, Maria Bello, Ed Harris, and William Hurt. In the film, a diner owner becomes a local hero after he foils an attempted robbery, but has to face his past enemies to protect his family.\nA History of Violence was in the main competition for the 2005 Palme d'Or and was put into a limited release in the United States on September 23, 2005, followed by a wide release on September 30, 2005. It has been described as one of the greatest films of the 2000s. The film was specifically praised for its performances, screenwriting and atmosphere. William Hurt was nominated for the Academy Award for Best Supporting Actor, and Olson was nominated for Best Adapted Screenplay. Mortensen himself praised it as \"one of the best movies [he's] ever been in, if not the best\". It is also notable as being one of the last major Hollywood films to be released on VHS.",
+    "wikipedia_plot": "Tom Stall is a diner owner who lives in the fictional small town of Millbrook, Indiana, with a loving wife Edie, teenage son Jack, and daughter Sarah. One night, two spree killers attempt to rob the restaurant. When a waitress is threatened, Tom deftly kills both robbers with surprising skill and precision. He is hailed as a hero by his family and the townspeople, and the incident makes him a local celebrity. Tom is visited by scarred gangster Carl Fogarty, who alleges that Tom is actually a Philadelphia professional hitman named Joey Cusack who had dealings with organized crime in Philadelphia. Tom vehemently denies this, but Carl remains persistent and begins to stalk the Stall family. Under pressure from Carl and his newfound fame, Tom's relationships with his family become strained.\nFollowing an argument with his father over the use of violence on a bully at his school, Jack runs away. He is caught by Carl, who, with Jack as his hostage, goes with his men to the Stall house and demands that \"Joey\" return to Philadelphia with them. After the gangsters release Jack, Tom is slow to join them in their car, so they attempt to force him to cooperate. Tom kills the two henchmen with the same precision he used against the robbers, but Carl shoots Tom before he can do the same to him. As the gangster stands over Tom, preparing to kill him, Tom finally drops the fa\u00e7ade and admits he is indeed Joey. However, before Carl can deliver a coup de gr\u00e2ce, Jack kills him with a shotgun.\nAt the hospital, Edie confronts Tom, claiming that while he was attacking Carl's men, she saw \"the real Joey\" that the gangster was talking about. Tom shocks Edie by admitting that he is actually Joey Cusack, and that he has killed for both money and pleasure. He tells Edie that he ran away from Philadelphia to escape his violent criminal past. This admission deepens the tensions in their marriage.\nAfter Tom gets out of the hospital, Sam, the local sheriff, pays a visit. Sam expresses confusion about everything that has happened. He tells Tom and Edie that these mobsters would never go to so much trouble unless they were certain that they had the right man. Just when Tom is about to confess, Edie lies to Sam, claiming that Tom is who he says he is, and that their family has suffered enough. At a loss for words after Edie breaks down into tears, Sam leaves. Edie and Tom then start slapping and hitting each other, their fight eventually culminating in violent sex on the stairs. Afterward, Edie and Jack continue to further distance themselves from Tom, leaving him isolated. He receives a call from his brother, crime boss Richie Cusack, who also demands his return to Philadelphia, or else he will come to Indiana to find him. After traveling to meet his brother, Tom learns that the other mobsters whom he had offended in Philadelphia took out their frustrations on Richie, penalizing him financially and delaying his advancement in the organization. Tom offers to make peace, but Richie orders his men to kill his brother. Tom manages to kill most of the guards and escape. As Richie and his last henchman are hunting for him, Tom kills the henchman, takes his gun, and confronts Richie outside; stunned, Richie says \"Jesus, Joey\" before Tom kills him with a single gunshot to the head, responding \"Jesus, Richie\".\nTom returns home, where the atmosphere is tense and silent as the family sits around the dinner table. His young daughter eventually hands him a dinner plate. Some moments later, his son offers him a communal plate of food.",
+    "wikipedia_plot_html": "<p>Tom Stall is a diner owner who lives in the fictional small town of Millbrook, Indiana, with a loving wife Edie, teenage son Jack, and daughter Sarah. One night, two spree killers attempt to rob the restaurant. When a waitress is threatened, Tom deftly kills both robbers with surprising skill and precision. He is hailed as a hero by his family and the townspeople, and the incident makes him a local celebrity. Tom is visited by scarred gangster Carl Fogarty, who alleges that Tom is actually a Philadelphia professional hitman named Joey Cusack who had dealings with organized crime in Philadelphia. Tom vehemently denies this, but Carl remains persistent and begins to stalk the Stall family. Under pressure from Carl and his newfound fame, Tom's relationships with his family become strained.\n</p><p>Following an argument with his father over the use of violence on a bully at his school, Jack runs away. He is caught by Carl, who, with Jack as his hostage, goes with his men to the Stall house and demands that \"Joey\" return to Philadelphia with them. After the gangsters release Jack, Tom is slow to join them in their car, so they attempt to force him to cooperate. Tom kills the two henchmen with the same precision he used against the robbers, but Carl shoots Tom before he can do the same to him. As the gangster stands over Tom, preparing to kill him, Tom finally drops the fa\u00e7ade and admits he is indeed Joey. However, before Carl can deliver a coup de gr\u00e2ce, Jack kills him with a shotgun.\n</p><p>At the hospital, Edie confronts Tom, claiming that while he was attacking Carl's men, she saw \"the real Joey\" that the gangster was talking about. Tom shocks Edie by admitting that he is actually Joey Cusack, and that he has killed for both money and pleasure. He tells Edie that he ran away from Philadelphia to escape his violent criminal past. This admission deepens the tensions in their marriage.\n</p><p>After Tom gets out of the hospital, Sam, the local sheriff, pays a visit. Sam expresses confusion about everything that has happened. He tells Tom and Edie that these mobsters would never go to so much trouble unless they were certain that they had the right man. Just when Tom is about to confess, Edie lies to Sam, claiming that Tom is who he says he is, and that their family has suffered enough. At a loss for words after Edie breaks down into tears, Sam leaves. Edie and Tom then start slapping and hitting each other, their fight eventually culminating in violent sex on the stairs. Afterward, Edie and Jack continue to further distance themselves from Tom, leaving him isolated. He receives a call from his brother, crime boss Richie Cusack, who also demands his return to Philadelphia, or else he will come to Indiana to find him. After traveling to meet his brother, Tom learns that the other mobsters whom he had offended in Philadelphia took out their frustrations on Richie, penalizing him financially and delaying his advancement in the organization. Tom offers to make peace, but Richie orders his men to kill his brother. Tom manages to kill most of the guards and escape. As Richie and his last henchman are hunting for him, Tom kills the henchman, takes his gun, and confronts Richie outside; stunned, Richie says \"Jesus, Joey\" before Tom kills him with a single gunshot to the head, responding \"Jesus, Richie\".\n</p><p>Tom returns home, where the atmosphere is tense and silent as the family sits around the dinner table. His young daughter eventually hands him a dinner plate. Some moments later, his son offers him a communal plate of food.\n</p>",
+    "wikipedia_critics": "On the review aggregator website Rotten Tomatoes, 88% of 216 critics' reviews are positive, with an average rating of 7.90/10. The website's consensus reads: \"A History of Violence raises compelling and thoughtful questions about the nature of violence, while representing a return to form for director David Cronenberg in one of his more uncharacteristic pieces.\" Metacritic, which uses a weighted average, assigned the film a score of 82 out of 100, based on 37 critics, indicating \"universal acclaim\". Audiences polled by CinemaScore gave the film an average grade of \"C+\" on an A+ to F scale.Rolling Stone critic Peter Travers gave the film four stars, highlighting its \"explosive power and subversive wit\", and lauded David Cronenberg as a \"world-class director, at the top of his startlingly creative form\". Entertainment Weekly reviewer Lisa Schwarzbaum gave the film an A, concluding that \"David Cronenberg's brilliant movie\" was \"without a doubt one of the very best of the year\".Manohla Dargis of The New York Times called the film a \"mindblower\", and noted Cronenberg's \"refusal to let us indulge in movie violence without paying a price\". Roger Ebert also gave the film a positive review, observing, \"A History of Violence seems deceptively straightforward, coming from a director with Cronenberg's quirky complexity, but think again. This is not a movie about plot, but about character.\" He gave it three and a half out of four stars.It was ranked the best film of 2005 in the Village Voice Film Poll.In December 2005, it was named to the Toronto International Film Festival's annual Canada's top-ten list of the year's best Canadian films.BBC film critic Mark Kermode named the film the best of 2005.",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>A History of Violence</b></i> is a 2005 action thriller film directed by David Cronenberg and written by Josh Olson. It is an adaptation of the 1997 graphic novel of the same title by John Wagner and Vince Locke. The film stars Viggo Mortensen, Maria Bello, Ed Harris, and William Hurt. In the film, a diner owner becomes a local hero after he foils an attempted robbery, but has to face his past enemies to protect his family.\n</p><p><i>A History of Violence</i> was in the main competition for the 2005 Palme d'Or and was put into a limited release in the United States on September 23, 2005, followed by a wide release on September 30, 2005. It has been described as one of the greatest films of the 2000s. The film was specifically praised for its performances, screenwriting and atmosphere. William Hurt was nominated for the Academy Award for Best Supporting Actor, and Olson was nominated for Best Adapted Screenplay. Mortensen himself praised it as \"one of the best movies [he's] ever been in, if not the best\". It is also notable as being one of the last major Hollywood films to be released on VHS.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Tom Stall is a diner owner who lives in the fictional small town of Millbrook, Indiana, with a loving wife Edie, teenage son Jack, and daughter Sarah. One night, two spree killers attempt to rob the restaurant. When a waitress is threatened, Tom deftly kills both robbers with surprising skill and precision. He is hailed as a hero by his family and the townspeople, and the incident makes him a local celebrity. Tom is visited by scarred gangster Carl Fogarty, who alleges that Tom is actually a Philadelphia professional hitman named Joey Cusack who had dealings with organized crime in Philadelphia. Tom vehemently denies this, but Carl remains persistent and begins to stalk the Stall family. Under pressure from Carl and his newfound fame, Tom's relationships with his family become strained.\n</p><p>Following an argument with his father over the use of violence on a bully at his school, Jack runs away. He is caught by Carl, who, with Jack as his hostage, goes with his men to the Stall house and demands that \"Joey\" return to Philadelphia with them. After the gangsters release Jack, Tom is slow to join them in their car, so they attempt to force him to cooperate. Tom kills the two henchmen with the same precision he used against the robbers, but Carl shoots Tom before he can do the same to him. As the gangster stands over Tom, preparing to kill him, Tom finally drops the fa\u00e7ade and admits he is indeed Joey. However, before Carl can deliver a coup de gr\u00e2ce, Jack kills him with a shotgun.\n</p><p>At the hospital, Edie confronts Tom, claiming that while he was attacking Carl's men, she saw \"the real Joey\" that the gangster was talking about. Tom shocks Edie by admitting that he is actually Joey Cusack, and that he has killed for both money and pleasure. He tells Edie that he ran away from Philadelphia to escape his violent criminal past. This admission deepens the tensions in their marriage.\n</p><p>After Tom gets out of the hospital, Sam, the local sheriff, pays a visit. Sam expresses confusion about everything that has happened. He tells Tom and Edie that these mobsters would never go to so much trouble unless they were certain that they had the right man. Just when Tom is about to confess, Edie lies to Sam, claiming that Tom is who he says he is, and that their family has suffered enough. At a loss for words after Edie breaks down into tears, Sam leaves. Edie and Tom then start slapping and hitting each other, their fight eventually culminating in violent sex on the stairs. Afterward, Edie and Jack continue to further distance themselves from Tom, leaving him isolated. He receives a call from his brother, crime boss Richie Cusack, who also demands his return to Philadelphia, or else he will come to Indiana to find him. After traveling to meet his brother, Tom learns that the other mobsters whom he had offended in Philadelphia took out their frustrations on Richie, penalizing him financially and delaying his advancement in the organization. Tom offers to make peace, but Richie orders his men to kill his brother. Tom manages to kill most of the guards and escape. As Richie and his last henchman are hunting for him, Tom kills the henchman, takes his gun, and confronts Richie outside; stunned, Richie says \"Jesus, Joey\" before Tom kills him with a single gunshot to the head, responding \"Jesus, Richie\".\n</p><p>Tom returns home, where the atmosphere is tense and silent as the family sits around the dinner table. His young daughter eventually hands him a dinner plate. Some moments later, his son offers him a communal plate of food.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<p>The film is loosely based on the original graphic novel. Screenwriter Josh Olson intended from the beginning to use the original story as a springboard to explore the themes that interested him.\n</p><p>Mortensen read Olson's original version of the script and \"was quite disappointed. It was 120-odd pages of just mayhem; kind of senseless, really.\" He only agreed to do the movie after meeting with Cronenberg, who (according to Mortensen) reworked the script.</p><p>Most of the film was shot in Millbrook, Ontario. The shopping centre scene was shot in Tottenham, Ontario, and the climactic scene was shot at the historic Eaton Hall Mansion, located in King City, Ontario. Harrison Ford turned down the role of Tom Stall. Cronenberg stated that \"I think it took three weeks to edit\".</p>\n\n<h3>Alternate versions</h3>\n<p>The U.S. and European versions differ on only two fight scenes - one where Tom breaks the nose of one of Fogarty's thugs and one where he stomps on the throat of one of Richie Cusack's thugs. Both scenes display more blood flowing or gushing out of the victims in the European version. In addition, a more pronounced bone-crushing sound effect is used when Tom stomps on the thug's throat.</p><p>A deleted scene, known as \"Scene 44\", features a dream sequence in the diner, where Fogarty tells Tom he will kill his family and him, to which Tom responds by shooting him with his shotgun at close range. He then approaches Fogarty's mangled body, which raises a gun and shoots him.  In the DVD extras' on-set footage, Mortensen suggests Harris should pull the gun from his chest cavity. Cronenberg, while amused by the idea, rejects it for being too self-referential; he cites a sequence in his film <i>Videodrome</i>, in which a character pulls a handgun from a slit in his stomach.\n</p>\n\n<h3>Interpretation</h3>\n<p>The film's title plays on multiple levels of meaning. Film critic Roger Ebert stated that Cronenberg refers to three possibilities:\n</p>\n<blockquote class=\"templatequote\"><p>... (1) a suspect with a long history of violence; (2) the historical use of violence as a means of settling disputes, and (3) the innate violence of Darwinian evolution, in which better-adapted organisms replace those less able to cope. \"I am a complete Darwinian\", says Cronenberg, whose new film is in many ways about the survival of the fittest\u2014at all costs.</p></blockquote>\n<p>Cronenberg himself described the film as a meditation on the human body and its relationship to violence:\n</p>\n<blockquote><p>For me the first fact of human existence is the human body. I'm not an atheist, but for me to turn away from any aspect of the human body to me is a philosophical betrayal. And there's a lot of art and religion whose whole purpose is to turn away from the human body. I feel in my art that my mandate is to not do that. So whether it's beautiful things\u2014the sexuality part, or the violent part or the gooey part\u2014it's just body fluids. It's when Elliott in <i>Dead Ringer</i> (<i>sic</i>) says, \"Why are there no beauty contests for the insides of bodies?\" It's a thought that disturbs me. How can we be disgusted by our own bodies? That really doesn't make any human sense. It makes some animal sense but it doesn't make human sense so I'm always discussing that in my movies and in this movie in particular. I don't ever feel that I've been exploitive in a crude, vulgar way, or just doing it to get attention. It's always got a purpose which I can be very articulate about. In this movie, we've got an audience that's definitely going to applaud these acts of violence and they do because it's set up that these acts are justifiable and almost heroic at times. But I'm saying, \"Okay, if you can applaud that, can you applaud this?\" because this is the result of that gunshot in the head. It's not nice. And even if the violence is justifiable, the consequences of the violence are exactly the same. The body does not know what was the morality of that act. So I'm asking the audience to see if they can contain the whole experience of this violent act instead of just the heroic/dramatic one. I'm saying \"Here's the really nasty effects on these nasty guys but still, the effects are very nasty.\" And that's the paradox and conundrum.\"</p></blockquote>\n\n<h2>Music</h2>\n<p>The soundtrack to <i>A History of Violence</i> was released on October 11, 2005.\n</p>\n\n<h2>Release</h2>\n<h3>Theatrical</h3>\n<p><i>A History of Violence</i> premiered at the Cannes Film Festival in May 2005 and was released in the United States on September 30 following a limited release on September 23, 2005.\n</p>\n\n<h3>Home media</h3>\n<p>The film was released on DVD and VHS formats on March 14, 2006, and was reported by the <i>Los Angeles Times</i> as being the last major Hollywood film to be released on VHS.</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>The film started with a limited release in 14 theaters and grossed $515,992 at the box office, averaging $36,856 per theater. A week later, it went on a wide release in 1,340 theaters and grossed $8.1 million over the weekend. During its entire theatrical run, the film grossed $31.5 million in the United States and a total of $61.4 million worldwide.</p>\n\n<h3>Critical response</h3>\n<p>On the review aggregator website Rotten Tomatoes, 88% of 216 critics' reviews are positive, with an average rating of 7.90/10. The website's consensus reads: \"<i>A History of Violence</i> raises compelling and thoughtful questions about the nature of violence, while representing a return to form for director David Cronenberg in one of his more uncharacteristic pieces.\" Metacritic, which uses a weighted average, assigned the film a score of 82 out of 100, based on 37 critics, indicating \"universal acclaim\". Audiences polled by CinemaScore gave the film an average grade of \"C+\" on an A+ to F scale.</p><p><i>Rolling Stone</i> critic Peter Travers gave the film four stars, highlighting its \"explosive power and subversive wit\", and lauded David Cronenberg as a \"world-class director, at the top of his startlingly creative form\". <i>Entertainment Weekly</i> reviewer Lisa Schwarzbaum gave the film an A, concluding that \"David Cronenberg's brilliant movie\" was \"without a doubt one of the very best of the year\".</p><p>Manohla Dargis of <i>The New York Times</i> called the film a \"mindblower\", and noted Cronenberg's \"refusal to let us indulge in movie violence without paying a price\". Roger Ebert also gave the film a positive review, observing, \"<i>A History of Violence</i> seems deceptively straightforward, coming from a director with Cronenberg's quirky complexity, but think again. This is not a movie about plot, but about character.\" He gave it three and a half out of four stars.</p><p>It was ranked the best film of 2005 in the Village Voice Film Poll.</p><p>In December 2005, it was named to the Toronto International Film Festival's annual Canada's top-ten list of the year's best Canadian films.</p><p>BBC film critic Mark Kermode named the film the best of 2005.</p>\n\n<h3>Retrospective lists</h3>\n<p><i>Empire</i> named the film the 448th-greatest film of all time.</p><p>The French film magazine <i>Cahiers du cin\u00e9ma</i> ranked the film as fifth place in its list of best films of the decade, 2000\u20132009.</p><p>In his list of best films of the decade, Peter Travers named this number four, praising director David Cronenberg:\n</p>\n<blockquote><p>\nIs Canadian director David Cronenberg the most unsung maverick artist in movies? Bet on it\u00a0... Cronenberg knows violence is wired into our DNA. His film showed how we secretly crave what we publicly condemn. This is potent poison for a thriller, and unadulterated, unforgettable Cronenberg.</p></blockquote>\n<p>In 2016, the film was ranked among the 100 greatest films since 2000 in an international critics' poll by 177 critics around the world.</p>\n\n<h3>Accolades</h3>\n<h2>Adaptation</h2>\n<p><i>Leo</i>, a 2023 Indian Tamil language film co-written and directed by Lokesh Kanagaraj, is an adaptation of <i>A History of Violence</i>.</p>\n\n<h2>References</h2>\n<h2>Works cited</h2>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCronenberg2006\" class=\"citation book cs1\">Cronenberg, David (2006). <i>David Cronenberg: Interviews with Serge Gr\u00fcnberg</i>. Plexus Publishing. ISBN\u00a0<bdi>0859653765</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=David+Cronenberg%3A+Interviews+with+Serge+Gr%C3%BCnberg&amp;rft.pub=Plexus+Publishing&amp;rft.date=2006&amp;rft.isbn=0859653765&amp;rft.aulast=Cronenberg&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fdavidcronenbergi0000cron&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+History+of+Violence\"></span></li></ul>\n\n<h2>External links</h2>\n\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1134653256\">\n<ul><li><i>A History of Violence</i> at IMDb</li>\n<li><i>A History of Violence</i> at AllMovie</li>\n<li><i>A History of Violence</i> at Box Office Mojo</li>\n<li><i>A History of Violence</i> at Rotten Tomatoes</li></ul>\n\n\n\n\n<!-- \nNewPP limit report\nParsed by mw1390\nCached time: 20231203065433\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.924 seconds\nReal time usage: 1.177 seconds\nPreprocessor visited node count: 6776/1000000\nPost\u2010expand include size: 260311/2097152 bytes\nTemplate argument size: 33060/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 11/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 230751/5000000 bytes\nLua time usage: 0.547/10.000 seconds\nLua memory usage: 13571923/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1014.137      1 -total\n 27.79%  281.790      1 Template:Reflist\n 25.95%  263.186     52 Template:Cite_web\n 12.10%  122.705      1 Template:Rotten_Tomatoes_prose\n  8.76%   88.840      1 Template:Infobox_film\n  8.60%   87.211      7 Template:Navbox\n  7.48%   75.833      1 Template:Infobox\n  6.65%   67.433      1 Template:David_Cronenberg\n  6.17%   62.548      8 Template:Wikidata\n  5.94%   60.242      1 Template:Short_description\n-->"
+}

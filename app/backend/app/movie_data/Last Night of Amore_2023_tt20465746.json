@@ -1,0 +1,974 @@
+{
+    "adult": false,
+    "backdrop_path": "/A1g8AvP3KpDyu0iyjS6roRxK77v.jpg",
+    "belongs_to_collection": null,
+    "budget": 9500000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 978870,
+    "imdb_id": "tt20465746",
+    "original_language": "it",
+    "original_title": "L'ultima notte di Amore",
+    "overview": "On the night before his retirement, police lieutenant Franco Amore is called to investigate the death of a long-time partner of his in a diamond heist in which he was involved.",
+    "popularity": 143.937,
+    "poster_path": "/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg",
+    "production_companies": [
+        {
+            "id": 115535,
+            "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+            "name": "Vision Distribution",
+            "origin_country": "IT"
+        },
+        {
+            "id": 18156,
+            "logo_path": "/3nAuYcaWdpW0ULMvMz6V5HIJmCO.png",
+            "name": "Indiana Production",
+            "origin_country": "IT"
+        },
+        {
+            "id": 64061,
+            "logo_path": null,
+            "name": "MeMo Films",
+            "origin_country": "IT"
+        },
+        {
+            "id": 128102,
+            "logo_path": "/dpAwWUOotsC5QAFKnJEvG6K0HXR.png",
+            "name": "Adler Entertainment",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "2023-03-09",
+    "revenue": 0,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "\u666e\u901a\u8bdd"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Last Night of Amore",
+    "video": false,
+    "vote_average": 7.207,
+    "vote_count": 299,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17839,
+                "known_for_department": "Acting",
+                "name": "Pierfrancesco Favino",
+                "original_name": "Pierfrancesco Favino",
+                "popularity": 8.929,
+                "profile_path": "/hedzgTKFKrSleWvLkBlANng8w4T.jpg",
+                "cast_id": 3,
+                "character": "Franco Amore",
+                "credit_id": "628ab55805b549009dfc037e",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1482131,
+                "known_for_department": "Acting",
+                "name": "Linda Caridi",
+                "original_name": "Linda Caridi",
+                "popularity": 7.739,
+                "profile_path": "/dWvat8TinpAtpski2UjZmCeqecs.jpg",
+                "cast_id": 4,
+                "character": "Viviana",
+                "credit_id": "628ab5982495ab527e688b4a",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 125696,
+                "known_for_department": "Acting",
+                "name": "Antonio Gerardi",
+                "original_name": "Antonio Gerardi",
+                "popularity": 7.693,
+                "profile_path": "/7OI80SQpWPOsfZQR43l6HyU2tn4.jpg",
+                "cast_id": 5,
+                "character": "Cosimo Forcella",
+                "credit_id": "628ab5b4d48cee0067a25b2b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 556722,
+                "known_for_department": "Acting",
+                "name": "Francesco Di Leva",
+                "original_name": "Francesco Di Leva",
+                "popularity": 6.247,
+                "profile_path": "/xL8SDKg4Jp9ibtn9Mlw4oQVUaK5.jpg",
+                "cast_id": 6,
+                "character": "Dino Ruggeri",
+                "credit_id": "628ab5cf7d5db51b291a3df1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3931653,
+                "known_for_department": "Acting",
+                "name": "Wang Fifi",
+                "original_name": "Wang Fifi",
+                "popularity": 1.4,
+                "profile_path": "/iklTYinPTuS4k4JXAKJc0hs5g7S.jpg",
+                "cast_id": 27,
+                "character": "Fei Fei",
+                "credit_id": "63f3d9fb15376c0095b2a7e2",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1785299,
+                "known_for_department": "Acting",
+                "name": "Katia Mironova",
+                "original_name": "Katia Mironova",
+                "popularity": 2.019,
+                "profile_path": "/xszJ5jC05vAzx9JjytoLjIlsJ6V.jpg",
+                "cast_id": 7,
+                "character": "Rodica",
+                "credit_id": "62b266583e6f2b00628571d2",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3639988,
+                "known_for_department": "Acting",
+                "name": "Carlo Gallo",
+                "original_name": "Carlo Gallo",
+                "popularity": 1.382,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Tito Russo",
+                "credit_id": "62ec13ffea84c700613ace96",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1871744,
+                "known_for_department": "Acting",
+                "name": "Camilla Semino Favro",
+                "original_name": "Camilla Semino Favro",
+                "popularity": 8.581,
+                "profile_path": "/9pKCmcaUCJffIJM1ZOp9zFlX6zk.jpg",
+                "cast_id": 17,
+                "character": "Carabiniere Daria Criscito",
+                "credit_id": "63c7cebd142ef100bd1881f0",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2558503,
+                "known_for_department": "Acting",
+                "name": "Martin Francisco Montero Baez",
+                "original_name": "Martin Francisco Montero Baez",
+                "popularity": 2.188,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Ernesto",
+                "credit_id": "64124880ede1b0287fdb83e3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2462732,
+                "known_for_department": "Acting",
+                "name": "Fabrizio Rocchi",
+                "original_name": "Fabrizio Rocchi",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Lupo",
+                "credit_id": "64124899e18e3f07e95464ec",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1110868,
+                "known_for_department": "Acting",
+                "name": "Shi Yang",
+                "original_name": "Shi Yang",
+                "popularity": 1.155,
+                "profile_path": "/6qXLdhJldF6lPZahEgV28StVYZC.jpg",
+                "cast_id": 30,
+                "character": "Chun-Ba",
+                "credit_id": "641248deede1b028a2b86692",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2182252,
+                "known_for_department": "Acting",
+                "name": "Ruichi Xu",
+                "original_name": "Ruichi Xu",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Gang Ma",
+                "credit_id": "641248faa6c10400c0c64549",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2702008,
+                "known_for_department": "Acting",
+                "name": "Noemi Bertoldi",
+                "original_name": "Noemi Bertoldi",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Anna",
+                "credit_id": "6412490d69c70f00f670e78e",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3964292,
+                "known_for_department": "Acting",
+                "name": "Pang Bo",
+                "original_name": "Pang Bo",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Mission",
+                "credit_id": "64124932a6c10400d8d867ab",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3964293,
+                "known_for_department": "Acting",
+                "name": "Alice Bossi",
+                "original_name": "Alice Bossi",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Rita",
+                "credit_id": "6412495ca6c104009aff5c7d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3964294,
+                "known_for_department": "Acting",
+                "name": "Michele Bottini",
+                "original_name": "Michele Bottini",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Carmine Fresi",
+                "credit_id": "64124971fe6c18007c38ebdf",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2186261,
+                "known_for_department": "Acting",
+                "name": "Mao Wen",
+                "original_name": "Mao Wen",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Bao Zhang",
+                "credit_id": "64124a00e18e3f0816c50923",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2931180,
+                "known_for_department": "Acting",
+                "name": "Viktorija Portnova",
+                "original_name": "Viktorija Portnova",
+                "popularity": 0.6,
+                "profile_path": "/qjUHywTspKuADCnWe7acao79BEZ.jpg",
+                "cast_id": 46,
+                "character": "Katia",
+                "credit_id": "642d97c654a8ac0ae5acdcd5",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40541,
+                "known_for_department": "Acting",
+                "name": "Andrea Di Stefano",
+                "original_name": "Andrea Di Stefano",
+                "popularity": 6.87,
+                "profile_path": "/5IsVNodecG5p8bWuqKhLuNhX0Lm.jpg",
+                "credit_id": "641843ac3103250086f91933",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40541,
+                "known_for_department": "Acting",
+                "name": "Andrea Di Stefano",
+                "original_name": "Andrea Di Stefano",
+                "popularity": 6.87,
+                "profile_path": "/5IsVNodecG5p8bWuqKhLuNhX0Lm.jpg",
+                "credit_id": "628ab41e7f1d8300a1fabc54",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40541,
+                "known_for_department": "Acting",
+                "name": "Andrea Di Stefano",
+                "original_name": "Andrea Di Stefano",
+                "popularity": 6.87,
+                "profile_path": "/5IsVNodecG5p8bWuqKhLuNhX0Lm.jpg",
+                "credit_id": "641843b10d5d85007b68bdf6",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 865418,
+                "known_for_department": "Production",
+                "name": "Fabrizio Donvito",
+                "original_name": "Fabrizio Donvito",
+                "popularity": 2.086,
+                "profile_path": "/iRtwasgu6Bk187JotYSq9jjMtlW.jpg",
+                "credit_id": "62b266dca24c5000529b1282",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1006735,
+                "known_for_department": "Production",
+                "name": "Marco Colombo",
+                "original_name": "Marco Colombo",
+                "popularity": 1.473,
+                "profile_path": null,
+                "credit_id": "62b266c005f9cf00f0bb9a60",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1110466,
+                "known_for_department": "Production",
+                "name": "Marco Morabito",
+                "original_name": "Marco Morabito",
+                "popularity": 1.708,
+                "profile_path": "/gLQusGPXo5gYmZlpQPxXCYRu1Xx.jpg",
+                "credit_id": "641843e9e74146008672a200",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1118298,
+                "known_for_department": "Production",
+                "name": "Marco Cohen",
+                "original_name": "Marco Cohen",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "62b266ab3e6f2b00628571ff",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1276769,
+                "known_for_department": "Sound",
+                "name": "Santi Pulvirenti",
+                "original_name": "Santi Pulvirenti",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "63c7d0607a97ab007b628712",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341585,
+                "known_for_department": "Editing",
+                "name": "Giogi\u00f2 Franchini",
+                "original_name": "Giogi\u00f2 Franchini",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "63c7cfb7142ef10082097b8b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1356833,
+                "known_for_department": "Production",
+                "name": "Benedetto Habib",
+                "original_name": "Benedetto Habib",
+                "popularity": 2.086,
+                "profile_path": null,
+                "credit_id": "62b2670005f9cf00eee4d82f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1544275,
+                "known_for_department": "Production",
+                "name": "Alessandro Mascheroni",
+                "original_name": "Alessandro Mascheroni",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "641843f56a22270085f0c757",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1544276,
+                "known_for_department": "Camera",
+                "name": "Guido Michelotti",
+                "original_name": "Guido Michelotti",
+                "popularity": 1.82,
+                "profile_path": null,
+                "credit_id": "641844783103250101519729",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1935877,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Paola Cristofaroni",
+                "original_name": "Paola Cristofaroni",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "641843d82b8a43007b78f2d1",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1974139,
+                "known_for_department": "Art",
+                "name": "Carmine Guarino",
+                "original_name": "Carmine Guarino",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "63c7cfdc2f3b1700dbdf7047",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2019858,
+                "known_for_department": "Production",
+                "name": "Piero Maranghi",
+                "original_name": "Piero Maranghi",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "64184401e74146007c82d95d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057954,
+                "known_for_department": "Production",
+                "name": "Francesco Melzi d'Eril",
+                "original_name": "Francesco Melzi d'Eril",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "62b2671ec2bcc6005260c0b5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2057955,
+                "known_for_department": "Production",
+                "name": "Gabriele Moratti",
+                "original_name": "Gabriele Moratti",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "64184419e7414600f7ef2c45",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2195365,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Olivia Bellini",
+                "original_name": "Olivia Bellini",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "63c7d00d7a97ab00d3a685c0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2297036,
+                "known_for_department": "Sound",
+                "name": "Alessandro Rolla",
+                "original_name": "Alessandro Rolla",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "641843c431032501015196f2",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2327067,
+                "known_for_department": "Production",
+                "name": "Daniel Campos Pavoncelli",
+                "original_name": "Daniel Campos Pavoncelli",
+                "popularity": 2.435,
+                "profile_path": null,
+                "credit_id": "62b26736d363e50061617f58",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "THE LAST NIGHT OF AMORE - Official HD Trailer - Only In Cinemas",
+                "key": "k_qt8Va9_gE",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2023-08-18T07:14:47.000Z",
+                "id": "64ebe75183901800c88b25fa"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/A1g8AvP3KpDyu0iyjS6roRxK77v.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 810,
+                "iso_639_1": null,
+                "file_path": "/1ZwHGiujpU1UsYXKIhnMCLSZjoZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/3kU0JwCMW9QbvgTXisQYB10B6jb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": "it",
+                "file_path": "/iYbUBryrxTpb3ZzmzXpiMlyFD0M.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/oZKQWDz6wP1bLZgPKwpcloU34sx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "fr",
+                "file_path": "/rX5OoSyprt6uq3KKCjnejOwKHr7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "de",
+                "file_path": "/91Z0aK9R8hKroyVjQmFlB7ydaSD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/mUwtIH6Zl9tcl3Vo5IHoj5zG8MZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/aMvZHjxS56KGgEW4SczndEj2Aek.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/fsEZrsab4nKGugOpw4KPoWjNvaN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 8.787,
+                "height": 310,
+                "iso_639_1": "de",
+                "file_path": "/vMROEEcxunWtldi9xMzY4dRcwqB.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2724
+            },
+            {
+                "aspect_ratio": 8.787,
+                "height": 310,
+                "iso_639_1": "de",
+                "file_path": "/wmRp1SQJVRjKghuNx8iX9r7U6fO.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2724
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/zLraNvkn6K7DIldm4Cxm9TDvzCO.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/myjMqBzmiNQbuOzKoLmODMHptOq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "fr",
+                "file_path": "/iGEfRbUGASbFLdnaO4V29ilULXK.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/5FDikDWBEagwc8qGli6KVDkEK55.jpg",
+                "vote_average": 5.238,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2000,
+                "iso_639_1": "it",
+                "file_path": "/jpJOX0GKZhBlJ3fnrFggl44AC9W.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/kLTwpUblbSgz1OMIre0Td0iSBND.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1980,
+                "iso_639_1": "it",
+                "file_path": "/nvScCZ9ubkqjfdNUNprNhhXVVaA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1980,
+                "iso_639_1": "it",
+                "file_path": "/paUEWQZb4plgCUygmFh0PO19h2Q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1320
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1962,
+                "iso_639_1": "en",
+                "file_path": "/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1308
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "fr",
+                "file_path": "/GP1vlw2EYxmzMxYj66fiOKSonD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2828,
+                "iso_639_1": "it",
+                "file_path": "/6CFlfqFxqLIGVvDg6HfbohJUy1N.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1980,
+                "iso_639_1": "it",
+                "file_path": "/v7jF9YQmin4o5OLJWMdmA7oRHeZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1980,
+                "iso_639_1": "it",
+                "file_path": "/wg2n5SynfoG7KUwZfAu2fkqtZl6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/6EChs4KHnlJwS4NpwPVpLZrTOTw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1969,
+                "iso_639_1": "el",
+                "file_path": "/j8uQApfV1ilD3U9S03BZo6bVyRt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1378
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2000,
+                "iso_639_1": "it",
+                "file_path": "/guLuTxRm46ABpFF3QyjJjeaJpgJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1333
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1200,
+                "iso_639_1": "ro",
+                "file_path": "/94FFNhunip4YcD8K8lDq0otyzF9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 799
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "nl",
+                "file_path": "/w8IBDxMln7oJgM8MJd9C0nXP2EW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/girIRdcTNd5ziB41XOPeQUyIpFS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/aYOH19zNiyzKYFdHWkaqkYtgVe.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1200,
+                "iso_639_1": "es",
+                "file_path": "/8418vZivUhFihh0is9impMH4gsJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 810
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1200,
+                "iso_639_1": "es",
+                "file_path": "/g0caMsvQ53w8PpzcaE3fkDSwl8W.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 810
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "es",
+                "file_path": "/iCd1sCdxXr7AdARNzqHrit8ULDO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/ubqCk6zk7VYtVRNATdJHdZbZRao.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "Last Night of Amore",
+    "year": "2023",
+    "rated": "N/A",
+    "director_list": [
+        "Andrea Di Stefano"
+    ],
+    "writer_list": [
+        "Andrea Di Stefano"
+    ],
+    "main_cast": [
+        "Pierfrancesco Favino",
+        " Linda Caridi",
+        " Antonio Gerardi"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        }
+    ],
+    "imdb_rating": "7.3",
+    "imdb_votes": "2,723",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Last_Night_of_Amore",
+    "wikipedia_summary": "Last Night of Amore (Italian: L\u2019ultima notte di Amore) is a 2023 Italian crime thriller film written and directed by Andrea Di Stefano. The film starring Pierfrancesco Favino, Linda Caridi, Antonio Gerardi, Francesco Di Leva, and Camilla Semino Favro, depicts the story of Franco Amore, who is writing his farewell speech on the night of his retirement. Nobody knew, though, that night would turn out to be the longest and most difficult of his entire professional life.It was selected for the 73rd Berlin International Film Festival in the Berlinale Special Gala, where it had its world premiere on 24 February 2023.  It was released in cinemas on 9 March 2023. The film was shortlisted for submission to 96th Academy Awards as Italian entry for Best International Feature Film in September 2023.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": "On the review aggregator Rotten Tomatoes website, the film has an approval rating of 100% based on 5 reviews, with an average rating of 6.8/10.Vittoria Scarpa reviewing for Cineuropa praised the performance of Pierfrancesco Favino and Linda Caridi writing, \"Favino's acting talents are well known, and to note here in particular is the performance of Linda Caridi, who gracefully brings to life a very complex and multifaceted female character.\" Writing about the director and scriptwriter Andrea Di Stefano, Scarpa stated, \"[Di Stefano] directs this thriller/drama with a steady pulse, succeeding in conveying the right amount of suspense and subterranean tension, and with a good narrative rhythm, effectively using the device of re-enacting the same scenes from different points of view.\" Lee Marshall for ScreenDaily writing a positive review said, \"It\u2019s been a while since we\u2019ve seen such a stylish Italian crime thriller.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Last Night of Amore</b></i> (Italian: <i lang=\"it\">L\u2019ultima notte di Amore</i>) is a 2023 Italian crime thriller film written and directed by Andrea Di Stefano. The film starring Pierfrancesco Favino, Linda Caridi, Antonio Gerardi, Francesco Di Leva, and Camilla Semino Favro, depicts the story of Franco Amore, who is writing his farewell speech on the night of his retirement. Nobody knew, though, that night would turn out to be the longest and most difficult of his entire professional life.</p><p>It was selected for the 73rd Berlin International Film Festival in the Berlinale Special Gala, where it had its world premiere on 24 February 2023.  It was released in cinemas on 9 March 2023. The film was shortlisted for submission to 96th Academy Awards as Italian entry for Best International Feature Film in September 2023.</p>\n\n<h2>Cast</h2>\n<ul><li>Pierfrancesco Favino as Franco Amore</li>\n<li>Linda Caridi as Viviana</li>\n<li>Antonio Gerardi as Cosimo Forcella</li>\n<li>Francesco Di Leva as Dino</li>\n<li>Camilla Semino Favro as Carabiniere Daria Criscito</li>\n<li>Martin Montero Baez as Ernesto</li>\n<li>Wang Fei as Feifei</li>\n<li>Pang Bo as Mission</li>\n<li>Shi Yang Shi as Chun-Ba</li>\n<li>Xu Ruichi as Gang Ma</li>\n<li>Mauro Milone</li>\n<li>Carlo Gallo</li>\n<li>Mauro Negri</li>\n<li>Fabrizio Rocchi</li>\n<li>Katia Mironova</li>\n<li>Chandra Perkins</li></ul>\n\n<h2>Soundtrack</h2>\n<ol><li>\"Fate Tiptoes to a Party\" by Santi Pulvirenti</li>\n<li>\"Last Night\" by Santi Pulvirenti</li>\n<li>\"Fathers\" by Santi Pulvirenti</li>\n<li>\"The Mechanics of Amore\" by Santi Pulvirenti</li>\n<li>\"The Ambition of Being Honest\" by Santi Pulvirenti</li>\n<li>\"Spectrum\" by Santi Pulvirenti</li>\n<li>\"Alba\" by Santi Pulvirenti</li>\n<li>\"The Brain of a Dying Man\" by Santi Pulvirenti</li>\n<li>\"Mel\u00f2 Dia\" by Santi Pulvirenti</li>\n<li>\"The Sky Is Looking Down at You\" by Santi Pulvirenti</li>\n<li>\"The Carp\" by Santi Pulvirenti</li>\n<li>\"Don't Do It\" by Santi Pulvirenti</li>\n<li>\"Milano da bere\" by Santi Pulvirenti</li></ol>\n\n<h2>Release</h2>\n<p><i>Last Night of Amore</i> had its world premiere on 24 February 2023 as part of the 73rd Berlin International Film Festival, in the Berlinale Special Gala. It was released in cinemas on 9 March  2023. It was invited at the 28th Busan International Film Festival in 'World Cinema' section and was screened on 7 October 2023.</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>The film opened with US$1,027,372, and as of 27\u00a0May\u00a02023 it is the eleventh highest-grossing film released in the year 2023 with gross of US$3,503,276 at the Italian box office.</p>\n\n<h3>Critical response</h3>\n<p>On the review aggregator Rotten Tomatoes website, the film has an approval rating of 100% based on 5 reviews, with an average rating of 6.8/10.</p><p>Vittoria Scarpa reviewing for Cineuropa praised the performance of Pierfrancesco Favino and Linda Caridi writing, \"Favino's acting talents are well known, and to note here in particular is the performance of Linda Caridi, who gracefully brings to life a very complex and multifaceted female character.\" Writing about the director and scriptwriter Andrea Di Stefano, Scarpa stated, \"[Di Stefano] directs this thriller/drama with a steady pulse, succeeding in conveying the right amount of suspense and subterranean tension, and with a good narrative rhythm, effectively using the device of re-enacting the same scenes from different points of view.\" Lee Marshall for ScreenDaily writing a positive review said, \"It\u2019s been a while since we\u2019ve seen such a stylish Italian crime thriller.\"</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><span><span>Official website</span></span> in Italian</li>\n<li><i>Last Night of Amore</i> at IMDb\u00a0</li>\n<li><i>Last Night of Amore</i> at Berlinale</li>\n<li><i>Last Night of Amore</i> at Rotten Tomatoes </li></ul>"
+}

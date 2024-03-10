@@ -1,0 +1,499 @@
+{
+    "adult": false,
+    "backdrop_path": "/aKU7WuyiQ9DI2u6QLu9AwDoGC9j.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 95482,
+    "imdb_id": "tt0126838",
+    "original_language": "ko",
+    "original_title": "\ucd08\ub85d\ubb3c\uace0\uae30",
+    "overview": "Returning home and finding his town drastically changed, a former soldier falls in with gangsters.",
+    "popularity": 6.682,
+    "poster_path": "/1iQLAFaUvg3ZtgKJyM2yZHGZ9io.jpg",
+    "production_companies": [
+        {
+            "id": 7036,
+            "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+            "name": "CJ Entertainment",
+            "origin_country": "KR"
+        },
+        {
+            "id": 12836,
+            "logo_path": null,
+            "name": "East Film",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "1997-02-07",
+    "revenue": 0,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Green Fish",
+    "video": false,
+    "vote_average": 7.028,
+    "vote_count": 53,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80457,
+                "known_for_department": "Acting",
+                "name": "Han Suk-kyu",
+                "original_name": "Han Suk-kyu",
+                "popularity": 8.926,
+                "profile_path": "/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg",
+                "cast_id": 1006,
+                "character": "Mak-dong",
+                "credit_id": "52fe49869251416c750cade3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 117349,
+                "known_for_department": "Acting",
+                "name": "Shim Hye-jin",
+                "original_name": "Shim Hye-jin",
+                "popularity": 9.209,
+                "profile_path": "/dFZksi2ovgOy43fqZUHgzvi1988.jpg",
+                "cast_id": 1008,
+                "character": "Mi-ae",
+                "credit_id": "52fe49869251416c750cadeb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240948,
+                "known_for_department": "Acting",
+                "name": "Moon Sung-keun",
+                "original_name": "Moon Sung-keun",
+                "popularity": 4.768,
+                "profile_path": "/wQjOvAFqCItwMw7dxa486KnGgEE.jpg",
+                "cast_id": 1010,
+                "character": "Bae Tae-gon",
+                "credit_id": "53f09e260e0a2675bc003346",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20738,
+                "known_for_department": "Acting",
+                "name": "Song Kang-ho",
+                "original_name": "Song Kang-ho",
+                "popularity": 10.212,
+                "profile_path": "/dyWUKQlNyr7SUAjo58VZXvPODkr.jpg",
+                "cast_id": 1009,
+                "character": "Pan-su",
+                "credit_id": "52fe49869251416c750cadef",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1299218,
+                "known_for_department": "Acting",
+                "name": "Dong Bang-woo",
+                "original_name": "Dong Bang-woo",
+                "popularity": 3.297,
+                "profile_path": "/nFqRLymfCOfdbFk1U930ZVDtSOf.jpg",
+                "cast_id": 1019,
+                "character": "Kim Yang-gil",
+                "credit_id": "5b61a1e89251414054013221",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1302927,
+                "known_for_department": "Acting",
+                "name": "Lee Ho-seong",
+                "original_name": "Lee Ho-seong",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 1013,
+                "character": "Mak-dong's 1st-eldest Brother",
+                "credit_id": "5b5a7c450e0a266986003f0d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2093070,
+                "known_for_department": "Acting",
+                "name": "Han Seon-Gyu",
+                "original_name": "Han Seon-Gyu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 1014,
+                "character": "Mak-dong's 2nd-eldest Brother",
+                "credit_id": "5b5a7c510e0a26699b004121",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96484,
+                "known_for_department": "Acting",
+                "name": "Jung Jin-young",
+                "original_name": "Jung Jin-young",
+                "popularity": 6.43,
+                "profile_path": "/ipBYiyEfFrffCoTpoSiEChHDwz4.jpg",
+                "cast_id": 1015,
+                "character": "Mak-dong's 3rd-eldest Brother",
+                "credit_id": "5b5a7c660e0a26698f0042e3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 96633,
+                "known_for_department": "Acting",
+                "name": "Oh Ji-hye",
+                "original_name": "Oh Ji-hye",
+                "popularity": 2.948,
+                "profile_path": "/xmlYySl0WE8zcQ0PFj23w85IvyI.jpg",
+                "cast_id": 1018,
+                "character": "Mak-dong's Sister",
+                "credit_id": "5b5a7dbb9251412a9a003e4e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 138509,
+                "known_for_department": "Acting",
+                "name": "Lee Moon-sik",
+                "original_name": "Lee Moon-sik",
+                "popularity": 3.539,
+                "profile_path": "/l35QNTHvVchdwKaX4TBvmC5ibRy.jpg",
+                "cast_id": 1016,
+                "character": "Thug on Train",
+                "credit_id": "5b5a7d26c3a368670a0039b1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83682,
+                "known_for_department": "Acting",
+                "name": "Jung Jae-young",
+                "original_name": "Jung Jae-young",
+                "popularity": 8.384,
+                "profile_path": "/xeiFPl5GOHemLGGMpvzeiK0Nlpm.jpg",
+                "cast_id": 1017,
+                "character": "Heckler",
+                "credit_id": "5b5a7d340e0a26699800409a",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2648881,
+                "known_for_department": "Acting",
+                "name": "Cha Yu-Kyeong",
+                "original_name": "Cha Yu-Kyeong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 1025,
+                "character": "2nd Brother's Wife",
+                "credit_id": "5ec7b24d8e2e00002125c1b7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1099795,
+                "known_for_department": "Acting",
+                "name": "Son Young-soon",
+                "original_name": "Son Young-soon",
+                "popularity": 1.904,
+                "profile_path": "/yp03B9loF1IfHM0fmsxtomyn8pC.jpg",
+                "cast_id": 1031,
+                "character": "Mother",
+                "credit_id": "5ff129e8869e75003ed95817",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17134,
+                "known_for_department": "Editing",
+                "name": "Kim Hyun",
+                "original_name": "Kim Hyun",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5ff1272a66e469003fbf226b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64886,
+                "known_for_department": "Sound",
+                "name": "Lee Dong-jun",
+                "original_name": "Lee Dong-jun",
+                "popularity": 0.67,
+                "profile_path": null,
+                "credit_id": "5be3e3e4c3a36810d202616f",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96657,
+                "known_for_department": "Directing",
+                "name": "Lee Chang-dong",
+                "original_name": "Lee Chang-dong",
+                "popularity": 3.157,
+                "profile_path": "/shmg8UqN0hxGR84ZQuSwczkkhZE.jpg",
+                "credit_id": "52fe49869251416c750caddf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96657,
+                "known_for_department": "Directing",
+                "name": "Lee Chang-dong",
+                "original_name": "Lee Chang-dong",
+                "popularity": 3.157,
+                "profile_path": "/shmg8UqN0hxGR84ZQuSwczkkhZE.jpg",
+                "credit_id": "5be3e39e9251415c7202573b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96780,
+                "known_for_department": "Directing",
+                "name": "Yeo Kyun-dong",
+                "original_name": "Yeo Kyun-dong",
+                "popularity": 2.475,
+                "profile_path": "/5hlEEQRPNmonWX0rHjAZ3OiN2mX.jpg",
+                "credit_id": "57ef3a61c3a368766d002b13",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1105283,
+                "known_for_department": "Camera",
+                "name": "You Yong-kil",
+                "original_name": "You Yong-kil",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5dd8199d28723c18ad536a77",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1105286,
+                "known_for_department": "Writing",
+                "name": "Oh Seung-uk",
+                "original_name": "Oh Seung-uk",
+                "popularity": 1.979,
+                "profile_path": "/7No4Xsok5igTaWhFkqUzUwQwU6e.jpg",
+                "credit_id": "653365f5abdafc014e7cdb17",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1113590,
+                "known_for_department": "Sound",
+                "name": "Young-kon Kim",
+                "original_name": "Young-kon Kim",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ff1277466e4690041bf2e70",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1299218,
+                "known_for_department": "Acting",
+                "name": "Dong Bang-woo",
+                "original_name": "Dong Bang-woo",
+                "popularity": 3.297,
+                "profile_path": "/nFqRLymfCOfdbFk1U930ZVDtSOf.jpg",
+                "credit_id": "600d6e66c433ea004041f666",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2920954,
+                "known_for_department": "Art",
+                "name": "Joo Byung-do",
+                "original_name": "Joo Byung-do",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ff12750dc1cb4003d6a896c",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3951297,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kang Dae-young",
+                "original_name": "Kang Dae-young",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6405e14a13654500ba4f4226",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Green Fish Trailer",
+                "key": "DzbJOadyOQ4",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2020-03-25T14:34:07.000Z",
+                "id": "61a8199b0486380065c0739b"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.783,
+                "height": 1226,
+                "iso_639_1": null,
+                "file_path": "/aKU7WuyiQ9DI2u6QLu9AwDoGC9j.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2186
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/652SQhVACFKeoElbCSsuOeiyukD.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/erRpSPCcq0g8KSdYh4B5xEhaZaR.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/1iQLAFaUvg3ZtgKJyM2yZHGZ9io.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.661,
+                "height": 1500,
+                "iso_639_1": "ko",
+                "file_path": "/ezorGkdpFt8o4oS8cVY5Q4OdJnk.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 992
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 751,
+                "iso_639_1": "ko",
+                "file_path": "/oH0qpOwAdN89uvEPg2ceB0T9bag.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "Green Fish",
+    "year": "1997",
+    "rated": "N/A",
+    "director_list": [
+        "Lee Chang-dong"
+    ],
+    "writer_list": [
+        "Lee Chang-dong"
+    ],
+    "main_cast": [
+        "Han Suk-kyu",
+        " Shim Hye-jin",
+        " Moon Sung-Keun"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        }
+    ],
+    "imdb_rating": "6.9",
+    "imdb_votes": "1,944",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Green_Fish",
+    "wikipedia_summary": "Green Fish (Korean: \ucd08\ub85d \ubb3c\uace0\uae30; RR: Chorok Mulgogi) is a 1997 South Korean neo-noir crime film. It was the first feature-length film directed by Lee Chang-dong, who also co-wrote the screenplay. Lee had previously been known as a novelist and high school teacher. The film stars Han Suk-kyu in one of his first major film roles. It was the eighth highest-attended South Korean film of 1997.",
+    "wikipedia_plot": "Having just been discharged from the military, Mak-dong is on the train home. As he leans out the train platform, Mi-ae, a beautiful woman in the car ahead of him, is also leaning out. Her pink scarf escapes from her and poignantly lands on Mak-dong's face, blinding him. As he goes back into the train car to return the scarf, he becomes embroiled in a fight with a group of thugs who are harassing Mi-ae. From the beginning, Mak-dong is entangled in a relationship that becomes his undoing.\nHome, Ilsan, is not the same for Mak-dong anymore. The fields, acacias and rice paddies have gone, replaced by high rise apartments. He discovers his mother is working as a house maid, and all of his siblings except his mentally disabled brother\u2014who is literally the eldest brother and called \"big brother,\" have left home, struggling to make a living. His sister is working as a hostess, his younger brother is working as an egg delivery man, and his older brother is a detective who is also a violent drunk. Mak-dong's dream, which he expresses to his brother, is for the whole family to live together again, running a family business, and living in harmony. His brother replies then how would any of them make a living?\nWhile looking for work in an alienated neighborhood of Seoul, Youngdeungpo, Mak-dong again sees Mi-ae, the owner of the pink scarf, and follows her into a nightclub where she is a singer. She is also the girlfriend of a gang boss Bae Tae-gon, and when Mak-dong tries to defend her from his thugs when they force her into a car, he ends up getting beat up again. Later, at Mi-ae's urging, the boss gives him a reference for a job at a parking lot.\nMak-dong is given the opportunity to make a lot of money by inciting a fight with a council man who is obstructing Bae Tae-gon's building permit. In order to do this convincingly, Mak-dong breaks his fingers by slamming a door on them. Seeing him complete his task with such dedication, Bae Tae-gon elevates him by allowing him to call him \"hyung,\" or \"Big Brother,\" and admitting him as a full-fledged member of the gang. This causes some of the underlings to become disgruntled, as it would normally take at least a year to reach this status.\nNow a member of 'the family', Mak-dong and Mi-ae find in each other a kindred spirit, the feeling between them not clearly defined, yet finding themselves drawn to each other through their common feeling of hopelessness. In an important scene on the train, Mi-ae and Mak-dong talk and he gives her a photo of the large, green tree in front of his home in Ilsan. Mi-ae is struck by Mak-dong's naivete and purity. It is revealed Mak-dong is a virgin. Her beeper goes off, and it is Bae Tae-gun telling her to return home immediately. She tells Mak-dong she will do whatever he says, and with a traditional Korean loyalty, he responds that if big brother has asked them to return they should. Mi-ae laughs bitterly at his old fashioned simplicity. After a night when Bae Tae-gon sends her up to the hotel room of a prosecutor as a sexual \"favor\", she insults the gang boss. Mak-dong witnesses Bae Tae-gon slapping her, then drives her home. She offers herself to Mak-ong even though she is \"dirty.\"\nSuddenly, Bae Tae-gon's own former gang boss Kim Yang-kil arrives from years behind bars to take for himself the little empire Bae Tae-gon has spent his life building. In several encounters with Kim Yang-kil, Bae Tae-gon is humiliated in front of his own gang. Bae Tae-gon takes Mak-dong up to the deserted building where he wants to build his future empire, and asks him what his dream is. Bae replies he also got as far as he did because of one of those dreams. Mak-dong makes a final expression of his loyalty by stabbing Kim Yang-kil to death in a men's bathroom. As blood flows everywhere, Mak-dong becomes hysterical.\nImmediately after, Mak-dong calls home in the famous \"phone booth\" scene. He asks his mentally challenged \"big brother\" if he remembers how they used to fish in the river, and how one day he lost a whole day of fishing because he tried to catch one of the green fish and lost his slipper in the river. Immediately after, Bae Tae-gon takes Mak-dong to the deserted building, and being consistent with the ruthless nature that has got him so far in life, fatally shoots him, leaving him for dead. Mak-dong staggers out and sprawls across the windshield of Bae's car, staring straight into the camera and dying as Mi-ae screams in horror.\nSome time later, Bae Tae-gon and Mi-ae have moved to the Ilsan New Town that typifies the new middle class suburbs that have sprung up around Seoul's satellite cities. One day they come upon an old-style restaurant in an old-style house run by a family. Mi-ae appears to be pregnant. The couple order chicken soup, and a chicken is slaughtered in front of them, recalling the sacrifice Mak-dong made for his dream to come true. Outside, Mi-ae recognizes with tears the tree in the photo she has kept all this time and realizes it is Mak-dong's family home.",
+    "wikipedia_plot_html": "<p>Having just been discharged from the military, Mak-dong is on the train home. As he leans out the train platform, Mi-ae, a beautiful woman in the car ahead of him, is also leaning out. Her pink scarf escapes from her and poignantly lands on Mak-dong's face, blinding him. As he goes back into the train car to return the scarf, he becomes embroiled in a fight with a group of thugs who are harassing Mi-ae. From the beginning, Mak-dong is entangled in a relationship that becomes his undoing.\n</p><p>Home, Ilsan, is not the same for Mak-dong anymore. The fields, acacias and rice paddies have gone, replaced by high rise apartments. He discovers his mother is working as a house maid, and all of his siblings except his mentally disabled brother\u2014who is literally the eldest brother and called \"big brother,\" have left home, struggling to make a living. His sister is working as a hostess, his younger brother is working as an egg delivery man, and his older brother is a detective who is also a violent drunk. Mak-dong's dream, which he expresses to his brother, is for the whole family to live together again, running a family business, and living in harmony. His brother replies then how would any of them make a living?\n</p><p>While looking for work in an alienated neighborhood of Seoul, Youngdeungpo, Mak-dong again sees Mi-ae, the owner of the pink scarf, and follows her into a nightclub where she is a singer. She is also the girlfriend of a gang boss Bae Tae-gon, and when Mak-dong tries to defend her from his thugs when they force her into a car, he ends up getting beat up again. Later, at Mi-ae's urging, the boss gives him a reference for a job at a parking lot.\n</p><p>Mak-dong is given the opportunity to make a lot of money by inciting a fight with a council man who is obstructing Bae Tae-gon's building permit. In order to do this convincingly, Mak-dong breaks his fingers by slamming a door on them. Seeing him complete his task with such dedication, Bae Tae-gon elevates him by allowing him to call him \"hyung,\" or \"Big Brother,\" and admitting him as a full-fledged member of the gang. This causes some of the underlings to become disgruntled, as it would normally take at least a year to reach this status.\n</p><p>Now a member of 'the family', Mak-dong and Mi-ae find in each other a kindred spirit, the feeling between them not clearly defined, yet finding themselves drawn to each other through their common feeling of hopelessness. In an important scene on the train, Mi-ae and Mak-dong talk and he gives her a photo of the large, green tree in front of his home in Ilsan. Mi-ae is struck by Mak-dong's naivete and purity. It is revealed Mak-dong is a virgin. Her beeper goes off, and it is Bae Tae-gun telling her to return home immediately. She tells Mak-dong she will do whatever he says, and with a traditional Korean loyalty, he responds that if big brother has asked them to return they should. Mi-ae laughs bitterly at his old fashioned simplicity. After a night when Bae Tae-gon sends her up to the hotel room of a prosecutor as a sexual \"favor\", she insults the gang boss. Mak-dong witnesses Bae Tae-gon slapping her, then drives her home. She offers herself to Mak-ong even though she is \"dirty.\"\n</p><p>Suddenly, Bae Tae-gon's own former gang boss Kim Yang-kil arrives from years behind bars to take for himself the little empire Bae Tae-gon has spent his life building. In several encounters with Kim Yang-kil, Bae Tae-gon is humiliated in front of his own gang. Bae Tae-gon takes Mak-dong up to the deserted building where he wants to build his future empire, and asks him what his dream is. Bae replies he also got as far as he did because of one of those dreams. Mak-dong makes a final expression of his loyalty by stabbing Kim Yang-kil to death in a men's bathroom. As blood flows everywhere, Mak-dong becomes hysterical.\n</p><p>Immediately after, Mak-dong calls home in the famous \"phone booth\" scene. He asks his mentally challenged \"big brother\" if he remembers how they used to fish in the river, and how one day he lost a whole day of fishing because he tried to catch one of the green fish and lost his slipper in the river. Immediately after, Bae Tae-gon takes Mak-dong to the deserted building, and being consistent with the ruthless nature that has got him so far in life, fatally shoots him, leaving him for dead. Mak-dong staggers out and sprawls across the windshield of Bae's car, staring straight into the camera and dying as Mi-ae screams in horror.\n</p><p>Some time later, Bae Tae-gon and Mi-ae have moved to the Ilsan New Town that typifies the new middle class suburbs that have sprung up around Seoul's satellite cities. One day they come upon an old-style restaurant in an old-style house run by a family. Mi-ae appears to be pregnant. The couple order chicken soup, and a chicken is slaughtered in front of them, recalling the sacrifice Mak-dong made for his dream to come true. Outside, Mi-ae recognizes with tears the tree in the photo she has kept all this time and realizes it is Mak-dong's family home.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>Green Fish</b></i> (Korean:\u00a0<span title=\"Korean-language text\"><span lang=\"ko-Hang\">\ucd08\ub85d \ubb3c\uace0\uae30</span></span>; RR:\u00a0<span title=\"Korean-language romanization\"><i lang=\"ko-Latn\">Chorok Mulgogi</i></span>) is a 1997 South Korean neo-noir crime film. It was the first feature-length film directed by Lee Chang-dong, who also co-wrote the screenplay. Lee had previously been known as a novelist and high school teacher. The film stars Han Suk-kyu in one of his first major film roles. It was the eighth highest-attended South Korean film of 1997.</p>\n\n<h2>Plot</h2>\n<p>Having just been discharged from the military, Mak-dong is on the train home. As he leans out the train platform, Mi-ae, a beautiful woman in the car ahead of him, is also leaning out. Her pink scarf escapes from her and poignantly lands on Mak-dong's face, blinding him. As he goes back into the train car to return the scarf, he becomes embroiled in a fight with a group of thugs who are harassing Mi-ae. From the beginning, Mak-dong is entangled in a relationship that becomes his undoing.\n</p><p>Home, Ilsan, is not the same for Mak-dong anymore. The fields, acacias and rice paddies have gone, replaced by high rise apartments. He discovers his mother is working as a house maid, and all of his siblings except his mentally disabled brother\u2014who is literally the eldest brother and called \"big brother,\" have left home, struggling to make a living. His sister is working as a hostess, his younger brother is working as an egg delivery man, and his older brother is a detective who is also a violent drunk. Mak-dong's dream, which he expresses to his brother, is for the whole family to live together again, running a family business, and living in harmony. His brother replies then how would any of them make a living?\n</p><p>While looking for work in an alienated neighborhood of Seoul, Youngdeungpo, Mak-dong again sees Mi-ae, the owner of the pink scarf, and follows her into a nightclub where she is a singer. She is also the girlfriend of a gang boss Bae Tae-gon, and when Mak-dong tries to defend her from his thugs when they force her into a car, he ends up getting beat up again. Later, at Mi-ae's urging, the boss gives him a reference for a job at a parking lot.\n</p><p>Mak-dong is given the opportunity to make a lot of money by inciting a fight with a council man who is obstructing Bae Tae-gon's building permit. In order to do this convincingly, Mak-dong breaks his fingers by slamming a door on them. Seeing him complete his task with such dedication, Bae Tae-gon elevates him by allowing him to call him \"hyung,\" or \"Big Brother,\" and admitting him as a full-fledged member of the gang. This causes some of the underlings to become disgruntled, as it would normally take at least a year to reach this status.\n</p><p>Now a member of 'the family', Mak-dong and Mi-ae find in each other a kindred spirit, the feeling between them not clearly defined, yet finding themselves drawn to each other through their common feeling of hopelessness. In an important scene on the train, Mi-ae and Mak-dong talk and he gives her a photo of the large, green tree in front of his home in Ilsan. Mi-ae is struck by Mak-dong's naivete and purity. It is revealed Mak-dong is a virgin. Her beeper goes off, and it is Bae Tae-gun telling her to return home immediately. She tells Mak-dong she will do whatever he says, and with a traditional Korean loyalty, he responds that if big brother has asked them to return they should. Mi-ae laughs bitterly at his old fashioned simplicity. After a night when Bae Tae-gon sends her up to the hotel room of a prosecutor as a sexual \"favor\", she insults the gang boss. Mak-dong witnesses Bae Tae-gon slapping her, then drives her home. She offers herself to Mak-ong even though she is \"dirty.\"\n</p><p>Suddenly, Bae Tae-gon's own former gang boss Kim Yang-kil arrives from years behind bars to take for himself the little empire Bae Tae-gon has spent his life building. In several encounters with Kim Yang-kil, Bae Tae-gon is humiliated in front of his own gang. Bae Tae-gon takes Mak-dong up to the deserted building where he wants to build his future empire, and asks him what his dream is. Bae replies he also got as far as he did because of one of those dreams. Mak-dong makes a final expression of his loyalty by stabbing Kim Yang-kil to death in a men's bathroom. As blood flows everywhere, Mak-dong becomes hysterical.\n</p><p>Immediately after, Mak-dong calls home in the famous \"phone booth\" scene. He asks his mentally challenged \"big brother\" if he remembers how they used to fish in the river, and how one day he lost a whole day of fishing because he tried to catch one of the green fish and lost his slipper in the river. Immediately after, Bae Tae-gon takes Mak-dong to the deserted building, and being consistent with the ruthless nature that has got him so far in life, fatally shoots him, leaving him for dead. Mak-dong staggers out and sprawls across the windshield of Bae's car, staring straight into the camera and dying as Mi-ae screams in horror.\n</p><p>Some time later, Bae Tae-gon and Mi-ae have moved to the Ilsan New Town that typifies the new middle class suburbs that have sprung up around Seoul's satellite cities. One day they come upon an old-style restaurant in an old-style house run by a family. Mi-ae appears to be pregnant. The couple order chicken soup, and a chicken is slaughtered in front of them, recalling the sacrifice Mak-dong made for his dream to come true. Outside, Mi-ae recognizes with tears the tree in the photo she has kept all this time and realizes it is Mak-dong's family home.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Han Suk-kyu as Mak-dong</li>\n<li>Shim Hye-jin as Mi-ae</li>\n<li>Moon Sung-keun as Bae Tae-gon</li>\n<li>Myung Gye-nam as Kim Yang-kil</li>\n<li>Kim Yong-nam as Department chief Park</li>\n<li>Han Seon-kyu as Mak-dong's 2nd eldest brother</li>\n<li>Jung Jin-young as Mak-dong's 3rd eldest brother</li>\n<li>Oh Ji-hye as Soon-ok</li>\n<li>Son Young-soon as Mother</li>\n<li>Song Kang-ho as Pan-su</li>\n<li>Lee Moon-sik as Thug on train</li></ul>\n\n<h2>Influence</h2>\n<p>Although director Lee is renowned for superb writing, he allowed Han to improvise the now-famous extended monologue inside the telephone booth. The scene became iconic enough to be spoofed by the 2002 Korean compendium of satire, \"Funny Movie\" directed by Gyu-seong Jang. As recently as August 2007, the scene was once again spoofed in the MBC drama \"Kimchi Cheese Smile\".\n</p><p>The character of \"Kim Yang-gil\" (a rival mob boss), as played by Myung Gye-nam, has been parodied with an extended back-story in the 2006 black comedy The Customer is Always Right.\n</p><p>The pivotal scene in a men's restroom, has recently been cited by poet/director Yoo Ha for informing the basis of a similar scene in his more stylistically baroque <i>A Dirty Carnival</i>.\n</p>\n\n<h2>Awards and nominations</h2>\n<h2>References</h2>\n<h3>Notes</h3>\n<h3>Bibliography</h3>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFKim2004\" class=\"citation book cs1\">Kim, Kyung-hyun (2004). \"1. At the Edge of a Metropolis in <i>A Fine, Windy Day</i> and <i>Green Fish</i>\". <i>The Remasculinization of Korean Cinema</i>. Durham and London: Duke University Press. pp.\u00a034\u201343. ISBN\u00a0<bdi>0-8223-3267-1</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=1.+At+the+Edge+of+a+Metropolis+in+A+Fine%2C+Windy+Day+and+Green+Fish&amp;rft.btitle=The+Remasculinization+of+Korean+Cinema&amp;rft.place=Durham+and+London&amp;rft.pages=34-43&amp;rft.pub=Duke+University+Press&amp;rft.date=2004&amp;rft.isbn=0-8223-3267-1&amp;rft.aulast=Kim&amp;rft.aufirst=Kyung-hyun&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Fish\"></span></li></ul>\n\n<h2>External links</h2>\n<ul><li><i>Green Fish</i> at the Korean Movie Database</li>\n<li><i>Green Fish</i> at IMDb</li></ul>"
+}

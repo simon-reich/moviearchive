@@ -1,0 +1,1657 @@
+{
+    "adult": false,
+    "backdrop_path": "/ihwfod79qlBbFpjVQNeXxmX03ql.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.focusfeatures.com/a_serious_man",
+    "id": 12573,
+    "imdb_id": "tt1019452",
+    "original_language": "en",
+    "original_title": "A Serious Man",
+    "overview": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
+    "popularity": 17.265,
+    "poster_path": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+    "production_companies": [
+        {
+            "id": 2092,
+            "logo_path": "/f8s2OKSrnfaCmvCz2LCGxk1WNWO.png",
+            "name": "Mike Zoss Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 10146,
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "origin_country": "US"
+        },
+        {
+            "id": 7295,
+            "logo_path": "/62E1B91PxZw8q4KNkge5Qemo7EM.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 694,
+            "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+            "name": "StudioCanal",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2009-09-30",
+    "revenue": 31400000,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hebrew",
+            "iso_639_1": "he",
+            "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Yiddish",
+            "iso_639_1": "yi",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "\u2026seriously!",
+    "title": "A Serious Man",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 1925,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72873,
+                "known_for_department": "Acting",
+                "name": "Michael Stuhlbarg",
+                "original_name": "Michael Stuhlbarg",
+                "popularity": 29.966,
+                "profile_path": "/seBk12MUK51aUoYX4OW1itfOpJ6.jpg",
+                "cast_id": 1,
+                "character": "Lawrence 'Larry' Gopnik",
+                "credit_id": "52fe44fd9251416c75047e97",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21125,
+                "known_for_department": "Acting",
+                "name": "Richard Kind",
+                "original_name": "Richard Kind",
+                "popularity": 14.045,
+                "profile_path": "/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg",
+                "cast_id": 2,
+                "character": "Uncle Arthur Gopnik",
+                "credit_id": "52fe44fd9251416c75047e9b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105303,
+                "known_for_department": "Acting",
+                "name": "Fred Melamed",
+                "original_name": "Fred Melamed",
+                "popularity": 6.252,
+                "profile_path": "/cb5HSNuu6n4OVuxxQCDd5CfEocb.jpg",
+                "cast_id": 5,
+                "character": "Sy Ableman",
+                "credit_id": "52fe44fd9251416c75047eab",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105304,
+                "known_for_department": "Acting",
+                "name": "Sari Lennick",
+                "original_name": "Sari Lennick",
+                "popularity": 1.412,
+                "profile_path": "/hsMyGicZDLhY0RJ6mlakHraYKha.jpg",
+                "cast_id": 6,
+                "character": "Judith Gopnik",
+                "credit_id": "52fe44fd9251416c75047eaf",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105305,
+                "known_for_department": "Acting",
+                "name": "Aaron Wolff",
+                "original_name": "Aaron Wolff",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Danny Gopnik",
+                "credit_id": "52fe44fd9251416c75047eb3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105306,
+                "known_for_department": "Acting",
+                "name": "Jessica McManus",
+                "original_name": "Jessica McManus",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Sarah Gopnik",
+                "credit_id": "52fe44fd9251416c75047eb7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55257,
+                "known_for_department": "Acting",
+                "name": "Adam Arkin",
+                "original_name": "Adam Arkin",
+                "popularity": 17.334,
+                "profile_path": "/66CugPTyelfdtYe0IV0U0LQP1sA.jpg",
+                "cast_id": 11,
+                "character": "Don Milgram",
+                "credit_id": "52fe44fd9251416c75047ec7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14669,
+                "known_for_department": "Acting",
+                "name": "George Wyner",
+                "original_name": "George Wyner",
+                "popularity": 8.33,
+                "profile_path": "/pWd7EqBz83MWu6FfLG0Eco7yY5d.jpg",
+                "cast_id": 12,
+                "character": "Rabbi Nachtner",
+                "credit_id": "52fe44fd9251416c75047ecb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 159454,
+                "known_for_department": "Acting",
+                "name": "Peter Breitmayer",
+                "original_name": "Peter Breitmayer",
+                "popularity": 4.286,
+                "profile_path": "/lSVaUj8rUlvMapO9XNMfPrvB0no.jpg",
+                "cast_id": 26,
+                "character": "Mr. Brandt",
+                "credit_id": "52fe44fd9251416c75047f1d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1015643,
+                "known_for_department": "Acting",
+                "name": "Brent Braunschweig",
+                "original_name": "Brent Braunschweig",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Mitch Brandt",
+                "credit_id": "52fe44fd9251416c75047f21",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 965140,
+                "known_for_department": "Acting",
+                "name": "David Kang",
+                "original_name": "David Kang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Clive Park",
+                "credit_id": "52fe44fd9251416c75047f25",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1118717,
+                "known_for_department": "Acting",
+                "name": "Jon Kaminski Jr.",
+                "original_name": "Jon Kaminski Jr.",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Mike Fagle",
+                "credit_id": "52fe44fd9251416c75047f2d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1118718,
+                "known_for_department": "Acting",
+                "name": "Ari Hoptman",
+                "original_name": "Ari Hoptman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Arlen Finkle",
+                "credit_id": "52fe44fd9251416c75047f31",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36546,
+                "known_for_department": "Acting",
+                "name": "Alan Mandell",
+                "original_name": "Alan Mandell",
+                "popularity": 2.366,
+                "profile_path": "/ay3AArrGSuwpVtl3oGsUFyF11Qg.jpg",
+                "cast_id": 32,
+                "character": "Rabbi Marshak",
+                "credit_id": "52fe44fd9251416c75047f35",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 357551,
+                "known_for_department": "Acting",
+                "name": "Amy Landecker",
+                "original_name": "Amy Landecker",
+                "popularity": 12.421,
+                "profile_path": "/3woCLCbumhHOxrkeVOT7ylWi7Lg.jpg",
+                "cast_id": 33,
+                "character": "Mrs. Vivienne Samsky",
+                "credit_id": "52fe44fd9251416c75047f39",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53863,
+                "known_for_department": "Acting",
+                "name": "Simon Helberg",
+                "original_name": "Simon Helberg",
+                "popularity": 14.944,
+                "profile_path": "/9tLEc6N4lImJX4FohLWHRHFbFXD.jpg",
+                "cast_id": 34,
+                "character": "Rabbi Scott Ginsler",
+                "credit_id": "54cc01889251413e6400019d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 171379,
+                "known_for_department": "Acting",
+                "name": "Katherine Borowitz",
+                "original_name": "Katherine Borowitz",
+                "popularity": 4.69,
+                "profile_path": "/shv6fZlcI3vBRvwUkTVG0906uvj.jpg",
+                "cast_id": 54,
+                "character": "Mimi Nudell",
+                "credit_id": "576dbf829251416ca7000163",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4250,
+                "known_for_department": "Acting",
+                "name": "Michael Lerner",
+                "original_name": "Michael Lerner",
+                "popularity": 8.031,
+                "profile_path": "/2b1PLnbBU1zdz06AXNGSAo226Is.jpg",
+                "cast_id": 55,
+                "character": "Solomon Schlutz",
+                "credit_id": "5ab18f5a9251415111000286",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1015644,
+                "known_for_department": "Acting",
+                "name": "Benjamin Portnoe",
+                "original_name": "Benjamin Portnoe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Danny's Reefer Buddy",
+                "credit_id": "52fe44fd9251416c75047f29",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56687,
+                "known_for_department": "Acting",
+                "name": "Fyvush Finkel",
+                "original_name": "Fyvush Finkel",
+                "popularity": 3.039,
+                "profile_path": "/nOc3iG1yMmy1TDcPPYfXsPjq1jq.jpg",
+                "cast_id": 56,
+                "character": "Traitl Groshkover",
+                "credit_id": "5cd86aea0e0a26407dcc0c28",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4025,
+                "known_for_department": "Acting",
+                "name": "Steve Park",
+                "original_name": "Steve Park",
+                "popularity": 6.555,
+                "profile_path": "/1IxtVgmm6lyJ8nAjwIqhW9nOxK2.jpg",
+                "cast_id": 63,
+                "character": "Clive's Father",
+                "credit_id": "5f854fbd5a4690003aeb32c4",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2785770,
+                "known_for_department": "Acting",
+                "name": "Jane Hammill",
+                "original_name": "Jane Hammill",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 59,
+                "character": "Larry's Secretary",
+                "credit_id": "5f6747cef706de0033975f4e",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2648025,
+                "known_for_department": "Acting",
+                "name": "Claudia Wilkens",
+                "original_name": "Claudia Wilkens",
+                "popularity": 2.911,
+                "profile_path": null,
+                "cast_id": 60,
+                "character": "Marshak's Secretary",
+                "credit_id": "5f758dc621621b00342eae81",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1039285,
+                "known_for_department": "Acting",
+                "name": "Yelena Shmulenson",
+                "original_name": "Yelena Shmulenson",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 68,
+                "character": "Dora",
+                "credit_id": "609d98980f0da500782f3d79",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98187,
+                "known_for_department": "Acting",
+                "name": "Allen Lewis Rickman",
+                "original_name": "Allen Lewis Rickman",
+                "popularity": 4.308,
+                "profile_path": "/6h5deUcDh1qhhJlgwgoogZTWaPL.jpg",
+                "cast_id": 67,
+                "character": "Velvel",
+                "credit_id": "609d987f0f0da500782f3d75",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13422,
+                "known_for_department": "Acting",
+                "name": "Raye Birk",
+                "original_name": "Raye Birk",
+                "popularity": 3.714,
+                "profile_path": "/tirG60WMTFflgfBDn8DNSBTJfqD.jpg",
+                "cast_id": 69,
+                "character": "Dr. Len Shapiro",
+                "credit_id": "609d98c03f8ede00407f7900",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1204039,
+                "known_for_department": "Acting",
+                "name": "Landyn Banx",
+                "original_name": "Landyn Banx",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 61,
+                "character": "",
+                "credit_id": "5f79d3cd944a5739d0c86cbe",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1555649,
+                "known_for_department": "Acting",
+                "name": "Punnavith Koy",
+                "original_name": "Punnavith Koy",
+                "popularity": 2.363,
+                "profile_path": "/bKPoUxFeqfDV5tNykysMxOGC2Xf.jpg",
+                "cast_id": 64,
+                "character": "Physics Nerd (uncredited)",
+                "credit_id": "5f9262526331b2003af04f90",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1342054,
+                "known_for_department": "Acting",
+                "name": "Joel Thingvall",
+                "original_name": "Joel Thingvall",
+                "popularity": 1.956,
+                "profile_path": null,
+                "cast_id": 62,
+                "character": "Physics Student",
+                "credit_id": "5f80aece2f3b170035f8d2f2",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2098486,
+                "known_for_department": "Acting",
+                "name": "Amanda Day",
+                "original_name": "Amanda Day",
+                "popularity": 1.4,
+                "profile_path": "/lt8jZKmfAY24sMnqnPfSeaXkfM4.jpg",
+                "cast_id": 70,
+                "character": "Physics Student",
+                "credit_id": "609d9a44e18e3f002a3db4f2",
+                "order": 29
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151,
+                "known_for_department": "Camera",
+                "name": "Roger Deakins",
+                "original_name": "Roger Deakins",
+                "popularity": 7.872,
+                "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+                "credit_id": "52fe44fd9251416c75047ed1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 555,
+                "known_for_department": "Art",
+                "name": "Nancy Haigh",
+                "original_name": "Nancy Haigh",
+                "popularity": 1.985,
+                "profile_path": null,
+                "credit_id": "56791c03c3a36847500024af",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 12.411,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe44fd9251416c75047ea7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 12.411,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe44fd9251416c75047f01",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 12.411,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe44fd9251416c75047ee3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 12.411,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe44fd9251416c75047ebd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 10.708,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe44fd9251416c75047ea1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 10.708,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe44fd9251416c75047efb",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 10.708,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe44fd9251416c75047edd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 10.708,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe44fd9251416c75047ec3",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1225,
+                "known_for_department": "Sound",
+                "name": "Carter Burwell",
+                "original_name": "Carter Burwell",
+                "popularity": 4.188,
+                "profile_path": "/v1SgCqg3SXnBs1ZXoxPQQiGpAMX.jpg",
+                "credit_id": "52fe44fd9251416c75047ed7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1484,
+                "known_for_department": "Production",
+                "name": "Ellen Chenoweth",
+                "original_name": "Ellen Chenoweth",
+                "popularity": 2.592,
+                "profile_path": "/5zpVcxrqZXyOForETn5UeOJ8j4w.jpg",
+                "credit_id": "52fe44fd9251416c75047f07",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2236,
+                "known_for_department": "Production",
+                "name": "Tim Bevan",
+                "original_name": "Tim Bevan",
+                "popularity": 3.025,
+                "profile_path": "/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg",
+                "credit_id": "52fe44fd9251416c75047ee9",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2238,
+                "known_for_department": "Production",
+                "name": "Eric Fellner",
+                "original_name": "Eric Fellner",
+                "popularity": 4.863,
+                "profile_path": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+                "credit_id": "52fe44fd9251416c75047eef",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10575,
+                "known_for_department": "Art",
+                "name": "Jess Gonchor",
+                "original_name": "Jess Gonchor",
+                "popularity": 1.554,
+                "profile_path": "/y1hqQSKyAX9o96NRaw68ZlCPDwr.jpg",
+                "credit_id": "52fe44fd9251416c75047f13",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7418,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Mary Zophres",
+                "original_name": "Mary Zophres",
+                "popularity": 3.464,
+                "profile_path": "/kLvPS8HSyLSxvROaK9wlc9WlPlr.jpg",
+                "credit_id": "56791c9fc3a368474a001f68",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9619,
+                "known_for_department": "Sound",
+                "name": "Skip Lievsay",
+                "original_name": "Skip Lievsay",
+                "popularity": 2.493,
+                "profile_path": "/wnQisLNWHfsVCRPX8mvEn3s6tXY.jpg",
+                "credit_id": "56792244c3a3684747002238",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9619,
+                "known_for_department": "Sound",
+                "name": "Skip Lievsay",
+                "original_name": "Skip Lievsay",
+                "popularity": 2.493,
+                "profile_path": "/wnQisLNWHfsVCRPX8mvEn3s6tXY.jpg",
+                "credit_id": "56792238c3a36847530024c6",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9651,
+                "known_for_department": "Sound",
+                "name": "Craig Berkey",
+                "original_name": "Craig Berkey",
+                "popularity": 1.171,
+                "profile_path": "/u0A3LVwfw1R3yvCLh2OCQzeP5MG.jpg",
+                "credit_id": "5679226192514111900021fa",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9651,
+                "known_for_department": "Sound",
+                "name": "Craig Berkey",
+                "original_name": "Craig Berkey",
+                "popularity": 1.171,
+                "profile_path": "/u0A3LVwfw1R3yvCLh2OCQzeP5MG.jpg",
+                "credit_id": "5679226ac3a3684742002238",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 11310,
+                "known_for_department": "Crew",
+                "name": "Larz Anderson",
+                "original_name": "Larz Anderson",
+                "popularity": 1.022,
+                "profile_path": null,
+                "credit_id": "5679252cc3a36847420022a3",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44482,
+                "known_for_department": "Production",
+                "name": "Robert Graf",
+                "original_name": "Robert Graf",
+                "popularity": 1.616,
+                "profile_path": null,
+                "credit_id": "52fe44fd9251416c75047ef5",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 223239,
+                "known_for_department": "Sound",
+                "name": "Peter F. Kurland",
+                "original_name": "Peter F. Kurland",
+                "popularity": 1.497,
+                "profile_path": null,
+                "credit_id": "56791d33925141118a0021d1",
+                "department": "Sound",
+                "job": "Sound mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587969,
+                "known_for_department": "Directing",
+                "name": "Thomas Johnston",
+                "original_name": "Thomas Johnston",
+                "popularity": 1.564,
+                "profile_path": null,
+                "credit_id": "56791be5c3a36847440023bd",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 928414,
+                "known_for_department": "Production",
+                "name": "Rachel Tenner",
+                "original_name": "Rachel Tenner",
+                "popularity": 3.597,
+                "profile_path": "/rc7y4ymAuhItKVVok7EJxxJTTZB.jpg",
+                "credit_id": "52fe44fd9251416c75047f0d",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1015645,
+                "known_for_department": "Art",
+                "name": "Deborah Jensen",
+                "original_name": "Deborah Jensen",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "52fe44fd9251416c75047f19",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1017240,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jenny Eagan",
+                "original_name": "Jenny Eagan",
+                "popularity": 1.027,
+                "profile_path": null,
+                "credit_id": "56792636925141118a00234f",
+                "department": "Costume & Make-Up",
+                "job": "Assistant Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1281538,
+                "known_for_department": "Crew",
+                "name": "Jery Hewitt",
+                "original_name": "Jery Hewitt",
+                "popularity": 8.382,
+                "profile_path": "/nBvx1K916G5A4flbmWbpEeMc8lF.jpg",
+                "credit_id": "56792547c3a36847470022c4",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1325234,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jean Ann Black",
+                "original_name": "Jean Ann Black",
+                "popularity": 1.942,
+                "profile_path": null,
+                "credit_id": "56791cd8925141117b001fe5",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1395255,
+                "known_for_department": "Sound",
+                "name": "Greg Orloff",
+                "original_name": "Greg Orloff",
+                "popularity": 1.928,
+                "profile_path": null,
+                "credit_id": "56792254c3a368474d002361",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1412450,
+                "known_for_department": "Art",
+                "name": "Jarrette Moats",
+                "original_name": "Jarrette Moats",
+                "popularity": 0.795,
+                "profile_path": null,
+                "credit_id": "56792652c3a3684753002583",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1413092,
+                "known_for_department": "Sound",
+                "name": "James Morioka",
+                "original_name": "James Morioka",
+                "popularity": 1.868,
+                "profile_path": null,
+                "credit_id": "5e1865bcffd44d00175d8c24",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1413224,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Fr\u00ed\u00f0a Arad\u00f3ttir",
+                "original_name": "Fr\u00ed\u00f0a Arad\u00f3ttir",
+                "popularity": 1.141,
+                "profile_path": null,
+                "credit_id": "56791cbec3a368474d002266",
+                "department": "Costume & Make-Up",
+                "job": "Hair Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1452675,
+                "known_for_department": "Camera",
+                "name": "Wilson Webb",
+                "original_name": "Wilson Webb",
+                "popularity": 2.475,
+                "profile_path": null,
+                "credit_id": "56791d0cc3a36847530023df",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1535737,
+                "known_for_department": "Production",
+                "name": "Karen Ruth Getchell",
+                "original_name": "Karen Ruth Getchell",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "56791ce992514111810021a4",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1546856,
+                "known_for_department": "Sound",
+                "name": "Byron Wilson",
+                "original_name": "Byron Wilson",
+                "popularity": 0.772,
+                "profile_path": null,
+                "credit_id": "5e1865cd25cd8500154e33c2",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A Serious Man - Official Trailer",
+                "key": "mDKHWRbK2_Q",
+                "published_at": "2009-08-03T22:55:54.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "id": "5b74ffa5c3a3687550009e2b"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ihwfod79qlBbFpjVQNeXxmX03ql.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/2jaGT3T9qdNucvF6CeK33dAaDPn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/6j3YrwkG4TZo8oNR4U4SDpql4pP.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/b0xPkADt8ijbZ8ho0uMCHVS5T58.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ns6rINbJ9z6sKnI7tzmsjKWzsW8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/hp8LWuknB5bTh5NQ9nqsYOTAFGG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/wKX33WUFjrFimJ1usiSnQ0kQYHG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/9wSghixHn7Q9pvUwu45ubaLnhEy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/7MFZilT574YZnIbRwzipW2PDIVa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/8EN31iged1wZkVC6DcE1u2YWc8V.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/jaEyIih4gCassGUHvqRsYbBC1o8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/tGCZ1FQWgAaUnKD4Xvl4Bj1FURP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/ei4t0uk4jap6aYirb2K72U7R1Po.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/1aohUzYvEbZ8GbACufOLmqnNxmz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/rHpp5qtBcdexIqkLt7GGXc9qUKf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/wOrX9eZ1qlRw736ES850c5uqkMc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/1hzNhw68MTgsrgGPg38Sdz5P3JW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/tdMIs4Zf1jPsbFP3Akl9fvUsF4U.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/tHv36JpNUsfnKuBOKJcsVML11TJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/xk2CuE1GFu3Olf0T3zIhPZ29GnK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/fThA50w2id90XJ1BAA7v3w6BS6v.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/AmkLjhZcQvAWEXgHoFVi7SAWvR0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/bcepGnYUqLt2NmHfSBD7kYqwn8m.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/3PLsE9juHdbNIaryxVszVcx6iUv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/eZejBYQWsCMCmEXUvNrkOhQL7M0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/mIhnSdxPnt4A2lDvDnmV5a8ckhf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/4n4kLvNAlpt0OwHd3f5sKc8Rl1r.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1575,
+                "iso_639_1": null,
+                "file_path": "/aNxznY92loJJ2coCjf5AFBF1y3e.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2800
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/qElmjwRZuOQmzgmWRixFd7xEmPn.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2412,
+                "iso_639_1": "en",
+                "file_path": "/wKXiH3vqTyws4zk2YDykZvEzWdz.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1608
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/rpiJr0p25pLVGETmygbho0kv4Bw.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "es",
+                "file_path": "/t4wM2xD8YmajreYBKuKyS24TZAr.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1400,
+                "iso_639_1": "it",
+                "file_path": "/u1NIMb03WEcaTwNLpdAoCviskYp.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 980
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2829,
+                "iso_639_1": "en",
+                "file_path": "/7MLl0K3dinFq01OhQc7VmTIYR7n.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/8ekrkdYaEDETBeztQLEAAArYIVr.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/8Zjk3cvjkDa643NHXtdPu30gnyY.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2412,
+                "iso_639_1": "en",
+                "file_path": "/hvnWxAnMYjQ1mFXYnB9ATiqp6se.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1608
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/ovdzIbYlbQFAtHc11RDyvBMofl0.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/sbWVPpcRmqvVWGF6CkoTUQA7lBE.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/rftlYqErHWdsmpeD63bx6pA3sxv.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/pgmPiATZ6btYf7u95qxoMEi0ZQK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2167,
+                "iso_639_1": "hu",
+                "file_path": "/4Mm0KiU6C0jpcd2zDhoDVZFBr0w.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1533
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/3iv1tBfnHcZl8Sf6ZXOL1TYn0hx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.671,
+                "height": 2865,
+                "iso_639_1": "ko",
+                "file_path": "/29xfVnN6TLciNRRVXVjqMiRF5mr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1922
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/dwQbjGvynPbM4chwnDkELlVe8sI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "pt",
+                "file_path": "/8qzPIl8dewy1SyVm9HpL6wbtyw6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 987,
+                "iso_639_1": "ru",
+                "file_path": "/bbGjDV1VnGCt9AfeNjb0StTuFd5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 658
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "tr",
+                "file_path": "/vHLipNUo7gMdk0XsMA2bLp4xgwa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "he",
+                "file_path": "/vWWxILkTc0OMQwkKsePVophxkhi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "vi",
+                "file_path": "/92aO4DuUrAX37fKLpX1qcpHbVnl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/lkxwfHIFeWlc3wNUnvpqPzKdZoU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/qgSvYE2raXmkrjvgFYnnvWu8nKA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/zP6K8MvQp1Ao1a8sYHxZUej7fnC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/4bfHAhym9rRygSWw4WNq7Asf8kA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/dXVcoqTQTEu0DvmlAGemfg6k5kt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/2n3mxmpFB4m45qa3wQP9SIk6mvI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1599,
+                "name": "midlife crisis"
+            },
+            {
+                "id": 1992,
+                "name": "professor"
+            },
+            {
+                "id": 1360,
+                "name": "minnesota"
+            },
+            {
+                "id": 10123,
+                "name": "dark comedy"
+            },
+            {
+                "id": 3901,
+                "name": "rabbi"
+            },
+            {
+                "id": 3903,
+                "name": "bar mitzvah"
+            },
+            {
+                "id": 10776,
+                "name": "marijuana"
+            },
+            {
+                "id": 11011,
+                "name": "morality"
+            },
+            {
+                "id": 11211,
+                "name": "jewish american"
+            },
+            {
+                "id": 159937,
+                "name": "bribery"
+            },
+            {
+                "id": 166287,
+                "name": "school bus"
+            },
+            {
+                "id": 171439,
+                "name": "bribe"
+            },
+            {
+                "id": 179430,
+                "name": "aftercreditsstinger"
+            },
+            {
+                "id": 191440,
+                "name": "jewish family"
+            },
+            {
+                "id": 199065,
+                "name": "physics professor"
+            },
+            {
+                "id": 208992,
+                "name": "1960s"
+            },
+            {
+                "id": 211062,
+                "name": "ethics"
+            },
+            {
+                "id": 227994,
+                "name": "transistor radio"
+            },
+            {
+                "id": 278832,
+                "name": "dreams"
+            },
+            {
+                "id": 301004,
+                "name": "nightmares"
+            },
+            {
+                "id": 307609,
+                "name": "flirty neighbor"
+            }
+        ]
+    },
+    "title_english": "A Serious Man",
+    "year": "2009",
+    "rated": "R",
+    "director_list": [
+        "Ethan Coen",
+        " Joel Coen"
+    ],
+    "writer_list": [
+        "Joel Coen",
+        " Ethan Coen"
+    ],
+    "main_cast": [
+        "Michael Stuhlbarg",
+        " Richard Kind",
+        " Sari Lennick"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "imdb_rating": "7.0",
+    "imdb_votes": "147,704",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Serious_Man",
+    "wikipedia_summary": "A Serious Man is a 2009 American black comedy-drama film written, produced, edited and directed by Joel and Ethan Coen. Set in 1967, the film stars Michael Stuhlbarg as a Minnesotan Jewish man whose life crumbles both professionally and personally, leading him to questions about his faith.\nA Serious Man received widespread positive critical response, including a place on both the American Film Institute's and National Board of Review of Motion Pictures's Top 10 Film Lists of 2009. It was nominated for the Academy Award for Best Picture, and Stuhlbarg was nominated for a Golden Globe Award. Since its release, it has been widely considered one of the Coen brothers' best films and one of the greatest films of the 2000s and of the 21st century.",
+    "wikipedia_plot": "A Jewish man in a 19th-century Eastern European shtetl tells his wife that he was helped on his way home by Reb Groshkover, whom he has invited in for soup. She says Groshkover is dead and the man he invited must be a dybbuk. Groshkover arrives and laughs off the accusation, but she plunges an ice pick into his chest. Bleeding, he exits their home into the snowy night.\nIn 1967, Larry Gopnik is a professor of physics living in St. Louis Park, Minnesota. His wife, Judith, tells him that she needs a get so she can marry widower Sy Ableman, with whom she has fallen in love. Meanwhile, their son Danny owes twenty dollars to an intimidating Hebrew school classmate for marijuana. He has the money, but it is hidden in a transistor radio that was confiscated by his teacher. Their daughter, Sarah, is always washing her hair, going out and avoiding school. Larry's brother, Arthur, is homeless and sleeps on the couch, spending his free time filling a notebook with what he calls the \"Mentaculus\", a \"probability map of the universe\".\nClive Park, a South Korean student worried about losing his scholarship, meets with Larry in his office to argue he should not fail the class. After he leaves, Larry finds an envelope stuffed with cash. When Larry attempts to return it, Clive's father threatens to sue Larry either for defamation if Larry accuses Clive of bribery, or for keeping the money if he does not give him a passing grade. Larry faces an impending vote on his application for tenure, and his department head informs him that anonymous letters have urged the committee to deny him. At the insistence of Judith and Sy, Larry and Arthur move into a nearby motel. Judith empties the couple's bank accounts, leaving Larry penniless, so he enlists the services of a divorce attorney. Larry learns that Arthur faces charges of solicitation and sodomy.\nLarry turns to his Jewish faith for consolation. He consults a junior rabbi, who advises Larry to change his \"perspective\". Larry and Sy are involved in separate, simultaneous car crashes. Larry is unharmed, but Sy dies. Larry consults a second rabbi for solace, who recounts a parable about a dentist who finds Hebrew inscriptions on a patient's teeth. Larry also tries to contact Marshak, the synagogue's senior rabbi, who isn't available. At Judith's insistence, Larry pays for Sy's funeral. At the funeral, Sy is eulogized as \"a serious man\".\nLarry calls on his neighbor, Vivienne Samsky, whom he has seen sunbathing naked. She introduces him to marijuana. He later dreams that he is having sex with her, but this turns into a nightmare.\nArthur is despondent about the charges levied at him, and Larry consoles him. Larry then has another nightmare in which he gives Arthur the money Clive left him and drives him to cross into Canada by boat, whereupon his neighbors shoot Arthur in the neck. Larry is proud and moved by Danny's bar mitzvah, unaware that his son is under the influence of marijuana. During the service, Judith apologizes to Larry for all the recent trouble and informs him that Sy respected him so much that he even wrote letters to the tenure committee. Danny meets with Marshak, a brief encounter in which Marshak only quotes Jefferson Airplane's \"Somebody to Love\", names some members of the band, returns the radio, and tells Danny to \"be a good boy\".\nLarry's department head compliments him on Danny's Bar Mitzvah and hints that he will receive tenure. The mail brings a $3,000 bill from Arthur's lawyer. Larry decides to change Clive's grade from F to C\u2212, whereupon Larry's doctor calls, asking to see him immediately about the results of a chest X-ray. Meanwhile, Danny's teacher struggles to open the emergency shelter as a massive tornado closes in on the school.",
+    "wikipedia_plot_html": "<p>A Jewish man in a 19th-century Eastern European shtetl tells his wife that he was helped on his way home by Reb Groshkover, whom he has invited in for soup. She says Groshkover is dead and the man he invited must be a dybbuk. Groshkover arrives and laughs off the accusation, but she plunges an ice pick into his chest. Bleeding, he exits their home into the snowy night.\n</p><p>In 1967, Larry Gopnik is a professor of physics living in St. Louis Park, Minnesota. His wife, Judith, tells him that she needs a <i>get</i> so she can marry widower Sy Ableman, with whom she has fallen in love. Meanwhile, their son Danny owes twenty dollars to an intimidating Hebrew school classmate for marijuana. He has the money, but it is hidden in a transistor radio that was confiscated by his teacher. Their daughter, Sarah, is always washing her hair, going out and avoiding school. Larry's brother, Arthur, is homeless and sleeps on the couch, spending his free time filling a notebook with what he calls the \"Mentaculus\", a \"probability map of the universe\".\n</p><p>Clive Park, a South Korean student worried about losing his scholarship, meets with Larry in his office to argue he should not fail the class. After he leaves, Larry finds an envelope stuffed with cash. When Larry attempts to return it, Clive's father threatens to sue Larry either for defamation if Larry accuses Clive of bribery, or for keeping the money if he does not give him a passing grade. Larry faces an impending vote on his application for tenure, and his department head informs him that anonymous letters have urged the committee to deny him. At the insistence of Judith and Sy, Larry and Arthur move into a nearby motel. Judith empties the couple's bank accounts, leaving Larry penniless, so he enlists the services of a divorce attorney. Larry learns that Arthur faces charges of solicitation and sodomy.\n</p><p>Larry turns to his Jewish faith for consolation. He consults a junior rabbi, who advises Larry to change his \"perspective\". Larry and Sy are involved in separate, simultaneous car crashes. Larry is unharmed, but Sy dies. Larry consults a second rabbi for solace, who recounts a parable about a dentist who finds Hebrew inscriptions on a patient's teeth. Larry also tries to contact Marshak, the synagogue's senior rabbi, who isn't available. At Judith's insistence, Larry pays for Sy's funeral. At the funeral, Sy is eulogized as \"a serious man\".\n</p><p>Larry calls on his neighbor, Vivienne Samsky, whom he has seen sunbathing naked. She introduces him to marijuana. He later dreams that he is having sex with her, but this turns into a nightmare.\n</p><p>Arthur is despondent about the charges levied at him, and Larry consoles him. Larry then has another nightmare in which he gives Arthur the money Clive left him and drives him to cross into Canada by boat, whereupon his neighbors shoot Arthur in the neck. Larry is proud and moved by Danny's bar mitzvah, unaware that his son is under the influence of marijuana. During the service, Judith apologizes to Larry for all the recent trouble and informs him that Sy respected him so much that he even wrote letters to the tenure committee. Danny meets with Marshak, a brief encounter in which Marshak only quotes Jefferson Airplane's \"Somebody to Love\", names some members of the band, returns the radio, and tells Danny to \"be a good boy\".\n</p><p>Larry's department head compliments him on Danny's Bar Mitzvah and hints that he will receive tenure. The mail brings a $3,000 bill from Arthur's lawyer. Larry decides to change Clive's grade from F to C\u2212, whereupon Larry's doctor calls, asking to see him immediately about the results of a chest X-ray. Meanwhile, Danny's teacher struggles to open the emergency shelter as a massive tornado closes in on the school.\n</p>",
+    "wikipedia_critics": "A Serious Man received mostly positive reviews from critics, and holds a 89% approval rating on Rotten Tomatoes, based on 227 reviews, with an average rating of 7.90/10. The site's critical consensus reads, \"Blending dark humor with profoundly personal themes, the Coen brothers deliver what might be their most mature\u2014if not their best\u2014film to date.\" The film also holds a score of 85 out of 100 on Metacritic, based on 38 critics, indicating \"universal acclaim\".Roger Ebert of the Chicago Sun-Times rated the film four out of four stars. His review highlighted the film's Yiddish folktale prologue, suggesting that though the Coens maintain it has no relation to the rest of the film, \"maybe because an ancestor invited a dybbuk (wandering soul) to cross his threshold, Larry is cursed.\" In an essay in Jung Journal: Culture and Psyche, Steve Zemmelman considers that the prologue may link to the Jefferson Airplane soundtrack motif, reflecting Larry's normal sense of order becoming increasingly disrupted. He writes, \"what can happen when 'the wheel falls off the cart', as Velvel says happened to him on the road that night, or 'when the truth is found to be lies', that lyric from 'Somebody to Love' that serves as bookends for this film.\"Claudia Puig of USA Today wrote, \"A Serious Man is a wonderfully odd, bleakly comic and thoroughly engrossing film. Underlying the grim humor are serious questions about faith, family, mortality and misfortune.\" Time magazine critic Richard Corliss called it \"disquieting\" and \"haunting\".Some critics commented on the link between the film and the Biblical Book of Job. K. L. Evans wrote, \"we identify it as a Job story because its central character is tormented by his failure to account for the miseries that befall him\". In his essay \"Job of Suburbia?\", David Tollerton wrote, \"the more substantial connection between A Serious Man and the Book of Job\u2014the connection that reaches deeper\u2014is their similarly absurd presentations of the human struggle with anguish and the divine.\" Slate magazine critic Juliet Lapidos considered that the folktale prologue may be an endorsement of the \"gumption\" of \"taking matters into her own hands\".The Wall Street Journal's Joe Morgenstern disliked what he saw as the film's misanthropy, saying that \"their caricatures range from dislikable through despicable, with not a smidgeon of humanity to redeem them.\" David Denby of The New Yorker enjoyed the film's look and feel, but found fault with the script and characterization: \"A Serious Man, like Burn After Reading, is in their bleak, black, belittling mode, and it's hell to sit through ... As a piece of movie-making craft, A Serious Man is fascinating; in every other way, it's intolerable.\" Zemmelman wrote that this kind of viewer response results from the film's lack of narrative resolution: \"The film is perplexing and the dialogue reminds the viewer repeatedly that we are in an encounter with the ever-conflictual and the infinitely mysterious.\"Todd McCarthy said, \"A Serious Man is the kind of picture you get to make after you've won an Oscar.\" Awarding the film five stars in The Guardian, Peter Bradshaw said, \"this strange and wonderful film is rounded off with a gloriously well-crafted apocalyptic vision and a chilling intimation of divine retribution for earthly wrongdoing. The Coens have finished the noughties as America's preeminent filmmakers\".A Serious Man was later voted the 82nd greatest film since 2000 in a BBC international critics' poll.",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>A Serious Man</b></i> is a 2009 American black comedy-drama film written, produced, edited and directed by Joel and Ethan Coen. Set in 1967, the film stars Michael Stuhlbarg as a Minnesotan Jewish man whose life crumbles both professionally and personally, leading him to questions about his faith.\n</p><p><i>A Serious Man</i> received widespread positive critical response, including a place on both the American Film Institute's and National Board of Review of Motion Pictures's Top 10 Film Lists of 2009. It was nominated for the Academy Award for Best Picture, and Stuhlbarg was nominated for a Golden Globe Award. Since its release, it has been widely considered one of the Coen brothers' best films and one of the greatest films of the 2000s and of the 21st century.</p>\n\n<h2>Plot</h2>\n<p>A Jewish man in a 19th-century Eastern European shtetl tells his wife that he was helped on his way home by Reb Groshkover, whom he has invited in for soup. She says Groshkover is dead and the man he invited must be a dybbuk. Groshkover arrives and laughs off the accusation, but she plunges an ice pick into his chest. Bleeding, he exits their home into the snowy night.\n</p><p>In 1967, Larry Gopnik is a professor of physics living in St. Louis Park, Minnesota. His wife, Judith, tells him that she needs a <i>get</i> so she can marry widower Sy Ableman, with whom she has fallen in love. Meanwhile, their son Danny owes twenty dollars to an intimidating Hebrew school classmate for marijuana. He has the money, but it is hidden in a transistor radio that was confiscated by his teacher. Their daughter, Sarah, is always washing her hair, going out and avoiding school. Larry's brother, Arthur, is homeless and sleeps on the couch, spending his free time filling a notebook with what he calls the \"Mentaculus\", a \"probability map of the universe\".\n</p><p>Clive Park, a South Korean student worried about losing his scholarship, meets with Larry in his office to argue he should not fail the class. After he leaves, Larry finds an envelope stuffed with cash. When Larry attempts to return it, Clive's father threatens to sue Larry either for defamation if Larry accuses Clive of bribery, or for keeping the money if he does not give him a passing grade. Larry faces an impending vote on his application for tenure, and his department head informs him that anonymous letters have urged the committee to deny him. At the insistence of Judith and Sy, Larry and Arthur move into a nearby motel. Judith empties the couple's bank accounts, leaving Larry penniless, so he enlists the services of a divorce attorney. Larry learns that Arthur faces charges of solicitation and sodomy.\n</p><p>Larry turns to his Jewish faith for consolation. He consults a junior rabbi, who advises Larry to change his \"perspective\". Larry and Sy are involved in separate, simultaneous car crashes. Larry is unharmed, but Sy dies. Larry consults a second rabbi for solace, who recounts a parable about a dentist who finds Hebrew inscriptions on a patient's teeth. Larry also tries to contact Marshak, the synagogue's senior rabbi, who isn't available. At Judith's insistence, Larry pays for Sy's funeral. At the funeral, Sy is eulogized as \"a serious man\".\n</p><p>Larry calls on his neighbor, Vivienne Samsky, whom he has seen sunbathing naked. She introduces him to marijuana. He later dreams that he is having sex with her, but this turns into a nightmare.\n</p><p>Arthur is despondent about the charges levied at him, and Larry consoles him. Larry then has another nightmare in which he gives Arthur the money Clive left him and drives him to cross into Canada by boat, whereupon his neighbors shoot Arthur in the neck. Larry is proud and moved by Danny's bar mitzvah, unaware that his son is under the influence of marijuana. During the service, Judith apologizes to Larry for all the recent trouble and informs him that Sy respected him so much that he even wrote letters to the tenure committee. Danny meets with Marshak, a brief encounter in which Marshak only quotes Jefferson Airplane's \"Somebody to Love\", names some members of the band, returns the radio, and tells Danny to \"be a good boy\".\n</p><p>Larry's department head compliments him on Danny's Bar Mitzvah and hints that he will receive tenure. The mail brings a $3,000 bill from Arthur's lawyer. Larry decides to change Clive's grade from F to C\u2212, whereupon Larry's doctor calls, asking to see him immediately about the results of a chest X-ray. Meanwhile, Danny's teacher struggles to open the emergency shelter as a massive tornado closes in on the school.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<p>Considerable attention was paid to the setting; it was important to the Coens to find a neighborhood of original-looking suburban rambler homes as they would have appeared in St. Louis Park, Minnesota, in the late 1960s. Locations were scouted in nearby Edina, Richfield, Brooklyn Center, and Hopkins before a suitable location was found in Bloomington. The film's look is partly based on the Brad Zellar book <i>Suburban World: The Norling Photographs</i>, a collection of photographs of Bloomington in the 1950s and 60s.</p><p>Location filming began on September 8, 2008, in Minnesota. An office scene was shot at Normandale Community College in Bloomington. The film also used a set built in the school's library, as well as small sections of the second floor science building hallway. The synagogue is the B'nai Emet Synagogue in St. Louis Park. The Coens also shot some scenes in St. Olaf College's old science building because of its similar period architecture. A classroom scene was shot at the then-closed Shingle Creek Elementary School in north Minneapolis, due to its 1960's-era design. Scenes were also shot at the Minneapolis legal offices of Meshbesher &amp; Spence, the name of whose founder and president, Ronald I. Meshbesher, is mentioned as the criminal lawyer recommended to Larry in the film. Filming wrapped on November 6, 2008, after 44 days, ahead of schedule and within budget.</p><p>Longtime collaborator Roger Deakins rejoined the Coens as cinematographer, following his absence from <i>Burn After Reading</i>. This was his tenth film with them. Costume designer Mary Zophres returned for her ninth collaboration with the directors.</p><p><span id=\"Writing\"></span>The Coens themselves stated that the \"germ\" of the story was a rabbi from their adolescence: a \"mysterious figure\" who had a private conversation with each student at the conclusion of their religious education. Ethan Coen said that it seemed appropriate to open the film with a Yiddish folk tale, but as the brothers did not know any suitable ones, they wrote their own.</p><p>Open auditions for the roles of Danny and Sarah were held on May 4, 2008, at the Sabes Jewish Community Center in St. Louis Park, Minnesota, one of the scheduled shooting locations. Open auditions for the role of Sarah were also held in June 2008 in Chicago, Illinois.</p><p>Patton Oswalt and Marc Maron auditioned for the roles of Arthur Gopnik and Larry Gopnik.</p>\n\n<h3>Music</h3>\n<p>All of the film's original music is by Carter Burwell, who also worked on every previous Coen brothers film except <i>O Brother, Where Art Thou?</i> The film also contains pieces of Yiddish music including \"Dem Milner's Trern\" by Mark Warshawsky and performed by Sidor Belarsky, which deals with the abuse and recurring evictions of Jews from Shtetlekh.</p><p>The soundtrack also includes the following songs by popular 1960s artists:\n</p>\n\n<h2>Release and reception</h2>\n<p>The film began a limited release in the United States on October 2, 2009. It premiered at the Toronto International Film Festival on September 12, 2009.</p>\n\n<h3>Box office</h3>\n<p><i>A Serious Man</i> grossed $9,228,768 domestically, and $22,201,566 internationally, making for a worldwide gross of $31,430,334.</p>\n\n<h3>Critical response</h3>\n<p><i>A Serious Man</i> received mostly positive reviews from critics, and holds a 89% approval rating on Rotten Tomatoes, based on 227 reviews, with an average rating of 7.90/10. The site's critical consensus reads, \"Blending dark humor with profoundly personal themes, the Coen brothers deliver what might be their most mature\u2014if not their best\u2014film to date.\" The film also holds a score of 85 out of 100 on Metacritic, based on 38 critics, indicating \"universal acclaim\".</p><p>Roger Ebert of the <i>Chicago Sun-Times</i> rated the film four out of four stars. His review highlighted the film's Yiddish folktale prologue, suggesting that though the Coens maintain it has no relation to the rest of the film, \"maybe because an ancestor invited a dybbuk (wandering soul) to cross his threshold, Larry is cursed.\" In an essay in <i>Jung Journal: Culture and Psyche</i>, Steve Zemmelman considers that the prologue may link to the Jefferson Airplane soundtrack motif, reflecting Larry's normal sense of order becoming increasingly disrupted. He writes, \"what can happen when 'the wheel falls off the cart', as Velvel says happened to him on the road that night, or 'when the truth is found to be lies', that lyric from 'Somebody to Love' that serves as bookends for this film.\"</p><p>Claudia Puig of <i>USA Today</i> wrote, \"<i>A Serious Man</i> is a wonderfully odd, bleakly comic and thoroughly engrossing film. Underlying the grim humor are serious questions about faith, family, mortality and misfortune.\" <i>Time</i> magazine critic Richard Corliss called it \"disquieting\" and \"haunting\".</p><p>Some critics commented on the link between the film and the Biblical Book of Job. K. L. Evans wrote, \"we identify it as a Job story because its central character is tormented by his failure to account for the miseries that befall him\". In his essay \"Job of Suburbia?\", David Tollerton wrote, \"the more substantial connection between <i>A Serious Man</i> and the Book of Job\u2014the connection that reaches deeper\u2014is their similarly absurd presentations of the human struggle with anguish and the divine.\" <i>Slate</i> magazine critic Juliet Lapidos considered that the folktale prologue may be an endorsement of the \"gumption\" of \"taking matters into her own hands\".</p><p><i>The Wall Street Journal</i><span>'s</span> Joe Morgenstern disliked what he saw as the film's misanthropy, saying that \"their caricatures range from dislikable through despicable, with not a smidgeon of humanity to redeem them.\" David Denby of <i>The New Yorker</i> enjoyed the film's look and feel, but found fault with the script and characterization: \"<i>A Serious Man</i>, like <i>Burn After Reading</i>, is in their bleak, black, belittling mode, and it's hell to sit through ... As a piece of movie-making craft, <i>A Serious Man</i> is fascinating; in every other way, it's intolerable.\" Zemmelman wrote that this kind of viewer response results from the film's lack of narrative resolution: \"The film is perplexing and the dialogue reminds the viewer repeatedly that we are in an encounter with the ever-conflictual and the infinitely mysterious.\"</p><p>Todd McCarthy said, \"<i>A Serious Man</i> is the kind of picture you get to make after you've won an Oscar.\" Awarding the film five stars in <i>The Guardian</i>, Peter Bradshaw said, \"this strange and wonderful film is rounded off with a gloriously well-crafted apocalyptic vision and a chilling intimation of divine retribution for earthly wrongdoing. The Coens have finished the noughties as America's preeminent filmmakers\".</p><p><i>A Serious Man</i> was later voted the 82nd greatest film since 2000 in a BBC international critics' poll.</p>\n\n<h3>Accolades</h3>\n<p><i>A Serious Man</i> received numerous awards and nominations, particularly for its screenplay, acting, and cinematography. Joel and Ethan Coen were awarded Best Original Screenplay at the 2009 National Board of Review Awards and the 2010 National Society of Film Critics Awards. The screenplay was also nominated for Best Original Screenplay at the 2010 Academy Awards, and received nominations from the Writers Guild of America Awards, the BAFTA Awards, the 15th Annual Critics' Choice Awards, and the 2009 Boston Society of Film Critics Awards.</p><p>The film was nominated for Best Picture at the 82nd Academy Awards; the BBC News called it \"one of the less talked about nominees\". It was also nominated for Best Picture by the Critics' Choice Awards, the Boston Society of Film Critics, and the Chicago Film Critics Association. The National Board of Review, the American Film Institute, the Satellite Awards, and the Southeastern Film Critics Association Awards all listed the film as one of the ten best of 2009.\n</p><p>Stuhlbarg was awarded the Chaplin Virtuoso Award at the Santa Barbara International Film Festival and was nominated for Best Actor at the 2010 Golden Globe Awards. Stuhlbarg, Kind, Melamed and Lennick were nominated for a Gotham Award for Best Performance by an Ensemble Cast. At the 2010 Independent Spirit Awards, Roger Deakins won the award for Best Cinematography, and the film's directors, ensemble cast, and casting directors were awarded with the Robert Altman Award.</p><p>Deakins also received awards at both the 2009 Hollywood Awards and the 2009 San Francisco Film Critics Circle Awards, along with the Nikola Tesla Award at the Satellite Awards.</p>\n\n<h2>Notes</h2>\n<h2>References</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>External links</h2>\n\n<ul><li><span><span>Official website</span></span></li>\n<li><i>A Serious Man</i> at IMDb</li>\n<li><i>A Serious Man</i> at AllMovie</li>\n<li><i>A Serious Man</i> at Box Office Mojo</li>\n<li><i>A Serious Man</i> at Rotten Tomatoes</li>\n<li><i>A Serious Man</i> at Metacritic </li>\n<li>The Coen brothers discuss 'A Serious Man' Archived April 22, 2019, at the Wayback Machine with <i>TimeOut</i></li></ul>"
+}

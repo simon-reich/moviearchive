@@ -1,0 +1,1639 @@
+{
+    "adult": false,
+    "backdrop_path": "/bouH0jYhfiAHn28B3AygP0XO6V8.jpg",
+    "belongs_to_collection": {
+        "id": 10721,
+        "name": "Mimic Collection",
+        "poster_path": "/wu9bW6MiaT5LFIEwyplr1D9wnAk.jpg",
+        "backdrop_path": "/oOZpLQaVyoWDgQ41lGlToRlH1aB.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 4961,
+    "imdb_id": "tt0119675",
+    "original_language": "en",
+    "original_title": "Mimic",
+    "overview": "A disease carried by common cockroaches is killing Manhattan children. In an effort to stop the epidemic an entomologist, Susan Tyler, creates a mutant breed of insect that secretes a fluid to kill the roaches. This mutant breed was engineered to die after one generation, but three years later Susan finds out that the species has survived and evolved into a large, gruesome monster that can mimic human form.",
+    "popularity": 21.534,
+    "poster_path": "/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg",
+    "production_companies": [
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-08-22",
+    "revenue": 25480490,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "\u666e\u901a\u8bdd"
+        }
+    ],
+    "status": "Released",
+    "tagline": "For thousands of years, man has been evolution's greatest creation... until now.",
+    "title": "Mimic",
+    "video": false,
+    "vote_average": 6.049,
+    "vote_count": 996,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 23931,
+                "known_for_department": "Acting",
+                "name": "Mira Sorvino",
+                "original_name": "Mira Sorvino",
+                "popularity": 23.118,
+                "profile_path": "/11raFiNo7QfisH44v3NIfpVvIz5.jpg",
+                "cast_id": 15,
+                "character": "Dr. Susan Tyler",
+                "credit_id": "52fe43e8c3a36847f807787f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18325,
+                "known_for_department": "Acting",
+                "name": "Jeremy Northam",
+                "original_name": "Jeremy Northam",
+                "popularity": 14.345,
+                "profile_path": "/h5u9lNQSPpYBMTYemSD2wC89X4q.jpg",
+                "cast_id": 16,
+                "character": "Dr. Peter Mann",
+                "credit_id": "52fe43e8c3a36847f8077883",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40271,
+                "known_for_department": "Acting",
+                "name": "Alexander Goodwin",
+                "original_name": "Alexander Goodwin",
+                "popularity": 3.644,
+                "profile_path": "/jjOZFg3KvMdc5hCx80rhTcjiDAb.jpg",
+                "cast_id": 17,
+                "character": "Chuy",
+                "credit_id": "52fe43e8c3a36847f8077887",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16851,
+                "known_for_department": "Acting",
+                "name": "Josh Brolin",
+                "original_name": "Josh Brolin",
+                "popularity": 33.088,
+                "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+                "cast_id": 20,
+                "character": "Josh",
+                "credit_id": "52fe43e8c3a36847f8077893",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14707,
+                "known_for_department": "Acting",
+                "name": "Alix Koromzay",
+                "original_name": "Alix Koromzay",
+                "popularity": 9.649,
+                "profile_path": "/zjooQ4gAqLS5CDsgaXro2NRWk4c.jpg",
+                "cast_id": 23,
+                "character": "Remy",
+                "credit_id": "52fe43e8c3a36847f80778a1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3753,
+                "known_for_department": "Acting",
+                "name": "Giancarlo Giannini",
+                "original_name": "Giancarlo Giannini",
+                "popularity": 12.615,
+                "profile_path": "/xsnoThKUjFlhmvXKS4ZqAx1x3zb.jpg",
+                "cast_id": 18,
+                "character": "Manny",
+                "credit_id": "52fe43e8c3a36847f807788b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17764,
+                "known_for_department": "Acting",
+                "name": "Charles S. Dutton",
+                "original_name": "Charles S. Dutton",
+                "popularity": 14.884,
+                "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg",
+                "cast_id": 19,
+                "character": "Leonard",
+                "credit_id": "52fe43e8c3a36847f807788f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1164,
+                "known_for_department": "Acting",
+                "name": "F. Murray Abraham",
+                "original_name": "F. Murray Abraham",
+                "popularity": 23.479,
+                "profile_path": "/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg",
+                "cast_id": 22,
+                "character": "Dr. Gates",
+                "credit_id": "52fe43e8c3a36847f807789d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 176594,
+                "known_for_department": "Acting",
+                "name": "James Costa",
+                "original_name": "James Costa",
+                "popularity": 2.72,
+                "profile_path": "/nplOTVp2PI4bjzbm2LgYOVSwn9z.jpg",
+                "cast_id": 24,
+                "character": "Ricky",
+                "credit_id": "52fe43e8c3a36847f80778a5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38565,
+                "known_for_department": "Acting",
+                "name": "James Kidnie",
+                "original_name": "James Kidnie",
+                "popularity": 3.763,
+                "profile_path": "/iq8ZPSTUq7tbLzll0smHzve9RrT.jpg",
+                "cast_id": 42,
+                "character": "Subway Repairman",
+                "credit_id": "5824bff0c3a36802ca001527",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1114788,
+                "known_for_department": "Acting",
+                "name": "Javon Barnwell",
+                "original_name": "Javon Barnwell",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Davis",
+                "credit_id": "52fe43e8c3a36847f80778a9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17005,
+                "known_for_department": "Acting",
+                "name": "Doug Jones",
+                "original_name": "Doug Jones",
+                "popularity": 15.324,
+                "profile_path": "/4C2rJbkgpD3wsdIzJHxk5rcEqTZ.jpg",
+                "cast_id": 43,
+                "character": "Long John #2",
+                "credit_id": "5824bffa9251416d290014a5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4886,
+                "known_for_department": "Acting",
+                "name": "Norman Reedus",
+                "original_name": "Norman Reedus",
+                "popularity": 38.602,
+                "profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg",
+                "cast_id": 26,
+                "character": "Jeremy",
+                "credit_id": "52fe43e8c3a36847f80778ad",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 181020,
+                "known_for_department": "Acting",
+                "name": "Glenn Bang",
+                "original_name": "Glenn Bang",
+                "popularity": 1.413,
+                "profile_path": "/sxyRoM5UylZlD3WxAl6eaeCo6wO.jpg",
+                "cast_id": 28,
+                "character": "Yang",
+                "credit_id": "52fe43e8c3a36847f80778b5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1065282,
+                "known_for_department": "Acting",
+                "name": "Ho Pak-Kwong",
+                "original_name": "Ho Pak-Kwong",
+                "popularity": 6.574,
+                "profile_path": "/QXFReOVegpmZJ1pEo1sha8B5Wf.jpg",
+                "cast_id": 27,
+                "character": "Preacher",
+                "credit_id": "52fe43e8c3a36847f80778b1",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2320,
+                "known_for_department": "Acting",
+                "name": "Julian Richings",
+                "original_name": "Julian Richings",
+                "popularity": 13.173,
+                "profile_path": "/9Qf044hlSHjjoRngbI8h7txPNwU.jpg",
+                "cast_id": 41,
+                "character": "Workman",
+                "credit_id": "5824bfe69251416d1d00131f",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2023597,
+                "known_for_department": "Acting",
+                "name": "Margaret Ma",
+                "original_name": "Margaret Ma",
+                "popularity": 1.1,
+                "profile_path": null,
+                "cast_id": 71,
+                "character": "",
+                "credit_id": "63694aadea84c700823a7352",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2294,
+                "known_for_department": "Directing",
+                "name": "Robert Rodriguez",
+                "original_name": "Robert Rodriguez",
+                "popularity": 19.628,
+                "profile_path": "/bPqRdLWWwpOT8sBdj9PWOzNgwou.jpg",
+                "credit_id": "60cc6cdd66ae4d002b87c524",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4023,
+                "known_for_department": "Production",
+                "name": "Suzanne Crowley",
+                "original_name": "Suzanne Crowley",
+                "popularity": 3.966,
+                "profile_path": "/eRIXIeMUQs8424iyDIRDKuPSBMy.jpg",
+                "credit_id": "52fe43e8c3a36847f807787b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1307,
+                "known_for_department": "Production",
+                "name": "Bob Weinstein",
+                "original_name": "Bob Weinstein",
+                "popularity": 3.464,
+                "profile_path": "/lCLIlmY3oZN9n0YgrH3i0oZygPU.jpg",
+                "credit_id": "52fe43e8c3a36847f8077851",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59839,
+                "known_for_department": "Production",
+                "name": "Harvey Weinstein",
+                "original_name": "Harvey Weinstein",
+                "popularity": 10.232,
+                "profile_path": "/yUeo7hPc6fdHB2vy2zkGqg3bJyv.jpg",
+                "credit_id": "5c6305a80e0a267df9986014",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3192,
+                "known_for_department": "Production",
+                "name": "Billy Hopkins",
+                "original_name": "Billy Hopkins",
+                "popularity": 3.777,
+                "profile_path": null,
+                "credit_id": "52fe43e8c3a36847f8077875",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3983,
+                "known_for_department": "Production",
+                "name": "B.J. Rack",
+                "original_name": "B.J. Rack",
+                "popularity": 0.62,
+                "profile_path": null,
+                "credit_id": "52fe43e8c3a36847f807784b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7229,
+                "known_for_department": "Sound",
+                "name": "Marco Beltrami",
+                "original_name": "Marco Beltrami",
+                "popularity": 4.77,
+                "profile_path": "/fb3TfFITlOC0BN3kNpUXj1FL0LN.jpg",
+                "credit_id": "52fe43e8c3a36847f8077857",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5328,
+                "known_for_department": "Production",
+                "name": "Kerry Barden",
+                "original_name": "Kerry Barden",
+                "popularity": 5.823,
+                "profile_path": null,
+                "credit_id": "52fe43e8c3a36847f807786f",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8315,
+                "known_for_department": "Art",
+                "name": "Carol Spier",
+                "original_name": "Carol Spier",
+                "popularity": 3.3,
+                "profile_path": null,
+                "credit_id": "561e27279251414fb200027c",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8684,
+                "known_for_department": "Crew",
+                "name": "Dan Bradley",
+                "original_name": "Dan Bradley",
+                "popularity": 6.572,
+                "profile_path": "/hrnm0T93g6yd5WBiZ59Aoff0c2F.jpg",
+                "credit_id": "65173dccd4653709dc7be290",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14041,
+                "known_for_department": "Art",
+                "name": "Bob Kensinger",
+                "original_name": "Bob Kensinger",
+                "popularity": 1.428,
+                "profile_path": null,
+                "credit_id": "561e2766925141756d00009a",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12433,
+                "known_for_department": "Production",
+                "name": "Michael Phillips",
+                "original_name": "Michael Phillips",
+                "popularity": 1.432,
+                "profile_path": null,
+                "credit_id": "5c63055bc3a3681b7cd819bc",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12677,
+                "known_for_department": "Writing",
+                "name": "Matthew Robbins",
+                "original_name": "Matthew Robbins",
+                "popularity": 6.354,
+                "profile_path": "/abxZZtYWLhnliR572pJvhfyksnD.jpg",
+                "credit_id": "52fe43e8c3a36847f8077839",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12677,
+                "known_for_department": "Writing",
+                "name": "Matthew Robbins",
+                "original_name": "Matthew Robbins",
+                "popularity": 6.354,
+                "profile_path": "/abxZZtYWLhnliR572pJvhfyksnD.jpg",
+                "credit_id": "5c6305ce0e0a267de6988dcf",
+                "department": "Writing",
+                "job": "Screenstory"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10836,
+                "known_for_department": "Art",
+                "name": "Elinor Rose Galbraith",
+                "original_name": "Elinor Rose Galbraith",
+                "popularity": 2.603,
+                "profile_path": null,
+                "credit_id": "561e274cc3a3686cd1001f93",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10828,
+                "known_for_department": "Directing",
+                "name": "Guillermo del Toro",
+                "original_name": "Guillermo del Toro",
+                "popularity": 35.45,
+                "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+                "credit_id": "52fe43e8c3a36847f807783f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10828,
+                "known_for_department": "Directing",
+                "name": "Guillermo del Toro",
+                "original_name": "Guillermo del Toro",
+                "popularity": 35.45,
+                "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+                "credit_id": "52fe43e8c3a36847f8077833",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10828,
+                "known_for_department": "Directing",
+                "name": "Guillermo del Toro",
+                "original_name": "Guillermo del Toro",
+                "popularity": 35.45,
+                "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+                "credit_id": "5c6305d80e0a2650ad9821de",
+                "department": "Writing",
+                "job": "Screenstory"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11004,
+                "known_for_department": "Art",
+                "name": "Tamara Deverell",
+                "original_name": "Tamara Deverell",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "561e273ac3a3686cd1001f8f",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22302,
+                "known_for_department": "Production",
+                "name": "Stuart Cornfeld",
+                "original_name": "Stuart Cornfeld",
+                "popularity": 3.157,
+                "profile_path": "/2KURT7bZ1RPIuzgfBcpd4NMLmYn.jpg",
+                "credit_id": "5c6305260e0a266dac9812da",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22676,
+                "known_for_department": "Directing",
+                "name": "Ole Bornedal",
+                "original_name": "Ole Bornedal",
+                "popularity": 6.653,
+                "profile_path": "/kVHGPeuj5gqyAYKbvKtr07MPs1f.jpg",
+                "credit_id": "52fe43e8c3a36847f8077845",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27226,
+                "known_for_department": "Editing",
+                "name": "Patrick Lussier",
+                "original_name": "Patrick Lussier",
+                "popularity": 6.962,
+                "profile_path": "/iDVSGsOz8PewY4SCAEDCDaobi4.jpg",
+                "credit_id": "52fe43e8c3a36847f8077869",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40268,
+                "known_for_department": "Camera",
+                "name": "Dan Laustsen",
+                "original_name": "Dan Laustsen",
+                "popularity": 2.588,
+                "profile_path": "/qh6PEA5kW0Cl5k4LkGgDEnaGNYD.jpg",
+                "credit_id": "52fe43e8c3a36847f807785d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40269,
+                "known_for_department": "Editing",
+                "name": "Peter Devaney Flanagan",
+                "original_name": "Peter Devaney Flanagan",
+                "popularity": 2.188,
+                "profile_path": null,
+                "credit_id": "52fe43e8c3a36847f8077863",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58209,
+                "known_for_department": "Directing",
+                "name": "Rick Bota",
+                "original_name": "Rick Bota",
+                "popularity": 4.871,
+                "profile_path": "/lTMdMIUYAvfUOTFmpJvgPADSeBl.jpg",
+                "credit_id": "60cc6ca266ae4d0059c86d26",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 60284,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marie-Sylvie Deveau",
+                "original_name": "Marie-Sylvie Deveau",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "5354e9800e0a265606005d1e",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62011,
+                "known_for_department": "Production",
+                "name": "Andrew Rona",
+                "original_name": "Andrew Rona",
+                "popularity": 2.852,
+                "profile_path": null,
+                "credit_id": "5c63059d925141250afca8ed",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62598,
+                "known_for_department": "Production",
+                "name": "Cary Granat",
+                "original_name": "Cary Granat",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5c63052e9251412fb4fcffc0",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64900,
+                "known_for_department": "Directing",
+                "name": "Jeff J.J. Authors",
+                "original_name": "Jeff J.J. Authors",
+                "popularity": 2.686,
+                "profile_path": null,
+                "credit_id": "60cc6c52c8a5ac0058bf90c6",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65157,
+                "known_for_department": "Production",
+                "name": "Scott Shiffman",
+                "original_name": "Scott Shiffman",
+                "popularity": 1.752,
+                "profile_path": null,
+                "credit_id": "5c630594c3a3684f97d81d9c",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102445,
+                "known_for_department": "Directing",
+                "name": "John Sayles",
+                "original_name": "John Sayles",
+                "popularity": 7.064,
+                "profile_path": "/iFGXKTs2eDfBQjhvYoaWtdUaWbU.jpg",
+                "credit_id": "6091c07f3f8ede0058a14800",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84050,
+                "known_for_department": "Crew",
+                "name": "Eric Chambers",
+                "original_name": "Eric Chambers",
+                "popularity": 3.021,
+                "profile_path": "/lDxyJF1iNdretQ81HZMr7Ztdill.jpg",
+                "credit_id": "652b1cc1024ec800c773e153",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101608,
+                "known_for_department": "Crew",
+                "name": "Rob Bottin",
+                "original_name": "Rob Bottin",
+                "popularity": 4.381,
+                "profile_path": "/aaxVEbFQFw0NjgK7ZpAWtPmTOEu.jpg",
+                "credit_id": "60b176cb72d855006e284a2d",
+                "department": "Visual Effects",
+                "job": "Creature Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142157,
+                "known_for_department": "Crew",
+                "name": "Doug Coleman",
+                "original_name": "Doug Coleman",
+                "popularity": 4.556,
+                "profile_path": "/temeKPrQ9VosJXwb51O3EWxQ5yO.jpg",
+                "credit_id": "648277eebf31f250570527bf",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 224391,
+                "known_for_department": "Production",
+                "name": "Dennis Chapman",
+                "original_name": "Dennis Chapman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60cc681be72fe80025041611",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1183452,
+                "known_for_department": "Camera",
+                "name": "Kerry Hayes",
+                "original_name": "Kerry Hayes",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "60cc696b6e938a006dc945fc",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1233109,
+                "known_for_department": "Visual Effects",
+                "name": "Bob Munroe",
+                "original_name": "Bob Munroe",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "561e28b4c3a3686cc9001ec4",
+                "department": "Visual Effects",
+                "job": "Animation Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1315700,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Donald Mowat",
+                "original_name": "Donald Mowat",
+                "popularity": 4.587,
+                "profile_path": "/ikdaVXZvwu9wdgbtJWbeokb0fVL.jpg",
+                "credit_id": "561e282b92514142c9001d23",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1327722,
+                "known_for_department": "Crew",
+                "name": "Shelley Cook",
+                "original_name": "Shelley Cook",
+                "popularity": 2.345,
+                "profile_path": "/wv54qkRAFWjaeL6gfmtp3pgp3ZU.jpg",
+                "credit_id": "645afefc156cc7015e781d27",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1330048,
+                "known_for_department": "Costume & Make-Up",
+                "name": "John Casey",
+                "original_name": "John Casey",
+                "popularity": 2.282,
+                "profile_path": null,
+                "credit_id": "561e2912c3a3686cc1001cec",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1340326,
+                "known_for_department": "Visual Effects",
+                "name": "Brian Jennings",
+                "original_name": "Brian Jennings",
+                "popularity": 0.996,
+                "profile_path": null,
+                "credit_id": "615b85aadcb6a30043577c55",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1340919,
+                "known_for_department": "Directing",
+                "name": "Dug Rotstein",
+                "original_name": "Dug Rotstein",
+                "popularity": 1.557,
+                "profile_path": null,
+                "credit_id": "561e2939925141756d0000cd",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1392105,
+                "known_for_department": "Crew",
+                "name": "Branko Racki",
+                "original_name": "Branko Racki",
+                "popularity": 5.888,
+                "profile_path": "/iEVwGFpES7jmKpu6cpbNi0xSYDp.jpg",
+                "credit_id": "60cc68a8a217c0003f3b6037",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1401294,
+                "known_for_department": "Lighting",
+                "name": "Bryan Forde",
+                "original_name": "Bryan Forde",
+                "popularity": 0.725,
+                "profile_path": null,
+                "credit_id": "60cc69a7aaec71005645d50d",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1401793,
+                "known_for_department": "Visual Effects",
+                "name": "Cyndi Ochs",
+                "original_name": "Cyndi Ochs",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "561e2863c3a3686cd6001bd3",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1409710,
+                "known_for_department": "Camera",
+                "name": "Candide Franklyn",
+                "original_name": "Candide Franklyn",
+                "popularity": 0.842,
+                "profile_path": null,
+                "credit_id": "60cc6a2aa217c000566c0503",
+                "department": "Camera",
+                "job": "Dolly Grip"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1453506,
+                "known_for_department": "Production",
+                "name": "Michael Zoumas",
+                "original_name": "Michael Zoumas",
+                "popularity": 1.266,
+                "profile_path": null,
+                "credit_id": "5c6305b09251412fb4fd003e",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1522363,
+                "known_for_department": "Visual Effects",
+                "name": "Al Broussard",
+                "original_name": "Al Broussard",
+                "popularity": 0.818,
+                "profile_path": null,
+                "credit_id": "561e288dc3a3686cc1001cd5",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1523591,
+                "known_for_department": "Camera",
+                "name": "Mike Kirilenko",
+                "original_name": "Mike Kirilenko",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "60cc69f4665408003fd368e9",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1562476,
+                "known_for_department": "Sound",
+                "name": "Glen Gauthier",
+                "original_name": "Glen Gauthier",
+                "popularity": 1.294,
+                "profile_path": null,
+                "credit_id": "60cc6b0987e63e00285c58f4",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1596481,
+                "known_for_department": "Writing",
+                "name": "Donald A. Wollheim",
+                "original_name": "Donald A. Wollheim",
+                "popularity": 2.588,
+                "profile_path": null,
+                "credit_id": "5c6305c5c3a3684fabd82b53",
+                "department": "Writing",
+                "job": "Short Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1676165,
+                "known_for_department": "Sound",
+                "name": "Steve Switzer",
+                "original_name": "Steve Switzer",
+                "popularity": 2.623,
+                "profile_path": null,
+                "credit_id": "60cc6b5fc390c5002a03c010",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1709354,
+                "known_for_department": "Crew",
+                "name": "Clark Henderson",
+                "original_name": "Clark Henderson",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5c6305740e0a267df19871c8",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1817641,
+                "known_for_department": "Editing",
+                "name": "Mark Griffith",
+                "original_name": "Mark Griffith",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "64e0d7b4aaec7103f9980e2d",
+                "department": "Editing",
+                "job": "Digital Intermediate Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2057522,
+                "known_for_department": "Visual Effects",
+                "name": "Colin Cunningham",
+                "original_name": "Colin Cunningham",
+                "popularity": 1.571,
+                "profile_path": null,
+                "credit_id": "62753b6b5800c479b50b41dd",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2241048,
+                "known_for_department": "Production",
+                "name": "Richard Potter",
+                "original_name": "Richard Potter",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5c63058bc3a3684f97d81d96",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Mimic Theatrical Trailer",
+                "key": "LL-GB11uyTI",
+                "published_at": "2010-10-15T15:29:22.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": false,
+                "id": "56f82f169251410a31000a93"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bouH0jYhfiAHn28B3AygP0XO6V8.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/jRPxaB7G9z3hISMc1GlHlD23UW0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/8PHQqom3slhAMc64es86NjXdVbJ.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/cpZ051CrZZDvJfTj5Uz9ATNba6s.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/2xCDJx41bl3FMvVkXJ9hQDIhEwx.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hj7hVRU7OLupM7n4mKGky3cNI0D.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/rGsy7I2Q9KfI58VpBgN6z8YmExL.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/pil4JmIODp5Kh9Qz7dLqd0RbGtS.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/a9MetbCmv6JnUq7AAVdCJymP4As.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/863Ohgf3WwcQNA8OBV2qHmXe3Nq.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/72SSkV6tBUd9N6DsuZz2GmzMG21.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/vUr9mdPL0DyGYL6AVRXIZ7jWjNe.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/voVPLSTe7egWzqLP2HVt9abuz3P.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/iH9S3jP0dnWZwnxkGoT3oXP5zI8.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/aZz6qnVDfEEhW3Zcgnt68Fwgkna.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/dI58tE2wLlE0zKd9VALLrEJuqLK.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/zy1tbHb5SRYDABVevHuz3gQo6xI.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/lAhgYclUKFZUbAM0twS0xEamY26.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/tI3FF3Km0yMTVFse6JNgih2hY3H.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.628,
+                "height": 328,
+                "iso_639_1": "en",
+                "file_path": "/sBSUEWSa8YStJJTeifWEpgeizd6.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1190
+            },
+            {
+                "aspect_ratio": 4.342,
+                "height": 184,
+                "iso_639_1": "de",
+                "file_path": "/vkON8MXgfbl4QsGXQAecPZsYkNg.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 799
+            },
+            {
+                "aspect_ratio": 2.548,
+                "height": 310,
+                "iso_639_1": "pt",
+                "file_path": "/fekr5iyrGrRkZFj2yZV01zHDJP3.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 790
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg",
+                "vote_average": 5.334,
+                "vote_count": 11,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/mtfbZVeeyesewqxroQzbYDdyU8A.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/qimPIfNx71rJIAQZhUPBHyeJzm4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/esg2F5ZAN8C4JphYADugVdkZ6Hf.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/v0Oo5YyKNK0wdN6KYYKzHGGHGr0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "pt",
+                "file_path": "/mb8OE9psIQeQbyHA6FqjdW2Rdnt.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 1172,
+                "iso_639_1": "de",
+                "file_path": "/d3VMFE7HVRte8FNQfmD3NUtGSO5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 826
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/bQIe6RtzR0oJdV3m2j5PM8fUcL1.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/oTAuulM9ka8FVUC2yDHItDPxUjL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "de",
+                "file_path": "/AcnZvm5L3LGMFqzVWQRZRHZjYiJ.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 825,
+                "iso_639_1": "uk",
+                "file_path": "/uHyM2JKNDpaWturiAQypxLx1u3Q.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/2TZn6YRTpbvOtIXRPdYtBLwbDaN.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2403,
+                "iso_639_1": "en",
+                "file_path": "/lrUs9BeXtuxy5G6E4WV2Kac4hcO.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1622
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1024,
+                "iso_639_1": "it",
+                "file_path": "/9aklMFCtmVbYDBNai1x7P880yCO.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 768
+            },
+            {
+                "aspect_ratio": 0.716,
+                "height": 1620,
+                "iso_639_1": "pt",
+                "file_path": "/4UnIvCTLQu2MQrR37K8Zy8meQ8F.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1160
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/6nd98TTvrOQNGWHzE0CtpX7BYIr.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/zhKRWd6vgtf1DsGxy7vQTxwWbrT.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "uk",
+                "file_path": "/o2V5lUoFhvY0IhNQzBCA0E6b79R.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/lZyFI1nTlzC8mYDd9F0EMt0zohz.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5Z0F9W8qvIlTgg7LrBAcrBzHd0q.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/blmWsiRvLiOcN6tBSxPgAFpoO0d.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "cs",
+                "file_path": "/wg4WtK2hBV02V7F9qgRQzwQ3L7J.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/c48SnIcAy2QEJrd9AwPi1BpNoAO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/guMXj8m5VkxpznllNZGp8mC79LP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1012
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "it",
+                "file_path": "/g7MZI28DBM1vxCkV7OgognpnAwt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.711,
+                "height": 1178,
+                "iso_639_1": "de",
+                "file_path": "/fty9ecCWj6lbrrEqIQZz9DFyVyA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 838
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "pt",
+                "file_path": "/uBLYcFXlv1Cv2iommDBAhEQHsiT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 1440,
+                "iso_639_1": "pt",
+                "file_path": "/RtEwJTcBZebxJGk94QCZiJW60K.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.717,
+                "height": 2135,
+                "iso_639_1": "hu",
+                "file_path": "/rzb0Vs7AXIhWCX6v5Yg613b76Cd.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1531
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fi",
+                "file_path": "/jRmOJ1i01k6aYnv0Nmsn6jeQ2Jv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1706,
+                "name": "experiment"
+            },
+            {
+                "id": 332,
+                "name": "insect"
+            },
+            {
+                "id": 2766,
+                "name": "mutation"
+            },
+            {
+                "id": 7325,
+                "name": "cockroach"
+            },
+            {
+                "id": 7035,
+                "name": "giant insect"
+            },
+            {
+                "id": 9109,
+                "name": "nest"
+            },
+            {
+                "id": 13031,
+                "name": "creature"
+            },
+            {
+                "id": 14673,
+                "name": "disease"
+            },
+            {
+                "id": 14760,
+                "name": "scientist"
+            },
+            {
+                "id": 17995,
+                "name": "epidemic"
+            },
+            {
+                "id": 34152,
+                "name": "evolution"
+            },
+            {
+                "id": 41412,
+                "name": "sewer"
+            },
+            {
+                "id": 168346,
+                "name": "manhattan, new york city"
+            },
+            {
+                "id": 188957,
+                "name": "virus"
+            },
+            {
+                "id": 189102,
+                "name": "tunnel"
+            },
+            {
+                "id": 223059,
+                "name": "animal horror"
+            }
+        ]
+    },
+    "title_english": "Mimic",
+    "year": "1997",
+    "rated": "R",
+    "director_list": [
+        "Guillermo del Toro"
+    ],
+    "writer_list": [
+        "Donald A. Wollheim",
+        " Matthew Robbins",
+        " Guillermo del Toro"
+    ],
+    "main_cast": [
+        "Mira Sorvino",
+        " Jeremy Northam",
+        " Alexander Goodwin"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "imdb_rating": "6.0",
+    "imdb_votes": "54,629",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mimic_(film)",
+    "wikipedia_summary": "Mimic is a 1997 American science fiction horror film directed by Guillermo del Toro, written by del Toro and Matthew Robbins based on Donald A. Wollheim's short story of the same name, and starring Mira Sorvino, Jeremy Northam, Josh Brolin, Charles S. Dutton, Giancarlo Giannini and F. Murray Abraham.",
+    "wikipedia_plot": "In New York City, cockroaches are spreading the deadly \"Strickler's disease\" that is claiming hundreds of the city's children. Due to an inability to develop a cure or vaccine for the disease, Dr. Peter Mann, deputy director of the CDC, recruits entomologist Dr. Susan Tyler. In response, Dr. Tyler uses genetic engineering to create what she calls the \"Judas breed\", a hybrid between a mantis and a termite that releases an enzyme which accelerates the roaches' metabolism, with the effect that the roaches burn calories faster than they can nourish themselves and thus starve to death. The roaches carrying the disease are successfully eradicated, and Peter and Susan later marry.\nThree years later, a priest is chased and dragged underground by a strange assailant. The only witness is Chuy, a boy on the autism spectrum with echolalia, a mental pattern of imitating noises, who refers to the attacker as \"Mr. Funny Shoes\" to his disbelieving guardian, an immigrant subway shoe shiner named Manny. Later two kids sell a \"weird bug\" from the subway to Susan, which she performs tests on, and realizes is similar to the Judas breed. Initially, she believes that this is impossible since the specimens she released were all female and designed with a lifespan of only a few months, which should have ensured that the breed would die off after a single generation. Before she can examine the insect further it is stolen by a strange figure who escapes out the window. After informing the police she later consults with her mentor, Dr. Gates, who autopsies a larger specimen found in the city's sewage treatment plants, and finds that its organs are fully formed, meaning the Judas breed is not only alive but has developed into a viable species, with a sizable colony underneath the city.\nLooking for more valuable specimens, the kids go down the tracks where they find a large egg sac and are then killed by the same strange assailant. Meanwhile, Chuy enters the abandoned church of the dead priest to find \"Mr. Funny Shoes\" and is abducted. Peter, his assistant Josh Maslow and MTA officer Leonard Norton enter the maintenance tunnels to investigate but Peter and Leonard get stuck and send Josh for help. Susan encounters what appears to be a shadowy man in a trench coat on a train platform. As she approaches it, the figure unfolds into an insect the size of a human being. The creature abducts Susan and carries her into the tunnels. Meanwhile, Josh finds a way out but is found by a Judas and killed. Manny also enters the tunnels in search of Chuy and comes across Susan, whom he rescues along with Peter and Leonard, and they barricade themselves inside a train car.\nSusan surmises that the Judas breed's accelerated metabolism has allowed them to reproduce at a similarly accelerated rate, causing them to evolve over tens of thousands of generations within only three years, developing lungs, allowing increased size, and the ability to mimic their human prey. The group formulates a plan to get the car moving: using the remains of a dead bug to mask their scent as they work Peter will switch the power on, and Manny will switch the tracks. Susan projects that the Judas will spread throughout the tunnels and overrun the city unless they are able to kill the colony's single fertile male. While trying to reach the track switches, Manny finds Chuy who has managed to survive due to his imitating the clicking noises the bugs use for communication, but before they can escape Manny is killed by the male Judas. Susan, realizing Manny has been gone too long, goes in search of him but finds only Chuy. Leonard's injured leg starts bleeding heavily and knowing the smell will only incite the creatures and endanger the group, he creates a diversion that allows the others to get away, before being killed. Peter finds a dumbwaiter and puts Susan and Chuy in it, but stays behind to destroy the breed for good. He is chased into a room where hundreds are nesting and blows them all up by setting fire to a loose gas pipe, before diving underwater to safety.\nThe male Judas however escapes the blast and goes after Chuy but is distracted by Susan, who lures it into the path of an oncoming train, which runs over it. The two successfully make it to the surface, with Susan assuming that Peter had died in the blast. She then sees what appears to be another Judas, only for it to be revealed to actually be Peter alive and well. The film ends with the three reuniting and embracing one another.",
+    "wikipedia_plot_html": "<p>In New York City, cockroaches are spreading the deadly \"Strickler's disease\" that is claiming hundreds of the city's children. Due to an inability to develop a cure or vaccine for the disease, Dr. Peter Mann, deputy director of the CDC, recruits entomologist Dr. Susan Tyler. In response, Dr. Tyler uses genetic engineering to create what she calls the \"Judas breed\", a hybrid between a mantis and a termite that releases an enzyme which accelerates the roaches' metabolism, with the effect that the roaches burn calories faster than they can nourish themselves and thus starve to death. The roaches carrying the disease are successfully eradicated, and Peter and Susan later marry.\n</p><p>Three years later, a priest is chased and dragged underground by a strange assailant. The only witness is Chuy, a boy on the autism spectrum with echolalia, a mental pattern of imitating noises, who refers to the attacker as \"Mr. Funny Shoes\" to his disbelieving guardian, an immigrant subway shoe shiner named Manny. Later two kids sell a \"weird bug\" from the subway to Susan, which she performs tests on, and realizes is similar to the Judas breed. Initially, she believes that this is impossible since the specimens she released were all female and designed with a lifespan of only a few months, which should have ensured that the breed would die off after a single generation. Before she can examine the insect further it is stolen by a strange figure who escapes out the window. After informing the police she later consults with her mentor, Dr. Gates, who autopsies a larger specimen found in the city's sewage treatment plants, and finds that its organs are fully formed, meaning the Judas breed is not only alive but has developed into a viable species, with a sizable colony underneath the city.\n</p><p>Looking for more valuable specimens, the kids go down the tracks where they find a large egg sac and are then killed by the same strange assailant. Meanwhile, Chuy enters the abandoned church of the dead priest to find \"Mr. Funny Shoes\" and is abducted. Peter, his assistant Josh Maslow and MTA officer Leonard Norton enter the maintenance tunnels to investigate but Peter and Leonard get stuck and send Josh for help. Susan encounters what appears to be a shadowy man in a trench coat on a train platform. As she approaches it, the figure unfolds into an insect the size of a human being. The creature abducts Susan and carries her into the tunnels. Meanwhile, Josh finds a way out but is found by a Judas and killed. Manny also enters the tunnels in search of Chuy and comes across Susan, whom he rescues along with Peter and Leonard, and they barricade themselves inside a train car.\n</p><p>Susan surmises that the Judas breed's accelerated metabolism has allowed them to reproduce at a similarly accelerated rate, causing them to evolve over tens of thousands of generations within only three years, developing lungs, allowing increased size, and the ability to mimic their human prey. The group formulates a plan to get the car moving: using the remains of a dead bug to mask their scent as they work Peter will switch the power on, and Manny will switch the tracks. Susan projects that the Judas will spread throughout the tunnels and overrun the city unless they are able to kill the colony's single fertile male. While trying to reach the track switches, Manny finds Chuy who has managed to survive due to his imitating the clicking noises the bugs use for communication, but before they can escape Manny is killed by the male Judas. Susan, realizing Manny has been gone too long, goes in search of him but finds only Chuy. Leonard's injured leg starts bleeding heavily and knowing the smell will only incite the creatures and endanger the group, he creates a diversion that allows the others to get away, before being killed. Peter finds a dumbwaiter and puts Susan and Chuy in it, but stays behind to destroy the breed for good. He is chased into a room where hundreds are nesting and blows them all up by setting fire to a loose gas pipe, before diving underwater to safety.\n</p><p>The male Judas however escapes the blast and goes after Chuy but is distracted by Susan, who lures it into the path of an oncoming train, which runs over it. The two successfully make it to the surface, with Susan assuming that Peter had died in the blast. She then sees what appears to be another Judas, only for it to be revealed to actually be Peter alive and well. The film ends with the three reuniting and embracing one another.\n</p>",
+    "wikipedia_critics": "It currently holds a 64% \"Fresh\" rating on Rotten Tomatoes based on 47 reviews, with an average score of 6.4 out of 10. The site's critics consensus reads: \"Mimic finds director Guillermo del Toro struggling to inject his unique sensibilities into a studio picture \u2013 and delivering just enough genre thrills to recommend\".Roger Ebert gave the film three and a half stars, saying \"Del Toro is a director with a genuine visual sense, with a way of drawing us into his story and evoking the mood with the very look and texture of his shots. He takes the standard ingredients and presents them so effectively that \"Mimic\" makes the old seem new, fresh and scary\".Audiences polled by CinemaScore gave the film an average grade of \"C\u2212\" on an A+ to F scale.",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Mimic</b></i> is a 1997 American science fiction horror film directed by Guillermo del Toro, written by del Toro and Matthew Robbins based on Donald A. Wollheim's short story of the same name, and starring Mira Sorvino, Jeremy Northam, Josh Brolin, Charles S. Dutton, Giancarlo Giannini and F. Murray Abraham.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>In New York City, cockroaches are spreading the deadly \"Strickler's disease\" that is claiming hundreds of the city's children. Due to an inability to develop a cure or vaccine for the disease, Dr. Peter Mann, deputy director of the CDC, recruits entomologist Dr. Susan Tyler. In response, Dr. Tyler uses genetic engineering to create what she calls the \"Judas breed\", a hybrid between a mantis and a termite that releases an enzyme which accelerates the roaches' metabolism, with the effect that the roaches burn calories faster than they can nourish themselves and thus starve to death. The roaches carrying the disease are successfully eradicated, and Peter and Susan later marry.\n</p><p>Three years later, a priest is chased and dragged underground by a strange assailant. The only witness is Chuy, a boy on the autism spectrum with echolalia, a mental pattern of imitating noises, who refers to the attacker as \"Mr. Funny Shoes\" to his disbelieving guardian, an immigrant subway shoe shiner named Manny. Later two kids sell a \"weird bug\" from the subway to Susan, which she performs tests on, and realizes is similar to the Judas breed. Initially, she believes that this is impossible since the specimens she released were all female and designed with a lifespan of only a few months, which should have ensured that the breed would die off after a single generation. Before she can examine the insect further it is stolen by a strange figure who escapes out the window. After informing the police she later consults with her mentor, Dr. Gates, who autopsies a larger specimen found in the city's sewage treatment plants, and finds that its organs are fully formed, meaning the Judas breed is not only alive but has developed into a viable species, with a sizable colony underneath the city.\n</p><p>Looking for more valuable specimens, the kids go down the tracks where they find a large egg sac and are then killed by the same strange assailant. Meanwhile, Chuy enters the abandoned church of the dead priest to find \"Mr. Funny Shoes\" and is abducted. Peter, his assistant Josh Maslow and MTA officer Leonard Norton enter the maintenance tunnels to investigate but Peter and Leonard get stuck and send Josh for help. Susan encounters what appears to be a shadowy man in a trench coat on a train platform. As she approaches it, the figure unfolds into an insect the size of a human being. The creature abducts Susan and carries her into the tunnels. Meanwhile, Josh finds a way out but is found by a Judas and killed. Manny also enters the tunnels in search of Chuy and comes across Susan, whom he rescues along with Peter and Leonard, and they barricade themselves inside a train car.\n</p><p>Susan surmises that the Judas breed's accelerated metabolism has allowed them to reproduce at a similarly accelerated rate, causing them to evolve over tens of thousands of generations within only three years, developing lungs, allowing increased size, and the ability to mimic their human prey. The group formulates a plan to get the car moving: using the remains of a dead bug to mask their scent as they work Peter will switch the power on, and Manny will switch the tracks. Susan projects that the Judas will spread throughout the tunnels and overrun the city unless they are able to kill the colony's single fertile male. While trying to reach the track switches, Manny finds Chuy who has managed to survive due to his imitating the clicking noises the bugs use for communication, but before they can escape Manny is killed by the male Judas. Susan, realizing Manny has been gone too long, goes in search of him but finds only Chuy. Leonard's injured leg starts bleeding heavily and knowing the smell will only incite the creatures and endanger the group, he creates a diversion that allows the others to get away, before being killed. Peter finds a dumbwaiter and puts Susan and Chuy in it, but stays behind to destroy the breed for good. He is chased into a room where hundreds are nesting and blows them all up by setting fire to a loose gas pipe, before diving underwater to safety.\n</p><p>The male Judas however escapes the blast and goes after Chuy but is distracted by Susan, who lures it into the path of an oncoming train, which runs over it. The two successfully make it to the surface, with Susan assuming that Peter had died in the blast. She then sees what appears to be another Judas, only for it to be revealed to actually be Peter alive and well. The film ends with the three reuniting and embracing one another.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<h3>Casting</h3>\n<p>The character of Manny was originally written by del Toro for one of his favorite actors, Argentinian Federico Luppi, whom he directed in <i>Cronos</i>. However, Luppi's English pronunciation was not good enough for the film, so del Toro chose Giancarlo Giannini instead; in a 2013 interview del Toro confirmed the story and stated that what he misses the most about working in the Spanish language is the possibility of directing Luppi, for whom del Toro professes the utmost admiration.</p><p>Two of the film's actors, Josh Brolin and Alix Koromzay, had previously starred in <i>Nightwatch</i>, another Dimension/Miramax horror film from 1997. Its director, Ole Bornedal, served as a producer on <i>Mimic</i>.</p>\n\n<h3>Filming</h3>\n<p>Principal photography occurred in Toronto, Canada, due to the city's similarities to New York. The film includes several examples of del Toro's most characteristic hallmarks: \"I have a sort of a fetish for insects, clockwork, monsters, dark places, and unborn things\", said del Toro, and this is evident in <i>Mimic</i>, where at times all are combined in long, brooding shots of dark, cluttered, muddy chaotic spaces. According to Alfonso Cuar\u00f3n, del Toro's friend and colleague, \"with Guillermo the shots are almost mathematical \u2014 everything is planned\".</p><p>After Miramax boss Harvey Weinstein saw early footage, there were fights between him and del Toro regarding the tone, with Weinstein claiming the film was not scary enough.  It has been reported that one day Weinstein was so infuriated with del Toro that he stormed onto the Toronto set and attempted to instruct del Toro on \"how to direct a movie\". Weinstein would eventually try to get del Toro fired. Following an intervention from lead actress Mira Sorvino, Weinstein backed down, and principal photography would be completed with del Toro as director in early 1997. However, Weinstein still insisted on having control over the final cut. Producer B.J. Rack later compared making the film to \"being a prisoner of [a] war camp\", while del Toro stated in 2018:  \"The only time I have experienced bad behaviour, and it remains one of the worst experiences of my life, was in 1997, when I did <i>Mimic</i> for Miramax. It was a horrible, horrible, horrible experience\".</p>\n\n<h2>Release</h2>\n<h3>Director's cut</h3>\n<p>Del Toro was not granted final cut privilege, and he did not approve of the film as released. In 2010, del Toro revealed that he had been working on a director's cut of <i>Mimic</i> and said: \"It\u2019s not exactly the movie I wanted to do, but it definitely healed a lot of wounds... I am happy with the cut\". The director's cut runs for 112 minutes, six minutes longer than the theatrical release. It was released in 2011, initially exclusive to Blu-ray and is now available via various digital services, but has never been widely available on DVD.</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>According to Box Office Mojo, its domestic gross is $25,480,490; it did not beat its budget of $30,000,000.</p>\n\n<h3>Critical response</h3>\n<p>It currently holds a 64% \"Fresh\" rating on Rotten Tomatoes based on 47 reviews, with an average score of 6.4 out of 10. The site's critics consensus reads: \"<i>Mimic</i> finds director Guillermo del Toro struggling to inject his unique sensibilities into a studio picture \u2013 and delivering just enough genre thrills to recommend\".</p><p>Roger Ebert gave the film three and a half stars, saying \"Del Toro is a director with a genuine visual sense, with a way of drawing us into his story and evoking the mood with the very look and texture of his shots. He takes the standard ingredients and presents them so effectively that \"Mimic\" makes the old seem new, fresh and scary\".</p><p>Audiences polled by CinemaScore gave the film an average grade of \"C\u2212\" on an A+ to F scale.</p>\n\n<h2>Short film</h2>\n<p><i>Mimic</i> was planned as one of three 30-minute short films intended to be shown together. It was expanded into a full-length movie, as was <i>Impostor</i>. The short film <i>Alien Love Triangle</i> remains a 30-minute short film, and has never been released.</p>\n\n<h2>Sequels</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Two direct-to-video sequels were made, neither of which involved del Toro.\n</p>\n\n<h2>TV series</h2>\n<p>In 2020, a television adaptation/reboot was announced to be in development, with Paul W. S. Anderson directing the pilot. Anderson and Jeremy Bolt are executive producers, along with Jim Danger Gray who will also be showrunner of the series.</p>\n\n<h2>See also</h2>\n<ul><li>Aggressive mimicry</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Mimic</i> at IMDb</li>\n<li><i>Mimic</i> at AllMovie</li>\n<li><i>Mimic</i> at Rotten Tomatoes</li></ul>\n\n\n<!-- \nNewPP limit report\nParsed by mw1375\nCached time: 20231205160604\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.640 seconds\nReal time usage: 0.808 seconds\nPreprocessor visited node count: 3041/1000000\nPost\u2010expand include size: 80480/2097152 bytes\nTemplate argument size: 5829/2097152 bytes\nHighest expansion depth: 23/100\nExpensive parser function count: 11/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 78945/5000000 bytes\nLua time usage: 0.428/10.000 seconds\nLua memory usage: 27090529/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  728.519      1 -total\n 44.05%  320.932      1 Template:Reflist\n 18.59%  135.458     14 Template:Cite_web\n 17.12%  124.740      1 Template:In_lang\n 12.41%   90.397      1 Template:Infobox_film\n 10.98%   80.008      3 Template:Navbox\n 10.77%   78.474      1 Template:Guillermo_del_Toro\n 10.52%   76.622      1 Template:Infobox\n  8.28%   60.332      1 Template:IMDb_title\n  7.62%   55.510      1 Template:Short_description\n-->"
+}

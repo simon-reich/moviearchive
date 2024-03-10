@@ -1,0 +1,1333 @@
+{
+    "adult": false,
+    "backdrop_path": "/3j5dZIR2sJs5SnzI7haAGJqnkHJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 250000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.madgodmovie.com",
+    "id": 846867,
+    "imdb_id": "tt15090124",
+    "original_language": "en",
+    "original_title": "Mad God",
+    "overview": "A figure known as \"The Assassin\" descends from the heavens into a nightmarish pit full of monsters, titans, and cruelty.",
+    "popularity": 19.423,
+    "poster_path": "/sEULzxEZvrJvhz91wKxpbih25Sk.jpg",
+    "production_companies": [
+        {
+            "id": 18616,
+            "logo_path": null,
+            "name": "Tippett Studio",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-06-16",
+    "revenue": 322619,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A Journey Beyond Your Wildest Nightmares.",
+    "title": "Mad God",
+    "video": false,
+    "vote_average": 6.935,
+    "vote_count": 263,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31493,
+                "known_for_department": "Directing",
+                "name": "Alex Cox",
+                "original_name": "Alex Cox",
+                "popularity": 5.2,
+                "profile_path": "/z6EfePu3eDjgvws8IiwzYqzD1Wr.jpg",
+                "cast_id": 57,
+                "character": "Last Man",
+                "credit_id": "63385d64501cf200795e7e15",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1552795,
+                "known_for_department": "Visual Effects",
+                "name": "Niketa Roman",
+                "original_name": "Niketa Roman",
+                "popularity": 0.7,
+                "profile_path": null,
+                "cast_id": 58,
+                "character": "Nurse / Witch",
+                "credit_id": "63385d7dbefd91007a3b89ec",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1644404,
+                "known_for_department": "Visual Effects",
+                "name": "Satish Ratakonda",
+                "original_name": "Satish Ratakonda",
+                "popularity": 0.651,
+                "profile_path": null,
+                "cast_id": 59,
+                "character": "Surgeon",
+                "credit_id": "63385da44cbe12007c394071",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3164382,
+                "known_for_department": "Acting",
+                "name": "Harper Taylor",
+                "original_name": "Harper Taylor",
+                "popularity": 1.393,
+                "profile_path": null,
+                "cast_id": 60,
+                "character": "",
+                "credit_id": "63385dc36728a8007fe11740",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3164383,
+                "known_for_department": "Acting",
+                "name": "Brynn Taylor",
+                "original_name": "Brynn Taylor",
+                "popularity": 1.283,
+                "profile_path": null,
+                "cast_id": 61,
+                "character": "",
+                "credit_id": "63385dd6c2ff3d00823e58bc",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3131224,
+                "known_for_department": "Visual Effects",
+                "name": "Hans Brekke",
+                "original_name": "Hans Brekke",
+                "popularity": 2.744,
+                "profile_path": null,
+                "cast_id": 62,
+                "character": "Assassin",
+                "credit_id": "63385df1944a57008425d18a",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2115916,
+                "known_for_department": "Directing",
+                "name": "Brett Foxwell",
+                "original_name": "Brett Foxwell",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 63,
+                "character": "Victim",
+                "credit_id": "63385e0d4cbe1200906f0047",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3723206,
+                "known_for_department": "Acting",
+                "name": "Jake Freytag",
+                "original_name": "Jake Freytag",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 64,
+                "character": "Assassin",
+                "credit_id": "63385e1f501cf2007cd421b7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3723207,
+                "known_for_department": "Acting",
+                "name": "Harper Gibbons",
+                "original_name": "Harper Gibbons",
+                "popularity": 1.094,
+                "profile_path": null,
+                "cast_id": 65,
+                "character": "Caged Monkey",
+                "credit_id": "63385e2e2b113d0082d8d864",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1282566,
+                "known_for_department": "Visual Effects",
+                "name": "Tom Gibbons",
+                "original_name": "Tom Gibbons",
+                "popularity": 0.71,
+                "profile_path": null,
+                "cast_id": 66,
+                "character": "Alchemist",
+                "credit_id": "63385e51e194b0007d5fede0",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3723208,
+                "known_for_department": "Acting",
+                "name": "Tucker Gibbons",
+                "original_name": "Tucker Gibbons",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 67,
+                "character": "Caged Monkey",
+                "credit_id": "63385e5be194b0007d5fedec",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1841137,
+                "known_for_department": "Visual Effects",
+                "name": "Arne Hain",
+                "original_name": "Arne Hain",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 68,
+                "character": "Surgeon / Alchemist / Witch",
+                "credit_id": "63385e88e8131d007d18683b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2372478,
+                "known_for_department": "Visual Effects",
+                "name": "David Lauer",
+                "original_name": "David Lauer",
+                "popularity": 1.094,
+                "profile_path": null,
+                "cast_id": 69,
+                "character": "Assassin / Alchemist / Zombie",
+                "credit_id": "63385e99960cde007fc7b422",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3723211,
+                "known_for_department": "Acting",
+                "name": "Chris Morley",
+                "original_name": "Chris Morley",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 70,
+                "character": "Gnome",
+                "credit_id": "63385eb4944a57008e125536",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1505900,
+                "known_for_department": "Sound",
+                "name": "Alexandre Poncet",
+                "original_name": "Alexandre Poncet",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 71,
+                "character": "Gnome (voice)",
+                "credit_id": "63385ec9c2ff3d007d93a0fb",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 171522,
+                "known_for_department": "Acting",
+                "name": "Anthony Ruivivar",
+                "original_name": "Anthony Ruivivar",
+                "popularity": 8.226,
+                "profile_path": "/pGyKViGHdi5BxQM2jo7yja4wVmf.jpg",
+                "cast_id": 72,
+                "character": "Witch",
+                "credit_id": "63385ed7e8131d009152fefe",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1094212,
+                "known_for_department": "Directing",
+                "name": "Talal Selhami",
+                "original_name": "Talal Selhami",
+                "popularity": 0.98,
+                "profile_path": "/iOiSytBLlHpQ7E817ghi3UHs8Be.jpg",
+                "cast_id": 73,
+                "character": "Gnome (voice)",
+                "credit_id": "63385ee3960cde007acdc2f6",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2889,
+                "known_for_department": "Sound",
+                "name": "Richard Beggs",
+                "original_name": "Richard Beggs",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "61cf9679a294f00042b3d26b",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3993,
+                "known_for_department": "Visual Effects",
+                "name": "Dennis Muren",
+                "original_name": "Dennis Muren",
+                "popularity": 2.976,
+                "profile_path": "/aRTo2aBGIQisn1q9b8LwdL8IcR8.jpg",
+                "credit_id": "62abb975d7cd060092999b26",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "60de90e14544af005efdbf67",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "61cf9693028420006418c764",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "60f63a0e12c60400744817af",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "60f639f95545ca005c1b7805",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "62abb7a2bfeb8b0050464e57",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "62abbaa25be00e0063331729",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "60f63a20209f18007d527641",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7727,
+                "known_for_department": "Visual Effects",
+                "name": "Phil Tippett",
+                "original_name": "Phil Tippett",
+                "popularity": 8.956,
+                "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
+                "credit_id": "60f63a02ad87f7005c248c21",
+                "department": "Visual Effects",
+                "job": "Character Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51807,
+                "known_for_department": "Production",
+                "name": "Peter Kaufman",
+                "original_name": "Peter Kaufman",
+                "popularity": 0.629,
+                "profile_path": null,
+                "credit_id": "62abbb167a4ee700ef1b974c",
+                "department": "Crew",
+                "job": "Legal Services"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1165365,
+                "known_for_department": "Production",
+                "name": "Colin Geddes",
+                "original_name": "Colin Geddes",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6120aaa3719aeb007d3ef452",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1282566,
+                "known_for_department": "Visual Effects",
+                "name": "Tom Gibbons",
+                "original_name": "Tom Gibbons",
+                "popularity": 0.71,
+                "profile_path": null,
+                "credit_id": "60f63a4a33a5330046e90381",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1299116,
+                "known_for_department": "Sound",
+                "name": "Dan Wool",
+                "original_name": "Dan Wool",
+                "popularity": 1.176,
+                "profile_path": "/sYoto7va4faaYiWNbsDQd0uLQHD.jpg",
+                "credit_id": "60f63a3ed7cd06007f6c5342",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1397848,
+                "known_for_department": "Visual Effects",
+                "name": "Ken Rogerson",
+                "original_name": "Ken Rogerson",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "60f63a3433a533002d1b94f9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1397848,
+                "known_for_department": "Visual Effects",
+                "name": "Ken Rogerson",
+                "original_name": "Ken Rogerson",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "62abbab033a5330062b36d81",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1397848,
+                "known_for_department": "Visual Effects",
+                "name": "Ken Rogerson",
+                "original_name": "Ken Rogerson",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "62abb967c7176d005159e630",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1418473,
+                "known_for_department": "Crew",
+                "name": "Michael Cavanaugh",
+                "original_name": "Michael Cavanaugh",
+                "popularity": 1.125,
+                "profile_path": null,
+                "credit_id": "61eb22ae534661009a8fee36",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1432629,
+                "known_for_department": "Production",
+                "name": "Stuart Boros",
+                "original_name": "Stuart Boros",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abbb03202e110090174e78",
+                "department": "Crew",
+                "job": "Legal Services"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1442227,
+                "known_for_department": "Crew",
+                "name": "Gary Mundell",
+                "original_name": "Gary Mundell",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb8ac34e1520051e31ec9",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1443954,
+                "known_for_department": "Visual Effects",
+                "name": "Chris Morley",
+                "original_name": "Chris Morley",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "62abba82d4d5090068bcdf7b",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1443954,
+                "known_for_department": "Visual Effects",
+                "name": "Chris Morley",
+                "original_name": "Chris Morley",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "60f63a2ad7cd06007f6c5322",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1453594,
+                "known_for_department": "Visual Effects",
+                "name": "Chuck Duke",
+                "original_name": "Chuck Duke",
+                "popularity": 2.601,
+                "profile_path": null,
+                "credit_id": "60f63a56c7a7e0002d65cbc5",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1608579,
+                "known_for_department": "Sound",
+                "name": "Sanjay Das",
+                "original_name": "Sanjay Das",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "6120aa7e85c0a2002a555788",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1634738,
+                "known_for_department": "Production",
+                "name": "Jules Roman",
+                "original_name": "Jules Roman",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "62abb889651fcf0062c99411",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1671326,
+                "known_for_department": "Writing",
+                "name": "J. L. Barnett",
+                "original_name": "J. L. Barnett",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb227f4df291008ce0b07e",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1708476,
+                "known_for_department": "Writing",
+                "name": "Jim Aupperle",
+                "original_name": "Jim Aupperle",
+                "popularity": 0.85,
+                "profile_path": null,
+                "credit_id": "62b497b8226c5600642f445b",
+                "department": "Visual Effects",
+                "job": "Compositing Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1931529,
+                "known_for_department": "Visual Effects",
+                "name": "Corey Rosen",
+                "original_name": "Corey Rosen",
+                "popularity": 0.63,
+                "profile_path": null,
+                "credit_id": "62abb94ebfeb8b0050464ee9",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1994583,
+                "known_for_department": "Visual Effects",
+                "name": "Allison Torres",
+                "original_name": "Allison Torres",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "62abb9b0cf9ba30062b81fe0",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2372455,
+                "known_for_department": "Directing",
+                "name": "Ri Crawford",
+                "original_name": "Ri Crawford",
+                "popularity": 1.788,
+                "profile_path": null,
+                "credit_id": "60f63a624c25921a35aa4ca8",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2372478,
+                "known_for_department": "Visual Effects",
+                "name": "David Lauer",
+                "original_name": "David Lauer",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "60f63a6dd7cd06007f6c53ee",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3064203,
+                "known_for_department": "Production",
+                "name": "Ken Birdwell",
+                "original_name": "Ken Birdwell",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb9be3009aa00525b0c63",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3131224,
+                "known_for_department": "Visual Effects",
+                "name": "Hans Brekke",
+                "original_name": "Hans Brekke",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "61eb2325976e48006e341cf9",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392168,
+                "known_for_department": "Art",
+                "name": "Damon Bard",
+                "original_name": "Damon Bard",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb22d3ea37e0009e8099f1",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392169,
+                "known_for_department": "Art",
+                "name": "Robi Bean",
+                "original_name": "Robi Bean",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb22ded75bd60feec36f6c",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392170,
+                "known_for_department": "Art",
+                "name": "David Berry",
+                "original_name": "David Berry",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb860d4d5090068bcde3d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392170,
+                "known_for_department": "Art",
+                "name": "David Berry",
+                "original_name": "David Berry",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb2313ce5d82006a5fd5fd",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392171,
+                "known_for_department": "Art",
+                "name": "Chantell Buck",
+                "original_name": "Chantell Buck",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb233ca0b6b57cba5505c1",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392172,
+                "known_for_department": "Art",
+                "name": "Morris Callegari",
+                "original_name": "Morris Callegari",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb2348a9117f00e8448862",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392173,
+                "known_for_department": "Art",
+                "name": "Emily Christman",
+                "original_name": "Emily Christman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb23565346610043c2bf37",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392174,
+                "known_for_department": "Art",
+                "name": "Natalie Coblentz",
+                "original_name": "Natalie Coblentz",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb2362df29450043416f8e",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3392175,
+                "known_for_department": "Art",
+                "name": "Samantha Tippett",
+                "original_name": "Samantha Tippett",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61eb2372976e4800daeb699d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3591176,
+                "known_for_department": "Production",
+                "name": "Lisa Cooke",
+                "original_name": "Lisa Cooke",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb8b977d23b0091fce45c",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3591177,
+                "known_for_department": "Production",
+                "name": "Katarina Gligorijevic",
+                "original_name": "Katarina Gligorijevic",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb913d7cd060061c6d2e3",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3591178,
+                "known_for_department": "Production",
+                "name": "Josh Sobel",
+                "original_name": "Josh Sobel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb92a880551005144b8e2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3591180,
+                "known_for_department": "Production",
+                "name": "Tetsuya Ishibashi",
+                "original_name": "Tetsuya Ishibashi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb9a0202e110061b0ffe7",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3591181,
+                "known_for_department": "Production",
+                "name": "Fleur Dragan",
+                "original_name": "Fleur Dragan",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abb9da3009aa00620c8f88",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3591182,
+                "known_for_department": "Lighting",
+                "name": "M. Jordan Torrey",
+                "original_name": "M. Jordan Torrey",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62abba3c8805510061f884a4",
+                "department": "Lighting",
+                "job": "Electrician"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer",
+                "key": "jas8OABbn0Y",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2022-05-11T17:39:46.000Z",
+                "id": "627c60c0f6596f0050379f91"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Teaser Trailer",
+                "key": "iPScwQ-FAbI",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": false,
+                "published_at": "2021-07-28T19:53:39.000Z",
+                "id": "615ff25933ec260028eb13d0"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Phil Tippett's MAD GOD (2021) | Teaser Trailer | Stop Motion Animation Sci-Fi Horror Feature Film",
+                "key": "ZGdrlVShkmg",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Teaser",
+                "official": false,
+                "published_at": "2021-07-27T17:41:39.000Z",
+                "id": "62637cf3e61e6d005007ca82"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/3j5dZIR2sJs5SnzI7haAGJqnkHJ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/xOKFe07RLqC2PXAvDs3dZ4e8dTg.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 854,
+                "iso_639_1": null,
+                "file_path": "/3pmwggVfKVmbG6dY0uelypTuDRs.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1519
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": "en",
+                "file_path": "/wwYANNkFBwX43A4vSWf7oFs8Kui.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 1.203,
+                "height": 290,
+                "iso_639_1": "en",
+                "file_path": "/ocnc1zX79BiC4WmlFF1yMCxLdbk.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 349
+            },
+            {
+                "aspect_ratio": 1.203,
+                "height": 483,
+                "iso_639_1": "en",
+                "file_path": "/3pQDNNX9goMcOMnl6os8v7JQ5YX.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 581
+            },
+            {
+                "aspect_ratio": 5.179,
+                "height": 223,
+                "iso_639_1": "en",
+                "file_path": "/63WImhAhUL0zHxYd4zj2QVfE6OY.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1155
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/X32TnGBup6HRSoY4RXbQEDhRh4.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/sEULzxEZvrJvhz91wKxpbih25Sk.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/ySeJDvrs0rIR7sc5oRgitZ1z2dC.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "ru",
+                "file_path": "/jMhgvXDtJ1gNMJPlw7NEDHShCTv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2700,
+                "iso_639_1": "en",
+                "file_path": "/efEC2f2TJ5JfKsMXTQsh2kcKmFL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2700,
+                "iso_639_1": "fr",
+                "file_path": "/iuUKHTuphOCBZjGjJqKNsF3c6Oz.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1926,
+                "iso_639_1": "en",
+                "file_path": "/aWXUXijoyxoDg09AhLpCtcYgGtX.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1284
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1280,
+                "iso_639_1": "en",
+                "file_path": "/xsmcVZd6m7vpdXoviMNYBrBr0mu.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 866
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/3iZmvp60cNFlbuHYqLzetayJ34F.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/lPclCYjH6140Rx6raSsOjQZj4I3.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/w1cnVYUNJU3NPYh6FBeq0voXD15.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1083
+            },
+            {
+                "aspect_ratio": 0.679,
+                "height": 2000,
+                "iso_639_1": "en",
+                "file_path": "/3FxOnlHsvdDKLGfxzcmmbd4AG5V.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1358
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1050,
+                "iso_639_1": "en",
+                "file_path": "/1keHfhGQZef7esQiJefpM5jB0aO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 1916,
+                "iso_639_1": "en",
+                "file_path": "/dYhPvBZX5UcsWC8emaQBToy1a8E.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1273
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 1916,
+                "iso_639_1": "en",
+                "file_path": "/oLsMQbBn0LR10YxazxNbKybT6Ce.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1273
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ja",
+                "file_path": "/rRmR2w4txM6YscNsV037apPj0oF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 1916,
+                "iso_639_1": "en",
+                "file_path": "/it9s9mxkHjt44Lr99gr8LfUSmaf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1273
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/njvlL6I5o0prdplsCh0Q7Iam4aF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2000,
+                "iso_639_1": "ru",
+                "file_path": "/k4PoEBHHGoiNQYBTiiP4ZGc1Qkx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1333
+            },
+            {
+                "aspect_ratio": 0.665,
+                "height": 2254,
+                "iso_639_1": "en",
+                "file_path": "/tqv7cLdj6HfAjeacAjzNzvqxSZN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": null,
+                "file_path": "/nOYJY1WLA4xYL2S2St5UKhyHRUu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/tfG38OjMk3SCYACVdzXRLVQb0kP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/hHPxxb3sLOAWaf8OB1RmhP1GPL6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/wVla9WSm8onXyX882hlXD8pqt5d.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 782,
+                "name": "assassin"
+            },
+            {
+                "id": 258,
+                "name": "bomb"
+            },
+            {
+                "id": 9887,
+                "name": "surrealism"
+            },
+            {
+                "id": 4759,
+                "name": "exploration"
+            },
+            {
+                "id": 10121,
+                "name": "stop motion"
+            },
+            {
+                "id": 202335,
+                "name": "alchemist"
+            },
+            {
+                "id": 273967,
+                "name": "war"
+            },
+            {
+                "id": 296359,
+                "name": "graphic violence"
+            },
+            {
+                "id": 298636,
+                "name": "underworld"
+            }
+        ]
+    },
+    "title_english": "Mad God",
+    "year": "2021",
+    "rated": "Unrated",
+    "director_list": [
+        "Phil Tippett"
+    ],
+    "writer_list": [
+        "Phil Tippett"
+    ],
+    "main_cast": [
+        "Alex Cox",
+        " Niketa Roman",
+        " Satish Ratakonda"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "80/100"
+        }
+    ],
+    "imdb_rating": "6.8",
+    "imdb_votes": "13,320",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mad_God",
+    "wikipedia_summary": "Mad God is a 2021 American stop-motion adult animated experimental horror film written, produced, and directed by Phil Tippett. Completed in 2021, the film was produced over a period of thirty years.Mad God had its world premiere at the Locarno Festival on August 5, 2021, and was released in the United States on June 16, 2022 by Shudder. The film received critical acclaim upon its release.",
+    "wikipedia_plot": "A tall figure shrouded in a jacket and gas mask, credited as the assassin, descends into a ruined, hellish world via a diving bell. In his possession, the assassin has a map and a suitcase.\nTraveling through the underworld, the assassin encounters many creatures mercilessly preyed upon by larger monsters. Eventually, he reaches a city which is home to an army of faceless drones, apparently ruled by a monstrosity with filthy teeth and seared flesh who speaks in baby babble. Deep within the city's bowels, the assassin discovers a mountain of suitcases just like his own. The assassin opens his suitcase, revealing a timed bomb, which he places and prepares to set off. He fails to notice a creeping monster behind him, which then attacks and drags him away as the bomb's ticking hand appears unable to complete its circuit of the clock.\nThe assassin is shackled to a table and stripped in front of a mass of spectators. A surgeon appears with a nurse, splits open the assassin's abdomen, and begins rummaging through his chest cavity. Jewelry and papers are pulled out and thrown to the floor. Eventually, the surgeon finds his goal: a strange, infant larva-like creature that is wailing. The surgeon hands it to the nurse, who carries it away.\nThe surgeon bores a hole in the assassin's head and hooks his brain to a television set. As the surgeon watches the television, the world above is shown, where the last man gives a map forged by gnarled witches to an assassin and sends him down in a diving bell. Driving a motorcycle and then a jeep, the assassin follows the map through a munitions depot, a graveyard and a war zone before descending a spiral roadway.\nBack in the underworld, the nurse brings the infant to a ghostly, floating creature who escorts the child to an alchemist's lair. The alchemist grinds the infant into liquid, then alchemically transforms its remains into gold. This gold is then used to create a new cosmos which undergoes the same cycle of evolution, civilization and self-destruction as the previous one. In doing so, the clock in the assassin's bomb appears to somehow restart and complete its circuit.",
+    "wikipedia_plot_html": "<p>A tall figure shrouded in a jacket and gas mask, credited as the assassin, descends into a ruined, hellish world via a diving bell. In his possession, the assassin has a map and a suitcase.\n</p><p>Traveling through the underworld, the assassin encounters many creatures mercilessly preyed upon by larger monsters. Eventually, he reaches a city which is home to an army of faceless drones, apparently ruled by a monstrosity with filthy teeth and seared flesh who speaks in baby babble. Deep within the city's bowels, the assassin discovers a mountain of suitcases just like his own. The assassin opens his suitcase, revealing a timed bomb, which he places and prepares to set off. He fails to notice a creeping monster behind him, which then attacks and drags him away as the bomb's ticking hand appears unable to complete its circuit of the clock.\n</p><p>The assassin is shackled to a table and stripped in front of a mass of spectators. A surgeon appears with a nurse, splits open the assassin's abdomen, and begins rummaging through his chest cavity. Jewelry and papers are pulled out and thrown to the floor. Eventually, the surgeon finds his goal: a strange, infant larva-like creature that is wailing. The surgeon hands it to the nurse, who carries it away.\n</p><p>The surgeon bores a hole in the assassin's head and hooks his brain to a television set. As the surgeon watches the television, the world above is shown, where the last man gives a map forged by gnarled witches to an assassin and sends him down in a diving bell. Driving a motorcycle and then a jeep, the assassin follows the map through a munitions depot, a graveyard and a war zone before descending a spiral roadway.\n</p><p>Back in the underworld, the nurse brings the infant to a ghostly, floating creature who escorts the child to an alchemist's lair. The alchemist grinds the infant into liquid, then alchemically transforms its remains into gold. This gold is then used to create a new cosmos which undergoes the same cycle of evolution, civilization and self-destruction as the previous one. In doing so, the clock in the assassin's bomb appears to somehow restart and complete its circuit.\n</p>",
+    "wikipedia_critics": "On review aggregator Rotten Tomatoes, Mad God holds an approval rating of 91%, based on 91 reviews, and an average rating of 7.8/10. Its consensus reads, \"A rich visual treat for film fans, Mad God proves that even in the age of CGI, the cinematic allure of stop-motion animation remains strong.\" On Metacritic, the film has a weighted average score of 80 out of 100, based on 14 critics, indicating \"generally favorable reviews\".John Defore of The Hollywood Reporter praised the film's animation, bleak atmosphere and design, calling it \"a tech achievement FX geeks will need to see\", and \"among the bleakest dystopias [of] science fiction\". Sight and Sound's John Bleasdale offered similar praise while also criticizing its bleak setting, summarizing that the film \"has all the makings of an instant cult classic\". Scoring the film four out of five stars, Drew Tinnin from Dread Central praised the design, atmosphere and animation, as well as the film's soundtrack, calling it \"sheer artistry coming to life\".Rafael Motamayor of IndieWire rated the film a B, writing \"Mad God, a cacophony of savagery and cruelty\u2013 [offering] no hope, no respite from the awe-inspiring terror.\" Nerdist's Kyle Anderson rated the film a score of 4.5 out of 5, offering similar praise to the film's atmosphere, visuals, bleak setting, and production design while noting the film's simplistic narrative. Reviewing for Tilt Magazine, critic Thomas O'Connor called the film \"a deeply unsettling spectacle\", highlighting the film as a technical achievement in stop-motion animation, as well as praising the film's bleak atmosphere and disturbing imagery.Christopher Stewardson from Our Culture Magazine rated the film four out of five stars, commending the animation, visual design, hellish atmosphere, and dream-like quality, writing \"Mad God almost has an anti-war ring to it. In its abstract madness, it presents the nightmare of what war does. Nobody is human. Only monsters exist\".The film was not without its detractors. IGN's Kristy Puchko gave a score of five out of ten, commending the atmosphere and visuals, but criticized the film for what she felt was the \"lack of any real plot or substance\".",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Mad God</b></i> is a 2021 American stop-motion adult animated experimental horror film written, produced, and directed by Phil Tippett. Completed in 2021, the film was produced over a period of thirty years.</p><p><i>Mad God</i> had its world premiere at the Locarno Festival on August 5, 2021, and was released in the United States on June 16, 2022 by Shudder. The film received critical acclaim upon its release. \n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>A tall figure shrouded in a jacket and gas mask, credited as the assassin, descends into a ruined, hellish world via a diving bell. In his possession, the assassin has a map and a suitcase.\n</p><p>Traveling through the underworld, the assassin encounters many creatures mercilessly preyed upon by larger monsters. Eventually, he reaches a city which is home to an army of faceless drones, apparently ruled by a monstrosity with filthy teeth and seared flesh who speaks in baby babble. Deep within the city's bowels, the assassin discovers a mountain of suitcases just like his own. The assassin opens his suitcase, revealing a timed bomb, which he places and prepares to set off. He fails to notice a creeping monster behind him, which then attacks and drags him away as the bomb's ticking hand appears unable to complete its circuit of the clock.\n</p><p>The assassin is shackled to a table and stripped in front of a mass of spectators. A surgeon appears with a nurse, splits open the assassin's abdomen, and begins rummaging through his chest cavity. Jewelry and papers are pulled out and thrown to the floor. Eventually, the surgeon finds his goal: a strange, infant larva-like creature that is wailing. The surgeon hands it to the nurse, who carries it away.\n</p><p>The surgeon bores a hole in the assassin's head and hooks his brain to a television set. As the surgeon watches the television, the world above is shown, where the last man gives a map forged by gnarled witches to an assassin and sends him down in a diving bell. Driving a motorcycle and then a jeep, the assassin follows the map through a munitions depot, a graveyard and a war zone before descending a spiral roadway.\n</p><p>Back in the underworld, the nurse brings the infant to a ghostly, floating creature who escorts the child to an alchemist's lair. The alchemist grinds the infant into liquid, then alchemically transforms its remains into gold. This gold is then used to create a new cosmos which undergoes the same cycle of evolution, civilization and self-destruction as the previous one. In doing so, the clock in the assassin's bomb appears to somehow restart and complete its circuit.\n</p>\n\n<h2>Production</h2>\n<p>While working on <i>RoboCop 2</i>, Tippett began filming what would become <i>Mad God</i>. His work on <i>Jurassic Park</i> led him to believe the days of stop-motion were over, and the film was shelved.</p><p>Twenty years later, with the encouragement of members of his studio, Tippett began working on the project again, utilizing crews of volunteers to assist him.</p>\n<blockquote class=\"templatequote\"><p>\"So on the weekends I would get as many as 15 and 20 people coming round. They didn't all have the talent or skill, but I'd figure out the processes during the week. I had them do all the heavy lifting.\"</p></blockquote>\n<p>With aid from Kickstarter donations, Tippett was able to create the first three sections, which make up about half of the film. Tippett released a behind-the-scenes footage on YouTube during production.</p>\n\n<h3>Sound Design</h3>\n<p>In 2013, Academy Award-winning sound designer Richard Beggs agreed to do the sound design and mix for the project.\n</p>\n\n<h3>VR-short</h3>\n<p>In 2016, a two-minute short VR-version of the movie was released. All characters were animated and shot separately in front of a green screen using Dragon software. Then Nuke was used to compose all the characters together in front of a background.</p>\n\n<h3>Music</h3>\n<p>The original score was composed by Dan Wool, who started work on the project in 2010 and developed the score in chapters until the release in 2021. The soundtrack album, released by Waxwork Records, came out June 21, 2022 on double-vinyl and CD.\n</p><p>In 2023 Wool released an alternative digital-only version of the soundtrack album called \"Soundtrack for Phil Tippett's MAD GOD - Music+Effects Version [feat. Richard Beggs]\", that incorporates more of Richard Beggs' sound design for MAD GOD. Available on Bandcamp.\n</p>\n\n<h2>Release</h2>\n<p><i>Mad God</i> premiered in 2021 at the 74th Locarno Film Festival. Shudder acquired distribution rights to the film, planning a limited release in theaters and on AMC+ on June 16, 2022.</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>In the United States and Canada, the film earned $8,416 from two theaters in its opening weekend. It expanded to 26 theaters in its second weekend and made $36,588. It added $24,451 in its third weekend, $37,617 in its fourth, and $16,280 in its fifth, ultimately grossing more than double its $150,000 budget in its limited theatrical release. \n</p>\n\n<h3>Critical response</h3>\n<p>On review aggregator Rotten Tomatoes, <i>Mad God</i> holds an approval rating of 91%, based on 91 reviews, and an average rating of 7.8/10. Its consensus reads, \"A rich visual treat for film fans, <i>Mad God</i> proves that even in the age of CGI, the cinematic allure of stop-motion animation remains strong.\" On Metacritic, the film has a weighted average score of 80 out of 100, based on 14 critics, indicating \"generally favorable reviews\".</p><p>John Defore of <i>The Hollywood Reporter</i> praised the film's animation, bleak atmosphere and design, calling it \"a tech achievement FX geeks will need to see\", and \"among the bleakest dystopias [of] science fiction\". <i>Sight and Sound</i><span>'</span>s John Bleasdale offered similar praise while also criticizing its bleak setting, summarizing that the film \"has all the makings of an instant cult classic\". Scoring the film four out of five stars, Drew Tinnin from Dread Central praised the design, atmosphere and animation, as well as the film's soundtrack, calling it \"sheer artistry coming to life\".</p><p>Rafael Motamayor of <i>IndieWire</i> rated the film a B, writing \"<i>Mad God</i>, a cacophony of savagery and cruelty\u2013 [offering] no hope, no respite from the awe-inspiring terror.\" Nerdist's Kyle Anderson rated the film a score of 4.5 out of 5, offering similar praise to the film's atmosphere, visuals, bleak setting, and production design while noting the film's simplistic narrative. Reviewing for <i>Tilt Magazine</i>, critic Thomas O'Connor called the film \"a deeply unsettling spectacle\", highlighting the film as a technical achievement in stop-motion animation, as well as praising the film's bleak atmosphere and disturbing imagery.</p><p>Christopher Stewardson from <i>Our Culture Magazine</i> rated the film four out of five stars, commending the animation, visual design, hellish atmosphere, and dream-like quality, writing \"<i>Mad God</i> almost has an anti-war ring to it. In its abstract madness, it presents the nightmare of what war does. Nobody is human. Only monsters exist\".</p><p>The film was not without its detractors. <i>IGN</i><span>'</span>s Kristy Puchko gave a score of five out of ten, commending the atmosphere and visuals, but criticized the film for what she felt was the \"lack of any real plot or substance\".</p>\n\n<h3>Accolades</h3>\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Mad God</i> official website</li>\n<li><i>Mad God</i> at IMDb</li>\n<li><i>Mad God</i> at Rotten Tomatoes</li>\n<li><i>Mad God</i> at Metacritic</li></ul>\n<!-- \nNewPP limit report\nParsed by mw1422\nCached time: 20231202233603\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.512 seconds\nReal time usage: 0.651 seconds\nPreprocessor visited node count: 3742/1000000\nPost\u2010expand include size: 108228/2097152 bytes\nTemplate argument size: 4712/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 4/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 110472/5000000 bytes\nLua time usage: 0.308/10.000 seconds\nLua memory usage: 8762604/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  574.919      1 -total\n 43.62%  250.780      1 Template:Reflist\n 34.74%  199.741     34 Template:Cite_web\n 13.32%   76.581      1 Template:Infobox_film\n 12.27%   70.551      1 Template:Shudder_films_and_documentaries\n 12.25%   70.412      2 Template:Navbox\n 11.30%   64.974      1 Template:Infobox\n  9.14%   52.575      1 Template:Short_description\n  7.17%   41.213      1 Template:Expand_section\n  6.78%   38.954      1 Template:Ambox\n-->"
+}

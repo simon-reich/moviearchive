@@ -1,0 +1,1467 @@
+{
+    "adult": false,
+    "backdrop_path": "/dSDpW5soaGsBHdwKQg9HvoFYxJd.jpg",
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 290,
+    "imdb_id": "tt0101410",
+    "original_language": "en",
+    "original_title": "Barton Fink",
+    "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+    "popularity": 19.908,
+    "poster_path": "/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
+    "production_companies": [
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 11273,
+            "logo_path": null,
+            "name": "Circle Films",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1991-08-01",
+    "revenue": 6153939,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "What's in his head",
+    "title": "Barton Fink",
+    "video": false,
+    "vote_average": 7.459,
+    "vote_count": 1540,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1241,
+                "known_for_department": "Acting",
+                "name": "John Turturro",
+                "original_name": "John Turturro",
+                "popularity": 23.48,
+                "profile_path": "/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg",
+                "cast_id": 13,
+                "character": "Barton Fink",
+                "credit_id": "52fe4233c3a36847f800b965",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1230,
+                "known_for_department": "Acting",
+                "name": "John Goodman",
+                "original_name": "John Goodman",
+                "popularity": 24.373,
+                "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+                "cast_id": 14,
+                "character": "Charlie Meadows",
+                "credit_id": "52fe4233c3a36847f800b969",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 351,
+                "known_for_department": "Acting",
+                "name": "Judy Davis",
+                "original_name": "Judy Davis",
+                "popularity": 10.685,
+                "profile_path": "/98qVJZn9AS0WS0cJLOvrgIUuLhw.jpg",
+                "cast_id": 15,
+                "character": "Audrey Taylor",
+                "credit_id": "52fe4233c3a36847f800b96d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4250,
+                "known_for_department": "Acting",
+                "name": "Michael Lerner",
+                "original_name": "Michael Lerner",
+                "popularity": 9.436,
+                "profile_path": "/2b1PLnbBU1zdz06AXNGSAo226Is.jpg",
+                "cast_id": 16,
+                "character": "Jack Lipnick",
+                "credit_id": "52fe4233c3a36847f800b971",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4252,
+                "known_for_department": "Acting",
+                "name": "Tony Shalhoub",
+                "original_name": "Tony Shalhoub",
+                "popularity": 16.4,
+                "profile_path": "/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg",
+                "cast_id": 34,
+                "character": "Ben Geisler",
+                "credit_id": "562e4479c3a3681b5900abb8",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4251,
+                "known_for_department": "Acting",
+                "name": "John Mahoney",
+                "original_name": "John Mahoney",
+                "popularity": 10.745,
+                "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg",
+                "cast_id": 17,
+                "character": "W.P. Mayhew",
+                "credit_id": "52fe4233c3a36847f800b975",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4253,
+                "known_for_department": "Acting",
+                "name": "Jon Polito",
+                "original_name": "Jon Polito",
+                "popularity": 6.855,
+                "profile_path": "/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg",
+                "cast_id": 18,
+                "character": "Lou Breeze",
+                "credit_id": "52fe4233c3a36847f800b979",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 884,
+                "known_for_department": "Acting",
+                "name": "Steve Buscemi",
+                "original_name": "Steve Buscemi",
+                "popularity": 32.333,
+                "profile_path": "/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg",
+                "cast_id": 19,
+                "character": "Chet",
+                "credit_id": "52fe4233c3a36847f800b97d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4254,
+                "known_for_department": "Acting",
+                "name": "David Warrilow",
+                "original_name": "David Warrilow",
+                "popularity": 3.095,
+                "profile_path": "/vbVVpDTz172DPT4fQQOK4CB6p9O.jpg",
+                "cast_id": 20,
+                "character": "Garland Stanford",
+                "credit_id": "52fe4233c3a36847f800b981",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4255,
+                "known_for_department": "Acting",
+                "name": "Richard Portnow",
+                "original_name": "Richard Portnow",
+                "popularity": 7.863,
+                "profile_path": "/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg",
+                "cast_id": 21,
+                "character": "Det. Mastrionotti",
+                "credit_id": "52fe4233c3a36847f800b985",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4256,
+                "known_for_department": "Acting",
+                "name": "Christopher Murney",
+                "original_name": "Christopher Murney",
+                "popularity": 3.906,
+                "profile_path": "/kvQoimcKxNX5ow2yOmwK0UnmkKv.jpg",
+                "cast_id": 22,
+                "character": "Det. Deutsch",
+                "credit_id": "52fe4233c3a36847f800b989",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4257,
+                "known_for_department": "Acting",
+                "name": "I.M. Hobson",
+                "original_name": "I.M. Hobson",
+                "popularity": 2.609,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Derek",
+                "credit_id": "52fe4233c3a36847f800b98d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 82988,
+                "known_for_department": "Acting",
+                "name": "Meagen Fay",
+                "original_name": "Meagen Fay",
+                "popularity": 5.277,
+                "profile_path": "/scvzl6Ym40hdIx8yYBOw9TrlXPM.jpg",
+                "cast_id": 39,
+                "character": "Poppy Carnahan",
+                "credit_id": "609fa00ce635710079ed94dc",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 157607,
+                "known_for_department": "Acting",
+                "name": "Lance Davis",
+                "original_name": "Lance Davis",
+                "popularity": 1.93,
+                "profile_path": "/csHtRg0Ivlt2vJBXpn3NkVWveOL.jpg",
+                "cast_id": 33,
+                "character": "Richard St. Claire",
+                "credit_id": "52fe4233c3a36847f800b9c5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4510,
+                "known_for_department": "Acting",
+                "name": "Harry Bugin",
+                "original_name": "Harry Bugin",
+                "popularity": 2.559,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Pete",
+                "credit_id": "52fe4233c3a36847f800b991",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3091097,
+                "known_for_department": "Acting",
+                "name": "Anthony Gordon",
+                "original_name": "Anthony Gordon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Maitre D'",
+                "credit_id": "609fa092e63571002a6edc93",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119226,
+                "known_for_department": "Acting",
+                "name": "Jack Denbo",
+                "original_name": "Jack Denbo",
+                "popularity": 0.988,
+                "profile_path": "/9pCTzwxWN6423O0mQ77OzDCQ6tO.jpg",
+                "cast_id": 41,
+                "character": "Stagehand",
+                "credit_id": "609fa09ee635710041d8bf74",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1219415,
+                "known_for_department": "Acting",
+                "name": "Max Grod\u00e9nchik",
+                "original_name": "Max Grod\u00e9nchik",
+                "popularity": 6.96,
+                "profile_path": "/7OqXbOYUytuWwkvEEJG31RpsSuE.jpg",
+                "cast_id": 42,
+                "character": "Clapper Boy",
+                "credit_id": "609fa0ade18e3f006fa46f35",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 79590,
+                "known_for_department": "Acting",
+                "name": "Robert Beecher",
+                "original_name": "Robert Beecher",
+                "popularity": 3.731,
+                "profile_path": "/8uYs1ZA7aQhx5UneheV19QkMv89.jpg",
+                "cast_id": 43,
+                "character": "Referee",
+                "credit_id": "609fa0bd0f36550040e1da17",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 184781,
+                "known_for_department": "Acting",
+                "name": "Darwyn Swalve",
+                "original_name": "Darwyn Swalve",
+                "popularity": 2.988,
+                "profile_path": "/dGTL4h5dyXUVq2OCADVh5LeeA3b.jpg",
+                "cast_id": 44,
+                "character": "Wrestler",
+                "credit_id": "609fa0cad400f300289178f5",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3091098,
+                "known_for_department": "Acting",
+                "name": "Gayle Vance",
+                "original_name": "Gayle Vance",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Geisler's Secretary",
+                "credit_id": "609fa0d8d400f300567bd1d5",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3091099,
+                "known_for_department": "Acting",
+                "name": "Johnny Judkins",
+                "original_name": "Johnny Judkins",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Sailor",
+                "credit_id": "609fa0e68072980029a6ba23",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1213344,
+                "known_for_department": "Acting",
+                "name": "Jana Marie Hupp",
+                "original_name": "Jana Marie Hupp",
+                "popularity": 6.649,
+                "profile_path": "/imdCGTsMbd93657sPSjJuOfPBf1.jpg",
+                "cast_id": 47,
+                "character": "USO Girl",
+                "credit_id": "609fa0f32fccee0057252652",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1362876,
+                "known_for_department": "Acting",
+                "name": "Isabelle Townsend",
+                "original_name": "Isabelle Townsend",
+                "popularity": 1.708,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Beauty",
+                "credit_id": "609fa0fe0f0da5005812fb00",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 565196,
+                "known_for_department": "Acting",
+                "name": "William Preston Robertson",
+                "original_name": "William Preston Robertson",
+                "popularity": 1.607,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Voice (voice)",
+                "credit_id": "609fa10f839018003fcd92c2",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2516059,
+                "known_for_department": "Writing",
+                "name": "Mamie Jean Calvert",
+                "original_name": "Mamie Jean Calvert",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 50,
+                "character": "Background (uncredited)",
+                "credit_id": "609fa120e18e3f0058dd327f",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3910,
+                "known_for_department": "Acting",
+                "name": "Frances McDormand",
+                "original_name": "Frances McDormand",
+                "popularity": 26.861,
+                "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg",
+                "cast_id": 37,
+                "character": "Stage Actress (voice) (uncredited)",
+                "credit_id": "5ba5c86c0e0a2635f0001d21",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1193101,
+                "known_for_department": "Acting",
+                "name": "Bubba Dean Rambo",
+                "original_name": "Bubba Dean Rambo",
+                "popularity": 0.743,
+                "profile_path": "/62MjDPJQN8vDmjPX7ybPrKn14Ay.jpg",
+                "cast_id": 52,
+                "character": "Banquet Dancer (uncredited)",
+                "credit_id": "609fa194e635710059753f31",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5174,
+                "known_for_department": "Directing",
+                "name": "Barry Sonnenfeld",
+                "original_name": "Barry Sonnenfeld",
+                "popularity": 9.347,
+                "profile_path": "/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg",
+                "cast_id": 53,
+                "character": "Page Calling for Barton Fink (uncredited)",
+                "credit_id": "609fa1ade18e3f002a401486",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1796444,
+                "known_for_department": "Acting",
+                "name": "Vincent Tumeo",
+                "original_name": "Vincent Tumeo",
+                "popularity": 1.215,
+                "profile_path": "/vDrBWq6D6CHiEEhBsg8PuMszaaH.jpg",
+                "cast_id": 54,
+                "character": "Dancer (uncredited)",
+                "credit_id": "609fa1bd2fccee00572526e6",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3091102,
+                "known_for_department": "Acting",
+                "name": "Rob Wegner",
+                "original_name": "Rob Wegner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 55,
+                "character": "Police Officer (uncredited)",
+                "credit_id": "609fa1cfe18e3f0058dd32c3",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3091103,
+                "known_for_department": "Acting",
+                "name": "Linda Wood",
+                "original_name": "Linda Wood",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "Secretary to Head of Movie Studio (uncredited)",
+                "credit_id": "609fa1f08390180029ef38b3",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3905,
+                "known_for_department": "Acting",
+                "name": "William H. Macy",
+                "original_name": "William H. Macy",
+                "popularity": 28.403,
+                "profile_path": "/r8L4rJlEZXKo91nJjoMXaMHHt0P.jpg",
+                "cast_id": 38,
+                "character": "Navy Sailor (uncredited)",
+                "credit_id": "5f0905c0efe37c0038c2a2d3",
+                "order": 32
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151,
+                "known_for_department": "Camera",
+                "name": "Roger Deakins",
+                "original_name": "Roger Deakins",
+                "popularity": 5.623,
+                "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+                "credit_id": "52fe4233c3a36847f800b943",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 10.703,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe4233c3a36847f800b997",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 10.703,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe4233c3a36847f800b92b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1223,
+                "known_for_department": "Directing",
+                "name": "Joel Coen",
+                "original_name": "Joel Coen",
+                "popularity": 10.703,
+                "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+                "credit_id": "52fe4233c3a36847f800b94f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 9.026,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe4233c3a36847f800b99d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 9.026,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "640fea2cc390c5008f73d5af",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 9.026,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe4233c3a36847f800b949",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224,
+                "known_for_department": "Directing",
+                "name": "Ethan Coen",
+                "original_name": "Ethan Coen",
+                "popularity": 9.026,
+                "profile_path": "/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg",
+                "credit_id": "52fe4233c3a36847f800b937",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1225,
+                "known_for_department": "Sound",
+                "name": "Carter Burwell",
+                "original_name": "Carter Burwell",
+                "popularity": 4.628,
+                "profile_path": "/v1SgCqg3SXnBs1ZXoxPQQiGpAMX.jpg",
+                "credit_id": "52fe4233c3a36847f800b93d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1227,
+                "known_for_department": "Production",
+                "name": "John S. Lyons",
+                "original_name": "John S. Lyons",
+                "popularity": 1.109,
+                "profile_path": null,
+                "credit_id": "52fe4233c3a36847f800b961",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4248,
+                "known_for_department": "Art",
+                "name": "Dennis Gassner",
+                "original_name": "Dennis Gassner",
+                "popularity": 2.269,
+                "profile_path": "/5ROXnKVaSNU0bAHrvfBn4Xs7jsL.jpg",
+                "credit_id": "52fe4233c3a36847f800b955",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4249,
+                "known_for_department": "Production",
+                "name": "Donna Isaacson",
+                "original_name": "Donna Isaacson",
+                "popularity": 3.36,
+                "profile_path": "/b9tIMxqJGLDJVJ4kS7mHMEpt6Wr.jpg",
+                "credit_id": "52fe4233c3a36847f800b95b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9619,
+                "known_for_department": "Sound",
+                "name": "Skip Lievsay",
+                "original_name": "Skip Lievsay",
+                "popularity": 2.976,
+                "profile_path": "/wnQisLNWHfsVCRPX8mvEn3s6tXY.jpg",
+                "credit_id": "5b36ca51c3a368530e03593f",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20169,
+                "known_for_department": "Production",
+                "name": "Graham Place",
+                "original_name": "Graham Place",
+                "popularity": 2.094,
+                "profile_path": null,
+                "credit_id": "56800b2ec3a3684be300da57",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92494,
+                "known_for_department": "Crew",
+                "name": "Kim Robert Koscki",
+                "original_name": "Kim Robert Koscki",
+                "popularity": 2.107,
+                "profile_path": null,
+                "credit_id": "6562aa60ed96bc01015e9f7b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80298,
+                "known_for_department": "Crew",
+                "name": "Gary Jensen",
+                "original_name": "Gary Jensen",
+                "popularity": 1.242,
+                "profile_path": null,
+                "credit_id": "6562aa2cb234b9011c860243",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 80299,
+                "known_for_department": "Crew",
+                "name": "Ben Jensen",
+                "original_name": "Ben Jensen",
+                "popularity": 2.188,
+                "profile_path": null,
+                "credit_id": "6562aa28a6c104011bdde247",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 170123,
+                "known_for_department": "Acting",
+                "name": "David Powledge",
+                "original_name": "David Powledge",
+                "popularity": 3.529,
+                "profile_path": "/rts8bpff60BLzPwIJgHeF5ZWTzZ.jpg",
+                "credit_id": "6562aa8f24418200ad5e8211",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 555081,
+                "known_for_department": "Acting",
+                "name": "David Efron",
+                "original_name": "David Efron",
+                "popularity": 1.199,
+                "profile_path": null,
+                "credit_id": "6562aa3724418200ad5e81c1",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 933403,
+                "known_for_department": "Production",
+                "name": "Ben Barenholtz",
+                "original_name": "Ben Barenholtz",
+                "popularity": 0.702,
+                "profile_path": "/mmKyU5H9ILc6nuXp8m8Ug9EqqIV.jpg",
+                "credit_id": "52fe4233c3a36847f800b9af",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 999687,
+                "known_for_department": "Crew",
+                "name": "Christine Anne Baur",
+                "original_name": "Christine Anne Baur",
+                "popularity": 3.377,
+                "profile_path": null,
+                "credit_id": "65616fe87dfda659304aea08",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1054025,
+                "known_for_department": "Production",
+                "name": "Bill Durkin",
+                "original_name": "Bill Durkin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4233c3a36847f800b9b5",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1054051,
+                "known_for_department": "Production",
+                "name": "Jim Pedas",
+                "original_name": "Jim Pedas",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4233c3a36847f800b9bb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1054052,
+                "known_for_department": "Production",
+                "name": "Ted Pedas",
+                "original_name": "Ted Pedas",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4233c3a36847f800b9c1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1190771,
+                "known_for_department": "Crew",
+                "name": "George B. Colucci Jr.",
+                "original_name": "George B. Colucci Jr.",
+                "popularity": 2.619,
+                "profile_path": null,
+                "credit_id": "6562aa417dfda6593174a543",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1345608,
+                "known_for_department": "Crew",
+                "name": "Lance Gilbert",
+                "original_name": "Lance Gilbert",
+                "popularity": 2.171,
+                "profile_path": "/5amEmoYq14P7ndbljvVNeaCZuUF.jpg",
+                "credit_id": "64872a1299259c00accde1dc",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1400372,
+                "known_for_department": "Crew",
+                "name": "Mickey Gilbert",
+                "original_name": "Mickey Gilbert",
+                "popularity": 2.29,
+                "profile_path": null,
+                "credit_id": "6562aa3c3679a10977e0f702",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1401997,
+                "known_for_department": "Lighting",
+                "name": "Bill O'Leary",
+                "original_name": "Bill O'Leary",
+                "popularity": 0.762,
+                "profile_path": null,
+                "credit_id": "6562aaa1706e560138c3b0b9",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1560100,
+                "known_for_department": "Crew",
+                "name": "Fernando Celis",
+                "original_name": "Fernando Celis",
+                "popularity": 0.754,
+                "profile_path": null,
+                "credit_id": "6562aa55ed96bc013b2a1f30",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1752110,
+                "known_for_department": "Crew",
+                "name": "Billy Oliver",
+                "original_name": "Billy Oliver",
+                "popularity": 2.108,
+                "profile_path": null,
+                "credit_id": "6562aa843679a10974d9c2f2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2231423,
+                "known_for_department": "Crew",
+                "name": "A. Michael Lerner",
+                "original_name": "A. Michael Lerner",
+                "popularity": 0.96,
+                "profile_path": "/1HyZkavpHSC6AqyurndBXrvLZ8Z.jpg",
+                "credit_id": "6562aa74706e560138c3b093",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2253529,
+                "known_for_department": "Crew",
+                "name": "Billy Bates",
+                "original_name": "Billy Bates",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6562aa50b234b900c5edd74c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2298996,
+                "known_for_department": "Crew",
+                "name": "Keith Tellez",
+                "original_name": "Keith Tellez",
+                "popularity": 2.391,
+                "profile_path": null,
+                "credit_id": "6562aa8ba6c10401382a242c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2551293,
+                "known_for_department": "Crew",
+                "name": "Ethan Jensen",
+                "original_name": "Ethan Jensen",
+                "popularity": 0.617,
+                "profile_path": null,
+                "credit_id": "6562aa237dfda65932653f9d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4036533,
+                "known_for_department": "Crew",
+                "name": "Hugh McAfee",
+                "original_name": "Hugh McAfee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6562aa79a6c10400e1658a0d",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barton Fink Trailer 1991",
+                "key": "UKLwS4odvyw",
+                "site": "YouTube",
+                "size": 480,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2014-10-24T09:20:00.000Z",
+                "id": "63ab9e99c56d2d0089afe0f5"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barton Fink (1991) - Original Theatrical Trailer",
+                "key": "WK0WjWlVO9w",
+                "published_at": "2007-08-14T06:43:37.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": false,
+                "id": "533ec653c3a3685448000263"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "mn",
+                "file_path": "/5IbE8joIeUUowIVC2TNsyAd0nFv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "mn",
+                "file_path": "/nsRmLImj4VLscewpwyWJs4iYhZh.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/dSDpW5soaGsBHdwKQg9HvoFYxJd.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1009,
+                "iso_639_1": null,
+                "file_path": "/olFmSixYrne3CmXCEZk0wK1oFYg.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1794
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 765,
+                "iso_639_1": null,
+                "file_path": "/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1360
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/hjGLcwWg2F0BJB1zUFMzwrm7uqg.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/1JTrAHnuUJfaksP5jzg3bV8Q1Hc.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/cW1XlxgvxZIFkakYc9yrLpDoYhK.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/hyfQsAXtu1tahqzlKEmTxf4BFIL.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/ca6EA3xOLKkz6HOzOG0zZjv0c0U.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/qSI916upVFX9wh6kvpsmTdJGZNh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/xz1gHDwvOYummugzdlAkSCi64IN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/5GBdSBY8rQgV9wcRbhrUt9DHWwG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 10.534,
+                "height": 206,
+                "iso_639_1": "en",
+                "file_path": "/rNyORqyxrBALy1TvY2NVib4Irrm.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2170
+            },
+            {
+                "aspect_ratio": 3.505,
+                "height": 208,
+                "iso_639_1": "en",
+                "file_path": "/gaaRQRyaTXYyfPQkW6bANg7wtVz.png",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 729
+            },
+            {
+                "aspect_ratio": 10.374,
+                "height": 123,
+                "iso_639_1": "en",
+                "file_path": "/qgTHe9TSn1ccVvFskPopqe7NcIF.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1276
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
+                "vote_average": 5.4,
+                "vote_count": 16,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+                "vote_average": 5.39,
+                "vote_count": 6,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/s8Jd8T2UktNkECPfaleruDt3zUf.jpg",
+                "vote_average": 5.346,
+                "vote_count": 17,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/z9i3TGmIpsXC3SjTAngpvEr0vyD.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/rYRNKfJdwBVzZIW44NBqAH5Ipw5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "pt",
+                "file_path": "/gScIc40hwbCFE2OWRxbNI547zit.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/fJ4MIzs0UcaFK38eDVYK1oloQis.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/vIwV4AyKjcVEF3QSBglXwmTOqVA.jpg",
+                "vote_average": 5.27,
+                "vote_count": 10,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 870,
+                "iso_639_1": "pt",
+                "file_path": "/1eG3LrNyp4pZINDjxlzpqtePpmy.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 580
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/glmV5LzvEy7cI557culLxYu324C.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.718,
+                "height": 2750,
+                "iso_639_1": "de",
+                "file_path": "/rtqhJ86shI6MKRdMPu7r9oq3sR3.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1975
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/4ab1DqhRKZVWMROuTACZTxMncZv.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2560,
+                "iso_639_1": "en",
+                "file_path": "/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1707
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/aYLv61gDJmKu55L8hK0zhWt05ih.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/w2Ws34B8TgutUHUBANDid2WdQPZ.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 951
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1067,
+                "iso_639_1": "en",
+                "file_path": "/5ZHQRKamGWvwNu8SfuFLEcAuxwO.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1641,
+                "iso_639_1": "en",
+                "file_path": "/dRQEKS19dhCxvkWYzYKUXn4Hm4B.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1094
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 1080,
+                "iso_639_1": "bg",
+                "file_path": "/f21VYKow2a8Bgk4YmK7u1BA3gHW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 763
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/gG84YkVhFr6BaLc8HJMVGP9jvTy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.722,
+                "height": 1439,
+                "iso_639_1": "pl",
+                "file_path": "/nipCnXWJmzJUAwec4306yuKI6lv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1039
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 2175,
+                "iso_639_1": "hu",
+                "file_path": "/zIW9LC7N1sAO0AuTCJMoFirvYaT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1534
+            },
+            {
+                "aspect_ratio": 0.674,
+                "height": 835,
+                "iso_639_1": "en",
+                "file_path": "/mA3s9iJdeOKdyIejnjRUTCduNRK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 563
+            },
+            {
+                "aspect_ratio": 0.676,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/3yGJPd6tHX75NZrff76uqJG7HWk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 507
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": null,
+                "file_path": "/uZh5Dt6E8tPv4q5j05HdUJhcuby.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 612,
+                "name": "hotel"
+            },
+            {
+                "id": 776,
+                "name": "screenplay"
+            },
+            {
+                "id": 1583,
+                "name": "mass murder"
+            },
+            {
+                "id": 886,
+                "name": "movie business"
+            },
+            {
+                "id": 888,
+                "name": "screenwriter"
+            },
+            {
+                "id": 10226,
+                "name": "neighbor"
+            },
+            {
+                "id": 12670,
+                "name": "los angeles, california"
+            },
+            {
+                "id": 207268,
+                "name": "neo-noir"
+            },
+            {
+                "id": 207883,
+                "name": "1940s"
+            }
+        ]
+    },
+    "title_english": "Barton Fink",
+    "year": "1991",
+    "rated": "R",
+    "director_list": [
+        "Joel Coen",
+        " Ethan Coen"
+    ],
+    "writer_list": [
+        "Joel Coen",
+        " Ethan Coen"
+    ],
+    "main_cast": [
+        "John Turturro",
+        " John Goodman",
+        " Judy Davis"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "imdb_rating": "7.6",
+    "imdb_votes": "127,067",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barton_Fink",
+    "wikipedia_summary": "Barton Fink is a 1991 American period black comedy psychological thriller film written, produced, edited and directed by the Coen brothers. Set in 1941, it stars John Turturro in the title role as a young New York City playwright who is hired to write scripts for a film studio in Hollywood, and John Goodman as Charlie Meadows, the insurance salesman who lives next door at the run-down Hotel Earle.\nThe Coens wrote the screenplay for Barton Fink in three weeks while experiencing writer's block during the writing of Miller's Crossing. They began filming soon after Miller's Crossing was finished. The film is influenced by works of several earlier directors, particularly  Roman Polanski's Repulsion (1965) and The Tenant (1976).\nBarton Fink had its premiere at the Cannes Film Festival in May 1991. In a rare sweep, it won the Palme d'Or as well as awards for Best Director and Best Actor (Turturro). Although the film was a box office bomb, only grossing $6 million against its $9 million budget, it received positive reviews and was nominated for three Academy Awards.\nProminent themes of Barton Fink include the writing process; slavery and conditions of labor in creative industries; superficial distinctions between high culture and low culture; and the relationship of intellectuals with \"the common man\". The diverse elements of the film have led it to defy efforts at genre classification, with the work being variously referred to as a film noir, a horror film, a K\u00fcnstlerroman, and a buddy film. It contains various literary allusions and religious overtones, as well as references to many real-life people and events \u2013 most notably the writers Clifford Odets and William Faulkner, of whom the characters of Barton Fink and W. P. Mayhew, respectively, are often seen as fictional representations. Several features of the film's narrative, particularly an image of a woman at the beach which recurs throughout, have sparked much commentary, with the Coens acknowledging some intentional symbolic elements while denying an attempt to communicate any single message in the film.",
+    "wikipedia_plot": "In 1941, up-and-coming Broadway playwright Barton Fink accepts a contract from Capitol Pictures in Hollywood to write film scripts for a thousand dollars per week. Upon moving to Los Angeles, Fink settles into the cheap Hotel Earle. His room's only decoration is a small painting of a woman on the beach, arm raised to block the sun. Fink is assigned to a wrestling film by his new boss Jack Lipnick, but he finds difficulty in writing for the unfamiliar subject. He is distracted by sounds coming from the room next door, and he phones the front desk to alert them of the disturbing sounds. His neighbor, Charlie Meadows, the source of the noise, visits Fink to apologize. During their conversation, Fink proclaims his affection for \"the common man\", and Meadows describes his life as an insurance salesman.\n\nStill unable to proceed beyond the first lines of his script, Fink consults producer Ben Geisler for advice. Irritated, the frenetic Geisler takes him to lunch and orders him to consult another writer for assistance. Fink accidentally meets the novelist W. P. Mayhew in the bathroom. They briefly discuss movie-writing and arrange a second meeting later in the day. Fink later learns from Mayhew's secretary, Audrey Taylor, that Mayhew suffers from alcoholism and that Taylor ghostwrote some of his scripts. With one day left before his meeting with Lipnick to discuss the film, Fink phones Taylor and begs her for assistance. Taylor visits him at the Earle and they have sex. Fink awakens the next morning to find that Taylor had been violently murdered. Horrified, he summons Meadows and asks for help. Meadows is repulsed but disposes of the body and orders Fink to avoid contacting the police.\nAfter Fink has a meeting with an unusually supportive Lipnick, Meadows announces to Fink that he is going to New York for several days, and asks him to watch over a package he is leaving behind. Soon afterwards, Fink is visited by two police detectives, who inform him that Meadows's real name is Karl \"Madman\" Mundt. Mundt is a serial killer whose modus operandi is beheading his victims. Stunned, Fink places the box on his desk without opening it and he begins writing feverishly. Fink produces the entire script in one sitting and he goes out for a night of celebratory dancing. Fink returns to find the detectives in his room, who inform him of Mayhew's murder and accuse Fink of complicity with Mundt.\nAs the hotel is suddenly engulfed in flames, Mundt appears and kills the detectives with a shotgun, after which he mentions that he had paid a visit to Fink's parents and uncle in New York. Fink leaves the still-burning hotel, carrying the box and his script. Shortly thereafter he attempts to telephone his family, but there is no answer. In a final meeting with Lipnick, who has been conscripted by the United States Army Reserve to serve as a colonel in the Second World War, Fink's script (which is suggested to be a nearly word-for-word copy of one of his Broadway plays)  is lambasted as \"a fruity movie about suffering\", and he is informed that he is to remain in Los Angeles; although Fink will remain under contract, Capitol Pictures will not produce anything he writes until he \"grows up a little\". Dazed, Fink wanders onto a beach, still carrying the package. He meets a woman who looks just like the one in the picture on his wall at the Earle, and she asks about the box. He tells her he does not know what it contains nor who owns it. She then assumes the pose from the picture.",
+    "wikipedia_plot_html": "<p>In 1941, up-and-coming Broadway playwright Barton Fink accepts a contract from Capitol Pictures in Hollywood to write film scripts for a thousand dollars per week. Upon moving to Los Angeles, Fink settles into the cheap Hotel Earle. His room's only decoration is a small painting of a woman on the beach, arm raised to block the sun. Fink is assigned to a wrestling film by his new boss Jack Lipnick, but he finds difficulty in writing for the unfamiliar subject. He is distracted by sounds coming from the room next door, and he phones the front desk to alert them of the disturbing sounds. His neighbor, Charlie Meadows, the source of the noise, visits Fink to apologize. During their conversation, Fink proclaims his affection for \"the common man\", and Meadows describes his life as an insurance salesman.\n</p>\n<p>Still unable to proceed beyond the first lines of his script, Fink consults producer Ben Geisler for advice. Irritated, the frenetic Geisler takes him to lunch and orders him to consult another writer for assistance. Fink accidentally meets the novelist W. P. Mayhew in the bathroom. They briefly discuss movie-writing and arrange a second meeting later in the day. Fink later learns from Mayhew's secretary, Audrey Taylor, that Mayhew suffers from alcoholism and that Taylor ghostwrote some of his scripts. With one day left before his meeting with Lipnick to discuss the film, Fink phones Taylor and begs her for assistance. Taylor visits him at the Earle and they have sex. Fink awakens the next morning to find that Taylor had been violently murdered. Horrified, he summons Meadows and asks for help. Meadows is repulsed but disposes of the body and orders Fink to avoid contacting the police.\n</p><p>After Fink has a meeting with an unusually supportive Lipnick, Meadows announces to Fink that he is going to New York for several days, and asks him to watch over a package he is leaving behind. Soon afterwards, Fink is visited by two police detectives, who inform him that Meadows's real name is Karl \"Madman\" Mundt. Mundt is a serial killer whose <i>modus operandi</i> is beheading his victims. Stunned, Fink places the box on his desk without opening it and he begins writing feverishly. Fink produces the entire script in one sitting and he goes out for a night of celebratory dancing. Fink returns to find the detectives in his room, who inform him of Mayhew's murder and accuse Fink of complicity with Mundt.\n</p><p>As the hotel is suddenly engulfed in flames, Mundt appears and kills the detectives with a shotgun, after which he mentions that he had paid a visit to Fink's parents and uncle in New York. Fink leaves the still-burning hotel, carrying the box and his script. Shortly thereafter he attempts to telephone his family, but there is no answer. In a final meeting with Lipnick, who has been conscripted by the United States Army Reserve to serve as a colonel in the Second World War, Fink's script (which is suggested to be a nearly word-for-word copy of one of his Broadway plays)  is lambasted as \"a fruity movie about suffering\", and he is informed that he is to remain in Los Angeles; although Fink will remain under contract, Capitol Pictures will not produce anything he writes until he \"grows up a little\". Dazed, Fink wanders onto a beach, still carrying the package. He meets a woman who looks just like the one in the picture on his wall at the Earle, and she asks about the box. He tells her he does not know what it contains nor who owns it. She then assumes the pose from the picture.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Barton Fink</b></i> is a 1991 American period black comedy psychological thriller film written, produced, edited and directed by the Coen brothers. Set in 1941, it stars John Turturro in the title role as a young New York City playwright who is hired to write scripts for a film studio in Hollywood, and John Goodman as Charlie Meadows, the insurance salesman who lives next door at the run-down Hotel Earle.\n</p><p>The Coens wrote the screenplay for <i>Barton Fink</i> in three weeks while experiencing writer's block during the writing of <i>Miller's Crossing</i>. They began filming soon after <i>Miller's Crossing</i> was finished. The film is influenced by works of several earlier directors, particularly  Roman Polanski's <i>Repulsion</i> (1965) and <i>The Tenant</i> (1976).\n</p><p><i>Barton Fink</i> had its premiere at the Cannes Film Festival in May 1991. In a rare sweep, it won the Palme d'Or as well as awards for Best Director and Best Actor (Turturro). Although the film was a box office bomb, only grossing $6 million against its $9 million budget, it received positive reviews and was nominated for three Academy Awards.\n</p><p>Prominent themes of <i>Barton Fink</i> include the writing process; slavery and conditions of labor in creative industries; superficial distinctions between high culture and low culture; and the relationship of intellectuals with \"the common man\". The diverse elements of the film have led it to defy efforts at genre classification, with the work being variously referred to as a film noir, a horror film, a <i>K\u00fcnstlerroman</i>, and a buddy film. It contains various literary allusions and religious overtones, as well as references to many real-life people and events \u2013 most notably the writers Clifford Odets and William Faulkner, of whom the characters of Barton Fink and W. P. Mayhew, respectively, are often seen as fictional representations. Several features of the film's narrative, particularly an image of a woman at the beach which recurs throughout, have sparked much commentary, with the Coens acknowledging some intentional symbolic elements while denying an attempt to communicate any single message in the film.\n</p>\n\n<h2>Plot</h2>\n<p>In 1941, up-and-coming Broadway playwright Barton Fink accepts a contract from Capitol Pictures in Hollywood to write film scripts for a thousand dollars per week. Upon moving to Los Angeles, Fink settles into the cheap Hotel Earle. His room's only decoration is a small painting of a woman on the beach, arm raised to block the sun. Fink is assigned to a wrestling film by his new boss Jack Lipnick, but he finds difficulty in writing for the unfamiliar subject. He is distracted by sounds coming from the room next door, and he phones the front desk to alert them of the disturbing sounds. His neighbor, Charlie Meadows, the source of the noise, visits Fink to apologize. During their conversation, Fink proclaims his affection for \"the common man\", and Meadows describes his life as an insurance salesman.\n</p>\n<p>Still unable to proceed beyond the first lines of his script, Fink consults producer Ben Geisler for advice. Irritated, the frenetic Geisler takes him to lunch and orders him to consult another writer for assistance. Fink accidentally meets the novelist W. P. Mayhew in the bathroom. They briefly discuss movie-writing and arrange a second meeting later in the day. Fink later learns from Mayhew's secretary, Audrey Taylor, that Mayhew suffers from alcoholism and that Taylor ghostwrote some of his scripts. With one day left before his meeting with Lipnick to discuss the film, Fink phones Taylor and begs her for assistance. Taylor visits him at the Earle and they have sex. Fink awakens the next morning to find that Taylor had been violently murdered. Horrified, he summons Meadows and asks for help. Meadows is repulsed but disposes of the body and orders Fink to avoid contacting the police.\n</p><p>After Fink has a meeting with an unusually supportive Lipnick, Meadows announces to Fink that he is going to New York for several days, and asks him to watch over a package he is leaving behind. Soon afterwards, Fink is visited by two police detectives, who inform him that Meadows's real name is Karl \"Madman\" Mundt. Mundt is a serial killer whose <i>modus operandi</i> is beheading his victims. Stunned, Fink places the box on his desk without opening it and he begins writing feverishly. Fink produces the entire script in one sitting and he goes out for a night of celebratory dancing. Fink returns to find the detectives in his room, who inform him of Mayhew's murder and accuse Fink of complicity with Mundt.\n</p><p>As the hotel is suddenly engulfed in flames, Mundt appears and kills the detectives with a shotgun, after which he mentions that he had paid a visit to Fink's parents and uncle in New York. Fink leaves the still-burning hotel, carrying the box and his script. Shortly thereafter he attempts to telephone his family, but there is no answer. In a final meeting with Lipnick, who has been conscripted by the United States Army Reserve to serve as a colonel in the Second World War, Fink's script (which is suggested to be a nearly word-for-word copy of one of his Broadway plays)  is lambasted as \"a fruity movie about suffering\", and he is informed that he is to remain in Los Angeles; although Fink will remain under contract, Capitol Pictures will not produce anything he writes until he \"grows up a little\". Dazed, Fink wanders onto a beach, still carrying the package. He meets a woman who looks just like the one in the picture on his wall at the Earle, and she asks about the box. He tells her he does not know what it contains nor who owns it. She then assumes the pose from the picture.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<h3>Background and writing</h3>\n<p>In 1989, film-makers Joel and Ethan Coen began writing the script for a film eventually released as <i>Miller's Crossing</i>. The many threads of the story became complicated, and after four months they found themselves lost in the process. Although biographers and critics later referred to it as writer's block, the Coen brothers rejected this description. \"It's not really the case that we were suffering from writer's block,\" Joel said in a 1991 interview, \"but our working speed had slowed, and we were eager to get a certain distance from <i>Miller's Crossing</i>.\" They went from Los Angeles to New York and began work on a different project.</p>\n<p>In three weeks, the Coens wrote a script with a title role written specifically for actor John Turturro, with whom they'd been working on <i>Miller's Crossing</i>. The new film, <i>Barton Fink</i>, was set in a large, seemingly abandoned hotel. This setting, which they named the <i>Hotel Earle</i>, was a driving force behind the story and mood of the new project. While filming their 1984 film <i>Blood Simple</i> in Austin, Texas, the Coens had seen a hotel which made a significant impression: \"We thought, 'Wow, Motel Hell.' You know, being condemned to live in the weirdest hotel in the world.\"</p><p>The writing process for <i>Barton Fink</i> was smooth, they said, suggesting that the relief of being away from <i>Miller's Crossing</i> may have been a catalyst. They also felt satisfied with the overall shape of the story, which helped them move quickly through the composition. \"Certain films come entirely in one's head; we just sort of burped out <i>Barton Fink</i>.\" While writing, the Coens created a second leading role with another actor in mind: John Goodman, who had appeared in their 1987 comedy <i>Raising Arizona</i>. His new character, Charlie, was Barton's next-door neighbor in the cavernous hotel. Even before writing, the Coens knew how the story would end, and wrote Charlie's final speech at the start of the writing process.</p><p>The script served its diversionary purpose, and the Coens put it aside: \"<i>Barton Fink</i> sort of washed out our brain and we were able to go back and finish <i>Miller's Crossing</i>.\" Once production of the first film was finished, the Coens began to recruit staff to film <i>Barton Fink</i>. Turturro looked forward to playing the lead role, and spent a month with the Coens in Los Angeles to coordinate views on the project: \"I felt I could bring something more human to Barton. Joel and Ethan allowed me a certain contribution. I tried to go a little further than they expected.\"</p><p>As they designed detailed storyboards for <i>Barton Fink</i>, the Coens began looking for a new cinematographer, since their associate Barry Sonnenfeld\u00a0\u2013  who had filmed their first three films\u00a0\u2013  was occupied with his own directorial debut, <i>The Addams Family</i>. The Coens had been impressed with the work of English cinematographer Roger Deakins, particularly the interior scenes of the 1988 film <i>Stormy Monday</i>. After screening other films he had worked on (including <i>Sid and Nancy</i> and <i>Pascali's Island</i>), they sent a script to Deakins and invited him to join the project. His agent advised against working with the Coens, but Deakins met with them at a caf\u00e9 in Notting Hill and they soon began working together on <i>Barton Fink</i>.</p>\n\n<h3>Filming</h3>\n<p>Filming began in June 1990 and took eight weeks (a third less time than required by <i>Miller's Crossing</i>), and the estimated final budget for the film was US$9 million. The Coens worked well with Deakins, and they easily translated their ideas for each scene onto film. \"There was only one moment we surprised him,\" Joel Coen recalled later. An extended scene called for a tracking shot out of the bedroom and into a sink drain \"plug hole\" in the adjacent bathroom as a symbol of sexual intercourse. \"The shot was a lot of fun and we had a great time working out how to do it,\" Joel said. \"After that, every time we asked Roger to do something difficult, he would raise an eyebrow and say, 'Don't be having me track down any plug-holes now.'\"</p><p>Three weeks of filming were spent in the Hotel Earle, a set created by art director Dennis Gassner. The film's climax required a huge spreading fire in the hotel's hallway, which the Coens originally planned to add digitally in post-production. When they decided to use real flames, however, the crew built a large alternative set in an abandoned aircraft hangar at Long Beach. A series of gas jets were installed behind the hallway, and the wallpaper was perforated for easy penetration. As Goodman ran through the hallway, a man on an overhead catwalk opened each jet, giving the impression of a fire racing ahead of Charlie. Each take required a rebuild of the apparatus, and a second hallway (sans fire) stood ready nearby for filming pick-up shots between takes. The final scene was shot near Zuma Beach, as was the image of a wave crashing against a rock.</p><p>The Coens edited the film themselves, as is their custom. \"We prefer a hands-on approach,\" Joel explained in 1996, \"rather than sitting next to someone and telling them what to cut.\" Because of rules for membership in film production guilds, they are required to use a pseudonym; \"Roderick Jaynes\" is credited with editing <i>Barton Fink</i>. Only a few filmed scenes were removed from the final cut, including a transition scene to show Barton's movement from New York to Hollywood. (In the film, this is shown enigmatically with a wave crashing against a rock.) Several scenes representing work in Hollywood studios were also filmed, but edited out because they were \"too conventional\".</p>\n\n<h3>Setting</h3>\n<p>There is a sharp contrast between Fink's living quarters and the polished, pristine environs of Hollywood, especially the home of Jack Lipnick. The spooky, inexplicably empty feel of the Hotel Earle was central to the Coens' conception of the film. \"We wanted an art deco stylization,\" Joel explained in a 1991 interview, \"and a place that was falling into ruin after having seen better days.\" Barton's room is sparsely furnished with two large windows facing another building. The Coens later described the hotel as a \"ghost ship floating adrift, where you notice signs of the presence of other passengers, without ever laying eyes on any.\" In the film, residents' shoes are an indication of this unseen presence; another rare sign of other inhabitants is the sound from adjacent rooms. Joel said: \"You can imagine it peopled by failed commercial travelers, with pathetic sex lives, who cry alone in their rooms.\"</p><p>Heat and moisture are other important elements of the setting. The wallpaper in Barton's room peels and droops; Charlie experiences the same problem and guesses heat is the cause. The Coens used green and yellow colors liberally in designing the hotel \"to suggest an aura of putrefaction.\"</p><p>The atmosphere of the hotel was meant to connect with the character of Charlie. As Joel explained: \"Our intention, moreover, was that the hotel function as an exteriorization of the character played by John Goodman. The sweat drips off his forehead like the wallpaper peels off the walls. At the end, when Goodman says that he is a prisoner of his own mental state, that this is like some kind of hell, it was necessary for the hotel to have already suggested something infernal.\" The peeling wallpaper and the paste which seeps through it also mirror Charlie's chronic ear infection and the resultant pus.</p><p>When Barton first arrives at the Hotel Earle, he is asked by the friendly bellhop, Chet, (Steve Buscemi) if he is \"a trans or a res\"\u00a0\u2013  transient or resident. Barton explains that he isn't sure but will be staying \"indefinitely.\" The dichotomy between permanent inhabitants and guests reappears several times, notably in the hotel's motto, \"A day or a lifetime,\" which Barton notices on the room's stationery. This idea returns at the end of the film, when Charlie describes Barton as \"a tourist with a typewriter.\" His ability to leave the Earle (while Charlie remains) is presented by critic Erica Rowell as evidence that Barton's story represents the process of writing itself. Barton, she says, represents an author who is able to leave a story, while characters like Charlie cannot.</p>\n<p>In contrast, the offices of Capitol Pictures and Lipnick's house are pristine, lavishly decorated, and extremely comfortable. The company's rooms are bathed in sunlight and Ben Geisler's office faces a lush array of flora. Barton meets Lipnick in one scene beside an enormous, spotless swimming pool. This echoes his position as studio head, as he explains: \"...you can't always be honest, not with the sharks swimming around this town\u00a0... if I'd been totally honest, I wouldn't be within a mile of this pool\u00a0\u2013  unless I was cleaning it.\" In his office, Lipnick showcases another trophy of his power: statues of Atlas, the Titan of Greek mythology who declared war on the gods of Mount Olympus and was severely punished.</p><p>Barton watches dailies from another wrestling film being made by Capitol Pictures; the date on the clapperboard is December 9, two days after the attack on Pearl Harbor. Later, when Barton celebrates the completed script by dancing at a USO show, he is surrounded by soldiers. In Lipnick's next appearance, he wears a colonel's uniform, which is really a costume from his company. Lipnick has not actually entered the military but declares himself ready to fight the \"little yellow bastards.\" Originally, this historical moment just after the United States entered World War II was to have a significant impact on the Hotel Earle. As the Coens explained: \"[W]e were thinking of a hotel where the lodgers were old people, the insane, the physically handicapped, because all the others had left for the war. The further the script was developed, the more this theme got left behind, but it had led us, in the beginning, to settle on that period.\"</p>\n\n<h4>The Picture</h4>\n<p>The picture in Barton's room of a woman at the beach is a central focus for both the character and camera. He examines it frequently while at his desk and after finding Audrey's corpse in his bed he goes to stand near it. The image is repeated at the end of the film, when he meets an identical-looking woman at an identical-looking beach, who strikes an identical pose. After complimenting her beauty, he asks her: \"Are you in pictures?\" She blushes and replies: \"Don't be silly.\u201d</p><p>The Coens decided early in the writing process to include the picture as a key element in the room. \"Our intention,\" Joel explained later, \"was that the room would have very little decoration, that the walls would be bare and that the windows would offer no view of any particular interest. In fact, we wanted the only opening on the exterior world to be this picture. It seemed important to us to create a feeling of isolation.\"</p><p>Later in the film, Barton places into the frame a small picture of Charlie, dressed in a fine suit and holding a briefcase. The juxtaposition of his neighbor in the uniform of an insurance salesman and the escapist image of the woman on the beach leads to a confusion of reality and fantasy for Barton. Critic Michael Dunne notes: \"[V]iewers can only wonder how 'real' Charlie is.\u00a0... In the film's final shot\u00a0... viewers must wonder how 'real' [the woman] is. The question leads to others: How real is Fink? Lipnick? Audrey? Mayhew? How real are films anyway?\"</p><p>The picture's significance has been the subject of broad speculation. <i>The Washington Post</i> reviewer Desson Howe said that despite its emotional impact, the final scene \"feels more like a punchline for punchline's sake, a trumped-up coda.\" In her book-length analysis of the Coen brothers' films, Rowell suggests that Barton's fixation on the picture is ironic, considering its low culture status and his own pretensions toward high culture (speeches to the contrary notwithstanding). She further notes that the camera focuses on Barton himself as much as the picture while he gazes at it. At one point, the camera moves past Barton to fill the frame with the woman on the beach. This tension between objective and subjective points of view appears again at the end of the film, when Barton finds himself\u00a0\u2013  in a sense\u00a0\u2013  inside the picture.</p><p>Critic M. Keith Booker calls the final scene an \"enigmatic comment on representation and the relationship between art and reality.\" He suggests that the identical images point to the absurdity of art which reflects life directly. The film transposes the woman directly from art to reality, prompting confusion in the viewer; Booker asserts that such a literal depiction therefore leads inevitably to uncertainty.</p><p>Many critics noted that \"The Law of Non-Contradiction\", an episode of the Coen-produced TV series <i>Fargo</i> based on their eponymous 1996 film, features a reference to the picture, as the episode's main character Gloria sits at the beach in shot and position similar to the picture's. The episode's themes were also compared to <i>Barton Fink</i><span>'s</span>.</p>\n\n<h2>Genre</h2>\n<p>The Coens are known for making films that defy simple classification. Although they refer to their first film, <i>Blood Simple</i> (1984), as a relatively straightforward example of detective fiction, the Coens wrote their next script, <i>Raising Arizona</i> (1987), without trying to fit a particular genre. They decided to write a comedy but intentionally added dark elements to produce what Ethan calls \"a pretty savage film.\" Their third film, <i>Miller's Crossing</i> (1990), reversed this order, mixing bits of comedy into a crime film. Yet it also subverts single-genre identity by using conventions from melodrama, love stories, and political satire.</p><p>This trend of mixing genres continued and intensified with <i>Barton Fink</i> (1991); the Coens insist the film \"does not belong to any genre.\" Ethan has described it as \"a buddy movie for the '90s.\" It contains elements of comedy, film noir, and horror, but other film categories are present. Actor Turturro referred to it as a coming of age story while literature professor and film analyst R. Barton Palmer calls it a <i>K\u00fcnstlerroman</i>, highlighting the importance of the main character's evolution as a writer. Critic Donald Lyons describes the film as \"a retro-surrealist vision.\u201d</p><p>Because it crosses genres, fragments the characters' experiences, and resists straightforward narrative resolution, <i>Barton Fink</i> is often considered an example of postmodernist film. In his book <i>Postmodern Hollywood,</i> Booker says the film renders the past with an impressionist technique, not a precise accuracy. This technique, he notes, is \"typical of postmodern film, which views the past not as the prehistory of the present but as a warehouse of images to be raided for material.\" In his analysis of the Coens' films, Palmer calls <i>Barton Fink</i> a \"postmodern pastiche\" which closely examines how past eras have represented themselves. He compares it to <i>The Hours</i> (2002), a film about Virginia Woolf and two women who read her work. He asserts that both films, far from rejecting the importance of the past, add to our understanding of it. He quotes literary theorist Linda Hutcheon: the kind of postmodernism exhibited in these films \"does not deny the <i>existence</i> of the past; it does question whether we can ever <i>know</i> that past other than through its textualizing remains.\u201d</p><p>Certain elements in <i>Barton Fink</i> highlight the veneer of postmodernism: the writer is unable to resolve his modernist focus on high culture with the studio's desire to create formulaic high-profit films; the resulting collision produces a fractured story arc emblematic of postmodernism. The Coens' cinematic style is another example; when Barton and Audrey begin making love, the camera pans away to the bathroom, then moves toward the sink and down its drain. Rowell calls this a \"postmodern update\" of the notorious sexually suggestive image of a train entering a tunnel, used by director Alfred Hitchcock in his film <i>North by Northwest.</i></p>\n\n<h2>Style</h2>\n<p><i>Barton Fink</i> uses several stylistic conventions to accentuate the story's mood and give visual emphasis to particular themes. For example, the opening credits roll over the Hotel Earle's wallpaper, as the camera moves downward. This motion is repeated many times in the film, especially pursuant to Barton's claim that his job is to \"plumb the depths\" while writing. His first experiences in the Hotel Earle continue this trope; the bellhop Chet emerges from beneath the floor, carrying a shoe (which he has presumably been polishing) suggesting the real activity is underground. Although Barton's floor is presumably six floors above the lobby, the interior of the elevator is shown only while it is descending. These elements\u00a0\u2013  combined with many dramatic pauses, surreal dialogue, and implied threats of violence\u00a0\u2013  create an atmosphere of extreme tension. The Coens explained that \"the whole movie was supposed to feel like impending doom or catastrophe. And we definitely wanted it to end with an apocalyptic feeling.\"</p><p>The style of <i>Barton Fink</i> is evocative and representative of films of the 1930s and 1940s. As critic Michael Dunne points out: \"Fink's heavy overcoat, his hat, his dark, drab suits come realistically out of the Thirties, but they come even more out of the films of the Thirties.\" The style of the Hotel Earle and atmosphere of various scenes also reflect the influence of pre-World War II film-making. Even Charlie's underwear matches that worn by his filmic hero Jack Oakie. At the same time, camera techniques used by the Coens in <i>Barton Fink</i> represent a combination of the classic with the original. Careful tracking shots and extreme close-ups distinguish the film as a product of the late 20th century.</p><p>From the start, the film moves continuously between Barton's subjective view of the world and one which is objective. After the opening credits roll, the camera tilts down to Barton, watching the end of his play. Soon we see the audience from his point of view, cheering wildly for him. As he walks forward, he enters the shot and the viewer is returned to an objective point of view. This blurring of the subjective and objective returns in the final scene.</p><p>The shifting point of view coincides with the film's subject matter: film-making. The film begins with the end of a play, and the story explores the process of creation. This metanarrative approach is emphasized by the camera's focus in the first scene on Barton (who is mouthing the words spoken by actors offscreen), not on the play he is watching. As Rowell says: \"[T]hough we listen to one scene, we watch another.\u00a0... The separation of sound and picture shows a crucial dichotomy between two 'views' of artifice: the world created by the protagonist (his play) and the world outside it (what goes into creating a performance).\"</p><p>The film also employs numerous foreshadowing techniques. Signifying the probable contents of the package Charlie leaves with Barton, the word \"head\" appears 60 times in the original screenplay. In a grim nod to later events, Charlie describes his positive attitude toward his \"job\" of selling insurance: \"Fire, theft and casualty are not things that only happen to other people.\"</p>\n\n<h3>Symbolism</h3>\n<p>Much has been written about the symbolic meanings of <i>Barton Fink</i>. Rowell proposes that it is \"a figurative head swelling of ideas that all lead back to the artist.\" The proximity of the sex scene to Audrey's murder prompts Lyons to insist: \"Sex in <i>Barton Fink</i> is death.\" Others have suggested that the second half of the film is an extended dream sequence.</p><p>\nThe Coens, however, have denied any intent to create a systematic unity from symbols in the film. \"We never, ever go into our films with anything like that in mind,\" Joel said in a 1998 interview. \"There's never anything approaching that kind of specific intellectual breakdown. It's always a bunch of instinctive things that feel right, for whatever reason.\" The Coens have noted their comfort with unresolved ambiguity. Ethan said in 1991: \"<i>Barton Fink</i> does end up telling you what's going on to the extent that it's important to know\u00a0... What isn't crystal clear isn't intended to become crystal clear, and it's fine to leave it at that.\" Regarding fantasies and dream sequences, he said:</p><blockquote class=\"templatequote\"><p>It is correct to say that we wanted the spectator to share in the interior life of Barton Fink as well as his point of view. But there was no need to go too far. For example, it would have been incongruous for Barton Fink to wake up at the end of the film and for us to suggest thereby that he actually inhabited a reality greater than what is depicted in the film. In any case, it is always artificial to talk about \"reality\" in regard to a fictional character.</p></blockquote>\n<p>The homoerotic overtones of Barton's relationship with Charlie are not unintentional. Although one detective demands to know if they had \"some sick sex thing,\" their intimacy is presented as anything but deviant, and cloaked in conventions of mainstream sexuality. Charlie's first friendly overture toward his neighbor, for example, comes in the form of a standard pick-up line: \"I'd feel better about the damned inconvenience if you'd let me buy you a drink.\u201d The wrestling scene between Barton and Charlie is also cited as an example of homoerotic affection. \"We consider that a sex scene,\" Joel Coen said in 2001.</p>\n\n<h3>Sound and music</h3>\n<p>Many of the sound effects in <i>Barton Fink</i> are laden with meaning. For example, Barton is summoned by a bell while dining in New York City; its sound is light and pleasant. By contrast, the eerie sustained bell of the Hotel Earle rings endlessly through the lobby, until Chet silences it. The nearby rooms of the hotel emit a constant chorus of guttural cries, moans, and assorted unidentifiable noises. These sounds coincide with Barton's confused mental state and punctuate Charlie's claim that \"I hear everything that goes on in this dump.\" The applause in the first scene foreshadows the tension of Barton's move west, mixed as it is with the sound of an ocean wave crashing\u00a0\u2013 an image which is shown onscreen soon thereafter.</p>\n<p>Another symbolic sound is the hum of a mosquito. Although Fink's producer insists that these parasites don't live in Los Angeles (since \"mosquitos breed in swamps; this is a desert,\") its distinctive sound is heard clearly as Barton watches a bug circle overhead in his hotel room. Later, he arrives at meetings with mosquito bites on his face. The insect also figures prominently into the revelation of Audrey's death; Barton slaps a mosquito feeding on her corpse and suddenly realizes she has been murdered. The high pitch of the mosquito's hum is echoed in the high strings used for the film's score. During filming, the Coens were contacted by an animal rights group who expressed concern about how mosquitoes would be treated.</p><p>The score was composed by Carter Burwell, who has worked with the Coens since their first film. Unlike earlier projects, however\u00a0\u2013  the Irish folk tune used for <i>Miller's Crossing</i> and an American folk song as the basis for <i>Raising Arizona</i>\u00a0\u2013  Burwell wrote the music for <i>Barton Fink</i> without a specific inspiration. The score was released in 1996 on a compact disc, combined with the score for the Coens' film <i>Fargo.</i></p><p>Several songs used in the film are laden with meaning. At one point Mayhew stumbles away from Barton and Audrey, drunk. As he wanders, he hollers the folk song \"Old Black Joe.\" (1853) Composed by Stephen Foster, it tells the tale of an elderly slave preparing to join his friends in \"a better land.\" Mayhew's rendition of the song coincides with his condition as an oppressed employee of Capitol Pictures, and it foreshadows Barton's own situation at the film's end.</p><p>When he finishes writing his script, Barton celebrates by dancing at a United Service Organizations (USO) show. The song used in this scene is a rendition of \"Down South Camp Meeting,\" a swing tune. Its lyrics (unheard in the film) state: \"Git ready (Sing) / Here they come! The choir's all set.\" These lines echo the title of Barton's play, <i>Bare Ruined Choirs</i>. As the celebration erupts into a melee, the intensity of the music increases, and the camera zooms into the cavernous hollow of a trumpet. This sequence mirrors the camera's zoom into a sink drain just before Audrey is murdered earlier in the film.</p>\n\n<h2>Sources, inspirations, and allusions</h2>\n<p>Inspiration for the film came from several sources, and it contains allusions to many different people and events. For example, the title of Barton's play, <i>Bare Ruined Choirs</i>, comes from line four of Sonnet 73 by William Shakespeare. The poem's focus on aging and death connects to the film's exploration of artistic difficulty.</p><p>Later, at one point in the picnic scene, as Mayhew wanders drunkenly away from Barton and Audrey, he calls out: \"Silent upon a peak in Darien!\" This is the last line from John Keats's sonnet \"On First Looking into Chapman's Homer.\" (1816) The literary reference not only demonstrates the character's knowledge of classic texts, but the poem's reference to the Pacific Ocean matches Mayhew's announcement that he will \"jus' walk on down to the Pacific, and from there I'll\u00a0... improvise.\u201d</p><p>Other academic allusions are presented elsewhere, often with extreme subtlety. For example, a brief shot of the title page in a Mayhew novel indicates the publishing house of \"Swain and Pappas.\" This is likely a reference to Marshall Swain and George Pappas, philosophers whose work is concerned with themes explored in the film, including the limitations of knowledge and nature of being. One critic notes that Barton's fixation on the stain across the ceiling of his hotel room matches the protagonist's behavior in Flannery O'Connor's short story \"The Enduring Chill.<i> </i>\n</p><p>Critics have suggested that the film indirectly references the work of writers Dante Alighieri (through the use of <i>Divine Comedy</i> imagery) and Johann Wolfgang von Goethe (through the presence of Faustian bargains). Confounding bureaucratic structures and irrational characters, like those in the novels of Franz Kafka, appear in the film, but the Coens insist the connection was not intended. \"I have not read him since college\", admitted Joel in 1991, \"when I devoured works like <i>The Metamorphosis.</i> Others have mentioned <i>The Castle</i> and 'In the Penal Colony,' but I've never read them.\"</p>\n\n<h3>Clifford Odets</h3>\n<p>The character of Barton Fink is loosely based on Clifford Odets, a playwright from New York who in the 1930s joined the Group Theatre, a gathering of dramatists which included Harold Clurman, Cheryl Crawford and Lee Strasberg. Their work emphasized social issues and employed Stanislavski's system of acting to recreate human experience as truthfully as possible. Several of Odets' plays were successfully performed on Broadway, including <i>Awake and Sing!</i> and <i>Waiting for Lefty</i> (both in 1935). When public tastes turned away from politically engaged theater and toward the familial realism of Eugene O'Neill, Odets had difficulty producing successful work, so he moved to Hollywood and spent 20 years writing film scripts.</p>\n<p>The Coens wrote with Odets in mind; they imagined Barton Fink as \"a serious dramatist, honest, politically engaged, and rather naive.\" As Ethan said in 1991: \"It seemed natural that he comes from Group Theater and the decade of the thirties.\" Like Odets, Barton believes that the theatre should celebrate the trials and triumphs of everyday people; like Barton, Odets was highly egotistical. In the film, a review of Barton's play <i>Bare Ruined Choirs</i> indicates that his characters face a \"brute struggle for existence\u00a0... in the most squalid corners.\" This wording is similar to the comment of biographer Gerald Weales that Odets' characters \"struggle for life amidst petty conditions.\" Lines of dialogue from Barton's work are reminiscent of Odets' play <i>Awake and Sing!</i>. For example, one character declares: \"I'm awake now, awake for the first time.\" Another says: \"Take that ruined choir. Make it sing.\"</p><p>However, many important differences exist between the two men. Joel Coen said: \"Both writers wrote the same kind of plays with proletarian heroes, but their personalities were quite different. Odets was much more of an extrovert; in fact he was quite sociable even in Hollywood, and this is not the case with Barton Fink!\" Although he was frustrated by his declining popularity in New York, Odets was successful during his time in Hollywood. Several of his later plays were adapted\u00a0\u2013  by him and others\u00a0\u2013  into films. One of these, <i>The Big Knife</i> (1955), matches Barton's life much more than Odets'. In it, an actor becomes overwhelmed by the greed of a film studio which hires him and eventually commits suicide. Another similarity to Odets' work is Audrey's death, which mirrors a scene in <i>Deadline at Dawn,</i> (1946) a film noir written by Odets. In that film, a character awakens to find that the woman he bedded the night before has been inexplicably murdered.</p><p>Odets chronicled his difficult transition from Broadway to Hollywood in his diary, published as <i>The Time Is Ripe: The 1940 Journal of Clifford Odets.</i> (1988) The diary explored Odets' philosophical deliberations about writing and romance. He often invited women into his apartment, and he describes many of his affairs in the diary. These experiences, like the extended speeches about writing, are echoed in <i>Barton Fink</i> when Audrey visits and seduces Barton at the Hotel Earle. Turturro was the only member of the production who read Odets' <i>Journal,</i> however, and the Coen brothers urge audiences to \"take account of the difference between the character and the man.\"</p><p>The Coen brothers have stated that although the character of Fink is based on Odets, the character's appearance with \"stand-up hair and glasses\" is based on that of George S. Kaufmann.</p>\n\n<h3>William Faulkner</h3>\n<p>Some similarities exist between the character of W.P. Mayhew and novelist William Faulkner. Like Mayhew, Faulkner became known as a preeminent writer of Southern literature and later worked in the film business. Like Faulkner, Mayhew is a heavy drinker and speaks contemptuously about Hollywood. Faulkner's name appeared in the Hollywood 1940s history book <i>City of Nets,</i> which the Coens read while creating <i>Barton Fink.</i> Ethan explained in 1998: \"I read this story in passing that Faulkner was assigned to write a wrestling picture... That was part of what got us going on the whole <i>Barton Fink</i> thing.\u201d Faulkner worked on a wrestling film called <i>Flesh,</i> (1932) which starred Wallace Beery, the actor for whom Barton is writing. The focus on wrestling was fortuitous for the Coens, as they participated in the sport in high school.</p><p>However, the Coens disavow a significant connection between Faulkner and Mayhew, calling the similarities \"superficial,\" \"As far as the details of the character are concerned,\" Ethan said in 1991, \"Mayhew is very different from Faulkner, whose experiences in Hollywood were not the same at all.\" Unlike Mayhew's inability to write due to drink and personal problems, Faulkner continued to pen novels after working in the film business, winning several awards for fiction completed during and after his time in Hollywood.</p>\n\n<h3>Jack Lipnick</h3>\n<p>Lerner's Academy Award-nominated character of studio mogul Jack Lipnick is a composite of several Hollywood producers, including Harry Cohn, Louis B. Mayer and Jack L. Warner\u00a0\u2013  three of the most powerful men in the film industry at the time in which <i>Barton Fink</i> is set. Like Mayer, Lipnick is originally from the Belarusian capital city Minsk. When World War II broke out, Warner pressed for a position in the military and ordered his wardrobe department to create a military uniform for him; Lipnick does the same in his final scene. Warner once referred to writers as \"schmucks with Underwoods,\" leading to Barton's use in the film of an Underwood typewriter.</p><p>At the same time, the Coens stress that the labyrinth of deception and difficulty Barton endures is not based on their own experience. Although Joel has said that artists tend to \"meet up with Philistines,\" he added: \"<i>Barton Fink</i> is quite far from our own experience. Our professional life in Hollywood has been especially easy, and this is no doubt extraordinary and unfair.\" Ethan has suggested that Lipnick\u00a0\u2013 like the men on which he is based\u00a0\u2013 is in some ways a product of his time. \"I don't know that that kind of character exists anymore. Hollywood is a little more bland and corporate than that now.\"</p>\n\n<h3>Cinema</h3>\n<p>The Coens have acknowledged several cinematic inspirations for <i>Barton Fink.</i> Chief among these are three films by Polish-French film-maker Roman Polanski: <i>Repulsion,</i> (1965) <i>Cul-de-Sac</i> (1966) and <i>The Tenant</i> (1976). These films employ a mood of psychological uncertainty coupled with eerie environments that compound the mental instability of the characters. Barton's isolation in his room at the Hotel Earle is frequently compared to that of Trelkovsky in his apartment in <i>The Tenant.</i> Ethan said regarding the genre of <i>Barton Fink</i>: \"[I]t is kind of a Polanski movie. It is closer to that than anything else.\" By coincidence, Polanski was the head of the jury at the Cannes Film Festival in 1991, where <i>Barton Fink</i> premiered. This created an awkward situation. \"Obviously,\" Joel Coen said later, \"we have been influenced by his films, but at this time we were very hesitant to speak to him about it because we did not want to give the impression we were sucking up.\"</p><p>Other works cited as influences for <i>Barton Fink</i> include the film <i>The Shining,</i> (1980) produced and directed by Stanley Kubrick, and the comedy <i>Sullivan's Travels,</i> (1941) written and directed by Preston Sturges. Set in an empty hotel, Kubrick's film concerns a writer unable to proceed with his latest work. Although the Coens approve of comparisons to <i>The Shining,</i> Joel suggests that Kubrick's film \"belongs in a more global sense to the horror film genre\". <i>Sullivan's Travels,</i> released the year in which <i>Barton Fink</i> is set, follows successful director John Sullivan, who decides to create a film of deep social import\u00a0\u2013  not unlike Barton's desire to create entertainment for \"the common man.\" Sullivan eventually decides that comedic entertainment is a key role for film-makers, similar to Jack Lipnick's assertion at the end of <i>Barton Fink</i> that \"the audience wants to see action, adventure.\"</p><p>Additional allusions to films and film history abound in <i>Barton Fink.</i> At one point a character discusses \"Victor Soderberg\"; the name is a reference to Victor Sj\u00f6str\u00f6m, a Swedish director who worked in Hollywood under the name Seastrom. Charlie's line about how his troubles \"don't amount to a hill of beans\" is a probable homage to the film <i>Casablanca.</i> (1942) Another similarity is that of <i>Barton Fink</i><span>'s</span> beach scene to the final moment in <i>La Dolce Vita</i> (1960), wherein a young woman's final line of dialogue is obliterated by the noise of the ocean. The unsettling emptiness of the Hotel Earle has also been compared to the living spaces in <i>Key Largo</i> (1948) and <i>Sunset Boulevard.</i> (1950)</p>\n\n<h2>Themes</h2>\n<p>Two of the film's central themes\u00a0\u2013 the culture of entertainment production and the writing process\u00a0\u2013 are intertwined and relate specifically to the self-referential nature of the work (as well as the work within the work). It is a film about a man who writes a film based on a play, and at the centre of Barton's entire opus is Barton himself. The dialogue in his play <i>Bare Ruined Choirs</i> (also the first lines of the film, some of which are repeated at the end of the film as lines in Barton's screenplay <i>The Burlyman</i>) give us a glimpse into Barton's self-descriptive art. The mother in the play is named \"Lil,\" which is later revealed to be the name of Barton's own mother. In the play, \"The Kid\" (a representation of Barton himself) refers to his home \"six flights up\"\u00a0\u2013  the same floor where Barton resides at the Hotel Earle. Moreover, the characters' writing processes in <i>Barton Fink</i> reflect important differences between the culture of entertainment production in New York's Broadway district and Hollywood.</p>\n\n<h3>Broadway and Hollywood</h3>\n<p>Although Barton speaks frequently about his desire to help create \"a new, living theater, of and about and for the common man,\" he does not recognize that such a theater has already been created: the films. In fact, he disdains this authentically popular form. On the other hand, the world of Broadway theater in <i>Barton Fink</i> is a place of high culture, where the creator believes most fully that his work embodies his own values. Although he pretends to disdain his own success, Barton believes he has achieved a great victory with <i>Bare Ruined Choirs.</i> He seeks praise; when his agent Garland asks if he has seen the glowing review in the <i>Herald,</i> Barton says \"No,\" even though his producer had just read it to him. Barton feels close to the theater, confident that it can help him create work that honors \"the common man.\" The men and women who funded the production\u00a0\u2013  \"those people,\" as Barton calls them\u00a0\u2013  demonstrate that Broadway is just as concerned with profit as Hollywood; but its intimacy and smaller scale allow the author to feel that his work has real value.</p>\n<p>Barton does not believe Hollywood offers the same opportunity. In the film, Los Angeles is a world of false fronts and phony people. This is evident in an early line of the screenplay (filmed, but not included in the theatrical release); while informing Barton of Capitol Pictures' offer, his agent tells him: \"I'm only asking that your decision be informed by a little realism\u00a0\u2013  if I can use that word and Hollywood in the same breath.\" Later, as Barton tries to explain why he is staying at the Earle, studio head Jack Lipnick finishes his sentence, recognizing that Barton wants a place that is \"less Hollywood.\" The assumption is that Hollywood is fake and the Earle is genuine. Producer Ben Geisler takes Barton to lunch at a restaurant featuring a mural of the \"New York Cafe,\" a sign of Hollywood's effort to replicate the authenticity of the East Coast of the United States. Lipnick's initial overwhelming exuberance is also a fa\u00e7ade. Although he begins by telling Barton: \"The writer is king here at Capitol Pictures,\" in the penultimate scene he insists: \"If your opinion mattered, then I guess I'd resign and let <i>you</i> run the studio. It doesn't, and you won't, and the lunatics are not going to run <i>this</i> particular asylum.\"</p><p>Deception in <i>Barton Fink</i> is emblematic of Hollywood's focus on low culture, its relentless desire to efficiently produce formulaic entertainment for the sole purpose of economic gain. Capitol Pictures assigns Barton to write a wrestling picture with superstar Wallace Beery in the leading role. Although Lipnick declares otherwise, Geisler assures Barton that \"it's just a B picture.\" Audrey tries to help the struggling writer by telling him: \"Look, it's really just a formula. You don't have to type your soul into it.\u201d This formula is made clear by Lipnick, who asks Barton in their first meeting whether the main character should have a love interest or take care of an orphaned child. Barton shows his iconoclasm by answering: \"Both, maybe?\u201d In the end, his inability to conform to the studio's norms destroys Barton.\n</p><p>A similar depiction of Hollywood appears in Nathanael West's novel <i>The Day of the Locust</i> (1939), which many critics see as an important precursor to <i>Barton Fink.</i> Set in a run-down apartment complex, the book describes a painter reduced to decorating film sets. It portrays Hollywood as crass and exploitative, devouring talented individuals in its neverending quest for profit. In both West's novel and <i>Barton Fink,</i> protagonists suffer under the oppressive industrial machine of the film studio.</p>\n\n<h3>Writing</h3>\n<p>The film contains further self-referential material, as a film about a writer having difficulty writing (written by the Coen brothers while they were having difficulty writing <i>Miller's Crossing</i>). Barton is trapped between his own desire to create meaningful art and Capitol Pictures' need to use its standard conventions to earn profits. Audrey's advice about following the formula would have saved Barton, but he does not heed it. However, when he puts the mysterious package (which might have contained her head) on his writing desk, she might have been helping him posthumously, in other ways. The film itself toys with standard screenplay formulae. As with Mayhew's scripts, <i>Barton Fink</i> contains a \"good wrestler\" (Barton, it seems) and a \"bad wrestler\" (Charlie) who \"confront\" each other at the end. But in typical Coen fashion, the lines of good and evil are blurred, and the supposed hero in fact reveals himself to be deaf to the pleadings of his \"common man\" neighbor. By blurring the lines between reality and surreal experience, the film subverts the \"simple morality tales\" and \"road maps\" offered to Barton as easy paths for the writer to follow.</p><p>However, the film-makers point out that <i>Barton Fink</i> is not meant to represent the Coens themselves. \"Our life in Hollywood has been particularly easy,\" they once said. \"The film isn't a personal comment.\" Still, universal themes of the creative process are explored throughout the film. During the picnic scene, for example, Mayhew asks Barton: \"Ain't writin' peace?\" Barton pauses, then says: \"No, I've always found that writing comes from a great inner pain.\" Such exchanges led critic William Rodney Allen to call <i>Barton Fink</i> \"an autobiography of the life of the Coens' minds, not of literal fact.\" Allen's comment is itself a reference to the phrase \"life of the mind,\" used repeatedly in the film in wildly differing contexts.</p>\n\n<h3>Fascism</h3>\n<p>Several of the film's elements, including the setting at the start of World War II, have led some critics to highlight parallels to the rise of fascism at the time. For example, the detectives who visit Barton at the Hotel Earle are named \"Mastrionatti\" and \"Deutsch\u201d\u00a0\u2013  Italian and German names, evocative of the regimes of Benito Mussolini and Adolf Hitler. Their contempt for Barton is clear: \"Fink. That's a Jewish name, isn't it?\u00a0... I didn't think this dump was restricted.\u201d Later, just before killing his last victim, Charlie says: \"Heil Hitler\u201d. Jack Lipnick hails originally from the Belarusian capital city Minsk, which was occupied from summer 1941 by Nazi Germany, following Operation Barbarossa.</p><p>\"[I]t's not forcing the issue to suggest that the Holocaust hovers over <i>Barton Fink</i>,\" writes biographer Ronald Bergan. Others see a more specific message in the film, particularly Barton's obliviousness to Charlie's homicidal tendencies. Critic Roger Ebert wrote in his 1991 review that the Coens intended to create an allegory for the rise of Nazism. \"They paint Fink as an ineffectual and impotent left-wing intellectual, who sells out while telling himself he is doing the right thing, who thinks he understands the 'common man' but does not understand that, for many common men, fascism had a seductive appeal.\" However, he goes on to say: \"It would be a mistake to insist too much on this aspect of the movie...\"</p><p>\nOther critics are more demanding. M. Keith Booker writes:<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r996844942\"></p><blockquote class=\"templatequote\"><p>Fink's failure to \"listen\" seems intended to tell us that many leftist intellectuals like him were too busy pursuing their own selfish interests to effectively oppose the rise of fascism, a point that is historically entirely inaccurate\u00a0... That the Coens would choose to level a charge of irresponsibility against the only group in America that actively sought to oppose the rise of fascism is itself highly irresponsible and shows a complete ignorance of (or perhaps lack of interest in) historical reality. Such ignorance and apathy, of course, are typical of postmodern film\u2026</p></blockquote><p> For their part, the Coens deny any intention of presenting an allegorical message. They chose the detectives' names deliberately, but \"we just wanted them to be representative of the Axis world powers at the time. It just seemed kind of amusing. It's a tease. All that stuff with Charlie\u00a0\u2013  the \"Heil Hitler!\" business\u00a0\u2013  sure, it's all there, but it's kind of a tease.\" In 2001, Joel responded to a question about critics who provide extended comprehensive analysis: \"That's how they've been trained to watch movies. In <i>Barton Fink,</i> we may have encouraged it\u00a0\u2013  like teasing animals at the zoo. The movie is intentionally ambiguous in ways they may not be used to seeing.\u201d</p>\n\n<h3>Slavery</h3>\n<p>Although subdued in dialogue and imagery, the theme of slavery appears several times in the film. Mayhew's crooning of the parlor song \"Old Black Joe\" depicts him as enslaved to the film studio, not unlike the song's narrator who pines for \"my friends from the cotton fields away.\" One brief shot of the door to Mayhew's workspace shows the title of the film he is supposedly writing: <i>Slave Ship.</i> This is a reference to a 1937 movie written by Mayhew's inspiration, William Faulkner, and starring Wallace Beery, for whom Barton is composing a script in the film.</p><p>The symbol of the slave ship is furthered by specific set designs, including the round window in Ben Geisler's office which resembles a porthole, as well as the walkway leading to Mayhew's bungalow, which resembles the boarding ramp of a watercraft. Several lines of dialogue make clear by the film's end that Barton has become a slave to the studio: \"[T]he contents of your head\", Lipnick's assistant tells him, \"are the property of Capitol Pictures.\u201d After Barton turns in his script, Lipnick delivers an even more brutal punishment: \"Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write.\" This contempt and control is representative of the opinions expressed by many writers in Hollywood at the time. As Arthur Miller said in his review of <i>Barton Fink</i>: \"The only thing about Hollywood that I am sure of is that its mastication of writers can never be too wildly exaggerated.\u201d</p>\n\n<h3>\"The Common Man\"</h3>\n<p>During the first third of the film, Barton speaks constantly of his desire to write work which centers on and appeals to \"the common man.\" In one speech he declares: \"The hopes and dreams of the common man are as noble as those of any king. It's the stuff of life\u00a0\u2013  why shouldn't it be the stuff of theater?  God damn it, why should that be a hard pill to swallow?  Don't call it <i>new</i> theater, Charlie; call it <i>real</i> theater. Call it <i>our</i> theater.\" Yet, despite his rhetoric, Barton is totally unable (or unwilling) to appreciate the humanity of the \"common man\" living next door to him. Later in the film, Charlie explains that he has brought various horrors upon him because \"you <i>don't listen!</i>\" In his first conversation with Charlie, Barton constantly interrupts Charlie just as he is saying \"I could tell you some stories,\" demonstrating that despite his fine words he really is not interested in Charlie's experiences; in another scene, Barton symbolically demonstrates his deafness to the world by stuffing his ears with cotton to block the sound of his ringing telephone.</p><p>Barton's position as screenwriter is of particular consequence to his relationship with \"the common man.\" By refusing to listen to his neighbor, Barton cannot validate Charlie's existence in his writing\u00a0\u2013  with disastrous results. Not only is Charlie stuck in a job which demeans him, but he cannot (at least in Barton's case) have his story told. More centrally, the film traces the evolution of Barton's understanding of \"the common man\": At first he is an abstraction to be lauded from a vague distance. Then he becomes a complex individual with fears and desires. Finally he shows himself to be a powerful individual in his own right, capable of extreme forms of destruction and therefore feared and/or respected.</p><p>The complexity of \"the common man\" is also explored through the oft-mentioned \"life of the mind.\" While expounding on his duty as a writer, Barton drones: \"I gotta tell you, the life of the mind\u00a0... There's no road map for that territory\u00a0... and exploring it can be painful. The kind of pain most people don't know anything about.\" Barton assumes that he is privy to thoughtful creative considerations while Charlie is not. This delusion shares the film's climax, as Charlie runs through the hallway of the Earle, shooting the detectives with a shotgun and screaming: \"<i>Look upon me! I'll show you the life of the mind!!</i>\" Charlie's \"life of the mind\" is no less complex than Barton's; in fact, some critics consider it more so.</p><p>Charlie's understanding of the world is depicted as omniscient, as when he asks Barton about \"the two lovebirds next door,\" despite the fact that they are several doors away. When Barton asks how he knows about them, Charlie responds: \"Seems like I hear everything that goes on in this dump. Pipes or somethin'.\" His total awareness of the events at the Earle demonstrate the kind of understanding needed to show real empathy, as described by Audrey. This theme returns when Charlie explains in his final scene: \"Most guys I just feel sorry for. Yeah. It tears me up inside, to think about what they're going through. How trapped they are. I understand it. I feel for 'em. So I try to help them out.\"</p>\n\n<h3>Religion</h3>\n<p>Themes of religious salvation and allusions to the Bible appear only briefly in <i>Barton Fink,</i> but their presence pervades the story. While Barton is experiencing his most desperate moment of confusion and despair, he opens the drawer of his desk and finds a Gideon Bible. He opens it \"randomly\" to Daniel 2, and reads from it: \"And the king, Nebuchadnezzar, answered and said to the Chaldeans, I recall not my dream; if ye will not make known unto me my dream, and its interpretation, ye shall be cut in pieces, and of your tents shall be made a dunghill.\u201d This passage reflects Barton's inability to make sense of his own experiences (wherein Audrey has been \"cut in pieces\"), as well as the \"hopes and dreams\" of \"the common man.\" <i>Nebuchadnezzar</i> is also the title of a novel that Mayhew gives to Barton as a \"little entertainment\" to \"divert you in your sojourn among the Philistines.\u201d</p><p>Mayhew alludes to \"the story of Solomon's mammy,\" a reference to Bathsheba, who gave birth to Solomon after her lover David had her husband Uriah killed. Although Audrey cuts Mayhew off by praising his book (which Audrey herself may have written), the reference foreshadows the love triangle which evolves among the three characters of <i>Barton Fink.</i> Rowell points out that Mayhew is murdered (presumably by Charlie) soon after Barton and Audrey have sex. Another Biblical reference comes when Barton flips to the front of the Bible in his desk drawer and sees his own words transposed into the Book of Genesis. This is seen as a representation of his hubris as a self-conceived omnipotent master of creation, or alternatively, as a playful juxtaposition demonstrating Barton's hallucinatory state of mind.</p>\n\n<h2>Reception</h2>\n<h3>Box office performance</h3>\n<p>The film opened in the United States on eleven screens on August 23, 1991, and earned $268,561 during its opening weekend. During its theatrical release, <i>Barton Fink</i> grossed $6,153,939 in the United States.  That the film failed to recoup the expenses of production amused film producer Joel Silver, with whom the Coens would later work in <i>The Hudsucker Proxy</i> (1994): \"I don't think it made $5 million, and it cost $9 million to make. [The Coen brothers have] a reputation for being weird, off-center, inaccessible.</p>\n\n<h3>Critical reception</h3>\n<p>On Rotten Tomatoes, the film holds an approval rating of 89% based on 65 reviews, with an average rating of 7.9/10. The site's critical consensus reads: \"Twisty and unsettling, the Coen brothers' satirical tale of a 1940s playwright struggling with writer's block is packed with their trademark sense of humor and terrific performances from its cast.\" On Metacritic, the film has a weighted average score of 69 out of 100, based on 19 critics, indicating \"generally favorable reviews.\" Audiences polled by CinemaScore gave the film an average grade of \"B\" on an A+ to F scale.</p><p><i>The Washington Post</i> critic Rita Kempley described <i>Barton Fink</i> as \"certainly one of the year's best and most intriguing films.\" <i>The New York Times</i> critic Vincent Canby called it \"an unqualified winner\" and \"a fine dark comedy of flamboyant style and immense though seemingly effortless technique.\" Critic Jim Emerson called <i>Barton Fink</i> \"the Coen brothers' most deliciously, provocatively indescribable picture yet.\"</p><p>Some critics disliked the enigmatic plot and ambiguous ending. <i>Chicago Reader</i> critic Jonathan Rosenbaum warned of the Coens' \"adolescent smarminess and comic-book cynicism,\" and described <i>Barton Fink</i> as \"a midnight-movie gross-out in Sunday-afternoon art-house clothing.\" John Simon of <i>The National Review</i> described Barton Fink as \"asinine and insufferable.\"</p><p>In a 1994 interview, Joel dismissed criticism of unclear elements in their films: \"People have a problem dealing with the fact that our movies are not straight-ahead. They would prefer that the last half of <i>Barton Fink</i> just be about a screenwriter's writing-block problems and how they get resolved in the real world.\" Talk show host Larry King expressed approval of the movie, despite its uncertain conclusion. He wrote in <i>USA Today</i>: \"The ending is something I'm still thinking about and if they accomplished that, I guess it worked.\u201d In a 2016 interview, screenwriter Charlie Kaufman said after being asked which film he would want with him on a deserted island, \"A movie I really love is <i>Barton Fink.</i> I don't know if that's the movie I'd take to a desert island, but I feel like there's so much in there, you could watch it again and again. That's important to me, especially if that was the only movie I'd have with me for the rest of my life.\"</p><p><i>Barton Fink</i> was ranked by Greg Cwik of <i>IndieWire</i> as the Coens' fifth best film. It was voted the 11th best film of the 1990s in a poll of <i>The A.V. Club</i> contributors, and was described as \"one of [the Coens'] most profound, and painful\" works.</p>\n\n<h3>Awards and nominations</h3>\n<p>Winning three major awards at the Cannes Film Festival was extremely rare, and some critics felt the jury was too generous to the exclusion of other worthy entries. Worried that the triple victory could set a precedent which would undervalue other films, Cannes decided after the 1991 festival to limit each movie to a maximum of two awards.</p>\n\n<h2>Formats</h2>\n<p>The film was released in VHS home video format on March 5, 1992, and a DVD edition was made available on May 20, 2003. The DVD contains a gallery of still photos, theatrical trailers, and eight deleted scenes. The film is also available on Blu-ray Disc, in the UK, in a region-free format that will work in any Blu-ray player.</p>\n\n<h2>Possible sequel</h2>\n<p>The Coen brothers have expressed interest in making a sequel to <i>Barton Fink</i> called <i>Old Fink</i>, which would take place in the 1960s. \"It's the summer of love and [Fink is] teaching at Berkeley. He ratted on a lot of his friends to the House Un-American Activities Committee,\" said Joel Coen. The brothers have stated that they have had talks with John Turturro about reprising his role as Fink, but they were waiting \"until he was actually old enough to play the part.\"</p><p>Speaking to <i>The A.V. Club</i> in June 2011, Turturro suggested the sequel would be set in the 1970s, and Fink would be a hippie with a large Jewfro. He said \"you'll have to wait another 10 years for that, at least.\"</p>\n\n<h2>Notes</h2>\n<h2>References</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>Sources</h2>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFAllen2006\" class=\"citation book cs1\">Allen, William Rodney, ed. (2006). <i>The Coen Brothers: Interviews</i>. Jackson: University Press of Mississippi. ISBN\u00a0<bdi>1-57806-889-4</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Coen+Brothers%3A+Interviews&amp;rft.place=Jackson&amp;rft.pub=University+Press+of+Mississippi&amp;rft.date=2006&amp;rft.isbn=1-57806-889-4&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dq5h91ZZemK0C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFBergan2000\" class=\"citation book cs1\">Bergan, Ronald (2000). <i>The Coen Brothers</i>. New York: Thunder's Mouth Press. ISBN\u00a0<bdi>1-56025-254-5</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Coen+Brothers&amp;rft.place=New+York&amp;rft.pub=Thunder%27s+Mouth+Press&amp;rft.date=2000&amp;rft.isbn=1-56025-254-5&amp;rft.aulast=Bergan&amp;rft.aufirst=Ronald&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fcoenbrothers0000berg_n3f2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFBooker2007\" class=\"citation book cs1\">Booker, M. Keith (2007). <i>Postmodern Hollywood: What's New in Film and Why It Makes Us Feel So Strange</i>. Westport, Connecticut: Praeger. ISBN\u00a0<bdi>978-0-275-99900-1</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Postmodern+Hollywood%3A+What%27s+New+in+Film+and+Why+It+Makes+Us+Feel+So+Strange&amp;rft.place=Westport%2C+Connecticut&amp;rft.pub=Praeger&amp;rft.date=2007&amp;rft.isbn=978-0-275-99900-1&amp;rft.aulast=Booker&amp;rft.aufirst=M.+Keith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCimentNiogret2004\" class=\"citation book cs1\">Ciment, Michel; Niogret, Hubert (2004). \"The Coen Brothers Interviewed\". In Palmer, R. Barton (ed.). <i>Joel and Ethan Coen</i>. Urbana: University of Illinois Press. pp.\u00a0159\u2013192. ISBN\u00a0<bdi>0-252-07185-9</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Coen+Brothers+Interviewed&amp;rft.btitle=Joel+and+Ethan+Coen&amp;rft.place=Urbana&amp;rft.pages=159-192&amp;rft.pub=University+of+Illinois+Press&amp;rft.date=2004&amp;rft.isbn=0-252-07185-9&amp;rft.aulast=Ciment&amp;rft.aufirst=Michel&amp;rft.au=Niogret%2C+Hubert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCoenCoen1991\" class=\"citation book cs1\">Coen, Joel; Coen, Ethan (1991). <i>Barton Fink &amp; Miller's Crossing</i>. London: Faber and Faber. ISBN\u00a0<bdi>0-571-16648-2</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Barton+Fink+%26+Miller%27s+Crossing&amp;rft.place=London&amp;rft.pub=Faber+and+Faber&amp;rft.date=1991&amp;rft.isbn=0-571-16648-2&amp;rft.aulast=Coen&amp;rft.aufirst=Joel&amp;rft.au=Coen%2C+Ethan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DM7AEHAAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFDunne2000\" class=\"citation journal cs1\">Dunne, Michael (2000). \"Barton Fink, Intertextuality, and the (Almost) Unbearable Richness of Viewing\". <i>Literature/Film Quarterly</i>. <b>28</b> (4): 303\u2013311. JSTOR\u00a043797006.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Literature%2FFilm+Quarterly&amp;rft.atitle=Barton+Fink%2C+Intertextuality%2C+and+the+%28Almost%29+Unbearable+Richness+of+Viewing&amp;rft.volume=28&amp;rft.issue=4&amp;rft.pages=303-311&amp;rft.date=2000&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F43797006%23id-name%3DJSTOR&amp;rft.aulast=Dunne&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F43797006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFLyons1994\" class=\"citation book cs1\">Lyons, Donald (1994). <i>Independent Visions: A Critical Introduction to Recent Independent American Film</i>. New York: Ballantine Books. ISBN\u00a0<bdi>0-345-38249-8</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Independent+Visions%3A+A+Critical+Introduction+to+Recent+Independent+American+Film&amp;rft.place=New+York&amp;rft.pub=Ballantine+Books&amp;rft.date=1994&amp;rft.isbn=0-345-38249-8&amp;rft.aulast=Lyons&amp;rft.aufirst=Donald&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHeUmAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFPalmer2004\" class=\"citation book cs1\">Palmer, R. Barton. (2004). <i>Joel and Ethan Coen</i>. Urbana: University of Illinois Press. ISBN\u00a0<bdi>0-252-07185-9</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Joel+and+Ethan+Coen&amp;rft.place=Urbana&amp;rft.pub=University+of+Illinois+Press&amp;rft.date=2004&amp;rft.isbn=0-252-07185-9&amp;rft.aulast=Palmer&amp;rft.aufirst=R.+Barton.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DrXlZAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFRowell2007\" class=\"citation book cs1\">Rowell, Erica (2007). <i>The Brothers Grim: The Films of Ethan and Joel Coen</i>. Lanham, Maryland: The Scarecrow Press, Inc. ISBN\u00a0<bdi>978-0-81-085850-3</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Brothers+Grim%3A+The+Films+of+Ethan+and+Joel+Coen&amp;rft.place=Lanham%2C+Maryland&amp;rft.pub=The+Scarecrow+Press%2C+Inc.&amp;rft.date=2007&amp;rft.isbn=978-0-81-085850-3&amp;rft.aulast=Rowell&amp;rft.aufirst=Erica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DhXSGAAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarton+Fink\"></span></li></ul>\n\n<h2>External links</h2>\n\n<ul><li><i>Barton Fink</i> at IMDb</li>\n<li><i>Barton Fink</i> at AllMovie</li>\n<li><i>Barton Fink</i> at Metacritic </li>\n<li><i>Barton Fink</i> at Rotten Tomatoes</li>\n<li><i>Barton Fink</i> screenplay at <i>You Know, For Kids</i> fansite</li>\n<li>\"Nietzsche: The Darkness of Life and <i>Barton Fink</i>\" Archived June 18, 2007, at the Wayback Machine by Jorn K. Bramann, from <i>The Educating Rita Workbook</i>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\">ISBN\u00a00-945073-25-9.</li>\n<li><span>Writing for the Pictures: Questions about <i>Barton Fink</i></span> on YouTube \u2013 slideshow analysis</li>\n<li>Nathan Rabin's article about the film</li></ul>\n\n\n\n<p class=\"mw-empty-elt\">\n</p>"
+}

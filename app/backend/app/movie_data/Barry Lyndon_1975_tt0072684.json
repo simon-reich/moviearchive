@@ -1,0 +1,1929 @@
+{
+    "adult": false,
+    "backdrop_path": "/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
+    "belongs_to_collection": null,
+    "budget": 11000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "",
+    "id": 3175,
+    "imdb_id": "tt0072684",
+    "original_language": "en",
+    "original_title": "Barry Lyndon",
+    "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+    "popularity": 19.126,
+    "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+    "production_companies": [
+        {
+            "id": 88,
+            "logo_path": null,
+            "name": "Hawk Films",
+            "origin_country": ""
+        },
+        {
+            "id": 11272,
+            "logo_path": null,
+            "name": "Peregrine",
+            "origin_country": ""
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1975-12-18",
+    "revenue": 198992,
+    "runtime": 185,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "At long last Redmond Barry became a gentleman\u2014and that was his tragedy.",
+    "title": "Barry Lyndon",
+    "video": false,
+    "vote_average": 8.007,
+    "vote_count": 2587,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31070,
+                "known_for_department": "Acting",
+                "name": "Ryan O'Neal",
+                "original_name": "Ryan O'Neal",
+                "popularity": 10.993,
+                "profile_path": "/ubPqhPWcEywLPuV4abXl2JhkWun.jpg",
+                "cast_id": 9,
+                "character": "Redmond Barry / Barry Lyndon",
+                "credit_id": "52fe438dc3a36847f805ccd1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31071,
+                "known_for_department": "Acting",
+                "name": "Marisa Berenson",
+                "original_name": "Marisa Berenson",
+                "popularity": 8.275,
+                "profile_path": "/qF2AIKo7cYrIFXPwW7qlFEtOeE2.jpg",
+                "cast_id": 10,
+                "character": "Lady Lyndon",
+                "credit_id": "52fe438dc3a36847f805ccd5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2264,
+                "known_for_department": "Acting",
+                "name": "Patrick Magee",
+                "original_name": "Patrick Magee",
+                "popularity": 7.168,
+                "profile_path": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg",
+                "cast_id": 17,
+                "character": "The Chevalier de Balibari",
+                "credit_id": "52fe438dc3a36847f805cce9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37777,
+                "known_for_department": "Acting",
+                "name": "Hardy Kr\u00fcger",
+                "original_name": "Hardy Kr\u00fcger",
+                "popularity": 7.096,
+                "profile_path": "/16gvZn3dkJgqG0VhEziElDjNyO6.jpg",
+                "cast_id": 26,
+                "character": "Capt. Potzdorf",
+                "credit_id": "52fe438dc3a36847f805cd0d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 22703,
+                "known_for_department": "Acting",
+                "name": "Diana K\u00f6rner",
+                "original_name": "Diana K\u00f6rner",
+                "popularity": 3.058,
+                "profile_path": "/q9WNoyoMRr1SbygGmMWG7W6bNQn.jpg",
+                "cast_id": 13,
+                "character": "Lischen",
+                "credit_id": "52fe438dc3a36847f805ccd9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31720,
+                "known_for_department": "Acting",
+                "name": "Gay Hamilton",
+                "original_name": "Gay Hamilton",
+                "popularity": 6.59,
+                "profile_path": "/1Y0eXwuyhzvYnOJrW5ylszvB3VD.jpg",
+                "cast_id": 19,
+                "character": "Nora Brady",
+                "credit_id": "52fe438dc3a36847f805ccf1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31718,
+                "known_for_department": "Acting",
+                "name": "Frank Middlemass",
+                "original_name": "Frank Middlemass",
+                "popularity": 3.005,
+                "profile_path": "/27T4aVlBoAsZI4tIwxGxskn3TS7.jpg",
+                "cast_id": 14,
+                "character": "Sir Charles Reginald Lyndon",
+                "credit_id": "52fe438dc3a36847f805ccdd",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31719,
+                "known_for_department": "Acting",
+                "name": "Arthur O'Sullivan",
+                "original_name": "Arthur O'Sullivan",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Captain Feeny",
+                "credit_id": "52fe438dc3a36847f805cce1",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2279,
+                "known_for_department": "Acting",
+                "name": "Godfrey Quigley",
+                "original_name": "Godfrey Quigley",
+                "popularity": 5.327,
+                "profile_path": "/p7wVD4SBoMTaPQLu4t1XDtW6jWq.jpg",
+                "cast_id": 16,
+                "character": "Capt. Grogan",
+                "credit_id": "52fe438dc3a36847f805cce5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 249,
+                "known_for_department": "Acting",
+                "name": "Leonard Rossiter",
+                "original_name": "Leonard Rossiter",
+                "popularity": 5.738,
+                "profile_path": "/qXjGUJ2TjO3ltiEYMEJ658VeqkA.jpg",
+                "cast_id": 23,
+                "character": "Capt. John Quin",
+                "credit_id": "52fe438dc3a36847f805cd01",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 694,
+                "known_for_department": "Acting",
+                "name": "Philip Stone",
+                "original_name": "Philip Stone",
+                "popularity": 5.488,
+                "profile_path": "/wKIz8L0TcKk26TNGj7rKfgP02UG.jpg",
+                "cast_id": 29,
+                "character": "Graham",
+                "credit_id": "57b23f1bc3a36830db00108b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 782,
+                "known_for_department": "Acting",
+                "name": "Steven Berkoff",
+                "original_name": "Steven Berkoff",
+                "popularity": 14.938,
+                "profile_path": "/3u4gxLWmDXAtY37GvkyCN05X2zw.jpg",
+                "cast_id": 18,
+                "character": "Lord Ludd",
+                "credit_id": "52fe438dc3a36847f805cced",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31721,
+                "known_for_department": "Acting",
+                "name": "Marie Kean",
+                "original_name": "Marie Kean",
+                "popularity": 2.715,
+                "profile_path": "/fqXI6zIJuQ2N0wekb6JAB5ZBkBS.jpg",
+                "cast_id": 20,
+                "character": "Belle, Barry's mother",
+                "credit_id": "52fe438dc3a36847f805ccf5",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31722,
+                "known_for_department": "Acting",
+                "name": "Murray Melvin",
+                "original_name": "Murray Melvin",
+                "popularity": 4.039,
+                "profile_path": "/coG9ZUSmHqJ6o6ATGS38BW9FevW.jpg",
+                "cast_id": 21,
+                "character": "Rev. Samuel Runt",
+                "credit_id": "52fe438dc3a36847f805ccf9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10029,
+                "known_for_department": "Acting",
+                "name": "Andr\u00e9 Morell",
+                "original_name": "Andr\u00e9 Morell",
+                "popularity": 3.287,
+                "profile_path": "/3YpAUiuLp9ZXL67W99W2XYdJ3se.jpg",
+                "cast_id": 22,
+                "character": "Lord Gustavos Adolphus Wendover",
+                "credit_id": "52fe438dc3a36847f805ccfd",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5020,
+                "known_for_department": "Acting",
+                "name": "Leon Vitali",
+                "original_name": "Leon Vitali",
+                "popularity": 1.4,
+                "profile_path": "/6YHGAjJI0ra7F74UUZeSf5Qtcdd.jpg",
+                "cast_id": 24,
+                "character": "Lord Bullingdon",
+                "credit_id": "52fe438dc3a36847f805cd05",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31723,
+                "known_for_department": "Acting",
+                "name": "Billy Boyle",
+                "original_name": "Billy Boyle",
+                "popularity": 1.484,
+                "profile_path": "/qOaXP5lGhCUkqnZjApNz6fPe9B6.jpg",
+                "cast_id": 25,
+                "character": "Seamus Feeny",
+                "credit_id": "52fe438dc3a36847f805cd09",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 262950,
+                "known_for_department": "Acting",
+                "name": "John Bindon",
+                "original_name": "John Bindon",
+                "popularity": 2.483,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Recruiting Soldier",
+                "credit_id": "5ab8ddf4c3a368179d00cbd8",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1649736,
+                "known_for_department": "Acting",
+                "name": "Roger Booth",
+                "original_name": "Roger Booth",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "King George III",
+                "credit_id": "5ab8de100e0a26301100d395",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 47857,
+                "known_for_department": "Acting",
+                "name": "Jonathan Cecil",
+                "original_name": "Jonathan Cecil",
+                "popularity": 2.629,
+                "profile_path": "/hkAQ1s6dZH5JlURcbSpvPyQ6Efo.jpg",
+                "cast_id": 36,
+                "character": "Lt. Jonathan Fakenham",
+                "credit_id": "5ab8de260e0a26301400cfb7",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44419,
+                "known_for_department": "Acting",
+                "name": "Peter Cellier",
+                "original_name": "Peter Cellier",
+                "popularity": 5.598,
+                "profile_path": "/xuXpqKSWQkrnbmpFfO5zfQIOX2d.jpg",
+                "cast_id": 37,
+                "character": "Sir Richard",
+                "credit_id": "5ab8de370e0a26302d00baf8",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 153196,
+                "known_for_department": "Acting",
+                "name": "Geoffrey Chater",
+                "original_name": "Geoffrey Chater",
+                "popularity": 3.523,
+                "profile_path": "/lVwhU8Om8yIxRWHUDW9M6GtBOof.jpg",
+                "cast_id": 38,
+                "character": "Dr. Broughton",
+                "credit_id": "5ab8de53925141396402cdde",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1399684,
+                "known_for_department": "Acting",
+                "name": "Anthony Dawes",
+                "original_name": "Anthony Dawes",
+                "popularity": 4.243,
+                "profile_path": "/ir0ks1tDyExpZxY5rW7Ues7x3BC.jpg",
+                "cast_id": 39,
+                "character": "British Soldier",
+                "credit_id": "5ab8de65c3a3680a3e0300d0",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1307780,
+                "known_for_department": "Acting",
+                "name": "Patrick Dawson",
+                "original_name": "Patrick Dawson",
+                "popularity": 0.668,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Seamus Feeney",
+                "credit_id": "5ab8de780e0a26303b00d4ac",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71949,
+                "known_for_department": "Acting",
+                "name": "Bernard Hepton",
+                "original_name": "Bernard Hepton",
+                "popularity": 4.903,
+                "profile_path": "/ud9XqroQkWEdR58W5bK0aRZhGqR.jpg",
+                "cast_id": 41,
+                "character": "Diner at Feast for Lord Wendover",
+                "credit_id": "5ab8de8cc3a36817a000c079",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1906673,
+                "known_for_department": "Acting",
+                "name": "Anthony Herrick",
+                "original_name": "Anthony Herrick",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "",
+                "credit_id": "5ab8de97c3a368179d00cc7c",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150864,
+                "known_for_department": "Acting",
+                "name": "Barry Jackson",
+                "original_name": "Barry Jackson",
+                "popularity": 8.511,
+                "profile_path": "/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg",
+                "cast_id": 43,
+                "character": "British Soldier",
+                "credit_id": "5ab8deac0e0a26302d00bb86",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 659,
+                "known_for_department": "Acting",
+                "name": "Wolf Kahler",
+                "original_name": "Wolf Kahler",
+                "popularity": 4.536,
+                "profile_path": "/qj8kHiwkluEAH7kwfsBgmDyjGH1.jpg",
+                "cast_id": 44,
+                "character": "Prince of T\u00fcbingen",
+                "credit_id": "5ab8debe0e0a26301100d45e",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 188468,
+                "known_for_department": "Acting",
+                "name": "Pat Laffan",
+                "original_name": "Pat Laffan",
+                "popularity": 0.746,
+                "profile_path": "/eBXRV2pCg0WThbyGUqAU0tpx2ob.jpg",
+                "cast_id": 45,
+                "character": "",
+                "credit_id": "5ab8dec9c3a368179a00b6de",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22796,
+                "known_for_department": "Acting",
+                "name": "Hans Meyer",
+                "original_name": "Hans Meyer",
+                "popularity": 3.665,
+                "profile_path": "/lD7vYorodY6dSJ20VxsOSfjt90Y.jpg",
+                "cast_id": 46,
+                "character": "",
+                "credit_id": "5ab8def1925141395e02e4e7",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26557,
+                "known_for_department": "Acting",
+                "name": "Ferdy Mayne",
+                "original_name": "Ferdy Mayne",
+                "popularity": 2.462,
+                "profile_path": "/gf9P08A2vVFoQPf938U5viuogMV.jpg",
+                "cast_id": 47,
+                "character": "Col. Bulow",
+                "credit_id": "5ab8df04925141490600bcd3",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2007942,
+                "known_for_department": "Acting",
+                "name": "David Morley",
+                "original_name": "David Morley",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Bryan Patrick Lyndon",
+                "credit_id": "5ab8df340e0a26301400d0e7",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83827,
+                "known_for_department": "Acting",
+                "name": "Liam Redmond",
+                "original_name": "Liam Redmond",
+                "popularity": 0.89,
+                "profile_path": "/l3WuZ4ohVw1eGomMLPMNc39KC5v.jpg",
+                "cast_id": 49,
+                "character": "Mr. Brady",
+                "credit_id": "5ab8df490e0a261ff1032221",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10942,
+                "known_for_department": "Acting",
+                "name": "Pat Roach",
+                "original_name": "Pat Roach",
+                "popularity": 4.223,
+                "profile_path": "/lFvFJR4rjM1AMkOPHc9wklUXBG6.jpg",
+                "cast_id": 50,
+                "character": "Toole",
+                "credit_id": "5ab8df5f0e0a261fdf033b58",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1017624,
+                "known_for_department": "Directing",
+                "name": "Dominic Savage",
+                "original_name": "Dominic Savage",
+                "popularity": 2.859,
+                "profile_path": "/qKjNTi31MGxW4ybOcN9pdKDZyW4.jpg",
+                "cast_id": 51,
+                "character": "Young Bullingdon",
+                "credit_id": "5ab8df79925141396402cf21",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 189827,
+                "known_for_department": "Acting",
+                "name": "Frederick Schiller",
+                "original_name": "Frederick Schiller",
+                "popularity": 0.98,
+                "profile_path": "/q8qfy5my9voVFhrh42h2GoqrSaS.jpg",
+                "cast_id": 52,
+                "character": "",
+                "credit_id": "5ab8e2b8c3a368179a00ba48",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109200,
+                "known_for_department": "Acting",
+                "name": "George Sewell",
+                "original_name": "George Sewell",
+                "popularity": 4.98,
+                "profile_path": "/ovmYRdB2SahdL019Dah4rbMYfNz.jpg",
+                "cast_id": 53,
+                "character": "Barry's Second",
+                "credit_id": "5ab8e2cd0e0a261fdf033eb4",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44700,
+                "known_for_department": "Acting",
+                "name": "Anthony Sharp",
+                "original_name": "Anthony Sharp",
+                "popularity": 2.768,
+                "profile_path": "/ksLGc0kaLs70bsurpmPVFFn28AW.jpg",
+                "cast_id": 54,
+                "character": "Lord Hallam",
+                "credit_id": "5ab8e2e0925141395b02e483",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26261,
+                "known_for_department": "Acting",
+                "name": "John Sharp",
+                "original_name": "John Sharp",
+                "popularity": 2.125,
+                "profile_path": "/tesKy6VNj8tUTpl1qqGvqaRJKGR.jpg",
+                "cast_id": 55,
+                "character": "Doolan",
+                "credit_id": "5ab8e2f70e0a26301100d948",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 935519,
+                "known_for_department": "Acting",
+                "name": "Roy Spencer",
+                "original_name": "Roy Spencer",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "Horse Seller",
+                "credit_id": "5ab8e30c0e0a26303b00d99f",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1288562,
+                "known_for_department": "Acting",
+                "name": "John Sullivan",
+                "original_name": "John Sullivan",
+                "popularity": 1.399,
+                "profile_path": "/5YUF00ljujUPT7eMjgnsCmDMw7u.jpg",
+                "cast_id": 57,
+                "character": "",
+                "credit_id": "5ab8e3420e0a26302d00bfc5",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 116645,
+                "known_for_department": "Acting",
+                "name": "Harry Towb",
+                "original_name": "Harry Towb",
+                "popularity": 2.366,
+                "profile_path": "/zoA2fw66kUc03lwif598tmIVxSM.jpg",
+                "cast_id": 58,
+                "character": "Innkeeper",
+                "credit_id": "5ab8e3539251413961030b58",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39741,
+                "known_for_department": "Acting",
+                "name": "Michael Hordern",
+                "original_name": "Michael Hordern",
+                "popularity": 10.292,
+                "profile_path": "/bdnxQrWH4hM7jo8fzGpcqSQeCSq.jpg",
+                "cast_id": 59,
+                "character": "Narrator (voice)",
+                "credit_id": "5ab8e3670e0a26301400d5bd",
+                "order": 42
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240,
+                "known_for_department": "Directing",
+                "name": "Stanley Kubrick",
+                "original_name": "Stanley Kubrick",
+                "popularity": 14.263,
+                "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+                "credit_id": "52fe438dc3a36847f805cca9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240,
+                "known_for_department": "Directing",
+                "name": "Stanley Kubrick",
+                "original_name": "Stanley Kubrick",
+                "popularity": 14.263,
+                "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+                "credit_id": "52fe438dc3a36847f805cca3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240,
+                "known_for_department": "Directing",
+                "name": "Stanley Kubrick",
+                "original_name": "Stanley Kubrick",
+                "popularity": 14.263,
+                "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+                "credit_id": "52fe438dc3a36847f805ccb5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2027,
+                "known_for_department": "Sound",
+                "name": "Leonard Rosenman",
+                "original_name": "Leonard Rosenman",
+                "popularity": 1.216,
+                "profile_path": "/f3hxgLgST2hfFkjkiP9hdCcWkj9.jpg",
+                "credit_id": "52fe438dc3a36847f805ccc7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2286,
+                "known_for_department": "Camera",
+                "name": "John Alcott",
+                "original_name": "John Alcott",
+                "popularity": 1.003,
+                "profile_path": "/vpWpMQirRnTpNwhVwgcXYWmFE54.jpg",
+                "credit_id": "52fe438dc3a36847f805cd13",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2384,
+                "known_for_department": "Production",
+                "name": "Bernard Williams",
+                "original_name": "Bernard Williams",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5bf922dc92514104c400d75d",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5016,
+                "known_for_department": "Production",
+                "name": "Jan Harlan",
+                "original_name": "Jan Harlan",
+                "popularity": 2.503,
+                "profile_path": null,
+                "credit_id": "52fe438dc3a36847f805ccbb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5022,
+                "known_for_department": "Art",
+                "name": "Roy Walker",
+                "original_name": "Roy Walker",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5bb97118c3a368241f02098b",
+                "department": "Art",
+                "job": "Art Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5671,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Milena Canonero",
+                "original_name": "Milena Canonero",
+                "popularity": 4.541,
+                "profile_path": "/4CJUhZSbsj6W8Aoid7N1NBrBGji.jpg",
+                "credit_id": "598b5838c3a368755f0379e2",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9869,
+                "known_for_department": "Art",
+                "name": "Ken Adam",
+                "original_name": "Ken Adam",
+                "popularity": 4.561,
+                "profile_path": "/lAOfLuPrYXBqKh799RiuNgK7ECP.jpg",
+                "credit_id": "5bb971040e0a2634e801d4fd",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10405,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Barbara Daly",
+                "original_name": "Barbara Daly",
+                "popularity": 0.999,
+                "profile_path": null,
+                "credit_id": "5ac29d44c3a3682d35024b81",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12685,
+                "known_for_department": "Editing",
+                "name": "Tony Lawson",
+                "original_name": "Tony Lawson",
+                "popularity": 0.701,
+                "profile_path": null,
+                "credit_id": "52fe438dc3a36847f805cd19",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14145,
+                "known_for_department": "Editing",
+                "name": "Rodney Holland",
+                "original_name": "Rodney Holland",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bf923d292514104be00cfc4",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20109,
+                "known_for_department": "Sound",
+                "name": "Robin Gregory",
+                "original_name": "Robin Gregory",
+                "popularity": 2.12,
+                "profile_path": null,
+                "credit_id": "5bf923f3c3a36813ab00d245",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 29869,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Alan Boyle",
+                "original_name": "Alan Boyle",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "52fe438dc3a36847f805cccd",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31061,
+                "known_for_department": "Writing",
+                "name": "William Makepeace Thackeray",
+                "original_name": "William Makepeace Thackeray",
+                "popularity": 2.306,
+                "profile_path": "/i2EgXpm9SQw98g8LmyHjD2riTRh.jpg",
+                "credit_id": "52fe438dc3a36847f805ccaf",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 420075,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ulla-Britt S\u00f6derlund",
+                "original_name": "Ulla-Britt S\u00f6derlund",
+                "popularity": 1.4,
+                "profile_path": "/q8GVOHsTubHPTVS4nswrfOorthF.jpg",
+                "credit_id": "598b5846c3a3681f6e038530",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1213681,
+                "known_for_department": "Directing",
+                "name": "David Tomblin",
+                "original_name": "David Tomblin",
+                "popularity": 1.655,
+                "profile_path": null,
+                "credit_id": "64cff2765cd16e00aeaa8f39",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1276586,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jill Carpenter",
+                "original_name": "Jill Carpenter",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bf9238c92514104da00d61d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1322112,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ann Brodie",
+                "original_name": "Ann Brodie",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5bf9237fc3a368138f00d0c5",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1378838,
+                "known_for_department": "Acting",
+                "name": "Roy Scammell",
+                "original_name": "Roy Scammell",
+                "popularity": 2.955,
+                "profile_path": "/5uiJCDvEhgxvCMhCFM7YcmivAPS.jpg",
+                "credit_id": "5cc623449251410961f44d40",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1380630,
+                "known_for_department": "Art",
+                "name": "Bill Brodie",
+                "original_name": "Bill Brodie",
+                "popularity": 1.425,
+                "profile_path": null,
+                "credit_id": "5bf94b480e0a263ac901214e",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1645435,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Yvonne Coppard",
+                "original_name": "Yvonne Coppard",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "5bf923ab92514104c400d879",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Shooting BARRY LYNDON",
+                "key": "3AZfOLZxcxk",
+                "published_at": "2018-12-10T16:29:03.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "id": "5c0ed1e30e0a2638bc0cb2a8"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barry Lyndon and Technology | BFI",
+                "key": "nXtZjiE-jQc",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2016-07-31T19:00:01.000Z",
+                "id": "632861ec43250f00830ee165"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barry Lyndon and Music | BFI",
+                "key": "hC5gJEoMvQ4",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2016-07-26T11:00:02.000Z",
+                "id": "632861dcac8e6b007d5d256f"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barry Lyndon and Literature | BFI",
+                "key": "EQolFktJI8s",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2016-07-23T09:00:01.000Z",
+                "id": "632861c0b18f320083df6ee7"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barry Lyndon and Art | BFI",
+                "key": "EykTXlhVmTg",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2016-07-20T12:22:52.000Z",
+                "id": "632861cc43250f00830ee151"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "BFI Re-release Trailer",
+                "key": "XjPSGuJskxM",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2016-06-17T11:00:01.000Z",
+                "id": "63ed7c63699fb700cee1e4df"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Barry Lyndon - The robbery [Scene 4]",
+                "key": "woO1Cs6c-oo",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Clip",
+                "official": false,
+                "published_at": "2015-11-30T01:16:54.000Z",
+                "id": "64598fc26aa8e001564755c0"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer",
+                "key": "9lzSoKOs1fc",
+                "published_at": "2012-04-07T20:51:48.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "id": "5919a0b192514105da04f6b5"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
+                "vote_average": 5.456,
+                "vote_count": 9,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/yRViKouQtLqfuMjqvAmx66cBnTg.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hoEqyhuXDyglFM8C8Z8tzk0USFM.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/cL7yffog268FC1OWzCAHgMGJPSg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/xfhPCx0sideG5U50SqNUfVFzLWb.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/813JR9exYGSO7P2aphYrkjrOItz.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/hnWvLihlKOoctTXrbmbHz80DNkR.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/a3MmLFhOLSgODby8JQyPtca4o1q.jpg",
+                "vote_average": 5.206,
+                "vote_count": 9,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/d1mojC7nUtkcRmZcRrqJUGWBfVm.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/kDQA5yLLIHHUfaM7BxjmcVEFDwb.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/wQWqRGbTDCf5nYGegWW7JyeUQJX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/QJ519Z7oS654QdbJKSQ9RXChi8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/gIsqckWVb2yKHJ4o78rysl6a34d.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/5iS5rIZJeZOVo9d0MlzxcwnWyid.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/9xFiad4ikXgagPBxr4ybaxS2OAg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 972,
+                "iso_639_1": null,
+                "file_path": "/iGSfGcc97Zvgn8hjqX9SOSNOZrc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1728
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/6uVWh248tBMcx6QeopVb7Mv5qHD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/fqGhLYqUQHbeaYbo4iOX7cLs3Th.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bmvubTLFJ2eYmoxU3Jd44YMPipC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/2QyDTgUWPfaerSKciBOdU3JpC33.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/xg4rN4dz6bA0Fd5g6P96zpUf06L.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/n9Hht4Uhw6g26Sw7PCuw9rp8SjN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 2.098,
+                "height": 1291,
+                "iso_639_1": "en",
+                "file_path": "/3JCe5mAsPkj5l4UfPnXbhqdwrjF.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2708
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.669,
+                "height": 2316,
+                "iso_639_1": "en",
+                "file_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1549
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/djl9e9koMRaOUS8tk2nRBlpNyVE.jpg",
+                "vote_average": 5.338,
+                "vote_count": 13,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/prwtTDfRbwdNOzjURTabW3UYW0O.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/pbD9sG7EKJgRcdY3CLDZMm8Ua1J.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 2504,
+                "iso_639_1": "it",
+                "file_path": "/lnI1tA8SkCZ6zipZGTQvuHyJ3BM.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1772
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/1il1g7ng7dwN4uEejtVyvDttpHa.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
+                "vote_average": 5.292,
+                "vote_count": 18,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/3YJEv83HWWgCKezTiQ9LhdR7cFU.jpg",
+                "vote_average": 5.292,
+                "vote_count": 18,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1595,
+                "iso_639_1": "en",
+                "file_path": "/gnSKFf31sYYImEQGD2kpjxkHdYR.jpg",
+                "vote_average": 5.276,
+                "vote_count": 12,
+                "width": 1063
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/yF0fXhnhrJvEA7Well0zcKQo0cU.jpg",
+                "vote_average": 5.276,
+                "vote_count": 12,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+                "vote_average": 5.264,
+                "vote_count": 8,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/58FKollWupzeOeol2iIb1ODpRKb.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1891,
+                "iso_639_1": "en",
+                "file_path": "/tOHlHkHKA5ntHrZlRwDVIbPjsUV.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1418
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1134,
+                "iso_639_1": "en",
+                "file_path": "/rKS6ICy4PlzbgokaoJYj1nNJzjR.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 756
+            },
+            {
+                "aspect_ratio": 0.718,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/4Xo1FInFRjTZvbqyeejbxm7xiVF.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1471
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/6dYTmSTiHz1RgtIvs9S2DtccNJG.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 950
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1134,
+                "iso_639_1": "en",
+                "file_path": "/eeywWiBqMfeTIT4NDcv4PfBniGU.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 756
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/xYVXVulG1QIphABGauAOGAKhmEO.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/tygTqifZN5n6HIQEbRKlluwMP1p.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 1559,
+                "iso_639_1": "en",
+                "file_path": "/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
+                "vote_average": 5.206,
+                "vote_count": 9,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/nrzVu0hvx2b1QINfgnQ0zctiCWt.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/lTql1DBlPxY2cV5cMsjUrV9MdeB.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 667
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/6GrHQszNNnQFFonbYy1Z8o9vKS7.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/uWPNrV31AkEQVqMr6pPcymFLjDl.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 755,
+                "iso_639_1": "en",
+                "file_path": "/sQ0Ck9VtfPZQy8qDcQiZ0d4GgM.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 501
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 786,
+                "iso_639_1": "en",
+                "file_path": "/cd5Q7rxc3KlDZSKwfK4mQCr3HmU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 843,
+                "iso_639_1": "en",
+                "file_path": "/wxLhMkaSw7vc7Xi0c36YTcNTT0M.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 590
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2000,
+                "iso_639_1": "en",
+                "file_path": "/lcSKFHKC3hCkWPV65la2Yvk98CM.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1333
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/damwqxXZ8C7YsZyWne9F2WIfNyA.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1932,
+                "iso_639_1": "en",
+                "file_path": "/mpfPBvD0mTi0HRRRnCtGfa5MiiH.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1288
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/4DdGPmvA1vg5uyl5quFelo8ohoB.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1143
+            },
+            {
+                "aspect_ratio": 0.692,
+                "height": 2168,
+                "iso_639_1": "en",
+                "file_path": "/wczS21UCGSLgvbeVAW5PxqOBU2C.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/mxq4PWyd21A2QtAcNqvyt3hOxkO.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/vra9ODVKj9cLJh0uU1b8wNe4imk.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/d9BJrot8C0DXoPdARknQnliUgLT.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1063
+            },
+            {
+                "aspect_ratio": 0.686,
+                "height": 1291,
+                "iso_639_1": "en",
+                "file_path": "/p0eewiXE9N6hspqQdCsRFawfWqd.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 886
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 755,
+                "iso_639_1": "en",
+                "file_path": "/b9KJL8MtIdK6VERjFS4efwjWetp.jpg",
+                "vote_average": 4.982,
+                "vote_count": 4,
+                "width": 501
+            },
+            {
+                "aspect_ratio": 0.689,
+                "height": 1080,
+                "iso_639_1": "bg",
+                "file_path": "/bw4XGkOkl9Qq6LLoj5Us5WEDqeK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 744
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/82WqebWqbsZpEWw73deE3TnVOs0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/2CgOM6C7wNa9A8s753INHmjoFrV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/foSThDFpUEuhDqRxLfuVFJl5K4a.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/vwiOhxPyMCHirzAvMpPEgxFaGHP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "th",
+                "file_path": "/38VhD9STG6HVTRu36PanCaqbnOS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/1cJeeDWOjv7zwExXFDsIVmCWI83.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 950
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1410,
+                "iso_639_1": "uk",
+                "file_path": "/sOFXICvqUPwgR8M7kpRiAiKNb4G.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 940
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/5VTIpOuEq5tDdl3eoT1nZsEIDQD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 950
+            },
+            {
+                "aspect_ratio": 0.712,
+                "height": 1762,
+                "iso_639_1": null,
+                "file_path": "/sc8UgBlhYQ7OTDE3KRuokSDGnI2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1254
+            },
+            {
+                "aspect_ratio": 0.712,
+                "height": 1762,
+                "iso_639_1": null,
+                "file_path": "/8p1JLfqWuBJZKzTqCLQVnQMJMF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1254
+            },
+            {
+                "aspect_ratio": 0.712,
+                "height": 1762,
+                "iso_639_1": null,
+                "file_path": "/uR6M6Cn1v8c4LT45WMpPUT7iNZq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1254
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/98LkuAaJgy3lKLPGlOxDm91WTF5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1002,
+                "iso_639_1": "en",
+                "file_path": "/fbCo4kyY8q3CVfL4sCglhNudjY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 668
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 1285,
+                "iso_639_1": "en",
+                "file_path": "/1VZgOYtW0ruUXJhqvNUovlNUNAd.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 918
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/p0cHIlibTXKSFo7TSZWuK8Yj3Rs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/67rCTUdyK4WcHsWgg3j9zfvaDDj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2696,
+                "iso_639_1": "en",
+                "file_path": "/1p7LG0fk2VMyiTuFDYdocfTXDnn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1798
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/es0psdPZ0Sm56mrTgLmWVFV6L5M.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6917,
+                "name": "epic"
+            },
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 395,
+                "name": "gambling"
+            },
+            {
+                "id": 5330,
+                "name": "fencing"
+            },
+            {
+                "id": 3998,
+                "name": "palace"
+            },
+            {
+                "id": 4100,
+                "name": "british army"
+            },
+            {
+                "id": 11061,
+                "name": "debt"
+            },
+            {
+                "id": 12965,
+                "name": "duel"
+            },
+            {
+                "id": 14985,
+                "name": "ireland"
+            },
+            {
+                "id": 157788,
+                "name": "british soldier"
+            },
+            {
+                "id": 160279,
+                "name": "18th century"
+            },
+            {
+                "id": 168418,
+                "name": "pistol duel"
+            },
+            {
+                "id": 177997,
+                "name": "seven years war"
+            },
+            {
+                "id": 177998,
+                "name": "nobility"
+            },
+            {
+                "id": 177999,
+                "name": "prussia"
+            }
+        ]
+    },
+    "title_english": "Barry Lyndon",
+    "year": "1975",
+    "rated": "PG",
+    "director_list": [
+        "Stanley Kubrick"
+    ],
+    "writer_list": [
+        "Stanley Kubrick",
+        " William Makepeace Thackeray"
+    ],
+    "main_cast": [
+        "Ryan O'Neal",
+        " Marisa Berenson",
+        " Patrick Magee"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "89/100"
+        }
+    ],
+    "imdb_rating": "8.1",
+    "imdb_votes": "178,430",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barry_Lyndon",
+    "wikipedia_summary": "Barry Lyndon is a 1975 historical drama film written, directed, and produced by Stanley Kubrick, based on the 1844 novel The Luck of Barry Lyndon by William Makepeace Thackeray. Narrated by Michael Hordern, and starring Ryan O'Neal, Marisa Berenson, Patrick Magee, Leonard Rossiter and Hardy Kr\u00fcger, the film recounts the early exploits and later unravelling of an 18th-century Anglo-Irish rogue and golddigger who marries a rich widow to climb the social ladder and assume her late husband's aristocratic position.\nKubrick began production on Barry Lyndon after his 1971 film A Clockwork Orange. He had originally intended to direct a biopic on Napoleon, but lost his financing because of the commercial failure of the similar 1970 Dino De Laurentiis-produced Waterloo. Kubrick eventually directed Barry Lyndon, set partially during the Seven Years' War, utilising his research from the Napoleon project. Filming began in December 1973 and lasted roughly eight months, taking place in England, Ireland, and Germany.\nThe film's cinematography has been described as ground-breaking. Especially notable are the long double shots, usually ended with a slow backwards zoom, the scenes shot entirely in candlelight, and the settings based on William Hogarth paintings. The exteriors were filmed on location in England, Ireland, and Germany, with the interiors shot mainly in London. The production had problems related to logistics, weather, and politics (Kubrick feared that he might be an IRA hostage target).Barry Lyndon received seven nominations at the 48th Academy Awards, including Best Picture, winning four for Best Scoring: Original Song Score and Adaptation or Scoring: Adaptation, \nBest Cinematography, Best Art Direction, and Best Costume Design. Although some critics took issue with the film's slow pace and restrained emotion, its reputation, like that of many of Kubrick's works, has grown over time.  In the 2022 Sight & Sound Greatest Films of All Time poll, Barry Lyndon placed 12th in the directors' poll and 45th in the critics' poll.",
+    "wikipedia_plot": "",
+    "wikipedia_plot_html": "",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Barry Lyndon</b></i> is a 1975 historical drama film written, directed, and produced by Stanley Kubrick, based on the 1844 novel <i>The Luck of Barry Lyndon</i> by William Makepeace Thackeray. Narrated by Michael Hordern, and starring Ryan O'Neal, Marisa Berenson, Patrick Magee, Leonard Rossiter and Hardy Kr\u00fcger, the film recounts the early exploits and later unravelling of an 18th-century Anglo-Irish rogue and golddigger who marries a rich widow to climb the social ladder and assume her late husband's aristocratic position.\n</p><p>Kubrick began production on <i>Barry Lyndon</i> after his 1971 film <i>A Clockwork Orange</i>. He had originally intended to direct a biopic on Napoleon, but lost his financing because of the commercial failure of the similar 1970 Dino De Laurentiis-produced <i>Waterloo</i>. Kubrick eventually directed <i>Barry Lyndon</i>, set partially during the Seven Years' War, utilising his research from the Napoleon project. Filming began in December 1973 and lasted roughly eight months, taking place in England, Ireland, and Germany.\n</p><p>The film's cinematography has been described as ground-breaking. Especially notable are the long double shots, usually ended with a slow backwards zoom, the scenes shot entirely in candlelight, and the settings based on William Hogarth paintings. The exteriors were filmed on location in England, Ireland, and Germany, with the interiors shot mainly in London. The production had problems related to logistics, weather, and politics (Kubrick feared that he might be an IRA hostage target).</p><p><i>Barry Lyndon</i> received seven nominations at the 48th Academy Awards, including Best Picture, winning four for Best Scoring: Original Song Score and Adaptation or Scoring: Adaptation, \nBest Cinematography, Best Art Direction, and Best Costume Design. Although some critics took issue with the film's slow pace and restrained emotion, its reputation, like that of many of Kubrick's works, has grown over time.  In the 2022 <i>Sight &amp; Sound</i> Greatest Films of All Time poll, <i>Barry Lyndon</i> placed 12th in the directors' poll and 45th in the critics' poll.\n</p>\n\n<h2>Plot</h2>\n<h3>Part I: <i>By What Means Redmond Barry Acquired the Style and Title of Barry Lyndon</i></h3>\n<p>In the 1750s Kingdom of Ireland, Redmond Barry's father is killed in a duel. Barry becomes infatuated with his cousin Nora Brady, and shoots her suitor British Army captain John Quin in a duel. He flees but is robbed by highwaymen on his way to Dublin. Penniless, Barry enlists in the British Army. Family friend Captain Grogan informs him that Quin is not dead: the duel was staged so that Nora's family can get rid of Barry and improve their finances through her marriage to Quin.\n</p><p>Barry serves with his regiment in Germany in the Seven Years' War, but deserts after Grogan is fatally wounded in a skirmish against the French Royal Army. Masquerading as a British lieutenant, he has a brief affair with Frau Lieschen, a married peasant woman. On his way to Bremen, Barry encounters the Prussian Captain Potzdorf, who sees through his ruse and impresses him into the Prussian Army. Barry later saves Potzdorf's life and receives commendation from Frederick the Great.\n</p><p>At the end of the war, Barry is employed by Potzdorf's uncle in the Prussian Ministry of Police. The Prussians suspect the Chevalier de Balibari, a professional gambler, of spying for the Austrians, and have Barry become his servant. Barry confides everything to the Chevalier, a fellow Irishman, and they become confederates. After they cheat the Prince of T\u00fcbingen at cards, the Prince refuses to pay his debts, and the Chevalier in turn demands satisfaction. The Prussians, still suspecting the Chevalier, arrange to have both him and Barry expelled from the country.\n</p><p>Barry and the Chevalier travel across Europe, perpetrating gambling scams, with Barry forcing payment from debtors with sword duels. In Spa, he encounters the beautiful and wealthy Lady Lyndon. He seduces her, and her elderly husband Sir Charles Lyndon dies from apoplexy, induced by Barry's goading and verbal repartee.\n</p>\n\n<h3>Part II: <i>Containing an Account of the Misfortunes and Disasters Which Befell Barry Lyndon</i></h3>\n<p>In 1773, Barry marries Lady Lyndon, takes her last name and settles in England. Lord Bullingdon, Lady Lyndon's ten-year-old son by Sir Charles, despises Barry. Barry responds by physically abusing him. The Countess bears Barry a son, Bryan Patrick, but the marriage is unhappy: Barry is openly unfaithful and squanders his wife's wealth while keeping her in seclusion.\n</p><p>A few years later, Barry's mother comes to live with him. She warns him that if Lady Lyndon were to die, Bullingdon would inherit everything, and advises him to obtain a title to protect himself. To this end, he cultivates the influential Lord Wendover and spends large sums of money to ingratiate himself with high society. Bullingdon, now a young adult, disrupts a party Barry throws for Lady Lyndon; he declares his hatred for his stepfather and states that he will leave the family estate as long as Barry remains there. Barry assaults Bullingdon until physically restrained. He becomes ostracised by society and plunges further into financial ruin.\n</p><p>An overindulgent father, Barry gifts Bryan a full-grown horse for his ninth birthday, leading to his death in a riding accident. Barry turns to alcohol, while Lady Lyndon seeks solace in religion, assisted by the Rev. Samuel Runt, who had been tutor to Bullingdon and Bryan. Barry's mother dismisses Runt, for fear that his influence will worsen Lady Lyndon's condition. Lady Lyndon attempts suicide. Runt and Graham, the family's steward, then seek out Bullingdon, who returns and challenges Barry to a duel.\n</p><p>After Bullingdon nervously misfires the first shot, Barry magnanimously fires into the ground. Bullingdon refuses to end the duel and shoots Barry in the leg, forcing the leg to be amputated below the knee. While Barry is recovering, Bullingdon takes control of the Lyndon estate. He offers Barry 500 guineas a year on the condition that he leaves England forever. With his credit exhausted, Barry accepts. Barry resumes his gambling profession, though without his former success. In December 1789, a middle-aged Lady Lyndon signs Barry's annuity cheque as her son looks on.\n</p>\n\n<h2>Cast</h2>\n<p>Critic Tim Robey suggests that the film \"makes you realise that the most undervalued aspect of Kubrick's genius could well be his way with actors.\" He adds that the supporting cast is a \"glittering procession of cameos, not from star names but from vital character players.\"</p><p>The cast featured Leon Vitali as the older Lord Bullingdon, who then became Kubrick's personal assistant, working as the casting director on his following films, and supervising film-to-video transfers for Kubrick. Their relationship lasted until Kubrick's death. The film's cinematographer, John Alcott, appears at the men's club in the non-speaking role of the man asleep in a chair near the title character when Lord Bullingdon challenges Barry to a duel. Kubrick's daughter Vivian also appears (in an uncredited role) as a guest at Bryan's birthday party.\n</p><p>Other Kubrick featured regulars were Leonard Rossiter (<i>2001: A Space Odyssey</i>), Steven Berkoff, Patrick Magee, Godfrey Quigley, Anthony Sharp, and Philip Stone (<i>A Clockwork Orange</i>). Stone went on to feature in <i>The Shining</i>.\n</p>\n\n<h2>Production</h2>\n<h3>Development</h3>\n<p>After completing post production on <i>2001: A Space Odyssey</i>, Kubrick resumed planning a film about Napoleon. During pre-production, Sergei Bondarchuk and Dino De Laurentiis' <i>Waterloo</i> was released, and failed at the box office. Reconsidering, Kubrick's financiers pulled funding, and he turned his attention towards an adaptation of Anthony Burgess's 1962 novel <i>A Clockwork Orange</i>. Subsequently, Kubrick showed an interest in Thackeray's <i>Vanity Fair</i> but dropped the project when a serialised version for television was produced. He told an interviewer, \"At one time, <i>Vanity Fair</i> interested me as a possible film but, in the end, I decided the story could not be successfully compressed into the relatively short time-span of a feature film ... as soon as I read <i>Barry Lyndon</i> I became very excited about it.\"</p><p>Having earned Oscar nominations for <i>Dr. Strangelove</i>, <i>2001: A Space Odyssey</i> and <i>A Clockwork Orange</i>, Kubrick's reputation in the early 1970s was that of \"a perfectionist auteur who loomed larger over his movies than any concept or star\". His studio\u2014Warner Bros.\u2014was therefore \"eager to bankroll\" his next project, which Kubrick kept \"shrouded in secrecy\" from the press partly due to the furore surrounding the controversially violent <i>A Clockwork Orange</i> (particularly in the UK) and partly due to his \"long-standing paranoia about the tabloid press.\" Kubrick was initially rumored to be developing an adaptation of Arthur Schnitzler's 1926 novell <i>Dream Story</i>, which would serve as the source material for his later film <i>Eyes Wide Shut</i> (1999).</p><p>Having felt compelled to set aside his plans for a film about Napoleon Bonaparte, in 1972 Kubrick set his sights on Thackeray's 1844 \"satirical picaresque about the fortune-hunting of an Irish rogue,\" <i>Barry Lyndon</i>, the setting of which allowed Kubrick to take advantage of the copious period research he had done for the now-aborted <i>Napoleon</i>. At the time, Kubrick merely announced that his next film would star Ryan O'Neal (deemed \"a seemingly un-Kubricky choice of leading man\") and Marisa Berenson, a former <i>Vogue</i> and <i>Time</i> magazine cover model, and be shot largely in Ireland. So heightened was the secrecy surrounding the film that \"Even Berenson, when Kubrick first approached her, was told only that it was to be an 18th-century costume piece [and] she was instructed to keep out of the sun in the months before production, to achieve the period-specific pallor he required.\"</p>\n\n<h3>Screenplay</h3>\n<p>Kubrick based his adapted screenplay on William Makepeace Thackeray's <i>The Luck of Barry Lyndon</i> (republished as the novel <i>Memoirs of Barry Lyndon, Esq.),</i> a picaresque tale written and published in serial form in 1844.\n</p><p>The film departs from the novel in several ways. In Thackeray's writings, events are related in the first person by Barry himself. A comic tone pervades the work, as Barry proves both a raconteur and an unreliable narrator. Kubrick's film, by contrast, presents the story objectively. Though the film contains voice-over (by actor Michael Hordern), the comments expressed are not Barry's, but those of an omniscient narrator. Kubrick felt that using a first-person narrative would not be useful in a film adaptation:</p>\n<blockquote class=\"templatequote\"><p>I believe Thackeray used Redmond Barry to tell his own story in a deliberately distorted way because it made it more interesting. Instead of the omniscient author, Thackeray used the imperfect observer, or perhaps it would be more accurate to say the dishonest observer, thus allowing the reader to judge for himself, with little difficulty, the probable truth in Redmond Barry's view of his life. This technique worked extremely well in the novel but, of course, in a film you have objective reality in front of you all of the time, so the effect of Thackeray's first-person story-teller could not be repeated on the screen. It might have worked as comedy by the juxtaposition of Barry's version of the truth with the reality on the screen, but I don't think that Barry Lyndon should have been done as a comedy.</p></blockquote>\n<p>Kubrick made several changes to the plot, including the addition of the final duel.</p>\n\n<h3>Principal photography</h3>\n<p>Principal photography lasted 300 days, from spring 1973 through to early 1974, with a break for Christmas. Kubrick initially wished to film the entire production near his home in Borehamwood, but Ken Adam convinced him to relocate the shoot to Ireland. The crew arrived in Dublin in May 1973. Jan Harlan recalls that Kubrick \"loved his time in Ireland \u2013 he rented a lovely house west of Dublin, he loved the scenery and the culture and the people\".\n</p><p>Many of the exteriors were shot in Ireland, playing \"itself, England, and Prussia during the Seven Years' War.\" Kubrick and cinematographer Alcott drew inspiration from \"the landscapes of Watteau and Gainsborough,\" and also relied on the art direction of Ken Adam and Roy Walker. Alcott, Adam and Walker were among those who would win Oscars for their work on the film.</p><p>Several of the interior scenes were filmed in Powerscourt House, an 18th-century mansion in County Wicklow. The house was destroyed in an accidental fire several months after filming (November 1974), so the film serves as a record of the lost interiors, particularly the \"Saloon\" which was used for more than one scene. The Wicklow Mountains are visible, for example, through the window of the saloon during a scene set in Berlin. Other locations included Kells Priory (the English Redcoat encampment) Blenheim Palace, Castle Howard (exteriors of the Lyndon estate), Huntington Castle, Clonegal (exterior), Corsham Court (various interiors and the music room scene), Petworth House (chapel), Stourhead (lake and temple), Longleat, and Wilton House (interior and exterior) in England, Lavenham Guildhall at Lavenham in Suffolk (amputation scene), Dunrobin Castle (exterior and garden as Spa) in Scotland, Dublin Castle in Ireland (the chevalier's home), Ludwigsburg Palace near Stuttgart and Frederick II of Prussia's Neues Palais at Potsdam near Berlin (suggesting Berlin's main street Unter den Linden as construction in Potsdam had just begun in 1763). Some exterior shots were also filmed at Waterford Castle (now a luxury hotel and golf course) and Little Island, Waterford. Moorstown Castle in Tipperary also featured. Several scenes were filmed at Castletown House in Celbridge, County Kildare, outside Carrick-on-Suir, County Tipperary, and at Youghal, County Cork.\n</p><p>The filming took place in the backdrop of some of the most intense years of the Troubles in Ireland, during which the Provisional Irish Republican Army (Provisional IRA) was waging an armed campaign in order to unite the island. On 30 January 1974, while filming in Dublin City's Phoenix Park, shooting had to be cancelled due to the chaos caused by 14 bomb threats. One day a phone call was received and Kubrick was given 24 hours to leave the country; he left within 12 hours. The phone call alleged that the Provisional IRA had him on a hit list and Harlan recalls \"Whether the threat was a hoax or it was real, almost doesn't matter ... Stanley was not willing to take the risk. He was threatened, and he packed his bag and went home\" Production of the film was one-third completed when this occurred, and it was rumored that the film would be abandoned. Nonetheless, Kubrick continued shooting the remaining two-thirds of the film at locations in southern England and Germany.</p>\n\n<h3>Cinematography</h3>\n<p>The film, as with \"almost every Kubrick film\", is a \"showcase for [a] major innovation in technique.\" While <i>2001: A Space Odyssey</i> had featured \"revolutionary effects,\" and <i>The Shining</i> would later feature heavy use of the Steadicam, <i>Barry Lyndon</i> saw a considerable number of sequences shot \"without recourse to electric light.\" The film's cinematography was overseen by director of photography John Alcott (who won an Oscar for his work), and is particularly noted for the technical innovations that made some of its most spectacular images possible. To achieve photography without electric lighting \"[f]or the many densely furnished interior scenes\u2026 meant shooting by candlelight,\" which is known to be difficult in still photography, \"let alone with moving images.\"</p><p>Kubrick was \"determined not to reproduce the set-bound, artificially lit look of other costume dramas from that time.\" After \"tinker[ing] with different combinations of lenses and film stock,\" the production obtained three super-fast 50mm lenses (Carl Zeiss Planar 50mm <i>f</i>/0.7) developed by Zeiss for use by NASA in the Apollo Moon landings, which Kubrick had discovered. These super-fast lenses \"with their huge aperture (the film actually features the lowest f-stop in film history) and fixed focal length\" were problematic to mount, and were extensively modified into three versions by Cinema Products Corp. for Kubrick to gain a wider angle of view, with input from optics expert Richard Vetter of Todd-AO. The rear element of the lens had to be 2.5\u00a0mm away from the film plane, requiring special modification to the rotating camera shutter. This allowed Kubrick and Alcott to shoot scenes lit in candlelight to an average lighting volume of only three candela, \"recreating the huddle and glow of a pre-electrical age.\" In addition, Kubrick had the entire film push-developed by one stop.</p><p>Although Kubrick and Alcott sought to avoid electric lighting where possible, most shots were achieved with conventional lenses and lighting, but were lit to deliberately mimic natural light rather than for compositional reasons. In addition to potentially seeming more realistic, these methods also gave a particular period look to the film which has often been likened to 18th-century paintings (which of course depict a world devoid of electric lighting), in particular owing \"a lot to William Hogarth, with whom Thackeray had always been fascinated.\"</p><p>The film is widely regarded as having a stately, static, painterly quality, mostly due to its lengthy, wide-angle long shots. To illuminate the more notable interior scenes, artificial lights called \"Mini-Brutes\" were placed outside and aimed through the windows, which were covered in a diffuse material to scatter the light evenly through the room rather than being placed inside for maximum use as most conventional films do.  In some instances, the natural daylight was allowed to come through, which when recorded on the film stock used by Kubrick showed up as blue-tinted compared to the incandescent electric light.</p><p>Despite such slight tinting effects, this method of lighting not only gave the look of natural daylight coming in through the windows, but it also protected the historic locations from the damage caused by mounting the lights on walls or ceilings and the heat from the lights. This helped the film \"fit\u2026 perfectly with Kubrick's gilded-cage aesthetic \u2013 the film is consciously a museum piece, its characters pinned to the frame like butterflies.\"</p>\n\n<h3>Music</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1066479718\"><p>The film's period setting allowed Kubrick to indulge his penchant for using classical music, and the film score includes pieces by Vivaldi, Bach, Handel, Paisiello, Mozart, and Schubert. The piece most associated with the film, however, is the main title music, Handel's Sarabande from the Keyboard suite in D minor (HWV 437). Originally for solo harpsichord, the versions for the main and end titles are performed with strings, timpani, and continuo. The score also includes Irish folk music, including Se\u00e1n \u00d3 Riada's song \"Women of Ireland\", arranged by Paddy Moloney and performed by The Chieftains. \"The British Grenadiers\" also features in scenes with Redcoats marching.\n</p>\n\n<h4>Charts</h4>\n<h4>Certifications</h4>\n<h2>Box office and reception</h2>\n<h3>Contemporaneous</h3>\n<p>The film \"was not the commercial success Warner Bros. had been hoping for\" within the United States, although it fared better in Europe. In the US it earned $9.1 million. Ultimately, the film grossed a worldwide total of $31.5 million on an $11 million budget.</p><p>This mixed reaction saw the film (in the words of one retrospective review) \"greeted, on its release, with dutiful admiration \u2013 but not love. Critics\u2026 rail[ed] against the perceived coldness of Kubrick's style, the film's self-conscious artistry and slow pace. Audiences, on the whole, rather agreed\u2026\"</p><p>Roger Ebert gave the film three and a half stars out of four and wrote that it \"is almost aggressive in its cool detachment. It defies us to care, it forces us to remain detached about its stately elegance.\" He added, \"This must be one of the most beautiful films ever made.\" Vincent Canby of <i>The New York Times</i> called the film \"another fascinating challenge from one of our most remarkable, independent-minded directors.\" Gene Siskel of the <i>Chicago Tribune</i> gave the film three and a half stars out of four and wrote \"I found 'Barry Lyndon' to be quite obvious about its intentions and thoroughly successful in achieving them. Kubrick has taken a novel about a social class and has turned it into an utterly comfortable story that conveys the stunning emptiness of upper-class life only 200 years past.\" He ranked the film fifth on his year-end list of the best films of 1975. Charles Champlin of the <i>Los Angeles Times</i> called it \"the motion picture equivalent of one of those very large, very heavy, very expensive, very elegant and very dull books that exist solely to be seen on coffee tables. It is ravishingly beautiful and incredibly tedious in about equal doses, a succession of salon quality still photographs\u2014as often as not very still indeed.\" <i>The Washington Post</i> wrote, \"It's not inaccurate to describe 'Barry Lyndon' as a masterpiece, but it's a deadend masterpiece, an objet d'art rather than a movie. It would be more at home, and perhaps easier to like, on the bookshelf, next to something like 'The Age of the Grand Tour,' than on the silver screen.\" Pauline Kael of <i>The New Yorker</i> wrote that \"Kubrick has taken a quick-witted story\" and \"controlled it so meticulously that he's drained the blood out of it,\" adding, \"It's a coffee-table movie; we might as well be at a three-hour slide show for art-history majors.\"</p><p>This \"air of disappointment\" factored into Kubrick's decision for his next film, an adaption of Stephen King's <i>The Shining</i>, a project that would not only please him artistically, but was more likely to succeed financially.\n</p>\n\n<h3>Re-evaluation</h3>\n<p>Over time, the film has gained a more positive reaction. On review aggregator Rotten Tomatoes, the film holds an approval rating of 87% based on 84 reviews, with an average rating of 8.3/10. The website's critical consensus reads, \"Cynical, ironic, and suffused with seductive natural lighting, <i>Barry Lyndon</i> is a complex character piece of a hapless man doomed by Georgian society.\" On Metacritic, the film has a weighted average score of 89 out of 100 based on reviews from 21 critics, indicating \"universal acclaim\". Roger Ebert added the film to his 'Great Movies' list on 9 September 2009 and increased his original rating from three and a half stars to four, writing, \"Stanley Kubrick's <i>Barry Lyndon</i>, received indifferently in 1975, has grown in stature in the years since and is now widely regarded as one of the master's best. It is certainly in every frame a Kubrick film: technically awesome, emotionally distant, remorseless in its doubt of human goodness.\"</p><p><i>The Village Voice</i> ranked the film at number 46 in its Top 250 \"Best Films of the Century\" list in 1999, based on a poll of critics. Director Martin Scorsese has named <i>Barry Lyndon</i> as his favourite Kubrick film, and it is also one of Lars von Trier's favourite films. <i>Barry Lyndon</i> was included on <i>Time</i><span>'</span>s All-Time 100 best movies list. In the 2012 <i>Sight &amp; Sound</i> Greatest Films of All Time poll, <i>Barry Lyndon</i> placed 19th in the directors' poll and 59th in the critics' poll. The film ranked 27th in BBC's 2015 list of the 100 greatest American films. In the 2022 <i>Sight &amp; Sound</i> Greatest Films of All Time poll, <i>Barry Lyndon</i> placed 12th in the directors' poll and 45th in the critics' poll.</p><p>In a list compiled by <i>The Irish Times</i> critics Tara Brady and Donald Clarke in 2020, <i>Barry Lyndon</i> was named the greatest Irish film of all time.</p><p>The Japanese filmmaker Akira Kurosawa cited the movie as one of his 100 favorite films.</p>\n\n<h3>Awards and nominations</h3>\n<h3>Thematic analysis</h3>\n<p>The main theme explored in Barry Lyndon is one of fate and destiny. Barry is pushed through life by a series of key events, some of which seem unavoidable. As Roger Ebert says, \"He is a man to whom things happen.\" He declines to eat with the highwayman Captain Feeney, where he would most likely have been robbed, but is robbed anyway farther down the road. The narrator repeatedly emphasizes the role of fate as he announces events before they unfold on screen, like Bryan's death and Bullingdon seeking satisfaction. This theme of fate is also developed in the recurring motif of the painting. Just like the events featured in the paintings, Barry is participating in events which always were.\n</p><p>Another major theme is between father and son. Barry lost his father at a young age and throughout the film he seeks and attaches himself to father-figures. Examples include his uncle, Grogan, and the Chevalier. When given the chance to be a father, Barry loves his son to the point of spoiling him. This contrasts with his role as a father to Lord Bullingdon, whom he disregards and punishes.</p>\n\n<h2>See also</h2>\n<ul><li>List of American films of 1975</li>\n<li><i>Overlord</i> \u2013 the 1975 Stuart Cooper WWII film John Alcott also worked on</li>\n<li>Cinema of Ireland</li></ul>\n\n<h2>Notes</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>References</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>Further reading</h2>\n<ul><li>Tibbetts, John C., and James M. Welsh, eds. <i>The Encyclopedia of Novels into Film</i> (2nd ed. 2005) pp 23\u201324.</li></ul>\n\n<h2>External links</h2>\n\n<ul><li><i>Barry Lyndon</i> at IMDb</li>\n<li><i>Barry Lyndon</i> at the BFI's Screenonline</li>\n<li><i>Barry Lyndon: Time Regained</i> an essay by Geoffrey O'Brien at the Criterion Collection</li>\n<li>Screenplay of Barry Lyndon (18 February 1973) at Daily script.</li>\n<li><i>Barry Lyndon</i> Press Kit at Indelible Inc.</li>\n<li>The Kubrick Site, a \"non-profit resource archive for documentary materials\", including essays and articles.</li>\n<li>Stanley Kubrick\u2019s letter to projectionists on <i>Barry Lyndon</i> at Some Came Running.</li></ul>"
+}

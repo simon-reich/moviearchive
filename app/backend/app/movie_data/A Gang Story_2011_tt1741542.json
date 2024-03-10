@@ -1,0 +1,779 @@
+{
+    "adult": false,
+    "backdrop_path": "/7mTfOUYl53FXmKJTuaXAIPerBIk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://les-lyonnais.gaumont.fr/",
+    "id": 56415,
+    "imdb_id": "tt1741542",
+    "original_language": "fr",
+    "original_title": "Les Lyonnais",
+    "overview": "After growing up in a poor gypsy camp, Edmond Vidal, aka Momon, has retained a sense of family, unfailing loyalty and pride in his origins. Most of all, he has remained friends with Serge Suttel, with whom he first discovered prison life - for stealing cherries. The two of them inevitably got involved in organized crime. The team they formed, the Ganf Des Lyonnais, made them the most notorious armed robbers of the early 1970s. Their irresistible rise ended in 1974 with a spectacular arrest. Today, as he nears 60, Momon would like to forget that part of his life. He has found peace by retiring from the \"business\". He tends to his wife Janou, who suffered so in the past, and to his children and grandchildren, all of whom have great respect for this man of simple and universal values, so clear-headed and full of kindness. But then Serge Suttel, who has disowned nothing of his past, comes back into the picture.",
+    "popularity": 9.621,
+    "poster_path": "/nN3osmlYWNZZtg8vtXrt8c5t8ET.jpg",
+    "production_companies": [
+        {
+            "id": 2490,
+            "logo_path": null,
+            "name": "LGM Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 9,
+            "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+            "name": "Gaumont",
+            "origin_country": "FR"
+        },
+        {
+            "id": 83,
+            "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+            "name": "France 2 Cin\u00e9ma",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2011-11-10",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Gang Story",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 325,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70165,
+                "known_for_department": "Acting",
+                "name": "G\u00e9rard Lanvin",
+                "original_name": "G\u00e9rard Lanvin",
+                "popularity": 3.939,
+                "profile_path": "/3FSr4VW7JF3mBcVwPnJmOeR09NB.jpg",
+                "cast_id": 1,
+                "character": "Momon Vidal",
+                "credit_id": "52fe48ffc3a36847f81842cd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10698,
+                "known_for_department": "Acting",
+                "name": "Tch\u00e9ky Karyo",
+                "original_name": "Tch\u00e9ky Karyo",
+                "popularity": 18.534,
+                "profile_path": "/jrtGiLYaALwDZgF39Hlgb8O1XZ1.jpg",
+                "cast_id": 2,
+                "character": "Serge Suttel",
+                "credit_id": "52fe48ffc3a36847f81842d1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6018,
+                "known_for_department": "Acting",
+                "name": "Daniel Duval",
+                "original_name": "Daniel Duval",
+                "popularity": 7.852,
+                "profile_path": "/fhov7IrseaF5WKJ666VVBlxBFO3.jpg",
+                "cast_id": 3,
+                "character": "Christo",
+                "credit_id": "52fe48ffc3a36847f81842d5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71038,
+                "known_for_department": "Acting",
+                "name": "Dimitri Storoge",
+                "original_name": "Dimitri Storoge",
+                "popularity": 1.798,
+                "profile_path": "/oB0iZvyEQAVPFE2QG7R4bk78pOH.jpg",
+                "cast_id": 9,
+                "character": "Momon Vidal jeune",
+                "credit_id": "52fe48ffc3a36847f81842f7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66029,
+                "known_for_department": "Acting",
+                "name": "Patrick Catalifo",
+                "original_name": "Patrick Catalifo",
+                "popularity": 3.481,
+                "profile_path": "/rPzrtIkhf1vGTQzPLhCzX25CKvB.jpg",
+                "cast_id": 10,
+                "character": "Commissaire Max Brauner",
+                "credit_id": "52fe48ffc3a36847f81842fb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5440,
+                "known_for_department": "Acting",
+                "name": "Fran\u00e7ois Levantal",
+                "original_name": "Fran\u00e7ois Levantal",
+                "popularity": 4.05,
+                "profile_path": "/gKZUbm7NIQbAOQmncBIegE6VOcf.jpg",
+                "cast_id": 11,
+                "character": "Joan Chavez",
+                "credit_id": "52fe48ffc3a36847f81842ff",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52346,
+                "known_for_department": "Acting",
+                "name": "Francis Renaud",
+                "original_name": "Francis Renaud",
+                "popularity": 4.047,
+                "profile_path": "/ihtkdXp9RG8tznS914bUQYKTx1C.jpg",
+                "cast_id": 12,
+                "character": "Brandon",
+                "credit_id": "52fe48ffc3a36847f8184303",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 145231,
+                "known_for_department": "Acting",
+                "name": "Lionnel Astier",
+                "original_name": "Lionnel Astier",
+                "popularity": 2.535,
+                "profile_path": "/fWDbPp3ORMswmnNp0AHBBeF6aZb.jpg",
+                "cast_id": 13,
+                "character": "Dany Devedjian",
+                "credit_id": "52fe48ffc3a36847f8184307",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 24591,
+                "known_for_department": "Acting",
+                "name": "Val\u00e9ria Cavalli",
+                "original_name": "Val\u00e9ria Cavalli",
+                "popularity": 8.982,
+                "profile_path": "/kYIz0WGX7XFJE4iqpjTMjpcqUig.jpg",
+                "cast_id": 21,
+                "character": "Janou",
+                "credit_id": "52fe48ffc3a36847f8184335",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 80367,
+                "known_for_department": "Acting",
+                "name": "Estelle Skornik",
+                "original_name": "Estelle Skornik",
+                "popularity": 1.528,
+                "profile_path": "/wxUaoAYDOAsRyec2ZxjdqfQDtTG.jpg",
+                "cast_id": 22,
+                "character": "Lilou Suttel",
+                "credit_id": "52fe48ffc3a36847f8184339",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150792,
+                "known_for_department": "Acting",
+                "name": "Etienne Chicot",
+                "original_name": "Etienne Chicot",
+                "popularity": 3.41,
+                "profile_path": "/nZaZ6L1Grd5LVXUGCC4ABuEKZvZ.jpg",
+                "cast_id": 23,
+                "character": "Nick \"Le Grec\"",
+                "credit_id": "52fe48ffc3a36847f818433d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1176475,
+                "known_for_department": "Acting",
+                "name": "Olivier Chantreau",
+                "original_name": "Olivier Chantreau",
+                "popularity": 1.529,
+                "profile_path": "/wmg9vAHG82bDAzmVsG7Me1X39a9.jpg",
+                "cast_id": 25,
+                "character": "Suttel jeune",
+                "credit_id": "59f6de3192514142c902be76",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1371656,
+                "known_for_department": "Acting",
+                "name": "St\u00e9phane Caillard",
+                "original_name": "St\u00e9phane Caillard",
+                "popularity": 8.611,
+                "profile_path": "/kqNGXWT09nCDEROAFPkWlUgSZ2n.jpg",
+                "cast_id": 26,
+                "character": "Janou jeune",
+                "credit_id": "59f6deef925141425702e176",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1628861,
+                "known_for_department": "Acting",
+                "name": "Florent Bigot de Nesles",
+                "original_name": "Florent Bigot de Nesles",
+                "popularity": 0.619,
+                "profile_path": "/oll5NDEyfX8scXgfLlS6Vs80yLh.jpg",
+                "cast_id": 27,
+                "character": "Nick Le Grec jeune",
+                "credit_id": "59f6df6b92514142c902bfeb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 212038,
+                "known_for_department": "Acting",
+                "name": "Simon Astier",
+                "original_name": "Simon Astier",
+                "popularity": 1.402,
+                "profile_path": "/i64N35miRXlPMQR3NQ9pmvNzFoQ.jpg",
+                "cast_id": 28,
+                "character": "Dany Devedjian jeune",
+                "credit_id": "59f6df8e9251414d20048e1f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49278,
+                "known_for_department": "Acting",
+                "name": "Olivier Rabourdin",
+                "original_name": "Olivier Rabourdin",
+                "popularity": 12.121,
+                "profile_path": "/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg",
+                "cast_id": 29,
+                "character": "Charles Bastiani",
+                "credit_id": "59f6e01192514142c902c0a3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1371649,
+                "known_for_department": "Acting",
+                "name": "Laurent Fernandez",
+                "original_name": "Laurent Fernandez",
+                "popularity": 3.068,
+                "profile_path": "/aveuPEqBoygwysA2oC47hlFs6l6.jpg",
+                "cast_id": 30,
+                "character": "Zerbib",
+                "credit_id": "59f6e05fc3a3682d6a02c0be",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1345436,
+                "known_for_department": "Acting",
+                "name": "Pasquale D'Inca",
+                "original_name": "Pasquale D'Inca",
+                "popularity": 1.292,
+                "profile_path": "/qc2dudRHLS49tQzCvNZA5FEgiH0.jpg",
+                "cast_id": 31,
+                "character": "Robert Mangin",
+                "credit_id": "59f6e0a1c3a3682daa02af52",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2956854,
+                "known_for_department": "Acting",
+                "name": "Caroline Derrien",
+                "original_name": "Caroline Derrien",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Une petite amie",
+                "credit_id": "60142a101511aa00415143d2",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52342,
+                "known_for_department": "Acting",
+                "name": "Olivier Marchal",
+                "original_name": "Olivier Marchal",
+                "popularity": 4.391,
+                "profile_path": "/r4NRcHShGE9G0OvI8tSlh5DZMTU.jpg",
+                "credit_id": "52fe48ffc3a36847f81842e1",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52342,
+                "known_for_department": "Acting",
+                "name": "Olivier Marchal",
+                "original_name": "Olivier Marchal",
+                "popularity": 4.391,
+                "profile_path": "/r4NRcHShGE9G0OvI8tSlh5DZMTU.jpg",
+                "credit_id": "52fe48ffc3a36847f81842db",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52349,
+                "known_for_department": "Production",
+                "name": "Cyril Colbeau-Justin",
+                "original_name": "Cyril Colbeau-Justin",
+                "popularity": 0.6,
+                "profile_path": "/ll8sejIqnmFVWquQkyNXT04fehX.jpg",
+                "credit_id": "52fe48ffc3a36847f81842ed",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52350,
+                "known_for_department": "Production",
+                "name": "Jean-Baptiste Dupont",
+                "original_name": "Jean-Baptiste Dupont",
+                "popularity": 0.6,
+                "profile_path": "/nBT4f0n3itTeWjOcsvda0kwFuoe.jpg",
+                "credit_id": "52fe48ffc3a36847f81842f3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52351,
+                "known_for_department": "Sound",
+                "name": "Erwann Kermorvant",
+                "original_name": "Erwann Kermorvant",
+                "popularity": 0.6,
+                "profile_path": "/ewWWoANAzJaLOJseCfWL9gSAjzN.jpg",
+                "credit_id": "59bba9c3925141323100d758",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52353,
+                "known_for_department": "Camera",
+                "name": "Denis Rouden",
+                "original_name": "Denis Rouden",
+                "popularity": 1.4,
+                "profile_path": "/nHRq23HxSr0TJtEEvXD8idts6i1.jpg",
+                "credit_id": "52fe48ffc3a36847f818432b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114948,
+                "known_for_department": "Production",
+                "name": "David Giordano",
+                "original_name": "David Giordano",
+                "popularity": 1.7,
+                "profile_path": null,
+                "credit_id": "52fe48ffc3a36847f818430d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1008440,
+                "known_for_department": "Writing",
+                "name": "Edgar Marie",
+                "original_name": "Edgar Marie",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "52fe48ffc3a36847f81842e7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1030264,
+                "known_for_department": "Writing",
+                "name": "Edmond Vidal",
+                "original_name": "Edmond Vidal",
+                "popularity": 1.048,
+                "profile_path": null,
+                "credit_id": "52fe48ffc3a36847f8184313",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1030265,
+                "known_for_department": "Editing",
+                "name": "Rapha\u00eble Urtin",
+                "original_name": "Rapha\u00eble Urtin",
+                "popularity": 0.73,
+                "profile_path": null,
+                "credit_id": "52fe48ffc3a36847f8184319",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1030267,
+                "known_for_department": "Production",
+                "name": "Sylvie Brocher\u00e9",
+                "original_name": "Sylvie Brocher\u00e9",
+                "popularity": 1.841,
+                "profile_path": null,
+                "credit_id": "52fe48ffc3a36847f8184325",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1030268,
+                "known_for_department": "Art",
+                "name": "Ambre Sansonetti",
+                "original_name": "Ambre Sansonetti",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe48ffc3a36847f8184331",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A gang story - Trailer",
+                "key": "dY44hwXTKJw",
+                "published_at": "2011-11-09T09:57:44.000Z",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Trailer",
+                "official": true,
+                "id": "533ec6b2c3a3685448005ed3"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.779,
+                "height": 1147,
+                "iso_639_1": "fr",
+                "file_path": "/pzmWjjE7jZVMiTipQSdHykaV2bZ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2040
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/7mTfOUYl53FXmKJTuaXAIPerBIk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/qtRiCjjqBO0RwFkxCzxyeHEbj96.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 5.341,
+                "height": 589,
+                "iso_639_1": "zh",
+                "file_path": "/odSgeupkNuCHAYw1ySRWR3GmtTg.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3146
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/3KbD78i64F1zshacT0zGt5vZWtF.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/nN3osmlYWNZZtg8vtXrt8c5t8ET.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1125,
+                "iso_639_1": "es",
+                "file_path": "/gJ1bryqEcUASB8I2OOeWDOJGYDg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/lf3Dm0Gs4h7F9Cjts5SRChiZMeE.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2173,
+                "iso_639_1": "hu",
+                "file_path": "/Huru1Or8m9oOrTqNbuLET5bS6R.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1536
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 1282,
+                "iso_639_1": "ko",
+                "file_path": "/fFnz8kNDNp249o3tdSRCLSKRoj4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/7T83r3Up0EjxaqnJ8KbtFC2owaa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1012
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1125,
+                "iso_639_1": "it",
+                "file_path": "/jXA5qkQX75gWLND2wH9AgRaF2wZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/ucawZHnXnfxPdDpljReCmejBMSM.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/rEYXltLurV8x0prZ0qSPSBy8cyC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/fiYCJnCeDXQWaFCUnGApCwrJcsf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/yKWrZj771c52olcuN7HAERwDeBQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.678,
+                "height": 900,
+                "iso_639_1": "ru",
+                "file_path": "/uH89bqbmSglfe03uFEp0p1HkngO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 610
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2857,
+                "iso_639_1": "tr",
+                "file_path": "/b30nxpWs8lQHKawFOXy2osIIDSw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.703,
+                "height": 1581,
+                "iso_639_1": "uk",
+                "file_path": "/uU7brQlMKdzSrIk9MOsha7nbKno.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1111
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1305,
+                "iso_639_1": "de",
+                "file_path": "/wp9fXKYp4tFvEPY7faqx4tv6ONu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 870
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/nP0izQTjPOM8v7TI195qEJC1PIG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/aNvfFO7yPYAUliCoNoi5vSSBlFj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/4aSUdiZ2Cq2ocIsGeUqpCWaQF1H.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1228,
+                "name": "1970s"
+            },
+            {
+                "id": 10291,
+                "name": "organized crime"
+            },
+            {
+                "id": 10726,
+                "name": "gang"
+            },
+            {
+                "id": 246136,
+                "name": "lyon france"
+            }
+        ]
+    },
+    "title_english": "Les Lyonnais",
+    "year": "2011",
+    "rated": "R",
+    "director_list": [
+        "Olivier Marchal"
+    ],
+    "writer_list": [
+        "Olivier Marchal",
+        " Edgar Marie",
+        " Edmond Vidal"
+    ],
+    "main_cast": [
+        "G\u00e9rard Lanvin",
+        " Tch\u00e9ky Karyo",
+        " Daniel Duval"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        }
+    ],
+    "imdb_rating": "6.9",
+    "imdb_votes": "8,706",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Gang_Story",
+    "wikipedia_summary": "A Gang Story (French: Les Lyonnais) is a 2011 French drama film directed by Olivier Marchal.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>A Gang Story</b></i> (French: <i lang=\"fr\">Les Lyonnais</i>) is a 2011 French drama film directed by Olivier Marchal.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Cast</h2>\n<ul><li>G\u00e9rard Lanvin - Edmond \"Momon\" Vidal</li>\n<li>Tch\u00e9ky Karyo - Serge Suttel</li>\n<li>Daniel Duval - Christo</li>\n<li>Lionnel Astier - Dany</li>\n<li>Dimitri Storoge - young \"Momon\" Vidal</li>\n<li>Patrick Catalifo - Kommissar Max Brauner</li>\n<li>Fran\u00e7ois Levantal - Joan Chavez</li>\n<li>Francis Renaud - Brandon</li>\n<li>Valeria Cavalli - Janou Vidal</li>\n<li>Estelle Skornik - Lilou Suttel</li>\n<li>\u00c9tienne Chicot - The Greek</li>\n<li>Palwinder Singh - PS</li></ul>\n\n<h2>Remake</h2>\n<p>In 2020, a Hindi-language Indian remake titled <i>Yaara</i> was released.\n</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>A Gang Story</i> at IMDb</li></ul><p><br></p>\n\n\n<!-- \nNewPP limit report\nParsed by mw1402\nCached time: 20231203065242\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.530 seconds\nReal time usage: 0.660 seconds\nPreprocessor visited node count: 1437/1000000\nPost\u2010expand include size: 15387/2097152 bytes\nTemplate argument size: 3940/2097152 bytes\nHighest expansion depth: 32/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 8271/5000000 bytes\nLua time usage: 0.431/10.000 seconds\nLua memory usage: 19143508/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  634.607      1 -total\n 57.30%  363.630      1 Template:Infobox_film\n 51.72%  328.232      9 Template:Main_other\n 49.35%  313.162      1 Template:Infobox_film/short_description\n 46.47%  294.905      1 Template:Short_description\n 37.38%  237.246      2 Template:Country2nationality\n 36.33%  230.521      4 Template:ISO_3166_code\n 19.44%  123.344      2 Template:Iso2nationality\n 13.02%   82.606      1 Template:Lang-fr\n 11.17%   70.893      1 Template:Reflist\n-->"
+}

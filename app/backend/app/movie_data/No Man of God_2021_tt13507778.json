@@ -1,0 +1,1423 @@
+{
+    "adult": false,
+    "backdrop_path": "/cRAvKRY5S84T4cO08I05QeVGBBk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 716594,
+    "imdb_id": "tt13507778",
+    "original_language": "en",
+    "original_title": "No Man of God",
+    "overview": "The complicated relationship that formed between the FBI analyst Bill Hagmaier and serial killer Ted Bundy during Bundy's final years on death row.",
+    "popularity": 17.18,
+    "poster_path": "/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg",
+    "production_companies": [
+        {
+            "id": 12142,
+            "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+            "name": "XYZ Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 129235,
+            "logo_path": "/vHdxkOSO5rI52tsVCNlZXhdYocw.png",
+            "name": "Company X",
+            "origin_country": "US"
+        },
+        {
+            "id": 34519,
+            "logo_path": "/MGFizEilC4bv5aDeF8YfEyjDVG.png",
+            "name": "SpectreVision",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-19",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "No Man of God",
+    "video": false,
+    "vote_average": 6.63,
+    "vote_count": 242,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109,
+                "known_for_department": "Acting",
+                "name": "Elijah Wood",
+                "original_name": "Elijah Wood",
+                "popularity": 22.67,
+                "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
+                "cast_id": 1,
+                "character": "Bill Hagmaier",
+                "credit_id": "5eea37b6dd926a0034a0e0db",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7002,
+                "known_for_department": "Acting",
+                "name": "Luke Kirby",
+                "original_name": "Luke Kirby",
+                "popularity": 8.418,
+                "profile_path": "/jyR24wKg77yJg2O2RTzyRdcNAYq.jpg",
+                "cast_id": 12,
+                "character": "Ted Bundy",
+                "credit_id": "607818c37a97ab0029d45f85",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53441,
+                "known_for_department": "Acting",
+                "name": "Aleksa Palladino",
+                "original_name": "Aleksa Palladino",
+                "popularity": 5.182,
+                "profile_path": "/dJCeWrRBNKy8tEUQBlrZDvynwcd.jpg",
+                "cast_id": 13,
+                "character": "Carolyn Lieberman",
+                "credit_id": "607818d3293835005858b52d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 418,
+                "known_for_department": "Acting",
+                "name": "Robert Patrick",
+                "original_name": "Robert Patrick",
+                "popularity": 18.402,
+                "profile_path": "/qRv2Es9rZoloullTbzss3I5j1Mp.jpg",
+                "cast_id": 14,
+                "character": "Roger Depue",
+                "credit_id": "607818e27a97ab006de91105",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6951,
+                "known_for_department": "Acting",
+                "name": "W. Earl Brown",
+                "original_name": "W. Earl Brown",
+                "popularity": 12.494,
+                "profile_path": "/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg",
+                "cast_id": 15,
+                "character": "Warden Wilkenson",
+                "credit_id": "607818ee4d0e8d002c5cdbd5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1353302,
+                "known_for_department": "Acting",
+                "name": "Gilbert Owuor",
+                "original_name": "Gilbert Owuor",
+                "popularity": 7.881,
+                "profile_path": "/xeq23Py9DnepRYcZfsuCJBvJyD2.jpg",
+                "cast_id": 21,
+                "character": "Assistant Warden Paul Decker",
+                "credit_id": "60ea061d8258fc0047c69c7b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41517,
+                "known_for_department": "Acting",
+                "name": "Christian Clemenson",
+                "original_name": "Christian Clemenson",
+                "popularity": 7.676,
+                "profile_path": "/uki9bmhoR4V4x0E7uVTCj9iZwNy.jpg",
+                "cast_id": 16,
+                "character": "Doctor James Dobson",
+                "credit_id": "607818fcd8f44e002a7cc7fa",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87095,
+                "known_for_department": "Acting",
+                "name": "Hugo Armstrong",
+                "original_name": "Hugo Armstrong",
+                "popularity": 3.341,
+                "profile_path": "/iEvscOR5Js8pXlNbCRGpD2lyXDC.jpg",
+                "cast_id": 18,
+                "character": "Colorado Investigator",
+                "credit_id": "60ea05a92866fa0074cf7e33",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1971156,
+                "known_for_department": "Acting",
+                "name": "Nican Robinson",
+                "original_name": "Nican Robinson",
+                "popularity": 3.141,
+                "profile_path": "/aoEPk3xJ3jl29mQERT9OBj54JnW.jpg",
+                "cast_id": 42,
+                "character": "Utah Investigator",
+                "credit_id": "61cddb26a1074b0042c33eb4",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 135786,
+                "known_for_department": "Acting",
+                "name": "Will Harris",
+                "original_name": "Will Harris",
+                "popularity": 2.928,
+                "profile_path": "/waoSs6W3rx10j3m22NawFQwIKsz.jpg",
+                "cast_id": 20,
+                "character": "Oregon Investigator",
+                "credit_id": "60ea0603e004a6003075d00d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1025357,
+                "known_for_department": "Acting",
+                "name": "Emily Berry",
+                "original_name": "Emily Berry",
+                "popularity": 3.667,
+                "profile_path": "/y6QJUcSiLRePjlztOCKvk8KUxKg.jpg",
+                "cast_id": 19,
+                "character": "Idaho Investigator",
+                "credit_id": "60ea05c05e12000046001725",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86289,
+                "known_for_department": "Acting",
+                "name": "Steven Pritchard",
+                "original_name": "Steven Pritchard",
+                "popularity": 1.631,
+                "profile_path": "/y7AKyzpayM63kIV0p91Ne0wlFdl.jpg",
+                "cast_id": 25,
+                "character": "Agent Montgomery",
+                "credit_id": "60ea06a64d6791002b503466",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1245641,
+                "known_for_department": "Acting",
+                "name": "Jarrett Sleeper",
+                "original_name": "Jarrett Sleeper",
+                "popularity": 1.555,
+                "profile_path": "/fJIC7oxZ3qtMTc1pfg9LrlB21Zv.jpg",
+                "cast_id": 41,
+                "character": "Assistant Warden McNeal",
+                "credit_id": "61cddae13c43440040617312",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52464,
+                "known_for_department": "Acting",
+                "name": "Doug Cox",
+                "original_name": "Doug Cox",
+                "popularity": 4.424,
+                "profile_path": "/kJamsLoou7qy51VbRivC7bkXBHM.jpg",
+                "cast_id": 43,
+                "character": "Minister Lawrence",
+                "credit_id": "61cddbdda1074b0064c8e69c",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38709,
+                "known_for_department": "Acting",
+                "name": "Tom Virtue",
+                "original_name": "Tom Virtue",
+                "popularity": 7.462,
+                "profile_path": "/etCc7aFC9gOzOctFERT7e6qC83C.jpg",
+                "cast_id": 44,
+                "character": "Agent Strauss",
+                "credit_id": "61cddbe52efe4e00428ad469",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3363671,
+                "known_for_department": "Acting",
+                "name": "John Wilcox",
+                "original_name": "John Wilcox",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Agent Meyers",
+                "credit_id": "61cddc14a1074b0064c8e6e6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3102523,
+                "known_for_department": "Acting",
+                "name": "Austin Uku",
+                "original_name": "Austin Uku",
+                "popularity": 0.84,
+                "profile_path": "/eW4YQndplu9Zf0zdqUq6Gcazeo.jpg",
+                "cast_id": 46,
+                "character": "Agent Douglas",
+                "credit_id": "61cddc433c43440019b4dcf6",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1215837,
+                "known_for_department": "Acting",
+                "name": "Mac Brandt",
+                "original_name": "Mac Brandt",
+                "popularity": 5.597,
+                "profile_path": "/u2zRIywRVcih7LsZIsybmbzwmJW.jpg",
+                "cast_id": 47,
+                "character": "Guard Paluger",
+                "credit_id": "61cddc4b03bf84008bc72efd",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2425611,
+                "known_for_department": "Acting",
+                "name": "Mona Lee Wylde",
+                "original_name": "Mona Lee Wylde",
+                "popularity": 2.07,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Psychiatrist",
+                "credit_id": "61cddc692790bf00423cac9c",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2322160,
+                "known_for_department": "Acting",
+                "name": "Jessica Lynn Skinner",
+                "original_name": "Jessica Lynn Skinner",
+                "popularity": 0.97,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Woman in Car",
+                "credit_id": "61cddc762790bf00423cac9f",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2313685,
+                "known_for_department": "Acting",
+                "name": "Kate Adams",
+                "original_name": "Kate Adams",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 50,
+                "character": "Woman on Street",
+                "credit_id": "61cddc91c15f89001d79ea0d",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1867576,
+                "known_for_department": "Acting",
+                "name": "David Salsa",
+                "original_name": "David Salsa",
+                "popularity": 2.181,
+                "profile_path": "/uWzlEEpLeWXxtzuv7CPeXHbAJit.jpg",
+                "cast_id": 51,
+                "character": "Guard Flank",
+                "credit_id": "61cddd12524978008a18f875",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3363676,
+                "known_for_department": "Acting",
+                "name": "Richard Blackmon",
+                "original_name": "Richard Blackmon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 52,
+                "character": "Guard Simone",
+                "credit_id": "61cddd1cfdf8b700429fab57",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3363679,
+                "known_for_department": "Acting",
+                "name": "Allison Baver",
+                "original_name": "Allison Baver",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 53,
+                "character": "Masha Tanner (uncredited)",
+                "credit_id": "61cddd4ddb72c0006447e5c2",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2540966,
+                "known_for_department": "Acting",
+                "name": "Rachel Mysior",
+                "original_name": "Rachel Mysior",
+                "popularity": 0.617,
+                "profile_path": null,
+                "cast_id": 54,
+                "character": "Victim (uncredited)",
+                "credit_id": "61cddd732efe4e001cc31685",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109,
+                "known_for_department": "Acting",
+                "name": "Elijah Wood",
+                "original_name": "Elijah Wood",
+                "popularity": 22.67,
+                "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
+                "credit_id": "5eea381ddd926a0033a05ccb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55499,
+                "known_for_department": "Directing",
+                "name": "Scott Derrickson",
+                "original_name": "Scott Derrickson",
+                "popularity": 6.754,
+                "profile_path": "/nOQkRTC6OPkUHebBfjIgtiZ0hvE.jpg",
+                "credit_id": "5eea38b5b046050035081edb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 59864,
+                "known_for_department": "Acting",
+                "name": "Amber Sealey",
+                "original_name": "Amber Sealey",
+                "popularity": 2.31,
+                "profile_path": "/qN4FuV0NSCOaqMijK6jGKnCCAGp.jpg",
+                "credit_id": "5eea37d76dea3a0032bb9ecb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92303,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gary Archer",
+                "original_name": "Gary Archer",
+                "popularity": 2.95,
+                "profile_path": "/7cinROGhbaTpWPRrD12Za2XyZcV.jpg",
+                "credit_id": "62c3af076a300b007c28e7ff",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetics"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 583843,
+                "known_for_department": "Production",
+                "name": "Stacy Jorgensen",
+                "original_name": "Stacy Jorgensen",
+                "popularity": 0.6,
+                "profile_path": "/bN1RFbLcA19dGY6obB9sJQBiEvC.jpg",
+                "credit_id": "61cdddb7c15f89001d79ec13",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928106,
+                "known_for_department": "Writing",
+                "name": "C. Robert Cargill",
+                "original_name": "C. Robert Cargill",
+                "popularity": 1.429,
+                "profile_path": "/wU26chPT5GHacto4ILfv6QIevsu.jpg",
+                "credit_id": "61cddec23a48c500671932ac",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1012028,
+                "known_for_department": "Production",
+                "name": "Danielle Aufiero",
+                "original_name": "Danielle Aufiero",
+                "popularity": 1.027,
+                "profile_path": "/7JGki5VVZAuePueWFnqTxFPrRU7.jpg",
+                "credit_id": "60ea075942d8a5002e80c7cd",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1012032,
+                "known_for_department": "Production",
+                "name": "Amber Horn",
+                "original_name": "Amber Horn",
+                "popularity": 2.08,
+                "profile_path": null,
+                "credit_id": "60ea0767735205002b63ea8a",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1106691,
+                "known_for_department": "Production",
+                "name": "Kim Sherman",
+                "original_name": "Kim Sherman",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5eea38962dda890035b79a24",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1339425,
+                "known_for_department": "Sound",
+                "name": "Andrew Twite",
+                "original_name": "Andrew Twite",
+                "popularity": 1.218,
+                "profile_path": null,
+                "credit_id": "6129c1fae04aca0043e0937b",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1364293,
+                "known_for_department": "Production",
+                "name": "Pin-Chun Liu",
+                "original_name": "Pin-Chun Liu",
+                "popularity": 0.974,
+                "profile_path": null,
+                "credit_id": "61cdddbfdb72c0001cd3f598",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1394639,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Emily Batson",
+                "original_name": "Emily Batson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60ea07d1d75bd6007443b858",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1394967,
+                "known_for_department": "Visual Effects",
+                "name": "Matthew Collorafice",
+                "original_name": "Matthew Collorafice",
+                "popularity": 0.699,
+                "profile_path": null,
+                "credit_id": "6129c1eaf8e982008de2ff16",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1417680,
+                "known_for_department": "Art",
+                "name": "Michael Fitzgerald",
+                "original_name": "Michael Fitzgerald",
+                "popularity": 0.6,
+                "profile_path": "/rPrzORuX8r1OoMSIwuMKrwtbat0.jpg",
+                "credit_id": "61cddee9fdf8b7008bed6d69",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1462812,
+                "known_for_department": "Production",
+                "name": "Mark Ward",
+                "original_name": "Mark Ward",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "639dc3dcb5400200961d0e19",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1510685,
+                "known_for_department": "Production",
+                "name": "Elisa Lleras",
+                "original_name": "Elisa Lleras",
+                "popularity": 0.919,
+                "profile_path": null,
+                "credit_id": "61cdddd00c3ec80089810c08",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1510685,
+                "known_for_department": "Production",
+                "name": "Elisa Lleras",
+                "original_name": "Elisa Lleras",
+                "popularity": 0.919,
+                "profile_path": null,
+                "credit_id": "60ea07ea5e12000074116640",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1527439,
+                "known_for_department": "Camera",
+                "name": "Karina Silva",
+                "original_name": "Karina Silva",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "610d73cdf6fd180047ca3db1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1551804,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ana Gabriela Quinonez",
+                "original_name": "Ana Gabriela Quinonez",
+                "popularity": 1.06,
+                "profile_path": null,
+                "credit_id": "61cddf059affc000422bfaa0",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1571060,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Mazena Puksto",
+                "original_name": "Mazena Puksto",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "6129c1da2c6b7b004356d9d2",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1621067,
+                "known_for_department": "Art",
+                "name": "Adrienne Garcia",
+                "original_name": "Adrienne Garcia",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "60ea07b09824c80021df9d91",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1621270,
+                "known_for_department": "Editing",
+                "name": "Patrick Nelson Barnes",
+                "original_name": "Patrick Nelson Barnes",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60ea074529c626002475e3fd",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1829984,
+                "known_for_department": "Production",
+                "name": "Lisa Whalen",
+                "original_name": "Lisa Whalen",
+                "popularity": 0.608,
+                "profile_path": null,
+                "credit_id": "5eea387bb046050033074ca7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1995153,
+                "known_for_department": "Sound",
+                "name": "Brent Kiser",
+                "original_name": "Brent Kiser",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "6129c20f126ec30062c47428",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1995153,
+                "known_for_department": "Sound",
+                "name": "Brent Kiser",
+                "original_name": "Brent Kiser",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "6129c208e04aca0043e093b7",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2421558,
+                "known_for_department": "Sound",
+                "name": "Clarice Jensen",
+                "original_name": "Clarice Jensen",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "61cddeb43f8ede006166bf34",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2682099,
+                "known_for_department": "Production",
+                "name": "Bill Hagmaier",
+                "original_name": "Bill Hagmaier",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5eea38cdfdc1460034e5c030",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066573,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lane Friedman",
+                "original_name": "Lane Friedman",
+                "popularity": 0.736,
+                "profile_path": null,
+                "credit_id": "61cddefe03bf840041690ecb",
+                "department": "Costume & Make-Up",
+                "job": "Hair Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3363679,
+                "known_for_department": "Acting",
+                "name": "Allison Baver",
+                "original_name": "Allison Baver",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "61cdddaf2790bf001d2d4b3e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3363681,
+                "known_for_department": "Production",
+                "name": "Lauren Magura",
+                "original_name": "Lauren Magura",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "61cdddd82da846006022ffbd",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3363682,
+                "known_for_department": "Production",
+                "name": "Luke Watson",
+                "original_name": "Luke Watson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61cdddf56f6a99001d15d00b",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer",
+                "key": "2vxm_IbS-6Y",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2021-07-09T17:00:54.000Z",
+                "id": "60e89631e6271900457ab108"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/cRAvKRY5S84T4cO08I05QeVGBBk.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/pcYEKUmJdGYBN5exzFB5imzsdyT.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 729,
+                "iso_639_1": null,
+                "file_path": "/r0skmBUfu8c6eIpofjmYLyYhOT4.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1596,
+                "iso_639_1": null,
+                "file_path": "/suMYaBCIGPtT8h8xGFFnekvkfzH.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2837
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/fSwd6gZ17KQtt1cjEXdwlN14XX4.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/7WITBEiZ18KR7arzzeOVcM1HoqJ.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/icmLYxRTXj0dxr3hOdjn9A83ugD.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/n6bOKuv8pcAEshlVcsdoq1ZnfKw.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1149,
+                "iso_639_1": null,
+                "file_path": "/3JqXtXxKwR6yNL9059gLKPZdguA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2042
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/qPJ84Up6hJCNGQhSDwvOtjUj9uq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/hCMye7rSMRvtZh9DB1Pm3Tt3wji.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/7ty3MinKwvCcd3N9tS19YCtCpN7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/j3fZTCvy4oaBlI2XTLtf54oznGQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/cAwoBILiCRYXjrre1Kzcj8kGPLc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/brfN4wafK5XQ5S0lI7V6a5wTtPe.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/1wOWgKUSgP3xbRlJqijcSGl3pX3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bx7zUfg5fgKm2ZucYFPlTWhOI8q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "it",
+                "file_path": "/ypUW8M409sHUMcyEe6FDu7L168a.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 1.051,
+                "height": 1261,
+                "iso_639_1": "en",
+                "file_path": "/feBYYhljUcRmRW6hzClxV5ITP09.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1325
+            },
+            {
+                "aspect_ratio": 2.49,
+                "height": 620,
+                "iso_639_1": "de",
+                "file_path": "/bl4zluOIoZyEVgQme3waXAp1evf.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1544
+            },
+            {
+                "aspect_ratio": 4.329,
+                "height": 462,
+                "iso_639_1": "en",
+                "file_path": "/zdstveHiNxLhlnqFMnIwMGXfrVt.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.666,
+                "height": 2000,
+                "iso_639_1": "en",
+                "file_path": "/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 1333
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2000,
+                "iso_639_1": "en",
+                "file_path": "/b3pqILrJUQpiA6Mzn17fqjVDMnn.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1333
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/cr8wtSX1IGV7vLocSMzPnqGvsjq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "ru",
+                "file_path": "/qCYIaleOuXQ22lX4RyRdhchJc96.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1067,
+                "iso_639_1": "es",
+                "file_path": "/3pgwkolcHty1S7OoOQNh8CP5Q8X.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 711
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/8Zzh29yyOtojkTQHeCE3ILIdULH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/w20tP442aQrTcCnslgarc7CdTFo.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/f63TMarMcRWU5Z4jB7l2agrAidq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/c1diSEnYzofbGFnWmYt2qTh5YuI.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1556,
+                "iso_639_1": "en",
+                "file_path": "/iGtb5xm4G9ijkEhemZbuJtTscdX.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1037
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1600,
+                "iso_639_1": "ru",
+                "file_path": "/uFyLBQ1s6okiJCMpulF2ka4rqD2.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1066
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/qq18y961r2CAlLyHwZjruxcZuqz.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 994,
+                "iso_639_1": "es",
+                "file_path": "/pBXlz8N2BCUarXz3lMgUvyE4jYM.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 696
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/4lUeJg6wDoSw9trHD0afuKbPitG.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "ru",
+                "file_path": "/7NKBKH3tP6ai95gqSsCssaBF9Mw.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/aDIv5Bn5STXlIPQlS2BnOTs6fCW.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2844,
+                "iso_639_1": "ru",
+                "file_path": "/ngxJ8ZOir5fb4lyhe0DeviUxP9l.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1896
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/pJFHMsgBOhyoownz4bWC5SnEBTa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1350,
+                "iso_639_1": "en",
+                "file_path": "/q6RjLiNEdh5XFMvHobxniu0RvQ2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1043,
+                "iso_639_1": "en",
+                "file_path": "/p4s2WBHwGw0KL0xZaN99vuGA5ON.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 695
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1350,
+                "iso_639_1": "en",
+                "file_path": "/JeMSpDf0F1PA71ctlXlZ2NCGni.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2598,
+                "iso_639_1": "en",
+                "file_path": "/9htolA9ydtCHVsxmHTOMCgvWLTw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1732
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/98JTkjAMbUUHakcvf18Js4t4Mlj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1066
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": null,
+                "file_path": "/f7fIDRyaTr6LMt9DWtFEoRr1CGr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1440,
+                "iso_639_1": "pl",
+                "file_path": "/i5I4mlzpMBzAGOUaFp9D83kAwaJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1010
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2865,
+                "iso_639_1": "ko",
+                "file_path": "/l55cUN5O0Ip0MoA5dK6UJPbWpot.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1910
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "it",
+                "file_path": "/3IhLedI0JRVU2c64Sbi9cyqKTIT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/kr7Cxx9ukY40P4QA86TKABBviql.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/pZFoQQQUQtZoGKesCegWgsRh7fr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/dajyMWtDdNwi1yAKYLockb1cRxA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/mMRAAY8LSEMbKMcuBAaF3Q1PozN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 750,
+                "iso_639_1": "zh",
+                "file_path": "/91aKXKReWs7m7GrL8HRkzQSWRSr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 532
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2560,
+                "iso_639_1": "en",
+                "file_path": "/enry2nRDG7odgmixDLoPYYJqdK4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1707
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 378,
+                "name": "prison"
+            },
+            {
+                "id": 1196,
+                "name": "florida"
+            },
+            {
+                "id": 718,
+                "name": "confession"
+            },
+            {
+                "id": 1812,
+                "name": "fbi"
+            },
+            {
+                "id": 2501,
+                "name": "death row"
+            },
+            {
+                "id": 9672,
+                "name": "based on true story"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            },
+            {
+                "id": 208289,
+                "name": "1980s"
+            },
+            {
+                "id": 272551,
+                "name": "fbi agent"
+            }
+        ]
+    },
+    "title_english": "No Man of God",
+    "year": "2021",
+    "rated": "N/A",
+    "director_list": [
+        "Amber Sealey"
+    ],
+    "writer_list": [
+        "Kit Lesser"
+    ],
+    "main_cast": [
+        "Elijah Wood",
+        " Luke Kirby",
+        " Aleksa Palladino"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "imdb_rating": "6.4",
+    "imdb_votes": "8,678",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/No_Man_of_God",
+    "wikipedia_summary": "No Man of God is a 2021 American crime mystery film directed by Amber Sealey and written by C. Robert Cargill, under the pseudonym of Kit Lesser. The film stars Elijah Wood, Luke Kirby, Aleksa Palladino and Robert Patrick. It is based on real life transcripts selected from conversations between serial killer Ted Bundy and FBI Special Agent Bill Hagmaier that happened between 1984 and 1989, and the complicated relationship that formed between them during Bundy's final years on death row.\nIt had its world premiere at the Tribeca Film Festival on June 11, 2021. It was released in the United States on August 27, 2021 by RLJE Films.",
+    "wikipedia_plot": "In 1985, when a select group of special agents of the FBI's Behavior Science Unit pass on death row inmate Ted Bundy as a case study, newcomer Bill Hagmaier accepts the challenge while knowing Bundy's distrust of the FBI. Through shared letters, Bundy shows interest, and Hagmaier travels to the Florida State Prison for an interview. Bundy and Hagmaier examine pornography and detective magazines as a probable catalyst of serial killers. Bundy coaxes personal information from Hagmaier about his life to establish trust. Bundy equates investigators to fishermen. The deeper their fishing line goes, the harder it is to catch a killer. He says that one day he may take Hagmaier under the water to see how deep it goes.\nBill meets with Ted again in 1986. Ted is shown crime scene photos of the Green River case and gives his assessment on the patterns of the elusive murderer. Through Bill's calculating questioning, Ted discloses information about his own patterns. Ted asks Bill if he could kill someone. Bill explains that, due to his being an FBI agent, it could happen, but this answer is not what Ted was seeking. Back in Quantico, Virginia, Unit Chief Roger Depue cautions Bill not to get too close to someone like Bundy.\nWhile sharing stories about their children during their next meeting in 1987, Ted senses that Bill is getting too deep in his mind and taunts him to speculate on what he would do if he escaped from prison. Bill describes it with a good amount of accuracy and Ted verbally attacks Bill, then settles down and begins to disclose more intimate details of his life and what may have led him to murder but dispels the myths about him. He reveals that he and Bill could easily change places, which deeply afflicts Bill.\nAs Ted is lobbying for a stay of execution in 1989, Governor Martinez signs the death warrant, and Ted is to die by electrocution in seven days. Hearing of the execution, the media and a crowd begin to mass outside the prison. Ted is now ready to confess his crimes but will only speak with Bill. Though Bill is supervising interviews with investigators from several states, he arrives to find Ted's civil attorney, Carolyn Lieberman, taking charge. Ted believes holding back certain information could overturn the execution, buying him more time for further details. Carolyn doesn't want Bill's influence as an FBI agent at the interviews but Ted insists he attends, calling Bill his best friend. Bill urges Ted not to play games with the governor and asks how many women he killed. Ted confesses to 30 deaths. At the interviews, Ted is evasive with his answers, only divulging information to a few murders. Ignoring Bill's conditions that no media is to be involved, Carolyn schedules Ted to interview with Dr. James Dobson, an influential evangelical Christian author and psychologist, whom she believes will help with a pardon. After the interview, Dobson reveals to Carolyn the governor was never going to grant the pardon.\nA day before the execution, the warden informs Bill that a last-minute sanity hearing will take place. While multiple consultations will be conducted, the decision to proceed with the execution will rest entirely on Bill's testimony to a psychiatric board, which ultimately declares Ted sane. Outside the prison, the spirited crowd grows in anticipation, while inside Bill assists Ted in writing a letter to his mother. Bill asks to be taken under the water. With harsh details, Ted exposes how he lured and killed a victim, which leaves Bill overwhelmed and in tears.\nThat night, Ted thanks Bill for being a friend to him. Ted suddenly threatens suicide, but Bill is hardened by the ultimatum. Ted has an outburst of desperation, asking why it's happening to him, still showing no remorse for his crimes. Infuriated, Bill exclaims his victims didn't prepare for death. Ted takes to his knees in prayer. As Bill prepares to leave, Ted asks him if he understands why he killed. Bill tells him, \"Because you wanted to.\" Just moments before the execution, Bill learns he has been removed as a witness to the execution and others will take his place. Left alone in the warden's office, Bill makes a phone call to his family. While Bill is speaking with his son, the crowd outside erupts in cheers as Bundy is declared dead.",
+    "wikipedia_plot_html": "<p>In 1985, when a select group of special agents of the FBI's Behavior Science Unit pass on death row inmate Ted Bundy as a case study, newcomer Bill Hagmaier accepts the challenge while knowing Bundy's distrust of the FBI. Through shared letters, Bundy shows interest, and Hagmaier travels to the Florida State Prison for an interview. Bundy and Hagmaier examine pornography and detective magazines as a probable catalyst of serial killers. Bundy coaxes personal information from Hagmaier about his life to establish trust. Bundy equates investigators to fishermen. The deeper their fishing line goes, the harder it is to catch a killer. He says that one day he may take Hagmaier under the water to see how deep it goes.\n</p><p>Bill meets with Ted again in 1986. Ted is shown crime scene photos of the Green River case and gives his assessment on the patterns of the elusive murderer. Through Bill's calculating questioning, Ted discloses information about his own patterns.\u00a0Ted asks Bill if he could kill someone. Bill explains that, due to his being an FBI agent, it could happen, but this answer is not what Ted was seeking. Back in Quantico, Virginia, Unit Chief Roger Depue cautions Bill not to get too close to someone like Bundy.\n</p><p>While sharing stories about their children during their next meeting in 1987, Ted senses that Bill is getting too deep in his mind and taunts him to speculate on what he would do if he escaped from prison. Bill describes it with a good amount of accuracy and Ted verbally attacks Bill, then settles down and begins to disclose more intimate details of his life and what may have led him to murder but dispels the myths about him. He reveals that he and Bill could easily change places, which deeply afflicts Bill.\n</p><p>As Ted is lobbying for a stay of execution in 1989, Governor Martinez signs the death warrant, and Ted is to die by electrocution in seven days. Hearing of the execution, the media and a crowd begin to mass outside the prison. Ted is now ready to confess his crimes but will only speak with Bill. Though Bill is supervising interviews with investigators from several states, he arrives to find Ted's civil attorney, Carolyn Lieberman, taking charge. Ted believes holding back certain information could overturn the execution, buying him more time for further details. Carolyn doesn't want Bill's influence as an FBI agent at the interviews but Ted insists he attends, calling Bill his best friend. Bill urges Ted not to play games with the governor and asks how many women he killed. Ted confesses to 30 deaths. At the interviews, Ted is evasive with his answers, only divulging information to a few murders. Ignoring Bill's conditions that no media is to be involved, Carolyn schedules Ted to interview with Dr. James Dobson, an influential evangelical Christian author and psychologist, whom she believes will help with a pardon. After the interview, Dobson reveals to Carolyn the governor was never going to grant the pardon.\n</p><p>A day before the execution, the warden informs Bill that a last-minute sanity hearing will take place. While multiple consultations will be conducted, the decision to proceed with the execution will rest entirely on Bill's testimony to a psychiatric board, which ultimately declares Ted sane. Outside the prison, the spirited crowd grows in anticipation, while inside Bill assists Ted in writing a letter to his mother. Bill asks to be taken under the water. With harsh details, Ted exposes how he lured and killed a victim, which leaves Bill overwhelmed and in tears.\n</p><p>That night, Ted thanks Bill for being a friend to him. Ted suddenly threatens suicide, but Bill is hardened by the ultimatum. Ted has an outburst of desperation, asking why it's happening to him, still showing no remorse for his crimes. Infuriated, Bill exclaims his victims didn't prepare for death. Ted takes to his knees in prayer. As Bill prepares to leave, Ted asks him if he understands why he killed. Bill tells him, \"Because you wanted to.\" Just moments before the execution, Bill learns he has been removed as a witness to the execution and others will take his place. Left alone in the warden's office, Bill makes a phone call to his family. While Bill is speaking with his son, the crowd outside erupts in cheers as Bundy is declared dead.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>No Man of God</b></i> is a 2021 American crime mystery film directed by Amber Sealey and written by C. Robert Cargill, under the pseudonym of Kit Lesser. The film stars Elijah Wood, Luke Kirby, Aleksa Palladino and Robert Patrick. It is based on real life transcripts selected from conversations between serial killer Ted Bundy and FBI Special Agent Bill Hagmaier that happened between 1984 and 1989, and the complicated relationship that formed between them during Bundy's final years on death row.\n</p><p>It had its world premiere at the Tribeca Film Festival on June 11, 2021. It was released in the United States on August 27, 2021 by RLJE Films.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>In 1985, when a select group of special agents of the FBI's Behavior Science Unit pass on death row inmate Ted Bundy as a case study, newcomer Bill Hagmaier accepts the challenge while knowing Bundy's distrust of the FBI. Through shared letters, Bundy shows interest, and Hagmaier travels to the Florida State Prison for an interview. Bundy and Hagmaier examine pornography and detective magazines as a probable catalyst of serial killers. Bundy coaxes personal information from Hagmaier about his life to establish trust. Bundy equates investigators to fishermen. The deeper their fishing line goes, the harder it is to catch a killer. He says that one day he may take Hagmaier under the water to see how deep it goes.\n</p><p>Bill meets with Ted again in 1986. Ted is shown crime scene photos of the Green River case and gives his assessment on the patterns of the elusive murderer. Through Bill's calculating questioning, Ted discloses information about his own patterns.\u00a0Ted asks Bill if he could kill someone. Bill explains that, due to his being an FBI agent, it could happen, but this answer is not what Ted was seeking. Back in Quantico, Virginia, Unit Chief Roger Depue cautions Bill not to get too close to someone like Bundy.\n</p><p>While sharing stories about their children during their next meeting in 1987, Ted senses that Bill is getting too deep in his mind and taunts him to speculate on what he would do if he escaped from prison. Bill describes it with a good amount of accuracy and Ted verbally attacks Bill, then settles down and begins to disclose more intimate details of his life and what may have led him to murder but dispels the myths about him. He reveals that he and Bill could easily change places, which deeply afflicts Bill.\n</p><p>As Ted is lobbying for a stay of execution in 1989, Governor Martinez signs the death warrant, and Ted is to die by electrocution in seven days. Hearing of the execution, the media and a crowd begin to mass outside the prison. Ted is now ready to confess his crimes but will only speak with Bill. Though Bill is supervising interviews with investigators from several states, he arrives to find Ted's civil attorney, Carolyn Lieberman, taking charge. Ted believes holding back certain information could overturn the execution, buying him more time for further details. Carolyn doesn't want Bill's influence as an FBI agent at the interviews but Ted insists he attends, calling Bill his best friend. Bill urges Ted not to play games with the governor and asks how many women he killed. Ted confesses to 30 deaths. At the interviews, Ted is evasive with his answers, only divulging information to a few murders. Ignoring Bill's conditions that no media is to be involved, Carolyn schedules Ted to interview with Dr. James Dobson, an influential evangelical Christian author and psychologist, whom she believes will help with a pardon. After the interview, Dobson reveals to Carolyn the governor was never going to grant the pardon.\n</p><p>A day before the execution, the warden informs Bill that a last-minute sanity hearing will take place. While multiple consultations will be conducted, the decision to proceed with the execution will rest entirely on Bill's testimony to a psychiatric board, which ultimately declares Ted sane. Outside the prison, the spirited crowd grows in anticipation, while inside Bill assists Ted in writing a letter to his mother. Bill asks to be taken under the water. With harsh details, Ted exposes how he lured and killed a victim, which leaves Bill overwhelmed and in tears.\n</p><p>That night, Ted thanks Bill for being a friend to him. Ted suddenly threatens suicide, but Bill is hardened by the ultimatum. Ted has an outburst of desperation, asking why it's happening to him, still showing no remorse for his crimes. Infuriated, Bill exclaims his victims didn't prepare for death. Ted takes to his knees in prayer. As Bill prepares to leave, Ted asks him if he understands why he killed. Bill tells him, \"Because you wanted to.\" Just moments before the execution, Bill learns he has been removed as a witness to the execution and others will take his place. Left alone in the warden's office, Bill makes a phone call to his family. While Bill is speaking with his son, the crowd outside erupts in cheers as Bundy is declared dead.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Elijah Wood as Bill Hagmaier</li>\n<li>Luke Kirby as Ted Bundy</li>\n<li>Aleksa Palladino as Carolyn Lieberman</li>\n<li>Robert Patrick as Roger Depue</li>\n<li>W. Earl Brown as Warden Wilkenson</li>\n<li>Gilbert Owuor as Assistant Warden Paul Decker</li>\n<li>Christian Clemenson as Dr. James Dobson</li>\n<li>Tom Virtue as Agent Strauss</li></ul>\n\n<h2>Development</h2>\n<p>The film's writer Cargill, when on the horror-comedy podcast, <i>Pod of Madness</i>, discussed why he wanted to write the film. He explained, \"There have been a lot of movies and a lot of media made about Ted Bundy, and one of the things that bugged me a lot was that it's all kind of selling the myth of Ted Bundy and kind of glorifying him in a way. And the deeper you dig into the story you realize there's nothing to mystify here, there's nothing amazing about him.\"</p>\n\n<h2>Reception</h2>\n<p>On the review aggregator website Rotten Tomatoes, the film holds an approval rating of 80% based on 80 reviews, with an average rating of 6.9/10. The site's critics consensus reads, \"<i>No Man of God</i> may not offer much in terms of an original take on this oft-told story, but excellent performances make it tough to turn away.\" According to Metacritic, which sampled 21 critics and calculated a weighted average score of 67 out of 100, the film received \"general favorable reviews\".</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>No Man of God</i> at IMDb</li>\n<li><i>No Man of God</i> at Rotten Tomatoes</li>\n<li><i>No Man of God</i> at Metacritic </li></ul>\n<!-- \nNewPP limit report\nParsed by mw\u2010api\u2010ext.eqiad.main\u2010866c865866\u2010krlj8\nCached time: 20231202233837\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.327 seconds\nReal time usage: 0.446 seconds\nPreprocessor visited node count: 2364/1000000\nPost\u2010expand include size: 52902/2097152 bytes\nTemplate argument size: 4939/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 3/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 42063/5000000 bytes\nLua time usage: 0.194/10.000 seconds\nLua memory usage: 6860232/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  403.166      1 -total\n 29.10%  117.328      1 Template:Reflist\n 24.58%   99.085     12 Template:Cite_web\n 18.43%   74.293      1 Template:Infobox_film\n 17.60%   70.945      1 Template:Ted_Bundy\n 17.58%   70.896      2 Template:Navbox\n 15.46%   62.322      1 Template:Infobox\n 13.95%   56.246      1 Template:Short_description\n 11.54%   46.524      1 Template:IMDb_title\n  8.45%   34.074      2 Template:Pagetype\n-->"
+}

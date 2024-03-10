@@ -1,0 +1,1437 @@
+{
+    "adult": false,
+    "backdrop_path": "/1qDDU5kQUG3NwahbrUIXJcW36wu.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://bleeckerstreetmedia.com/leavenotrace",
+    "id": 443463,
+    "imdb_id": "tt3892172",
+    "original_language": "en",
+    "original_title": "Leave No Trace",
+    "overview": "A father and daughter live a perfect but mysterious existence in Forest Park, a beautiful nature reserve near Portland, Oregon, rarely making contact with the world. But when a small mistake tips them off to authorities, they are sent on an increasingly erratic journey in search of a place to call their own.",
+    "popularity": 20.149,
+    "poster_path": "/w69iId8e80xBpyF0r2rfZoqRwQj.jpg",
+    "production_companies": [
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 75807,
+            "logo_path": "/bLzSVaxHIe8gzxhiSJCj0zI1Lj9.png",
+            "name": "First Look Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 60354,
+            "logo_path": null,
+            "name": "Harrison Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 99366,
+            "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+            "name": "Topic Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 11341,
+            "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+            "name": "Stage 6 Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 19414,
+            "logo_path": null,
+            "name": "Bleecker Street Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-06-29",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Leave No Trace",
+    "video": false,
+    "vote_average": 6.783,
+    "vote_count": 1116,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1356758,
+                "known_for_department": "Acting",
+                "name": "Thomasin McKenzie",
+                "original_name": "Thomasin McKenzie",
+                "popularity": 29.362,
+                "profile_path": "/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
+                "cast_id": 4,
+                "character": "Tom",
+                "credit_id": "58afe9999251411a54009e35",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11107,
+                "known_for_department": "Acting",
+                "name": "Ben Foster",
+                "original_name": "Ben Foster",
+                "popularity": 11.141,
+                "profile_path": "/4le1PMWTGp7y2IBmZEIOHfE3HAB.jpg",
+                "cast_id": 3,
+                "character": "Will",
+                "credit_id": "58afe979c3a3682c9c00844f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54865,
+                "known_for_department": "Acting",
+                "name": "Jeff Kober",
+                "original_name": "Jeff Kober",
+                "popularity": 21.79,
+                "profile_path": "/rSHfqqDdNCBbia04NqxIB2U19wM.jpg",
+                "cast_id": 8,
+                "character": "Mr. Walters",
+                "credit_id": "592dcc70c3a368089800077e",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 46814,
+                "known_for_department": "Acting",
+                "name": "Dale Dickey",
+                "original_name": "Dale Dickey",
+                "popularity": 19.824,
+                "profile_path": "/588WXHw17JYi2rAqIVQXzgYENu3.jpg",
+                "cast_id": 9,
+                "character": "Dale",
+                "credit_id": "592dcc9fc3a368091b000885",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1252505,
+                "known_for_department": "Acting",
+                "name": "Dana Millican",
+                "original_name": "Dana Millican",
+                "popularity": 6.422,
+                "profile_path": "/aWkq5gAXtbd4bN2i6tygdW7b8Ex.jpg",
+                "cast_id": 10,
+                "character": "Jean",
+                "credit_id": "5956fb66c3a368352605162a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2084791,
+                "known_for_department": "Acting",
+                "name": "Alyssa McKay",
+                "original_name": "Alyssa McKay",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "Valerie",
+                "credit_id": "612ec98ec2f44b0042cc2451",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094050,
+                "known_for_department": "Acting",
+                "name": "David Pittman",
+                "original_name": "David Pittman",
+                "popularity": 1.128,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Blane",
+                "credit_id": "5b5c11630e0a262e9000eefc",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094045,
+                "known_for_department": "Acting",
+                "name": "Bob Werfelman",
+                "original_name": "Bob Werfelman",
+                "popularity": 1.417,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Bob",
+                "credit_id": "5b5c11610e0a262ea100e9fc",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1163717,
+                "known_for_department": "Acting",
+                "name": "Isaiah Stone",
+                "original_name": "Isaiah Stone",
+                "popularity": 2.407,
+                "profile_path": "/xoOFTn5wpqxKv6cnPtAv4Xs36G7.jpg",
+                "cast_id": 40,
+                "character": "Isaiah",
+                "credit_id": "5b5c1161925141522a00da3f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1024816,
+                "known_for_department": "Acting",
+                "name": "Michael J. Prosser",
+                "original_name": "Michael J. Prosser",
+                "popularity": 2.744,
+                "profile_path": "/ygw0nIR3avWcJUhT4L2EsUmQa8Q.jpg",
+                "cast_id": 36,
+                "character": "James",
+                "credit_id": "5b5c1160c3a368422c00c763",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094040,
+                "known_for_department": "Acting",
+                "name": "Derek John Drescher",
+                "original_name": "Derek John Drescher",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Larry",
+                "credit_id": "5b5c1160925141521a00e85a",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094051,
+                "known_for_department": "Acting",
+                "name": "Susan Chernik",
+                "original_name": "Susan Chernik",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Susan",
+                "credit_id": "5b5c1163c3a36842210103d8",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2084792,
+                "known_for_department": "Acting",
+                "name": "Ryan Joiner",
+                "original_name": "Ryan Joiner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Tiffany",
+                "credit_id": "5b4ae0669251417d1e01bc3c",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094048,
+                "known_for_department": "Acting",
+                "name": "Derek Carmon",
+                "original_name": "Derek Carmon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Detective",
+                "credit_id": "5b5c1162c3a36842210103d0",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094044,
+                "known_for_department": "Acting",
+                "name": "Tamera Westlake",
+                "original_name": "Tamera Westlake",
+                "popularity": 0.828,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Devotional Dancer",
+                "credit_id": "5b5c11610e0a262e9c00eba3",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094046,
+                "known_for_department": "Acting",
+                "name": "Jacob Johnson",
+                "original_name": "Jacob Johnson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "4H Coach",
+                "credit_id": "5b5c11620e0a262e9f00dcdc",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094042,
+                "known_for_department": "Acting",
+                "name": "Erik McGlothlin",
+                "original_name": "Erik McGlothlin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "K-9 Officer",
+                "credit_id": "5b5c1160c3a368422a00d340",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094052,
+                "known_for_department": "Acting",
+                "name": "Marisa Anderson",
+                "original_name": "Marisa Anderson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 47,
+                "character": "Musician at Party",
+                "credit_id": "5b5c1164c3a368421b00f5bb",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094053,
+                "known_for_department": "Acting",
+                "name": "Michael Hurley",
+                "original_name": "Michael Hurley",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Musician at Party",
+                "credit_id": "5b5c1164c3a368421e00ff3e",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094043,
+                "known_for_department": "Acting",
+                "name": "Spencer S. Hanley",
+                "original_name": "Spencer S. Hanley",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Pastor",
+                "credit_id": "5b5c1161925141522700da72",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094041,
+                "known_for_department": "Acting",
+                "name": "Peter Simpson",
+                "original_name": "Peter Simpson",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Police Officer",
+                "credit_id": "5b5c1160c3a368421b00f5b2",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277799,
+                "known_for_department": "Acting",
+                "name": "Michael Draper",
+                "original_name": "Michael Draper",
+                "popularity": 1.212,
+                "profile_path": "/sDqOVhPMOeqtFcXSiWTWO38bUBO.jpg",
+                "cast_id": 32,
+                "character": "Runner",
+                "credit_id": "5b5c115f0e0a262e8d00ed26",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094049,
+                "known_for_department": "Acting",
+                "name": "Zo\u00eb Dotson",
+                "original_name": "Zo\u00eb Dotson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Teen Girl Traveler",
+                "credit_id": "5b5c1163c3a368422f00f9c6",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2094047,
+                "known_for_department": "Crew",
+                "name": "Art Hickman",
+                "original_name": "Art Hickman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Truck Driver",
+                "credit_id": "5b5c1162925141523700cf42",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094039,
+                "known_for_department": "Acting",
+                "name": "Jeffery Rifflard",
+                "original_name": "Jeffery Rifflard",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Vet at VA",
+                "credit_id": "5b5c115fc3a36842210103c9",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 23897,
+                "known_for_department": "Acting",
+                "name": "Ayanna Berkshire",
+                "original_name": "Ayanna Berkshire",
+                "popularity": 3.396,
+                "profile_path": "/igRDVEcfojqWdyiYZOTbfQPiGax.jpg",
+                "cast_id": 11,
+                "character": "Dr. Berkshire (uncredited)",
+                "credit_id": "5956fb77c3a36809c6075207",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2439002,
+                "known_for_department": "Acting",
+                "name": "Mike Harris",
+                "original_name": "Mike Harris",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 52,
+                "character": "Bus Rider (uncredited)",
+                "credit_id": "639462dcd05a030085ca76d3",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53712,
+                "known_for_department": "Sound",
+                "name": "Dickon Hinchliffe",
+                "original_name": "Dickon Hinchliffe",
+                "popularity": 3.842,
+                "profile_path": null,
+                "credit_id": "5b1117f00e0a26308b010bde",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 121873,
+                "known_for_department": "Directing",
+                "name": "Debra Granik",
+                "original_name": "Debra Granik",
+                "popularity": 1.583,
+                "profile_path": "/fgV1v014IAKTKJWLigH5IhxKisU.jpg",
+                "credit_id": "58afe954c3a3682cd0009477",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 121873,
+                "known_for_department": "Directing",
+                "name": "Debra Granik",
+                "original_name": "Debra Granik",
+                "popularity": 1.583,
+                "profile_path": "/fgV1v014IAKTKJWLigH5IhxKisU.jpg",
+                "credit_id": "58afe94c9251411a71009cc0",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 146522,
+                "known_for_department": "Production",
+                "name": "Linda Reisman",
+                "original_name": "Linda Reisman",
+                "popularity": 1.537,
+                "profile_path": null,
+                "credit_id": "58afe9d3c3a3682d1b009d13",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 238443,
+                "known_for_department": "Production",
+                "name": "Anne Harrison",
+                "original_name": "Anne Harrison",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "58afe9c8c3a3682cee0099e6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 928074,
+                "known_for_department": "Art",
+                "name": "Chad Keith",
+                "original_name": "Chad Keith",
+                "popularity": 3.658,
+                "profile_path": null,
+                "credit_id": "5aef0435c3a3681409003952",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 961347,
+                "known_for_department": "Writing",
+                "name": "Anne Rosellini",
+                "original_name": "Anne Rosellini",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "58afe960c3a3682d24008ab0",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 961347,
+                "known_for_department": "Writing",
+                "name": "Anne Rosellini",
+                "original_name": "Anne Rosellini",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "58afe9df9251411a5c0099c2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1027140,
+                "known_for_department": "Art",
+                "name": "Jonathan Guggenheim",
+                "original_name": "Jonathan Guggenheim",
+                "popularity": 1.553,
+                "profile_path": null,
+                "credit_id": "5aef042cc3a368142a0053b4",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1055498,
+                "known_for_department": "Editing",
+                "name": "Jane Rizzo",
+                "original_name": "Jane Rizzo",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5aef03f80e0a261d89005439",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1116278,
+                "known_for_department": "Production",
+                "name": "Aaron L. Gilbert",
+                "original_name": "Aaron L. Gilbert",
+                "popularity": 6.088,
+                "profile_path": "/fVjWdbyum3i85gqpxp8T7kJxIiV.jpg",
+                "credit_id": "5aef0493925141764f004933",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1163706,
+                "known_for_department": "Camera",
+                "name": "Michael McDonough",
+                "original_name": "Michael McDonough",
+                "popularity": 3.391,
+                "profile_path": null,
+                "credit_id": "5b1117cc9251415ef10121cf",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1172265,
+                "known_for_department": "Production",
+                "name": "Erin Aldridge Orr",
+                "original_name": "Erin Aldridge Orr",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5aef04550e0a261d8f00542f",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1364117,
+                "known_for_department": "Art",
+                "name": "Vanessa Knoll",
+                "original_name": "Vanessa Knoll",
+                "popularity": 3.06,
+                "profile_path": null,
+                "credit_id": "5aef04400e0a261d8f005423",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1388469,
+                "known_for_department": "Production",
+                "name": "Jason Cloth",
+                "original_name": "Jason Cloth",
+                "popularity": 2.608,
+                "profile_path": "/4fqDyUN1LF6aajRrLsS3eFhjC4x.jpg",
+                "credit_id": "5aef03c50e0a261d920053f2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1579005,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Stuart Gordon Tribble",
+                "original_name": "Stuart Gordon Tribble",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "5aef0474c3a368140c00662c",
+                "department": "Costume & Make-Up",
+                "job": "Hair Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1711127,
+                "known_for_department": "Production",
+                "name": "Paul Tennyson",
+                "original_name": "Paul Tennyson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5aef04a2c3a3681418004932",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1803341,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anne Sellery",
+                "original_name": "Anne Sellery",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5aef044ec3a368141800490c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1867517,
+                "known_for_department": "Art",
+                "name": "Paul Curtin",
+                "original_name": "Paul Curtin",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "606848931cc4ff00788154cb",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2037379,
+                "known_for_department": "Production",
+                "name": "Michael Bloom",
+                "original_name": "Michael Bloom",
+                "popularity": 1.025,
+                "profile_path": "/5RaBFD18TqSjZhOEPi2yX1c1If8.jpg",
+                "credit_id": "5aef03e3c3a368141b006b84",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2037395,
+                "known_for_department": "Directing",
+                "name": "Scott Larkin",
+                "original_name": "Scott Larkin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5aef0489c3a3681403004670",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2037400,
+                "known_for_department": "Production",
+                "name": "Dale Wells",
+                "original_name": "Dale Wells",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5aef04cd925141764a00536c",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Director to Director - Max Walker-Silverman x Debra Granik | Bleecker Street",
+                "key": "Wn3m-hAHEU0",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2022-11-14T17:45:03.000Z",
+                "id": "63b58b4b875d1a008a4cce81"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Leave No Trace Q+A with Debra Granik and Thomasin Harcourt McKenzie",
+                "key": "cFokdhv30Ek",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": false,
+                "published_at": "2018-08-14T22:46:11.000Z",
+                "id": "5d862e1922f5d70018a88922"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Featurette",
+                "key": "ApsC5RMcgYk",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2018-07-09T21:02:56.000Z",
+                "id": "5d862cf422f5d70018a88639"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer",
+                "key": "_07ktacEGo8",
+                "published_at": "2018-04-26T16:27:01.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "id": "5ae4eb0e0e0a266c7100e426"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/1qDDU5kQUG3NwahbrUIXJcW36wu.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/mYXiZwHVPsygsk1Akz1AgO93JUu.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/3OAoCoxkRsUHxtFIXUi6Cefx6IL.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ax6LwhsAXesGCsBagE21DgwUYZf.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/h77FoFVGrovhCsavzA1c0FhhDW0.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/vFh3PxDmkiKLaXKBXPpzB1kRZ3h.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/22sg3qlzy3fP6o0VUlLBPDowYIb.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1993,
+                "iso_639_1": null,
+                "file_path": "/c5GHB444LQShWnO29ulpFMLo4Am.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 3543
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/7oXqq2uXT5vpDhpv6br3gum3WaC.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/f3XiJ3aOyDhtbtA0oYXpfJrn63o.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/wtLFZUmgUFaHy1V5mVUG5vT3SD2.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/nbALCZgsKPDrJKL1VaYPNWBGGgJ.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/6KGueEwU3nZLu39pr5BqQZMXqQm.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/nA0qsiFPgnfihpfeR5gJobpnj1h.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "it",
+                "file_path": "/8ByoZcT9DVtcuIHGPZI29eEMWfj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "pt",
+                "file_path": "/s2eOu4PMqr7vykEs5aTEnC2U53L.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "es",
+                "file_path": "/tdM4KGApOrYpnUBFKAdPZKyOOkQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 1.481,
+                "height": 395,
+                "iso_639_1": "en",
+                "file_path": "/5sGXLnnnlH4qSih6G8KULNoDZzx.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 585
+            },
+            {
+                "aspect_ratio": 1.509,
+                "height": 740,
+                "iso_639_1": "en",
+                "file_path": "/7cM704oC1u7XYtYIDjCWRUMDKAv.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1117
+            },
+            {
+                "aspect_ratio": 12.632,
+                "height": 57,
+                "iso_639_1": "en",
+                "file_path": "/ozyHsE1KLpBOSFpVYpOoxrBLOXe.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 1.228,
+                "height": 804,
+                "iso_639_1": "en",
+                "file_path": "/yaaxJ3JgtZYlNfdwXXsYv0s0nke.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 987
+            },
+            {
+                "aspect_ratio": 1.361,
+                "height": 310,
+                "iso_639_1": "cs",
+                "file_path": "/6DQHKve9qlgqqDlJKR0VoHZ6LdX.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 422
+            },
+            {
+                "aspect_ratio": 1.783,
+                "height": 83,
+                "iso_639_1": "zh",
+                "file_path": "/tPyQaNDuDRPSzH39X9Lisqf7hXH.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 148
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/w69iId8e80xBpyF0r2rfZoqRwQj.jpg",
+                "vote_average": 5.458,
+                "vote_count": 19,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/vl3RuurOuBuqr85kyGv1FxVkI30.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/2ldnd5R5x6wWKfvhhKa59UmIc6P.jpg",
+                "vote_average": 5.39,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
+                "vote_average": 5.39,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/guius2gH8xxeEHQgH9eKiqjG0ww.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/n1K33S2UvsAE9Sic9z43PnSrIll.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/awGdHLQdPARAWyiT4hzu1ZFdsHO.jpg",
+                "vote_average": 5.338,
+                "vote_count": 13,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/8146RijVaiGjLIpYDGFw5W8rg6I.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2167,
+                "iso_639_1": "es",
+                "file_path": "/2ydXKRNutVjKFsryuv9YEEpVkN0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1445
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 763,
+                "iso_639_1": "es",
+                "file_path": "/la9zT2LvoZHnNUZYVVN0eHo0zAO.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 534
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/dDHioFaBBC1X76dlJ1GaoHZ4q9M.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/1iTjMer2c9YJ7lLTTSSUWEvelEP.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/atAKPNTCG31y8BddmwGz1kVYScx.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/AuKpbT15MmQ0hXUpLpx9eTHDNie.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/1lpkL5EVxSHsxwiU3Zz96StMT0.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/210uvj2sreA1FqPWLzytW9S22c2.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.694,
+                "height": 2161,
+                "iso_639_1": "es",
+                "file_path": "/oQlSSxHuD8wKeltBTbWZCJJ85Th.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/rovT2Tawtpvr53Run6HonTLRtIx.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/rTNc2Sh41deINQuS1lHS5YgG7dU.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/6lmBcOYsIoPIoFy9mPGLDXOVJDl.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/2CF4jy838BgMbaMczwq9MMvVgIm.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sv",
+                "file_path": "/jfnx9iw37n0qLMfOYheHQ8YRdlZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 2161,
+                "iso_639_1": "hu",
+                "file_path": "/hg14GnOuJghcb0ri909GCkfh3n3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1533
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/v1h8xFlJwjCTdfu4tTdK7WTcMsu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/cBbNvuvkLgTd3Fj2aFjQWg0APM2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "cs",
+                "file_path": "/qobOHV0hg7ma0S5B0zYeRUUZRJm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/cWtn2AHWDNAR9A7N7kIWxkoXKOx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.672,
+                "height": 1340,
+                "iso_639_1": "pt",
+                "file_path": "/kW4TU5QWGr5DoIFtDVqORcyxrD0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/A6j8CHoHdnV7ACekpFTqTWkxV7m.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "hu",
+                "file_path": "/zvZHZ1088QUgD1rzczb7m5IVNg2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1348,
+                "iso_639_1": "el",
+                "file_path": "/lINi7CJDMWYFynfnmFFBfTlsLiJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 899
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 2820,
+                "iso_639_1": "uk",
+                "file_path": "/cAv8ebw977JjRUWsyhgiUuHYu8j.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 1333,
+                "iso_639_1": "ja",
+                "file_path": "/odRPGA3NCOtLGIzj1zg2zo32990.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 890
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "th",
+                "file_path": "/p5YHdbWxewqxmuOc6DtLJpuxKBK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 447,
+                "name": "post-traumatic stress disorder (ptsd)"
+            },
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 1896,
+                "name": "portland, oregon"
+            },
+            {
+                "id": 5827,
+                "name": "hiking"
+            },
+            {
+                "id": 2754,
+                "name": "trauma"
+            },
+            {
+                "id": 1897,
+                "name": "oregon, usa"
+            },
+            {
+                "id": 10809,
+                "name": "teenage girl"
+            },
+            {
+                "id": 10833,
+                "name": "survivalist"
+            },
+            {
+                "id": 159909,
+                "name": "veteran"
+            },
+            {
+                "id": 163726,
+                "name": "hitchhiking"
+            },
+            {
+                "id": 164724,
+                "name": "washington state"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            },
+            {
+                "id": 189358,
+                "name": "squatting"
+            },
+            {
+                "id": 198982,
+                "name": "off the grid"
+            },
+            {
+                "id": 208212,
+                "name": "survivalism"
+            },
+            {
+                "id": 240303,
+                "name": "father daughter relationship"
+            },
+            {
+                "id": 246990,
+                "name": "living off the grid"
+            }
+        ]
+    },
+    "title_english": "Leave No Trace",
+    "year": "2018",
+    "rated": "PG",
+    "director_list": [
+        "Debra Granik"
+    ],
+    "writer_list": [
+        "Debra Granik",
+        " Anne Rosellini",
+        " Peter Rock"
+    ],
+    "main_cast": [
+        "Thomasin McKenzie",
+        " Ben Foster",
+        " Jeffery Rifflard"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "imdb_rating": "7.1",
+    "imdb_votes": "63,805",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leave_No_Trace_(film)",
+    "wikipedia_summary": "Leave No Trace is a 2018 American drama film directed by Debra Granik. The film is written by Granik and Anne Rosellini, based on Peter Rock's 2009 novel My Abandonment, which is based on a true story. The plot follows a military veteran father (Ben Foster) with post-traumatic stress disorder who lives in the forest with his young daughter (Thomasin McKenzie).\nLeave No Trace premiered at the 2018 Sundance Film Festival, and was theatrically released by Bleecker Street in the United States on June 29, 2018. The film received universal critical acclaim, with praise for the performances of Foster and McKenzie, and it is the most reviewed film to hold an approval rating of 100% on Rotten Tomatoes.",
+    "wikipedia_plot": "Will, a veteran suffering from PTSD, lives with his teenage daughter, Tom, in the old growth Forest Park near Portland, Oregon. They live in isolation, using forest survival skills and entering the town only occasionally for food and supplies. Will makes their money by selling his VA-issued benzodiazepines to another homeless veteran.\nAfter Tom is spotted in the woods by a jogger, they are arrested by park rangers and detained by social services. They are assessed and Tom is found to be educationally advanced for her age despite not attending school. They are found a house to live in on a Christmas tree farm in rural Oregon in exchange for Will's work on the farm. Will grudgingly begins work packaging trees, but is bothered by the helicopters used to move them. Tom meets a local boy who is building his own tiny house, and he introduces her to the local 4-H youth club. Social services continue to check on them and require constant form filling.\nOne morning Will suddenly decides to leave. Tom follows reluctantly. They return to their camp in the park, but find it has been destroyed. Will and Tom try to travel in a railroad boxcar but eventually catch a ride with a trucker who takes them to Washington state and drops them off, in a remote forest area. Cold and darkness force them to build a temporary forest survival shelter for the night. The next day they discover a vacant cabin and move in. Will leaves to find food but does not return. The next morning, Tom discovers him unconscious at the bottom of a ravine with a seriously injured foot. She gets help from local quadbikers, who take them to their mobile home community. Tom refuses to let Will be taken to a hospital. Dale, a local woman, calls a friend who is a former Army medic to treat Will's injury.\nWill and Tom are given an empty trailer in the community while Will's injuries heal. The medic also suffers from PTSD and lends his service dog to help Will with his nightmares. A local teaches Tom about the beehives. Tom likes their new home and tries to make a rental agreement with Dale, the trailer's owner, without telling Will. Eventually, Will insists they leave. Tom protests, telling him \"the same thing that's wrong with you isn't wrong with me\". After leaving the RV community, Tom stops and says to Will, \"I know you would stay if you could\". They tearfully hug and part ways. Tom returns to the trailer community, and Will returns to the woods. Later, Tom hangs a food package in the forest for Will to find.",
+    "wikipedia_plot_html": "<p>Will, a veteran suffering from PTSD, lives with his teenage daughter, Tom, in the old growth Forest Park near Portland, Oregon. They live in isolation, using forest survival skills and entering the town only occasionally for food and supplies. Will makes their money by selling his VA-issued benzodiazepines to another homeless veteran.\n</p><p>After Tom is spotted in the woods by a jogger, they are arrested by park rangers and detained by social services. They are assessed and Tom is found to be educationally advanced for her age despite not attending school. They are found a house to live in on a Christmas tree farm in rural Oregon in exchange for Will's work on the farm. Will grudgingly begins work packaging trees, but is bothered by the helicopters used to move them. Tom meets a local boy who is building his own tiny house, and he introduces her to the local 4-H youth club. Social services continue to check on them and require constant form filling.\n</p><p>One morning Will suddenly decides to leave. Tom follows reluctantly. They return to their camp in the park, but find it has been destroyed. Will and Tom try to travel in a railroad boxcar but eventually catch a ride with a trucker who takes them to Washington state and drops them off, in a remote forest area. Cold and darkness force them to build a temporary forest survival shelter for the night. The next day they discover a vacant cabin and move in. Will leaves to find food but does not return. The next morning, Tom discovers him unconscious at the bottom of a ravine with a seriously injured foot. She gets help from local quadbikers, who take them to their mobile home community. Tom refuses to let Will be taken to a hospital. Dale, a local woman, calls a friend who is a former Army medic to treat Will's injury.\n</p><p>Will and Tom are given an empty trailer in the community while Will's injuries heal. The medic also suffers from PTSD and lends his service dog to help Will with his nightmares. A local teaches Tom about the beehives. Tom likes their new home and tries to make a rental agreement with Dale, the trailer's owner, without telling Will. Eventually, Will insists they leave. Tom protests, telling him \"the same thing that's wrong with you isn't wrong with me\". After leaving the RV community, Tom stops and says to Will, \"I know you would stay if you could\". They tearfully hug and part ways. Tom returns to the trailer community, and Will returns to the woods. Later, Tom hangs a food package in the forest for Will to find.\n</p>",
+    "wikipedia_critics": "On Rotten Tomatoes, the film has an approval rating of 100% based on 252 reviews, with an average rating of 8.6/10. The website's critical consensus reads, \"Leave No Trace takes an effectively low-key approach to a potentially sensationalistic story \u2014 and further benefits from brilliant work by Ben Foster and Thomasin McKenzie.\" It is the most reviewed film to hold an approval rating of 100% on the site. On Metacritic, the film has a weighted average score of 88 out of 100, based on 44 critics, indicating \"universal acclaim\".Manohla Dargis of The New York Times wrote: \"In its best moments, Leave No Trace invites you to simply be with its characters, to see and experience the world as they do. Empathy, the movie reminds you, is something that is too little asked of you either in life or in art. Both Mr. Foster\u2019s and Ms. Harcourt McKenzie\u2019s sensitive, tightly checked performances are critical in this regard.\" Kenneth Turan of the Los Angeles Times called it \"Fiercely involving in a way we're not used to, made with sensitivity and honesty by director/co-writer Debra Granik, it tells its emotional story of a father and daughter living dangerously off the grid in a way that is unnerving and uncompromising yet completely satisfying.\"The Guardian critic Peter Bradshaw praised the movie as being a deeply intelligent story of love and survival in the wild, and gave it a perfect score of 5 out of 5. Mark Kermode named Leave No Trace his favourite film of 2018.Peter Debruge of Variety gave the film a mixed review: \"There's a listless, almost meandering nature to the story. The film's conflict is clear \u2013 this is no way to raise a child, and allowed to continue in this fashion, Will risks both his life and Tom's \u2013 and yet there\u2019s no sense of where the script is headed, and no urgency to its resolution.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Leave No Trace</b></i> is a 2018 American drama film directed by Debra Granik. The film is written by Granik and Anne Rosellini, based on Peter Rock's 2009 novel <i>My Abandonment</i>, which is based on a true story. The plot follows a military veteran father (Ben Foster) with post-traumatic stress disorder who lives in the forest with his young daughter (Thomasin McKenzie).\n</p><p><i>Leave No Trace</i> premiered at the 2018 Sundance Film Festival, and was theatrically released by Bleecker Street in the United States on June 29, 2018. The film received universal critical acclaim, with praise for the performances of Foster and McKenzie, and it is the most reviewed film to hold an approval rating of 100% on Rotten Tomatoes.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Will, a veteran suffering from PTSD, lives with his teenage daughter, Tom, in the old growth Forest Park near Portland, Oregon. They live in isolation, using forest survival skills and entering the town only occasionally for food and supplies. Will makes their money by selling his VA-issued benzodiazepines to another homeless veteran.\n</p><p>After Tom is spotted in the woods by a jogger, they are arrested by park rangers and detained by social services. They are assessed and Tom is found to be educationally advanced for her age despite not attending school. They are found a house to live in on a Christmas tree farm in rural Oregon in exchange for Will's work on the farm. Will grudgingly begins work packaging trees, but is bothered by the helicopters used to move them. Tom meets a local boy who is building his own tiny house, and he introduces her to the local 4-H youth club. Social services continue to check on them and require constant form filling.\n</p><p>One morning Will suddenly decides to leave. Tom follows reluctantly. They return to their camp in the park, but find it has been destroyed. Will and Tom try to travel in a railroad boxcar but eventually catch a ride with a trucker who takes them to Washington state and drops them off, in a remote forest area. Cold and darkness force them to build a temporary forest survival shelter for the night. The next day they discover a vacant cabin and move in. Will leaves to find food but does not return. The next morning, Tom discovers him unconscious at the bottom of a ravine with a seriously injured foot. She gets help from local quadbikers, who take them to their mobile home community. Tom refuses to let Will be taken to a hospital. Dale, a local woman, calls a friend who is a former Army medic to treat Will's injury.\n</p><p>Will and Tom are given an empty trailer in the community while Will's injuries heal. The medic also suffers from PTSD and lends his service dog to help Will with his nightmares. A local teaches Tom about the beehives. Tom likes their new home and tries to make a rental agreement with Dale, the trailer's owner, without telling Will. Eventually, Will insists they leave. Tom protests, telling him \"the same thing that's wrong with you isn't wrong with me\". After leaving the RV community, Tom stops and says to Will, \"I know you would stay if you could\". They tearfully hug and part ways. Tom returns to the trailer community, and Will returns to the woods. Later, Tom hangs a food package in the forest for Will to find.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Ben Foster as Will, a military veteran suffering from PTSD</li>\n<li>Thomasin Harcourt McKenzie as Tom, Will's daughter</li>\n<li>Jeff Kober as Mr. Walters, a tree farm owner</li>\n<li>Dale Dickey as Dale, the owner of the trailer park</li>\n<li>Dana Millican as Jean Bauer, Tom's social worker</li>\n<li>Michael Prosser as James, Will's social worker</li>\n<li>Derek John Drescher as Larry, a man with whom Will exchanges medications for money</li>\n<li>Isaiah Stone as Isaiah, a person whom Tom befriends</li></ul>\n\n<h2>Production</h2>\n<p>The film was directed by Debra Granik and written by Granik and Anne Rosellini, based on the 2009 novel <i>My Abandonment</i> by Peter Rock. The novel is based on a true story.</p>\n\n<h3>Filming</h3>\n<p>Principal photography took place during the spring of 2017 in Portland, Oregon. Eagle Fern Park in Clackamas County was used for the main forest scenes.</p>\n\n<h2>Soundtrack</h2>\n<p>Dickon Hinchliffe, formerly of Tindersticks, composed the film score, released digitally by Lakeshore Records. This is his second collaboration with Granik, after <i>Winter's Bone</i>.\n</p>\n<ol><li>\"Forest Park\" \u2013 1:18</li>\n<li>\"Rough Country\" \u2013 2:02</li>\n<li>\"The Runner\" \u2013 1:13</li>\n<li>\"Taken\" \u2013 1:35</li>\n<li>\"Drive to the Farm\" \u2013 2:26</li>\n<li>\"Raid\" \u2013 1:38</li>\n<li>\"Return to the Forest\" \u2013 2:41</li>\n<li>\"Lost\" \u2013 2:39</li>\n<li>\"Not That Kind of Trouble\" \u2013 1:30</li>\n<li>\"Tiny House\" \u2013 0:57</li>\n<li>\"Shelter\" \u2013 3:38</li>\n<li>\"The Long Night\" \u2013 1:40</li>\n<li>\"Finding Will\" \u2013 1:33</li>\n<li>\"Bus Out of Town\" \u2013 2:06</li>\n<li>\"We Share a Star\" \u2013 2:20</li></ol><p>Off-grid musician and former Dream Syndicate and Opal member Kendra Smith contributed the original song \"Moon Boat\" (her first solo recording since 1996), which plays over the end credits.</p><p>Oregon folk musicians Michael Hurley and Marisa Anderson have cameo performances in the film.</p>\n\n<h2>Release</h2>\n<p>The film had its world premiere at the Sundance Film Festival on January 20, 2018. Shortly after, Bleecker Street acquired U.S. distribution rights to the film. It was released on June 29, 2018.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p>On Rotten Tomatoes, the film has an approval rating of 100% based on 252 reviews, with an average rating of 8.6/10. The website's critical consensus reads, \"<i>Leave No Trace</i> takes an effectively low-key approach to a potentially sensationalistic story \u2014 and further benefits from brilliant work by Ben Foster and Thomasin McKenzie.\" It is the most reviewed film to hold an approval rating of 100% on the site. On Metacritic, the film has a weighted average score of 88 out of 100, based on 44 critics, indicating \"universal acclaim\".</p><p>Manohla Dargis of <i>The New York Times</i> wrote: \"In its best moments, <i>Leave No Trace</i> invites you to simply be with its characters, to see and experience the world as they do. Empathy, the movie reminds you, is something that is too little asked of you either in life or in art. Both Mr. Foster\u2019s and Ms. Harcourt McKenzie\u2019s sensitive, tightly checked performances are critical in this regard.\" Kenneth Turan of the <i>Los Angeles Times</i> called it \"Fiercely involving in a way we're not used to, made with sensitivity and honesty by director/co-writer Debra Granik, it tells its emotional story of a father and daughter living dangerously off the grid in a way that is unnerving and uncompromising yet completely satisfying.\"<i>The Guardian</i> critic Peter Bradshaw praised the movie as being a deeply intelligent story of love and survival in the wild, and gave it a perfect score of 5 out of 5. Mark Kermode named <i>Leave No Trace</i> his favourite film of 2018.</p><p>Peter Debruge of <i>Variety</i> gave the film a mixed review: \"There's a listless, almost meandering nature to the story. The film's conflict is clear \u2013 this is no way to raise a child, and allowed to continue in this fashion, Will risks both his life and Tom's \u2013 and yet there\u2019s no sense of where the script is headed, and no urgency to its resolution.\"</p>\n\n<h3>Accolades</h3>\n<h4>Top ten lists</h4>\n<p><i>Leave No Trace</i> was listed on numerous critics' top ten lists for 2018, among them:</p>\n<ul><li>1st - Mark Kermode, <i>The Observer</i></li>\n<li>1st - Kenneth Turan, <i>Los Angeles Times</i> (tied with <i>Black Panther</i>)</li>\n<li>2nd - Stephen Farber, <i>The Hollywood Reporter</i></li>\n<li>2nd - Richard Lawson, <i>Vanity Fair</i></li>\n<li>2nd - David Morgan, <i>CBS News</i></li>\n<li>2nd - Staff consensus, <i>The Guardian</i></li>\n<li>3rd - Jason Bailey, <i>Flavorwire</i></li>\n<li>4th - Richard Roeper, <i>Chicago Sun-Times</i></li>\n<li>4th - Peter Bradshaw, <i>The Guardian</i></li>\n<li>4th - Sara Stewart, <i>New York Post</i></li>\n<li>5th - Sheri Linden, <i>The Hollywood Reporter</i></li>\n<li>5th - David Sims, <i>The Atlantic</i></li>\n<li>5th - Lawrence Toppman, <i>The Charlotte Observer</i></li>\n<li>5th - Staff consensus, <i>The Sydney Morning Herald</i></li>\n<li>6th - Anita Katz, <i>San Francisco Examiner</i></li>\n<li>6th - John Frosch, <i>The Hollywood Reporter</i></li>\n<li>6th - Randy Myers, <i>San Jose Mercury News</i></li>\n<li>6th - Chris Wasser, <i>Irish Independent</i></li>\n<li>8th - Nicholas Barber, <i>BBC Culture</i></li>\n<li>8th - Peter Rainer, <i>Christian Science Monitor</i></li>\n<li>8th - Marc Doyle, <i>Metacritic</i></li>\n<li>8th - Caryn James, <i>The Hollywood Reporter</i></li>\n<li>9th - John Powers, <i>Vogue</i></li>\n<li>10th - David Edelstein, <i>Vulture</i></li>\n<li>10th - Josh Larsen, <i>Filmspotting</i></li>\n<li>Top 10 (listed alphabetically) - Dana Stevens, <i>Slate</i></li></ul>\n\n<h4>Awards and nominations</h4>\n<h2>See also</h2>\n<ul><li>List of films with a 100% rating on Rotten Tomatoes</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><span><span>Official website</span></span></li>\n<li><i>Leave No Trace</i> at IMDb</li>\n<li><i>Leave No Trace</i> at Box Office Mojo</li></ul>\n\n<!-- \nNewPP limit report\nParsed by mw\u2010api\u2010ext.eqiad.main\u20107c87c4dfcd\u2010xslhp\nCached time: 20231205161906\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.595 seconds\nReal time usage: 0.766 seconds\nPreprocessor visited node count: 3575/1000000\nPost\u2010expand include size: 112661/2097152 bytes\nTemplate argument size: 6261/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 4/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 122603/5000000 bytes\nLua time usage: 0.363/10.000 seconds\nLua memory usage: 8962603/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  678.557      1 -total\n 36.88%  250.244      1 Template:Reflist\n 27.84%  188.912     28 Template:Cite_web\n 12.45%   84.452      1 Template:Infobox_film\n 11.36%   77.097      2 Template:Navbox\n 11.24%   76.257      1 Template:Debra_Granik\n 10.46%   70.985      1 Template:Infobox\n  9.15%   62.120      1 Template:Short_description\n  7.93%   53.811      1 Template:Expand_section\n  7.41%   50.289      1 Template:Ambox\n-->"
+}

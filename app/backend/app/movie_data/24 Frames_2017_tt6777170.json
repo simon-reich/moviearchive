@@ -1,0 +1,458 @@
+{
+    "adult": false,
+    "backdrop_path": "/f8xOxhUifgZVtclccpiHRP20Zkw.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 377269,
+    "imdb_id": "tt6777170",
+    "original_language": "en",
+    "original_title": "24 Frames",
+    "overview": "A collection of 24 short four-and-a-half minutes films inspired by still images, including paintings and photographs. An experimental project made by filmmaker Abbas Kiarostami in the last three years of his life.",
+    "popularity": 2.943,
+    "poster_path": "/oWHZdSSWiclgMUjVg3eYDBCbiAL.jpg",
+    "production_companies": [
+        {
+            "id": 51696,
+            "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+            "name": "CG Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 2938,
+            "logo_path": null,
+            "name": "Abbas Kiarostami Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "IR",
+            "name": "Iran"
+        }
+    ],
+    "release_date": "2017-07-17",
+    "revenue": 0,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "24 Frames",
+    "video": false,
+    "vote_average": 6.625,
+    "vote_count": 52,
+    "credits": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54318,
+                "known_for_department": "Production",
+                "name": "Charles Gillibert",
+                "original_name": "Charles Gillibert",
+                "popularity": 1.166,
+                "profile_path": "/gss7U39JPmEC6eRl0EiiKIilSYs.jpg",
+                "credit_id": "5aaea1b692514175c3012604",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119294,
+                "known_for_department": "Directing",
+                "name": "Abbas Kiarostami",
+                "original_name": "Abbas Kiarostami",
+                "popularity": 9.482,
+                "profile_path": "/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg",
+                "credit_id": "569569ea9251413aea00079c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119294,
+                "known_for_department": "Directing",
+                "name": "Abbas Kiarostami",
+                "original_name": "Abbas Kiarostami",
+                "popularity": 9.482,
+                "profile_path": "/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg",
+                "credit_id": "5c5bf9c7925141337fb9bae1",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1765364,
+                "known_for_department": "Visual Effects",
+                "name": "Ali Kamal",
+                "original_name": "Ali Kamal",
+                "popularity": 0.617,
+                "profile_path": null,
+                "credit_id": "5c3a708dc3a368086947983e",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1832879,
+                "known_for_department": "Acting",
+                "name": "Ahmad Kiarostami",
+                "original_name": "Ahmad Kiarostami",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5aaea1f292514116bd025eaa",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1852271,
+                "known_for_department": "Visual Effects",
+                "name": "Sam Javanrouh",
+                "original_name": "Sam Javanrouh",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5c3a71b90e0a26442d02062a",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1973065,
+                "known_for_department": "Editing",
+                "name": "Mark Driver",
+                "original_name": "Mark Driver",
+                "popularity": 0.838,
+                "profile_path": null,
+                "credit_id": "5c3a719a0e0a26443701e888",
+                "department": "Editing",
+                "job": "Online Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215618,
+                "known_for_department": "Sound",
+                "name": "Ensiyeh Maleki",
+                "original_name": "Ensiyeh Maleki",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a704b0e0a26442a01eb70",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215619,
+                "known_for_department": "Sound",
+                "name": "Peyman Pirnia",
+                "original_name": "Peyman Pirnia",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a70b3c3a368086d478816",
+                "department": "Sound",
+                "job": "Sound Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215620,
+                "known_for_department": "Sound",
+                "name": "Sahel Daryani",
+                "original_name": "Sahel Daryani",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a70c4c3a368085f470f95",
+                "department": "Sound",
+                "job": "Sound Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215621,
+                "known_for_department": "Camera",
+                "name": "Dariush Gorji",
+                "original_name": "Dariush Gorji",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a70df0e0a26442701e3ef",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215622,
+                "known_for_department": "Camera",
+                "name": "Peyman Sol",
+                "original_name": "Peyman Sol",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a70fac3a368084f4762c4",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215624,
+                "known_for_department": "Camera",
+                "name": "Delaram Delasho",
+                "original_name": "Delaram Delasho",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a7113c3a368085f470fe0",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215625,
+                "known_for_department": "Camera",
+                "name": "Yousef Khoshnaghsh",
+                "original_name": "Yousef Khoshnaghsh",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a71380e0a26442d0205ab",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2215628,
+                "known_for_department": "Production",
+                "name": "Bahman Kiadarbansari",
+                "original_name": "Bahman Kiadarbansari",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c3a7173c3a36808584746c2",
+                "department": "Production",
+                "job": "Production Manager"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Ahmad Kiarostami Talks About His Father\u2019s Final Passion Project",
+                "key": "gUyu4t3w-LA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "published_at": "2019-01-11T16:54:41.000Z",
+                "official": true,
+                "id": "5c3bea8dc3a368638a3c5e16"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "FNSlQ9mmJ4M",
+                "published_at": "2018-01-30T21:30:19.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "id": "5a726d3e0e0a2664390017c9"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.777,
+                "height": 993,
+                "iso_639_1": null,
+                "file_path": "/f8xOxhUifgZVtclccpiHRP20Zkw.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1765
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 993,
+                "iso_639_1": null,
+                "file_path": "/7t5RCmW0T585jzpDfBzigYKGdOu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1765
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1150,
+                "iso_639_1": null,
+                "file_path": "/zYychVnN7WJYjhYR3NemRuzv7rl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2044
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/azESJqwgLYfYtnV2pscvsEYsL2E.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/fLsoqILrUlYIJTpAt7LOc8HeIQO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/oWHZdSSWiclgMUjVg3eYDBCbiAL.jpg",
+                "vote_average": 5.586,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 999,
+                "iso_639_1": "en",
+                "file_path": "/evxKtoit4lpyaTYy5XxMAUKM94l.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 666
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/if6dayqmTKsHZLRQdQ4AWUUSqxY.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2047,
+                "iso_639_1": "en",
+                "file_path": "/iTisFjlX84DI7eXDZLRs9ATBKtL.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1382
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/m2uTMJSwrBmifi6Z7h66uMtSzjg.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 999,
+                "iso_639_1": null,
+                "file_path": "/graixVogfCm2b33VPnntBBLzuYq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 666
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/hFaPvMMgM4Xil5Ifyq1Lg0VvJA7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1944
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/1QWFl7TRzJNrbZ3HEXjumw7gSsQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": null,
+                "file_path": "/4cWnVOJEjX9Moc4Bk5L1XR95V4C.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "24 Frames",
+    "year": "2017",
+    "rated": "Not Rated",
+    "director_list": [
+        "Abbas Kiarostami"
+    ],
+    "writer_list": [
+        "Mohammad Mohammadian"
+    ],
+    "main_cast": [
+        "Mohamad Ramezani Pour"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "imdb_rating": "6.8",
+    "imdb_votes": "2,166",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/24_Frames",
+    "wikipedia_summary": "24 Frames may refer to:\n\n24 Frames, a single from the Jason Isbell album, Something More Than Free\n24 Frames (film), an Iranian film",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><b>24 Frames</b> may refer to:\n</p>\n<ul><li><i>24 Frames</i>, a single from the Jason Isbell album, <i>Something More Than Free</i></li>\n<li><i>24 Frames</i> (film), an Iranian film</li></ul>"
+}

@@ -1,0 +1,1418 @@
+{
+    "adult": false,
+    "backdrop_path": "/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+    "belongs_to_collection": null,
+    "budget": 370000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "http://www.wernerherzog.com/films-by.html",
+    "id": 2000,
+    "imdb_id": "tt0068182",
+    "original_language": "de",
+    "original_title": "Aguirre, der Zorn Gottes",
+    "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre\u2019s men start to wonder whether their quest will lead them to prosperity or certain death.",
+    "popularity": 15.378,
+    "poster_path": "/e5hNOS2uwIvPCNSyIOkpmtm6HEM.jpg",
+    "production_companies": [
+        {
+            "id": 843,
+            "logo_path": null,
+            "name": "Werner Herzog Filmproduktion",
+            "origin_country": "DE"
+        },
+        {
+            "id": 9291,
+            "logo_path": "/g6GYZXQrjB86Z5ocVliUZF1i3Tz.png",
+            "name": "HR",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "PE",
+            "name": "Peru"
+        }
+    ],
+    "release_date": "1972-12-29",
+    "revenue": 37041,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Espa\u00f1ol"
+        },
+        {
+            "english_name": "Quechua",
+            "iso_639_1": "qu",
+            "name": ""
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A breathtaking journey into the heart of darkness.",
+    "title": "Aguirre, the Wrath of God",
+    "video": false,
+    "vote_average": 7.492,
+    "vote_count": 983,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14277,
+                "known_for_department": "Acting",
+                "name": "Klaus Kinski",
+                "original_name": "Klaus Kinski",
+                "popularity": 12.725,
+                "profile_path": "/twuyGlZJzJXFcbhVS2jlQOsTVFK.jpg",
+                "cast_id": 2,
+                "character": "Don Lope de Aguirre",
+                "credit_id": "52fe432ac3a36847f803f66b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20546,
+                "known_for_department": "Acting",
+                "name": "Helena Rojo",
+                "original_name": "Helena Rojo",
+                "popularity": 9.009,
+                "profile_path": "/cNEAIf4rBfpgpCTIhL5HP4xqDQw.jpg",
+                "cast_id": 3,
+                "character": "In\u00e9s de Atienza",
+                "credit_id": "52fe432ac3a36847f803f66f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20547,
+                "known_for_department": "Acting",
+                "name": "Del Negro",
+                "original_name": "Del Negro",
+                "popularity": 1.012,
+                "profile_path": "/8TCOD1TUQiV0PB3vtHURPsJbfpR.jpg",
+                "cast_id": 4,
+                "character": "Brother Gaspar de Carvajal",
+                "credit_id": "52fe432ac3a36847f803f673",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20548,
+                "known_for_department": "Directing",
+                "name": "Ruy Guerra",
+                "original_name": "Ruy Guerra",
+                "popularity": 1.73,
+                "profile_path": "/2LquH5BGqnkge6axUGK1IRKEpfF.jpg",
+                "cast_id": 5,
+                "character": "Don Pedro de Urs\u00faa",
+                "credit_id": "52fe432ac3a36847f803f677",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18405,
+                "known_for_department": "Acting",
+                "name": "Peter Berling",
+                "original_name": "Peter Berling",
+                "popularity": 2.271,
+                "profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+                "cast_id": 6,
+                "character": "Don Fernando de Guzm\u00e1n",
+                "credit_id": "52fe432ac3a36847f803f67b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20549,
+                "known_for_department": "Acting",
+                "name": "Cecilia Rivera",
+                "original_name": "Cecilia Rivera",
+                "popularity": 1.565,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Flores, Aguirre's Daughter",
+                "credit_id": "52fe432ac3a36847f803f67f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20550,
+                "known_for_department": "Acting",
+                "name": "Daniel Ades",
+                "original_name": "Daniel Ades",
+                "popularity": 1.816,
+                "profile_path": "/77uubqbPHw6n5M1VtUDlpk305nu.jpg",
+                "cast_id": 10,
+                "character": "Perucho",
+                "credit_id": "52fe432ac3a36847f803f68d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18441,
+                "known_for_department": "Acting",
+                "name": "Edward Roland",
+                "original_name": "Edward Roland",
+                "popularity": 1.565,
+                "profile_path": "/kkfApvqtxj6NWI0ueTDhDshY8Uk.jpg",
+                "cast_id": 9,
+                "character": "Okello",
+                "credit_id": "52fe432ac3a36847f803f689",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1378124,
+                "known_for_department": "Acting",
+                "name": "Alexandra Cheves",
+                "original_name": "Alexandra Cheves",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "544dfd61c3a36824270016b4",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20551,
+                "known_for_department": "Acting",
+                "name": "Armando Polanah",
+                "original_name": "Armando Polanah",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Armando",
+                "credit_id": "52fe432ac3a36847f803f691",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1378122,
+                "known_for_department": "Acting",
+                "name": "Daniel Farf\u00e1n",
+                "original_name": "Daniel Farf\u00e1n",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "544dfc85c3a36872d80042d4",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1378123,
+                "known_for_department": "Acting",
+                "name": "Julio E. Mart\u00ednez",
+                "original_name": "Julio E. Mart\u00ednez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "544dfcf9c3a3682424001723",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464029,
+                "known_for_department": "Acting",
+                "name": "Alejandro Repull\u00e9s",
+                "original_name": "Alejandro Repull\u00e9s",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Gonzalo Pizarro",
+                "credit_id": "5549da17c3a36841b9001b1f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37734,
+                "known_for_department": "Acting",
+                "name": "Claus Biederstaedt",
+                "original_name": "Claus Biederstaedt",
+                "popularity": 2.653,
+                "profile_path": "/l5AlMLLfXeWrtc7SjjbZQyQM8ix.jpg",
+                "cast_id": 52,
+                "character": "Brother Gaspar de Carvajal (voice) (uncredited)",
+                "credit_id": "61ddf64fa35c8e00426b357a",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1355737,
+                "known_for_department": "Acting",
+                "name": "Lothar Blumhagen",
+                "original_name": "Lothar Blumhagen",
+                "popularity": 0.674,
+                "profile_path": null,
+                "cast_id": 53,
+                "character": "Don Pedro de Urs\u00faa (voice) (uncredited)",
+                "credit_id": "61ddf675c525c40042389d8e",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 932576,
+                "known_for_department": "Acting",
+                "name": "Heinz Theo Branding",
+                "original_name": "Heinz Theo Branding",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 54,
+                "character": "Don Fernando de Guzm\u00e1n (voice) (uncredited)",
+                "credit_id": "61ddf6e8945c2000406d5d76",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 278152,
+                "known_for_department": "Acting",
+                "name": "Christian Br\u00fcckner",
+                "original_name": "Christian Br\u00fcckner",
+                "popularity": 3.686,
+                "profile_path": "/yZTdWFhKUB9IhCwm62SOXc9JowJ.jpg",
+                "cast_id": 55,
+                "character": "Balthasar (voice) (uncredited)",
+                "credit_id": "61ddf6fd1d6c5f0096041a30",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1476706,
+                "known_for_department": "Acting",
+                "name": "Michael Chevalier",
+                "original_name": "Michael Chevalier",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "Conqueror Being Beheaded (voice) (uncredited)",
+                "credit_id": "61ddf715a284eb001a0b0344",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3181717,
+                "known_for_department": "Acting",
+                "name": "Norbert Gescher",
+                "original_name": "Norbert Gescher",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 57,
+                "character": "Conqueror (voice) (uncredited)",
+                "credit_id": "61ddf72b4c1d9a00665dffb9",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1101331,
+                "known_for_department": "Acting",
+                "name": "Justo Gonz\u00e1lez",
+                "original_name": "Justo Gonz\u00e1lez",
+                "popularity": 0.947,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Gonz\u00e1lez (uncredited)",
+                "credit_id": "5aa1d01a9251412c4c00611b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1335328,
+                "known_for_department": "Acting",
+                "name": "Uta Hallant",
+                "original_name": "Uta Hallant",
+                "popularity": 0.972,
+                "profile_path": null,
+                "cast_id": 58,
+                "character": "In\u00e9s / Flores (voice) (uncredited)",
+                "credit_id": "61ddf78ae24b9300417011af",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26617,
+                "known_for_department": "Acting",
+                "name": "Manfred Lehmann",
+                "original_name": "Manfred Lehmann",
+                "popularity": 3.207,
+                "profile_path": "/tvrQfgKdn5k5552RpPlqeCWPVFu.jpg",
+                "cast_id": 59,
+                "character": "Conqueror (voice) (uncredited)",
+                "credit_id": "61ddf7b05c071b0066eb6103",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464028,
+                "known_for_department": "Acting",
+                "name": "Antonio Marquez",
+                "original_name": "Antonio Marquez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "(uncredited)",
+                "credit_id": "5549d9f6c3a3683c8400102b",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2880926,
+                "known_for_department": "Acting",
+                "name": "Gerd Martienzen",
+                "original_name": "Gerd Martienzen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 60,
+                "character": "Don Lope de Aguirre (voice) (uncredited)",
+                "credit_id": "61ddf7fca284eb0096455a9a",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1344605,
+                "known_for_department": "Acting",
+                "name": "Edgar Ott",
+                "original_name": "Edgar Ott",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 61,
+                "character": "Gonzalo Pizarro (voice) (uncredited)",
+                "credit_id": "61ddf84007291c009b398528",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1721881,
+                "known_for_department": "Acting",
+                "name": "Uwe Paulsen",
+                "original_name": "Uwe Paulsen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Okello (voice) (uncredited)",
+                "credit_id": "584ed61a9251415aa3000c9a",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1400514,
+                "known_for_department": "Acting",
+                "name": "Dieter Ranspach",
+                "original_name": "Dieter Ranspach",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 62,
+                "character": "Perucho (voice) (uncredited)",
+                "credit_id": "61ddf85ea35c8e006b8991fb",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "52fe432ac3a36847f803f667",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "52fe432ac3a36847f803f697",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "530ac0fb9251415e71001832",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20552,
+                "known_for_department": "Sound",
+                "name": "Popol Vuh",
+                "original_name": "Popol Vuh",
+                "popularity": 1.578,
+                "profile_path": null,
+                "credit_id": "52fe432ac3a36847f803f69d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20553,
+                "known_for_department": "Camera",
+                "name": "Thomas Mauch",
+                "original_name": "Thomas Mauch",
+                "popularity": 1.334,
+                "profile_path": null,
+                "credit_id": "52fe432ac3a36847f803f6a3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20554,
+                "known_for_department": "Editing",
+                "name": "Beate Mainka-Jellinghaus",
+                "original_name": "Beate Mainka-Jellinghaus",
+                "popularity": 2.027,
+                "profile_path": null,
+                "credit_id": "52fe432ac3a36847f803f6a9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20555,
+                "known_for_department": "Sound",
+                "name": "Herbert Prasch",
+                "original_name": "Herbert Prasch",
+                "popularity": 0.656,
+                "profile_path": null,
+                "credit_id": "52fe432ac3a36847f803f6af",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49497,
+                "known_for_department": "Production",
+                "name": "Walter Saxer",
+                "original_name": "Walter Saxer",
+                "popularity": 1.891,
+                "profile_path": null,
+                "credit_id": "56a4af4ec3a36838900074d8",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 49508,
+                "known_for_department": "Directing",
+                "name": "Martje Grohmann",
+                "original_name": "Martje Grohmann",
+                "popularity": 1.94,
+                "profile_path": null,
+                "credit_id": "613ac73c9653f60068c78e84",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 27042,
+                "known_for_department": "Production",
+                "name": "Lucki Stipeti\u0107",
+                "original_name": "Lucki Stipeti\u0107",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "56a4af64c3a36838900074de",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 27042,
+                "known_for_department": "Production",
+                "name": "Lucki Stipeti\u0107",
+                "original_name": "Lucki Stipeti\u0107",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5549da3192514104ba0019fe",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 67958,
+                "known_for_department": "Production",
+                "name": "Hans Prescher",
+                "original_name": "Hans Prescher",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe432ac3a36847f803f6bf",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1023731,
+                "known_for_department": "Crew",
+                "name": "Francisco Jo\u00e1n",
+                "original_name": "Francisco Jo\u00e1n",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549d90892514104b8001904",
+                "department": "Crew",
+                "job": "Second Unit Cinematographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1095200,
+                "known_for_department": "Crew",
+                "name": "Miguel V\u00e1zquez",
+                "original_name": "Miguel V\u00e1zquez",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "613ac8f7e27260008e6a0dd8",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1343220,
+                "known_for_department": "Writing",
+                "name": "Bob Oliver",
+                "original_name": "Bob Oliver",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549d938c3a36841a9001b07",
+                "department": "Crew",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464020,
+                "known_for_department": "Production",
+                "name": "Gustavo Cerff Arbul\u00fa",
+                "original_name": "Gustavo Cerff Arbul\u00fa",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549da5492514104c4001905",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464020,
+                "known_for_department": "Production",
+                "name": "Gustavo Cerff Arbul\u00fa",
+                "original_name": "Gustavo Cerff Arbul\u00fa",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549d8dac3a36841b6001831",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464021,
+                "known_for_department": "Camera",
+                "name": "Ovidio Ore",
+                "original_name": "Ovidio Ore",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549d8f392514136fa000a66",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464023,
+                "known_for_department": "Crew",
+                "name": "Orlando Macchiavello",
+                "original_name": "Orlando Macchiavello",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549d911c3a36841b600183b",
+                "department": "Crew",
+                "job": "Second Unit Cinematographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464025,
+                "known_for_department": "Crew",
+                "name": "Georg Hagm\u00fcller",
+                "original_name": "Georg Hagm\u00fcller",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "613ac66e6af9dd0043717e1f",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464026,
+                "known_for_department": "Crew",
+                "name": "Ina Fritsche",
+                "original_name": "Ina Fritsche",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "613ac67c9653f6002b87b04f",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464027,
+                "known_for_department": "Crew",
+                "name": "Ren\u00e9 Lechleitner",
+                "original_name": "Ren\u00e9 Lechleitner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "613ac6998f26bc001acd863a",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1464030,
+                "known_for_department": "Production",
+                "name": "Daniel Camino",
+                "original_name": "Daniel Camino",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549da25c3a3683d41000b90",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2757409,
+                "known_for_department": "Camera",
+                "name": "Juvenal Herrera",
+                "original_name": "Juvenal Herrera",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "613ac8a666a0d30042b80c57",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3228966,
+                "known_for_department": "Production",
+                "name": "Wolf Stipeti\u0107",
+                "original_name": "Wolf Stipeti\u0107",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "613ac606d38b5800435e5c5d",
+                "department": "Production",
+                "job": "Production Manager"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "John Sayles on AGUIRRE, THE WRATH OF GOD",
+                "key": "UKBwiY9JBbU",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": false,
+                "published_at": "2023-07-06T01:24:26.000Z",
+                "id": "64ee83aa3a993700ff62446d"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "eJDuicFyJPg",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2013-05-13T10:01:46.000Z",
+                "id": "5d052de79251413f2dbbb2bc"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/a1zFHDNP7X3qm5miIUewtMroiK5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1124,
+                "iso_639_1": null,
+                "file_path": "/3exLlvwrBfPU1vTW0qKDnRObCZ3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/l4bhO3uCzHfJfSMfnxVRICIB15o.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/3kGVUeyOXJ16egUuiYbJG2oNSui.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.775,
+                "height": 1625,
+                "iso_639_1": "en",
+                "file_path": "/vZB1pxeK4jZCQUHTkwbXLh8tHio.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2885
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.669,
+                "height": 350,
+                "iso_639_1": "en",
+                "file_path": "/9IkQWzkIhCBf2AbMvhsruAYzYgt.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1284
+            },
+            {
+                "aspect_ratio": 2.902,
+                "height": 1264,
+                "iso_639_1": "en",
+                "file_path": "/99qnkqYNp4Xuwdq3ZZT6DYjEOs.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3668
+            },
+            {
+                "aspect_ratio": 2.814,
+                "height": 280,
+                "iso_639_1": "pt",
+                "file_path": "/dac8S6ipjjlyWcOkpSomlpuSuRU.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 788
+            },
+            {
+                "aspect_ratio": 1.448,
+                "height": 507,
+                "iso_639_1": "de",
+                "file_path": "/boBoYm0Z2oEgo3JDocdaHu4bwfA.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 734
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ab",
+                "file_path": "/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "de",
+                "file_path": "/150G2jk4Gylij8S0YsNz2kdvU9c.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/4Tfk8KhbfGYjIxQBwP9KyuxMEee.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "aa",
+                "file_path": "/qMk93yMo82svW27FEjudgueBMUL.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.669,
+                "height": 750,
+                "iso_639_1": "vi",
+                "file_path": "/Ag9ABAUr1tkGx4A6UZxtxVqPlrK.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 502
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2963,
+                "iso_639_1": "es",
+                "file_path": "/nOASGMxUHWU1Hp3Vq1gCQDyyx8M.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2963,
+                "iso_639_1": "es",
+                "file_path": "/xCkAgha1RQQPsir9HYhcODbVLcj.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/e5hNOS2uwIvPCNSyIOkpmtm6HEM.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/A3fVlnAasRXq9ZFaaZ744EvreQO.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1000,
+                "iso_639_1": "fr",
+                "file_path": "/oq0TfwtkuMocFuwoHyEILgnbNZM.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 666
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/rCwK4LIlYFQwhvQrsmL9j1wKQX0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "de",
+                "file_path": "/aLVcmIl304qsgC9q7FHMTvyby5Z.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "fr",
+                "file_path": "/aScDAcoUR4a3f6Kh9GSEi5Xpocm.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 752,
+                "iso_639_1": "en",
+                "file_path": "/8QZk9Iw42G24zrEXFZTLsMvij7N.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 502
+            },
+            {
+                "aspect_ratio": 0.662,
+                "height": 1184,
+                "iso_639_1": "en",
+                "file_path": "/dw4OhXuwHFZwIoMGYgSihcJprxR.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 784
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/q5bQbhnmnqIOkKMWox65bkZwQlF.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1050
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/cKntIEQ2wia3PDzPV4TTf8EIPN4.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/m1iJ7PYVenHogzqZt10qAunWN9q.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1364,
+                "iso_639_1": "en",
+                "file_path": "/jeTxcDqpJskYvpn8qwaCKQsaMfs.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 908
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1055,
+                "iso_639_1": "de",
+                "file_path": "/gmYGvKLS4NefNxM2TaXQJddMSxv.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 703
+            },
+            {
+                "aspect_ratio": 0.74,
+                "height": 1000,
+                "iso_639_1": "fr",
+                "file_path": "/ljghJTXKRkZI7MGvOaIoQa0MtkU.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 740
+            },
+            {
+                "aspect_ratio": 0.704,
+                "height": 2174,
+                "iso_639_1": "hu",
+                "file_path": "/6WVN2lnFNuxF8MnLN4iPTX88583.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1531
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/nNGXrwLQDHxaZM6heLIHZOM3Gfl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1650,
+                "iso_639_1": "it",
+                "file_path": "/weGzqo7KwjOlx3vfigL6Qn0pRbr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/o7PtnqVuNHC9O0ilRVMKvqiLZT5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1650,
+                "iso_639_1": "it",
+                "file_path": "/lOpZ0lJzakyLCBnDFdjqhrD120C.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1650,
+                "iso_639_1": "it",
+                "file_path": "/k5qLrs9wblilVzoS4b0oFAlRELl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/kua7pDe79qI2BPgq5UdO9P4DCa3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1650,
+                "iso_639_1": "it",
+                "file_path": "/fAauAINwkUDMBEwE8oEb7ce6W7B.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1650,
+                "iso_639_1": "it",
+                "file_path": "/uC9tpyNKf5FSIBx74s1L87hYKvz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1100
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1575,
+                "iso_639_1": "it",
+                "file_path": "/5Sfx8YM5QOZ8ulCdv9IywRjsfx9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1050
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "sv",
+                "file_path": "/e7GVlkusjYl9NvuqZEOV7NfdnEI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2050,
+                "iso_639_1": "it",
+                "file_path": "/iyib4yAKumFuoZ88BMIhAEwCaIJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1367
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "da",
+                "file_path": "/dCRiiwWIdMhRSOUWuiYXh7ahYNP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/dA6OhhGFTXp1jfcbJrj938ytYkA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/fTrWzLTikJRPivTf5LASjYgJenX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/tG63H1gxEYT6AKa1p1eGgxV55cC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/1slMJJ1af1ZkJtGGePJ36Digs8L.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2335,
+                "iso_639_1": "en",
+                "file_path": "/zUsqObwTHQwvQxR0y8DnLCA2I0x.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1556
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "nl",
+                "file_path": "/f7S9wLEfPAVClHR45sZ7zYgzuSJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/ww1JXFDUeggiR2Yzb0RFxvn3vUR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.712,
+                "height": 2698,
+                "iso_639_1": "de",
+                "file_path": "/vXzpGA2wiUMaIpL6koeSey2vvVc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2475,
+                "iso_639_1": "en",
+                "file_path": "/zQsAHLVszgjzqz0r1TI5ey7VnJL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1650
+            },
+            {
+                "aspect_ratio": 0.758,
+                "height": 1307,
+                "iso_639_1": null,
+                "file_path": "/9PPDgpDO7dlDBHuOULTSghRpIZW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 991
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2245,
+                "iso_639_1": null,
+                "file_path": "/2K2oVITlavvh1lvuG9rWfAzaI8d.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1587
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1321,
+                "name": "gold"
+            },
+            {
+                "id": 3441,
+                "name": "sentence"
+            },
+            {
+                "id": 5967,
+                "name": "peru"
+            },
+            {
+                "id": 6255,
+                "name": "insanity"
+            },
+            {
+                "id": 4542,
+                "name": "gold rush"
+            },
+            {
+                "id": 5968,
+                "name": "amazon rainforest"
+            },
+            {
+                "id": 6206,
+                "name": "float"
+            },
+            {
+                "id": 18266,
+                "name": "south america"
+            },
+            {
+                "id": 208244,
+                "name": "16th century"
+            },
+            {
+                "id": 208358,
+                "name": "conquest"
+            },
+            {
+                "id": 209966,
+                "name": "new german cinema"
+            },
+            {
+                "id": 215162,
+                "name": "indigenous peoples"
+            },
+            {
+                "id": 217120,
+                "name": "amazon river"
+            },
+            {
+                "id": 228691,
+                "name": "conquistador"
+            },
+            {
+                "id": 301513,
+                "name": "age of discovery"
+            }
+        ]
+    },
+    "title_english": "Aguirre, the Wrath of God",
+    "year": "1972",
+    "rated": "Not Rated",
+    "director_list": [
+        "Werner Herzog"
+    ],
+    "writer_list": [
+        "Werner Herzog"
+    ],
+    "main_cast": [
+        "Klaus Kinski",
+        " Ruy Guerra",
+        " Helena Rojo"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        }
+    ],
+    "imdb_rating": "7.8",
+    "imdb_votes": "60,416",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aguirre,_the_Wrath_of_God",
+    "wikipedia_summary": "Aguirre, the Wrath of God (Spanish: [a\u02c8\u0263ire]; German: Aguirre, der Zorn Gottes; [a\u02c8\u0261\u026a\u0281\u0259 de\u02d0\u0250\u032f \u02ccts\u0254\u0281n \u02c8\u0261\u0254t\u0259s]) is a 1972 epic historical drama film produced, written and directed by Werner Herzog. Klaus Kinski stars in the title role of Spanish soldier Lope de Aguirre, who leads a group of conquistadores down the Amazon River in South America in search of the legendary city of gold, El Dorado. The accompanying soundtrack was composed and performed by kosmische band Popol Vuh. The film is an international co-production between West Germany and Mexico.\nUsing a minimalist approach to story and dialogue, the film creates a vision of madness and folly, counterpointed by the lush but unforgiving Amazonian jungle. Although loosely based on what is known of the historical figure of Aguirre, Herzog acknowledged years after the film's release that its storyline is a work of fiction. Some of the people and situations may have been inspired by Gaspar de Carvajal's account of an earlier Amazonian expedition, although Carvajal was not on the historical voyage represented in the film.\nAguirre was the first of five collaborations between Herzog and Kinski. They had differing views as to how the role should be played, and they clashed throughout filming; Kinski's rages terrorized both the crew and the locals who were assisting the production. Shooting was entirely on location, and was fraught with difficulties. Filming took place in the Peruvian rainforest on the Amazon River during an arduous five-week period, shooting on tributaries of the Ucayali region. The cast and crew climbed mountains, cut through heavy vines to open routes to the various jungle locations, and rode treacherous river rapids on rafts built by local craftworkers.\nAguirre opened to widespread critical acclaim, and quickly developed a large international cult film following. It was given an extensive arthouse theatrical release in the United States in 1977, and remains one of the director's best-known films. Several critics have declared the film a masterpiece, and it has appeared on Time magazine's list of \"All Time 100 Best Films\".",
+    "wikipedia_plot": "On Christmas Day, 1560, several scores of Spanish conquistadors, and a hundred native slaves, march down from the newly conquered Inca Empire in the Andes mountains into the jungles to the east, in search of the fabled country of El Dorado. Under the command of Gonzalo Pizarro, the men, clad in half armor, pull cannons down narrow mountain paths and through dense, muddy jungle. On New Year's Eve, reaching the end of his supplies and unable to go on without more information, Pizarro orders a group of forty men to scout ahead by raft down river. \nIf they do not return to the main party within one week with news of what lies beyond, they will be considered lost. Pizarro chooses Don Pedro de Urs\u00faa as the commander of the expedition, Don Lope de Aguirre as his second-in-command, fat nobleman Don Fernando de Guzm\u00e1n to represent the Royal House of Spain, and Brother Gaspar de Carvajal to bring the word of God. Accompanying the expedition, against Pizarro's better judgment, are Urs\u00faa's mistress, Do\u00f1a In\u00e9s, and Aguirre's teenage daughter, Flores.\nTraveling through rapids, one of the four rafts gets caught in an eddy, and the others are unable to help free it. That night, gunfire erupts on the trapped raft; in the morning the men on board are found dead, with three missing. Urs\u00faa wants the bodies to be brought back to camp for proper burial. Knowing this would slow down the expedition, Aguirre suggests that Perucho fire the cannon to clean the rust from it. He fires at the raft, destroying it and throwing the bodies into the river.\nDuring the night, the remaining rafts are swept away by the rising river. Time has run out for the scouting mission, and Urs\u00faa decides to return to Pizarro's group despite the danger from hostile Indians. Aguirre leads a mutiny against Urs\u00faa, telling the men that untold riches await them ahead, and reminding them that Hern\u00e1n Cort\u00e9s won an empire in Mexico by disobeying orders. Urs\u00faa orders Aguirre arrested, but he and a soldier loyal to him are shot. Aguirre nominates Guzm\u00e1n as the new leader of the expedition and rebels against the Spanish Crown, proclaiming Guzm\u00e1n the emperor of El Dorado. A farcical trial of Urs\u00faa results in his being sentenced to death, but Guzm\u00e1n surprises Aguirre by granting Urs\u00faa clemency.\nAguirre remains the true leader of the mutiny, so oppressive and terrifying that few protest his leadership. Only In\u00e9s has the courage to speak out against him. Knowing that some of the soldiers are still loyal to Urs\u00faa, Aguirre simply ignores her.\nThe expedition continues on a single, newly built, large raft. An indigenous couple approaching peacefully by canoe are captured by the explorers, and when the man expresses confusion when presented with a Bible, Brother Carvajal kills them for blasphemy. Guzm\u00e1n dines on the low food supplies while the men starve, and has the expedition's only remaining horse pushed off the raft because it annoys him. Soon afterwards he is found dead near the raft's privy. After Guzm\u00e1n's death, Aguirre proclaims himself leader. Urs\u00faa is then taken ashore and hanged in the jungle. The group attacks an indigenous village, where several soldiers are killed by spears and arrows. The distraught In\u00e9s walks into the jungle and disappears.\nOn the raft again, the group of slowly starving, feverish men begin disbelieving everything they see, even when shot at with arrows. The group stares in disbelief at a wooden ship perched in the highest branches of a tall tree, which Aguirre orders be brought down and refurbished, but Brother Carvajal refuses. In a series of final attacks by unseen assailants, the remaining survivors including Aguirre's daughter are killed by arrows. Monkeys overrun the raft as Aguirre imagines conquering all of America and founding an incestuous dynasty to rule over it.",
+    "wikipedia_plot_html": "<p>On Christmas Day, 1560, several scores of Spanish conquistadors, and a hundred native slaves, march down from the newly conquered Inca Empire in the Andes mountains into the jungles to the east, in search of the fabled country of El Dorado. Under the command of Gonzalo Pizarro, the men, clad in half armor, pull cannons down narrow mountain paths and through dense, muddy jungle. On New Year's Eve, reaching the end of his supplies and unable to go on without more information, Pizarro orders a group of forty men to scout ahead by raft down river. \n</p><p>If they do not return to the main party within one week with news of what lies beyond, they will be considered lost. Pizarro chooses Don Pedro de Urs\u00faa as the commander of the expedition, Don Lope de Aguirre as his second-in-command, fat nobleman Don Fernando de Guzm\u00e1n to represent the Royal House of Spain, and Brother Gaspar de Carvajal to bring the word of God. Accompanying the expedition, against Pizarro's better judgment, are Urs\u00faa's mistress, Do\u00f1a In\u00e9s, and Aguirre's teenage daughter, Flores.\n</p><p>Traveling through rapids, one of the four rafts gets caught in an eddy, and the others are unable to help free it. That night, gunfire erupts on the trapped raft; in the morning the men on board are found dead, with three missing. Urs\u00faa wants the bodies to be brought back to camp for proper burial. Knowing this would slow down the expedition, Aguirre suggests that Perucho fire the cannon to clean the rust from it. He fires at the raft, destroying it and throwing the bodies into the river.\n</p><p>During the night, the remaining rafts are swept away by the rising river. Time has run out for the scouting mission, and Urs\u00faa decides to return to Pizarro's group despite the danger from hostile Indians. Aguirre leads a mutiny against Urs\u00faa, telling the men that untold riches await them ahead, and reminding them that Hern\u00e1n Cort\u00e9s won an empire in Mexico by disobeying orders. Urs\u00faa orders Aguirre arrested, but he and a soldier loyal to him are shot. Aguirre nominates Guzm\u00e1n as the new leader of the expedition and rebels against the Spanish Crown, proclaiming Guzm\u00e1n the emperor of El Dorado. A farcical trial of Urs\u00faa results in his being sentenced to death, but Guzm\u00e1n surprises Aguirre by granting Urs\u00faa clemency.\n</p><p>Aguirre remains the true leader of the mutiny, so oppressive and terrifying that few protest his leadership. Only In\u00e9s has the courage to speak out against him. Knowing that some of the soldiers are still loyal to Urs\u00faa, Aguirre simply ignores her.\n</p><p>The expedition continues on a single, newly built, large raft. An indigenous couple approaching peacefully by canoe are captured by the explorers, and when the man expresses confusion when presented with a Bible, Brother Carvajal kills them for blasphemy. Guzm\u00e1n dines on the low food supplies while the men starve, and has the expedition's only remaining horse pushed off the raft because it annoys him. Soon afterwards he is found dead near the raft's privy. After Guzm\u00e1n's death, Aguirre proclaims himself leader. Urs\u00faa is then taken ashore and hanged in the jungle. The group attacks an indigenous village, where several soldiers are killed by spears and arrows. The distraught In\u00e9s walks into the jungle and disappears.\n</p><p>On the raft again, the group of slowly starving, feverish men begin disbelieving everything they see, even when shot at with arrows. The group stares in disbelief at a wooden ship perched in the highest branches of a tall tree, which Aguirre orders be brought down and refurbished, but Brother Carvajal refuses. In a series of final attacks by unseen assailants, the remaining survivors including Aguirre's daughter are killed by arrows. Monkeys overrun the raft as Aguirre imagines conquering all of America and founding an incestuous dynasty to rule over it.\n</p>",
+    "wikipedia_critics": "The film was produced in part by West German television station Hessischer Rundfunk, which televised the film on the same day it opened in theatres. Herzog has blamed this for the relatively poor commercial reception of the film in Germany. However, outside Germany the film became an \"enormous cult favorite\" in \"such places as Mexico, Venezuela, and Algiers\". The film had a theatrical run of fifteen months in Paris. Aguirre received a theatrical release in the United States in 1977 by New Yorker Films. It immediately became a cult film, and New Yorker Films reported four years after its initial release that it was the only film in its catalog that never went out of circulation.In Germany, the S\u00fcddeutsche Zeitung described the film as \"a colour-drenched, violently physical moving painting\". The Frankfurter Allgemeine Zeitung described Kinski's acting as \"too theatrical\" to embody God's wrath.In the US and the UK the film received mostly positive critical notices upon release. Vincent Canby, writing in The New York Times, called it \"[A]bsolutely stunning ... Mr. Herzog views all the proceedings with fixed detachment. He remains cool. He takes no sides. He may even be slightly amused. Mainly he is a poet who constantly surprises us with unexpected juxtapositions ... This is a splendid and haunting work.\"In Time, Richard Schickel opined that \"[Herzog] does the audience the honor of allowing it to discover the blindnesses and obsessions, the sober lunacies he quietly lays out on the screen. Well acted, most notably by Klaus Kinski in the title role, gloriously photographed by Thomas Mauch, Aguirre is, not to put too fine a point on it, a movie that makes a convincing claim to greatness.\" Time Out's Tony Rayns noted, \"each scene and each detail is honed down to its salient features. On this level, the film effectively pre-empts analysis by analysing itself as it proceeds, admitting no ambiguity. Yet at the same time, Herzog's flair for charged explosive imagery has never had freer rein, and the film is rich in oneiric moments.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Aguirre, the Wrath of God</b></i> (<span>Spanish:</span> <span lang=\"es-Latn-fonipa\">[a\u02c8\u0263ire]</span>; German: <i lang=\"de\">Aguirre, der Zorn Gottes</i>; <span lang=\"de-Latn-fonipa\">[a\u02c8\u0261\u026a\u0281\u0259<span> </span>de\u02d0\u0250\u032f<span> </span>\u02ccts\u0254\u0281n<span> </span>\u02c8\u0261\u0254t\u0259s]</span>) is a 1972 epic historical drama film produced, written and directed by Werner Herzog. Klaus Kinski stars in the title role of Spanish soldier Lope de Aguirre, who leads a group of conquistadores down the Amazon River in South America in search of the legendary city of gold, El Dorado. The accompanying soundtrack was composed and performed by kosmische band Popol Vuh. The film is an international co-production between West Germany and Mexico.\n</p><p>Using a minimalist approach to story and dialogue, the film creates a vision of madness and folly, counterpointed by the lush but unforgiving Amazonian jungle. Although loosely based on what is known of the historical figure of Aguirre, Herzog acknowledged years after the film's release that its storyline is a work of fiction. Some of the people and situations may have been inspired by Gaspar de Carvajal's account of an earlier Amazonian expedition, although Carvajal was not on the historical voyage represented in the film.\n</p><p><i>Aguirre</i> was the first of five collaborations between Herzog and Kinski. They had differing views as to how the role should be played, and they clashed throughout filming; Kinski's rages terrorized both the crew and the locals who were assisting the production. Shooting was entirely on location, and was fraught with difficulties. Filming took place in the Peruvian rainforest on the Amazon River during an arduous five-week period, shooting on tributaries of the Ucayali region. The cast and crew climbed mountains, cut through heavy vines to open routes to the various jungle locations, and rode treacherous river rapids on rafts built by local craftworkers.\n</p><p><i>Aguirre</i> opened to widespread critical acclaim, and quickly developed a large international cult film following. It was given an extensive arthouse theatrical release in the United States in 1977, and remains one of the director's best-known films. Several critics have declared the film a masterpiece, and it has appeared on <i>Time</i> magazine's list of \"All Time 100 Best Films\".\n</p>\n\n<h2>Plot</h2>\n<p>On Christmas Day, 1560, several scores of Spanish conquistadors, and a hundred native slaves, march down from the newly conquered Inca Empire in the Andes mountains into the jungles to the east, in search of the fabled country of El Dorado. Under the command of Gonzalo Pizarro, the men, clad in half armor, pull cannons down narrow mountain paths and through dense, muddy jungle. On New Year's Eve, reaching the end of his supplies and unable to go on without more information, Pizarro orders a group of forty men to scout ahead by raft down river. \n</p><p>If they do not return to the main party within one week with news of what lies beyond, they will be considered lost. Pizarro chooses Don Pedro de Urs\u00faa as the commander of the expedition, Don Lope de Aguirre as his second-in-command, fat nobleman Don Fernando de Guzm\u00e1n to represent the Royal House of Spain, and Brother Gaspar de Carvajal to bring the word of God. Accompanying the expedition, against Pizarro's better judgment, are Urs\u00faa's mistress, Do\u00f1a In\u00e9s, and Aguirre's teenage daughter, Flores.\n</p><p>Traveling through rapids, one of the four rafts gets caught in an eddy, and the others are unable to help free it. That night, gunfire erupts on the trapped raft; in the morning the men on board are found dead, with three missing. Urs\u00faa wants the bodies to be brought back to camp for proper burial. Knowing this would slow down the expedition, Aguirre suggests that Perucho fire the cannon to clean the rust from it. He fires at the raft, destroying it and throwing the bodies into the river.\n</p><p>During the night, the remaining rafts are swept away by the rising river. Time has run out for the scouting mission, and Urs\u00faa decides to return to Pizarro's group despite the danger from hostile Indians. Aguirre leads a mutiny against Urs\u00faa, telling the men that untold riches await them ahead, and reminding them that Hern\u00e1n Cort\u00e9s won an empire in Mexico by disobeying orders. Urs\u00faa orders Aguirre arrested, but he and a soldier loyal to him are shot. Aguirre nominates Guzm\u00e1n as the new leader of the expedition and rebels against the Spanish Crown, proclaiming Guzm\u00e1n the emperor of El Dorado. A farcical trial of Urs\u00faa results in his being sentenced to death, but Guzm\u00e1n surprises Aguirre by granting Urs\u00faa clemency.\n</p><p>Aguirre remains the true leader of the mutiny, so oppressive and terrifying that few protest his leadership. Only In\u00e9s has the courage to speak out against him. Knowing that some of the soldiers are still loyal to Urs\u00faa, Aguirre simply ignores her.\n</p><p>The expedition continues on a single, newly built, large raft. An indigenous couple approaching peacefully by canoe are captured by the explorers, and when the man expresses confusion when presented with a Bible, Brother Carvajal kills them for blasphemy. Guzm\u00e1n dines on the low food supplies while the men starve, and has the expedition's only remaining horse pushed off the raft because it annoys him. Soon afterwards he is found dead near the raft's privy. After Guzm\u00e1n's death, Aguirre proclaims himself leader. Urs\u00faa is then taken ashore and hanged in the jungle. The group attacks an indigenous village, where several soldiers are killed by spears and arrows. The distraught In\u00e9s walks into the jungle and disappears.\n</p><p>On the raft again, the group of slowly starving, feverish men begin disbelieving everything they see, even when shot at with arrows. The group stares in disbelief at a wooden ship perched in the highest branches of a tall tree, which Aguirre orders be brought down and refurbished, but Brother Carvajal refuses. In a series of final attacks by unseen assailants, the remaining survivors including Aguirre's daughter are killed by arrows. Monkeys overrun the raft as Aguirre imagines conquering all of America and founding an incestuous dynasty to rule over it.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<p>The idea for the film began when Herzog borrowed a book on historical adventurers from a friend. After reading a half-page devoted to Lope de Aguirre, the filmmaker became inspired and immediately devised the story. He fabricated most of the plot details and characters, although he did use some historical figures in purely fictitious ways.</p>\n\n<h3>Screenplay</h3>\n<p>Herzog wrote the screenplay \"in a frenzy\", and completed it in two-and-a-half days. Much of the script was written during a 200-mile (320\u00a0km) bus trip with Herzog's football team. His teammates got drunk after winning a game and one vomited on several pages of Herzog's manuscript, which he immediately threw out the window. Herzog claims he cannot remember all of what he wrote on these pages.</p><p>The screenplay was mostly shot as written, with only minor differences. In an early scene in which Pizarro instructs Urs\u00faa to lead the scouting team down the river, in the script, Pizarro mentions that in the course of the expedition Urs\u00faa could possibly discover what happened to Francisco de Orellana's expedition, which had vanished without a trace years before (see \"Historical Accuracy\" section). Later in the screenplay, Aguirre and his men find a boat and the long-dead remains of Orellana's soldiers.</p><p>Further down the river, they discover another ship lodged in some tree tops. In the screenplay, Aguirre and others explore the boat but find no sign of Orellana or his men. Herzog ultimately eliminated any such references to Orellana's expedition from the film. The sequence with the boat caught in the upper branches of a tree remains, but as filmed it seems to be simply a hallucinatory vision.</p><p>The finale is significantly different from Herzog's original script. The director recalled, \"I only remember that the end of the film was totally different. The end was actually the raft going out into the open ocean and being swept back inland, because for many miles you have a counter-current, the Amazon actually goes backwards. And it was tossed to and fro. And a parrot would scream: 'El Dorado, El Dorado<span>'</span>\". This ending was eventually used for <i>Cobra Verde</i>.\n</p>\n\n<h3>Herzog and Kinski</h3>\n<p>Herzog's first choice for the role of Aguirre was actor Klaus Kinski. The two had met many years earlier when the then-struggling young actor rented a room in Herzog's family apartment, and Kinski's often terrifying and deranged antics during the three months he lived there left a lasting impression on the director. Years later, Herzog remembered the volatile actor and knew that he was the only possible man who could play the mad Aguirre, and he sent Kinski a copy of the screenplay. \"Between three and four in the morning, the phone rang\", Herzog recalled. \"It took me at least a couple of minutes before I realized that it was Kinski who was the source of this inarticulate screaming. And after an hour of this, it dawned on me that he found it the most fascinating screenplay and wanted to be Aguirre.\"</p><p>From the beginning of the production, Herzog and Kinski argued about the proper manner to portray Aguirre. Kinski wanted to play a \"wild, ranting madman\", but Herzog wanted something \"quieter, more menacing\". In order to get the performance he desired, before each shot Herzog would deliberately infuriate Kinski. After waiting for the hot-tempered actor's anger to \"burn itself out\", Herzog would then roll the camera.</p><p>On one occasion, irritated by the noise from a hut where cast and crew were playing cards, the explosive Kinski fired three gunshots at it, blowing the tip off one extra's finger. Subsequently, Kinski decided to leave the jungle location (over Herzog's refusal to fire a sound assistant), only changing his mind after Herzog threatened to shoot first Kinski and then himself. The latter incident has given rise to the legend that Herzog made Kinski act for him at gunpoint. However, Herzog has repeatedly denied the claim during interviews, saying he only verbally threatened Kinski in the heat of the moment, in a desperate attempt to keep him from leaving the set. The incident is parodied in <i>Incident at Loch Ness</i>, which Herzog co-wrote.</p>\n\n<h3>Filming</h3>\n<p>The film was made for US$370,000, with one-third of the budget paying for Kinski's salary. It was filmed on location in the Peruvian rainforest, Machu Picchu (the stone steps of Huayna Picchu), and on the Amazon River tributaries of the Ucayali region. <i>Aguirre</i> was shot in five weeks, following nine months of pre-production planning. The film was shot in chronological order, because Herzog believed the film crew's progress on the river directly mirrored that of the explorers' journey in the story. The director and his cast and crew floated in rafts down the Huallaga and Nanay rivers through the Urubamba Valley in Peru.</p><p>All of the actors spoke their dialogue in English. The members of the cast and crew came from sixteen countries, and English was the only common language among them. In addition, Herzog felt that shooting <i>Aguirre</i> in English would improve the film's chances for international distribution. However, the small amount of money that had been set aside for post-synchronization \"left Peru with the man in charge of the process; both absconded <i>en route</i>\".  The English-language track was ultimately replaced by a higher-quality German language version, which was post-synched after production was completed. Herzog claims that Kinski requested too much money for the dubbing session, and so his lines were performed by another actor.</p><p>The low budget precluded the use of stunt men or elaborate special effects. Cinematography in many scenes was done in order to accommodate the inclement weather and terrain of the region, with the camera lens often being obscured by rainwater and mud when the cast moved through thicker regions of the jungle. The cast and crew climbed up mountains, experienced the adverse conditions of the jungle, and rode Amazonian river rapids on rafts built by locals. At one point, a storm caused a river to flood, covering the film sets in several feet of water and destroying all the rafts built for the film. This flooding was immediately incorporated into the story, as a sequence including a flood and subsequent rebuilding of rafts was shot.</p><p>The camera used to shoot the film was stolen by Herzog from the Munich Film School. Years later, Herzog recalled:\n</p>\n<blockquote><p>It was a very simple 35mm camera, one I used on many other films, so I do not consider it a theft. For me, it was truly a necessity. I wanted to make films and needed a camera. I had some sort of natural right to this tool. If you need air to breathe, and you are locked in a room, you have to take a chisel and hammer and break down a wall. It is your absolute right.</p></blockquote>\n<p>To obtain the monkeys used in the climactic sequence, Herzog paid several locals to trap 400 monkeys. He paid them half in advance and was to pay the other half upon receipt. The trappers sold the monkeys to someone in Los Angeles or Miami, and Herzog came to the airport just as the monkeys were being loaded to be shipped out of the country. He pretended to be a veterinarian and claimed that the monkeys needed vaccinations before leaving the country. Abashed, the handlers handed the monkeys over to  Herzog, who used them in the shot they were required for, then released them afterwards into the jungle.</p>\n\n<h3>Music</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p><i>Aguirre</i><span>'s</span> musical score was performed by Popol Vuh, a West German progressive/Krautrock band. The band was formed in 1970 by keyboardist Florian Fricke, who had known Herzog for several years prior to the formation of the band.\nHe had appeared as an actor in the director's first full-length film, <i>Signs of Life</i> (1968), playing a pianist. <i>Aguirre</i> was only the first of many collaborations between the band and the director.\n</p><p>Popol Vuh's \"hypnotic music\" for <i>Aguirre</i> met with considerable acclaim.  Roger Ebert wrote, \"The music sets the tone. It is haunting, ecclesiastical, human and yet something else\u00a0... [T]he music is crucial to <i>Aguirre, the Wrath of God</i>\". AllMusic noted, \"The film's central motif blends pulsing Moog and spectral voices conjured from Florian Fricke's Mellotron-related 'choir organ' to achieve something sublime, in the truest sense of the word: it's hard not to find the music's awe-inspiring, overwhelming beauty simultaneously unsettling. The power of the legendary opening sequence of Herzog's film\u00a0... owes as much to Popol Vuh's music as it does to the director's mise-en-sc\u00e8ne.\"</p><p>Herzog explained how the choir-like sound was created: \"We used a strange instrument, which we called a 'choir-organ.' It has inside it three dozen different tapes running parallel to each other in loops.\u00a0... All these tapes are running at the same time, and there is a keyboard on which you can play them like an organ so that [it will] sound just like a human choir but yet, at the same time, very artificial and really quite eerie.\"</p><p>In 1975 Popol Vuh released an album entitled <i>Aguirre</i>. Although ostensibly a soundtrack album to Herzog's film, the six-track LP included only two songs (\"Aguirre I (L'Acrime Di Rei)\" and \"Aguirre II\") taken from <i>Aguirre, the Wrath of God</i>. The four remaining tracks were derived from various recordings made by the group between about 1972 and 1974. At the time of <i>Aguirre</i> the band members were Fricke (piano, Mellotron), Fichelscher (electric guitar, acoustic guitar, drums), Djong Yun (vocals), and Robert Eliscu (oboe, pan pipe).\n</p>\n\n<h3>Wings of Hope</h3>\n<p>While Herzog was location scouting for <i>Aguirre, the Wrath of God</i> in Peru, his reservation on LANSA Flight 508 had been canceled due to a last minute change in itinerary. During this flight, the airplane disintegrated in mid-air after a lightning strike and crashed in the Peruvian Amazon rainforest in 1971, killing 91 people, except the sole survivor, 17-year-old\u00a0Juliane Koepcke. Herzog was inspired to make the 1998 documentary film <i>Wings of Hope</i> about Koepcke's survival of the aviation disaster and in the jungle, since he had narrowly avoided taking the same flight.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p>The film was produced in part by West German television station Hessischer Rundfunk, which televised the film on the same day it opened in theatres. Herzog has blamed this for the relatively poor commercial reception of the film in Germany. However, outside Germany the film became an \"enormous cult favorite\" in \"such places as Mexico, Venezuela, and Algiers\". The film had a theatrical run of fifteen months in Paris. <i>Aguirre</i> received a theatrical release in the United States in 1977 by New Yorker Films. It immediately became a cult film, and New Yorker Films reported four years after its initial release that it was the only film in its catalog that never went out of circulation.</p><p>In Germany, the <i>S\u00fcddeutsche Zeitung</i> described the film as \"a colour-drenched, violently physical moving painting\". The <i>Frankfurter Allgemeine Zeitung</i> described Kinski's acting as \"too theatrical\" to embody God's wrath.</p><p>In the US and the UK the film received mostly positive critical notices upon release. Vincent Canby, writing in <i>The New York Times</i>, called it \"[A]bsolutely stunning\u00a0... Mr. Herzog views all the proceedings with fixed detachment. He remains cool. He takes no sides. He may even be slightly amused. Mainly he is a poet who constantly surprises us with unexpected juxtapositions\u00a0... This is a splendid and haunting work.\"</p><p>In <i>Time</i>, Richard Schickel opined that \"[Herzog] does the audience the honor of allowing it to discover the blindnesses and obsessions, the sober lunacies he quietly lays out on the screen. Well acted, most notably by Klaus Kinski in the title role, gloriously photographed by Thomas Mauch, <i>Aguirre</i> is, not to put too fine a point on it, a movie that makes a convincing claim to greatness.\" <i>Time Out's</i> Tony Rayns noted, \"each scene and each detail is honed down to its salient features. On this level, the film effectively pre-empts analysis by analysing itself as it proceeds, admitting no ambiguity. Yet at the same time, Herzog's flair for charged explosive imagery has never had freer rein, and the film is rich in oneiric moments.\"</p>\n\n<h3>Legacy</h3>\n<p>The film's reputation through the years has continued to grow. On the review aggregator website Rotten Tomatoes, 96% of 50 critics gave the film a positive review, with an average rating of 9/10. The site's critics consensus reads, \"A haunting journey of natural wonder and tangible danger, <i>Aguirre</i> transcends epic genre trappings and becomes mythological by its own right.\"</p><p>J. Hoberman has written that <i>Aguirre</i> \"is not just a great movie but an essential one\u00a0... Herzog's third feature\u00a0... is both a landmark film and a magnificent social metaphor\". Danny Peary wrote, \"To see <i>Aguirre</i> for the first time is to discover a genuine masterpiece. It is overwhelming, spellbinding; at first dreamlike, and then hallucinatory.\" Roger Ebert has added it to his list of The Great Movies, and in a 2002 <i>Sight &amp; Sound</i> poll of critics and filmmakers on the best films ever made, Ebert listed it in his top ten. In the same poll, critic Nigel Andrews and director Santosh Sivan also placed it in their top ten list. Martin Scorsese included it on a list of \"39 Essential Foreign Films for a Young Filmmaker\".</p><p>In 1999, <i>Rolling Stone</i> included the film on the magazine's \"100 Maverick Movies of the Last 100 Years\" list. <i>Aguirre</i> was included in <i>Time</i> magazine's \"All Time 100 Best Films\", compiled by Richard Schickel and Richard Corliss. <i>Entertainment Weekly</i> named it the 46th greatest cult film ever made. The film was ranked #19 in <i>Empire</i> magazine's \"The 100 Best Films Of World Cinema\" in 2010.</p><p><i>Aguirre</i> has won several prestigious film awards. In 1973 it won the Deutscher Filmpreis (German Film Award) for \"Outstanding Individual Achievement: Cinematography\". In 1976 it was voted the \"Best Foreign Film\" by the French Syndicate of Film Critics. In 1977 the National Society of Film Critics US gave it their \"Best Cinematography\" Award. It won the prestigious Grand Prix of the Belgian Film Critics Association in 1976 and was nominated for a \"Best Film\" C\u00e9sar Award.</p>\n\n<h3>Influence</h3>\n<p>Francis Ford Coppola's 1979 film <i>Apocalypse Now</i>, a film based on Joseph Conrad's 1902 novella <i>Heart of Darkness</i>, was influenced also by <i>Aguirre</i>, as it contains seemingly deliberate visual \"quotations\" of Herzog's film. Coppola himself has noted, \"<i>Aguirre</i>, with its incredible imagery, was a very strong influence. I'd be remiss if I didn't mention it.\"</p><p>Several critics have noted that <i>Aguirre</i> appears to have had a direct influence on several other films.  Martin Rubin has written that \"[a]mong the films strongly influenced by <i>Aguirre</i> are Coppola's <i>Apocalypse Now</i> and Terrence Malick's <i>The New World</i> (2005)\".  J. Hoberman agreed, noting that Herzog's \"sui generis Amazon fever dream\" was \"the influence Malick's over-inflated <i>New World</i> can't shake.\" Channel 4 opined \"This is an astonishing, deceptively simple, pocket-sized epic whose influence, in terms of both style and narrative, is seen in films as diverse as <i>Apocalypse Now</i>, <i>The Mission</i>, <i>Predator</i>, and <i>The Blair Witch Project</i> (1999).\"</p>\n\n<h2>Historical accuracy</h2>\n<p>Although plot details and many of the characters in <i>Aguirre</i> come directly from Herzog's own imagination,  historians have pointed out that the film fairly accurately incorporates some 16th-century events and historical personages into a fictional narrative.\n</p><p>Herzog's screenplay merged two expeditions: one led by Gonzalo Pizarro in 1541, which resulted in the discovery by Europeans of the Amazon river by Francisco de Orellana, and another one that occurred in 1560.\nThe expedition of Gonzalo Pizarro and his men left from the city of Quito and entered the Amazon basin in search of El Dorado. Various troubles afflicted the expedition and, sure that El Dorado was very close, Pizarro set up a smaller group led by Francisco de Orellana, to break off from the main group and forge ahead, then return with news of what they had found. \n</p><p>This group utilized a brigantine to journey down the river. After failing to find the legendary city, Orellana was unable to return because of the current, and he and his men continued to follow the Napo River until he reached the estuary of the Amazon in 1542. Accompanying Orellana was Gaspar de Carvajal, who kept a journal of the group's experiences.\n</p><p>The historic Gaspar de Carvajal (1500\u20131584) was a Spanish Dominican friar who had settled in Peru and dedicated himself to the conversion of the Indigenous peoples. His general attitude towards the local people was consistent with the benevolence of his better-known brother Dominican friar, Bartolom\u00e9 de las Casas. This personality is at odds with the description in the film where Carvajal is portrayed as a cowardly priest who claimed that \"the church was always on the side of the strong\".</p><p>The film's major characters, Aguirre, Urs\u00faa, Don Fernando, Inez and Flores, were involved in the second expedition, which left Peru in 1560 to find the city of El Dorado. Commissioned by Peru's governor, Urs\u00faa organized an expeditionary group of 300 men to travel by way of the Amazon River. He was accompanied by his mixed-race mistress, Do\u00f1a Inez. At one point during the journey, Aguirre, a professional soldier, decided that he could use the 300 men to overthrow the Spanish rule of Peru. Aguirre had Urs\u00faa murdered and proclaimed Fernando as \"The Prince of Peru\".</p><p>Fernando himself was eventually murdered when he questioned Aguirre's scheme of sailing to the Atlantic, conquering Panama, crossing the isthmus and invading Peru.  Many others who attempted to rebel against Aguirre were also killed. The surviving soldiers conquered Isla Margarita off the coast of Venezuela and made preparations to attack the mainland.</p><p>By that time, Spanish authorities had learned of Aguirre's plans. When the rebels arrived in Venezuela, government agents offered full pardons to Aguirre's men. All of them accepted the deal. Immediately prior to his arrest, Aguirre murdered his daughter Flores, who had remained by his side during the entire journey. He was then captured and dismembered.</p><p>Other Spanish expeditions outside the Amazon influenced the story. The conversation in which the local inhabitants refuse a Bible comes from events before the Battle of Cajamarca, in which Inca emperor Atahualpa allegedly rejected the Requerimiento. The chronicle of \u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca, <i>La Relaci\u00f3n</i> (\"<i>The Account</i>\"), mentions the appearance of a boat in a treetop after a fierce tropical storm in Hispaniola:\n</p>\n<blockquote class=\"templatequote\"><p>Monday morning we went down to the port and did not find the ships. We saw their buoys in the water, from which we realized that they had been lost, and we went along the coast to see if we could find signs of them. Since we found nothing, we went into the woods, and a quarter of a league into them we found one of the ship's boats in some trees.</p></blockquote><p>\nKinski's crazed performance bore similarities to the real Aguirre, a \"true homicidal megalomaniac\". Many of his fellow soldiers considered his actions to be that of a madman.  Kinski's use of a limp reflected a limp that Aguirre had, the result of a battle injury. Aguirre's frequent short but impassioned speeches to his men in the film were accurately based on the man's noted \"simple but effective rhetorical ability\". The <i>South Atlantic Review</i> observes the film's attitude toward historical accuracy as being similar to works of Shakespeare:</p><blockquote><p>Like Shakespeare, Herzog begins with chronicle accounts of events and personages, but then re-shapes and embroiders upon these historical chronicles, at once providing answers and revealing more puzzling questions, not only turning \"history\" into \"art\" (a tenuous distinction in any case), but meditating upon the makers and the making of history.\n\u2014 Gregory A. Waller</p></blockquote><p>Additionally noted is the juxtaposition of Spanish imperialism with that of Nazism, specifically citing Aguirre's deranged closing speech as \"historical analogy with Hitler and German fascism\".\n<i>Film Quarterly</i> further expands on this point, marking the casting of Kinski as emblematic of this historical parallel:</p><blockquote><p>[Herzog] achieves this dimension by choosing an actor with typically Nordic coloring: Klaus Kinski, with his blond hair and blue eyes. According to historical accounts, Aguirre was \"of short stature . . . sparely made, ill-featured, the face small and lean, [the] beard black. \" Herzog's Aguirre is not of \"short stature\" but although he is not very tall, his deformity causes him to stand out. Unlike the historical Aguirre, this one has unusually large features and is beardless and blond. Through this blond Nordic knight, Herzog alludes to a much earlier age of expansionism: to medieval Germany with the religious imperialism of the Crusaders and the Teutonic Knights, and also to a more recent period: the 1930s, which combined the rebirth of the Nordic stereotype (seen in the light of racial superiority) with Hitler's attempts at imperialist conquest. Herzog's main character is more than a conquistador of one particular century; he is the embodiment of imperialism as such.\nSeen in this light, Herzog's re-creation of a specific period in history, i.e., Spain's conquests in the New World, becomes a treatise on the evils of imperialism through the ages. It is not surprising then, that Herzog's film constitutes a great flight of fancy mostly leaving historical data behind and making instead a collage of fact and fiction.</p></blockquote><p>While film journalists acknowledge the various liberties taken within the film's depiction of historical events, these choices are observed as creative decisions on the part of the director, both in service of the narrative structure and also as reflections of imperialist and fascist manifestations occurring throughout history, both prior to and following the 16th-century conquest of South America. Kinski's manic performance combined with the film's blunt portrayal of violence toward the native population acts less as a literal portrayal of events and more as broad condemnation of both historical events and the concept of imperialist conquest.\n</p>\n\n<h2>See also</h2>\n<ul><li>John Okello</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n\n<ul><li><i>Aguirre, the Wrath of God</i> at AllMovie</li>\n<li><i>Aguirre, the Wrath of God</i> at IMDb</li>\n<li><i>Aguirre, the Wrath of God</i> at Rotten Tomatoes</li></ul>"
+}

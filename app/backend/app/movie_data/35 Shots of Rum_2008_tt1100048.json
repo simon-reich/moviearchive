@@ -1,0 +1,741 @@
+{
+    "adult": false,
+    "backdrop_path": "/xLkjp2bgKXVJe3tKfvJ4mihc7zv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 26191,
+    "imdb_id": "tt1100048",
+    "original_language": "fr",
+    "original_title": "35 Rhums",
+    "overview": "A widower and her daughter witness the retirement of a colleague of his and the closing of her department at her university.",
+    "popularity": 5.963,
+    "poster_path": "/fvoUX74RTx6KU9Fc9jtVrj7ArBJ.jpg",
+    "production_companies": [
+        {
+            "id": 3060,
+            "logo_path": null,
+            "name": "Soudaine Compagnie",
+            "origin_country": "FR"
+        },
+        {
+            "id": 140,
+            "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+            "name": "Pandora Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 94,
+            "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+            "name": "ARTE France Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 10946,
+            "logo_path": "/gk4SFkJ3G49gGL308zymD8QGNw.png",
+            "name": "WDR/Arte",
+            "origin_country": "DE"
+        },
+        {
+            "id": 11777,
+            "logo_path": null,
+            "name": "Cofinova 4",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11397,
+            "logo_path": null,
+            "name": "Sofica Soficin\u00e9ma 4",
+            "origin_country": "FR"
+        },
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 6586,
+            "logo_path": null,
+            "name": "TPS Star",
+            "origin_country": "FR"
+        },
+        {
+            "id": 310,
+            "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+            "name": "CNC",
+            "origin_country": "FR"
+        },
+        {
+            "id": 850,
+            "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+            "name": "Eurimages",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11246,
+            "logo_path": "/4YZ5CQZkJa2FIKGtjLLoKhNOAIw.png",
+            "name": "La R\u00e9gion \u00cele-de-France",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11680,
+            "logo_path": "/thDuwlPhKqGkfPzk0qd6zIiSw4m.png",
+            "name": "Filmf\u00f6rderung Hamburg Schleswig-Holstein",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "2009-02-18",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "We all live such withdrawn lives... Everyone in his corner.",
+    "title": "35 Shots of Rum",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 69,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13609,
+                "known_for_department": "Acting",
+                "name": "Alex Descas",
+                "original_name": "Alex Descas",
+                "popularity": 3.746,
+                "profile_path": "/1FUMJTbVflnDR8vZL3J1Hv8f7tV.jpg",
+                "cast_id": 6,
+                "character": "Lionel",
+                "credit_id": "52fe44f3c3a368484e040107",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 136168,
+                "known_for_department": "Directing",
+                "name": "Mati Diop",
+                "original_name": "Mati Diop",
+                "popularity": 2.04,
+                "profile_path": "/3p8euc4PO9Yo9RR0PjaADsN9R6V.jpg",
+                "cast_id": 2,
+                "character": "Jos\u00e9phine",
+                "credit_id": "52fe44f3c3a368484e0400f5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 136169,
+                "known_for_department": "Acting",
+                "name": "Nicole Dogu\u00e9",
+                "original_name": "Nicole Dogu\u00e9",
+                "popularity": 0.833,
+                "profile_path": "/uLTV3ZuFhFnhLDw0umsM0KTXruI.jpg",
+                "cast_id": 3,
+                "character": "Gabrielle",
+                "credit_id": "52fe44f3c3a368484e0400f9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136170,
+                "known_for_department": "Acting",
+                "name": "Gr\u00e9goire Colin",
+                "original_name": "Gr\u00e9goire Colin",
+                "popularity": 4.626,
+                "profile_path": "/1HLfq8oddSZYpwOVJFp8mkKQMAb.jpg",
+                "cast_id": 4,
+                "character": "No\u00e9",
+                "credit_id": "52fe44f3c3a368484e0400fd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3070150,
+                "known_for_department": "Acting",
+                "name": "Julieth Mars Toussaint",
+                "original_name": "Julieth Mars Toussaint",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Ren\u00e9",
+                "credit_id": "6088b5fa55c92600593093e5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 45195,
+                "known_for_department": "Acting",
+                "name": "Ingrid Caven",
+                "original_name": "Ingrid Caven",
+                "popularity": 4.233,
+                "profile_path": "/tAZHoIEmv0ES4lnDIXjEobKluuX.jpg",
+                "cast_id": 13,
+                "character": "Jos\u00e9phine's German Aunt",
+                "credit_id": "58a5a8859251413cb60055c7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559648,
+                "known_for_department": "Acting",
+                "name": "Jean-Christophe Folly",
+                "original_name": "Jean-Christophe Folly",
+                "popularity": 3.24,
+                "profile_path": "/z7BnkThx3Et0ByplxDQWqFdHHH4.jpg",
+                "cast_id": 21,
+                "character": "Ruben",
+                "credit_id": "6088b639904f6d002a19580a",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 997254,
+                "known_for_department": "Acting",
+                "name": "Ad\u00e8le Ado",
+                "original_name": "Ad\u00e8le Ado",
+                "popularity": 2.207,
+                "profile_path": "/7pOEcmKmCd239gq2bxvy8rZXT3p.jpg",
+                "cast_id": 22,
+                "character": "Boss of the Bar",
+                "credit_id": "61d7d8777d2bc100a136829f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3372371,
+                "known_for_department": "Acting",
+                "name": "Mario Canonge",
+                "original_name": "Mario Canonge",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Colleague",
+                "credit_id": "61d7d8b5c3926600a00bb82c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3372373,
+                "known_for_department": "Acting",
+                "name": "St\u00e9phane Pocrain",
+                "original_name": "St\u00e9phane Pocrain",
+                "popularity": 0.6,
+                "profile_path": "/gOXM8tcdRXNlWC7OiLKL3fTLplZ.jpg",
+                "cast_id": 24,
+                "character": "Professor",
+                "credit_id": "61d7d8f4f6787a001ae876ca",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3372375,
+                "known_for_department": "Acting",
+                "name": "Mary Pie",
+                "original_name": "Mary Pie",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Lina",
+                "credit_id": "61d7d916a58902008b977e74",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25078,
+                "known_for_department": "Acting",
+                "name": "\u00c9riq Ebouaney",
+                "original_name": "\u00c9riq Ebouaney",
+                "popularity": 6.434,
+                "profile_path": "/5VJMH0rJE5b001FIaRD2Vr9ti80.jpg",
+                "cast_id": 26,
+                "character": "Blanchard",
+                "credit_id": "61d7d92d8813e4001c0173e1",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 566740,
+                "known_for_department": "Acting",
+                "name": "Dj\u00e9dj\u00e9 Apali",
+                "original_name": "Dj\u00e9dj\u00e9 Apali",
+                "popularity": 2.428,
+                "profile_path": "/gp5Ql5VsZp2jNqU0AjJeEGfayYI.jpg",
+                "cast_id": 27,
+                "character": "Martial",
+                "credit_id": "61d7d945f6787a0099cc7ce8",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3372376,
+                "known_for_department": "Acting",
+                "name": "Cheikh Toure",
+                "original_name": "Cheikh Toure",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Young Server",
+                "credit_id": "61d7d9675c56340069e63e3f",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1193,
+                "known_for_department": "Production",
+                "name": "Karl Baumgartner",
+                "original_name": "Karl Baumgartner",
+                "popularity": 0.909,
+                "profile_path": null,
+                "credit_id": "5bbbecc39251413793009335",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 5.058,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "52fe44f3c3a368484e040103",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 5.058,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "5665a4c3925141280f002685",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14196,
+                "known_for_department": "Camera",
+                "name": "Agn\u00e8s Godard",
+                "original_name": "Agn\u00e8s Godard",
+                "popularity": 1.632,
+                "profile_path": "/684UZWONgJHqqEVGqdHd9yKmMCb.jpg",
+                "credit_id": "5665a4db925141280a0027be",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33505,
+                "known_for_department": "Production",
+                "name": "Christoph Friedel",
+                "original_name": "Christoph Friedel",
+                "popularity": 0.6,
+                "profile_path": "/9hsigb5rNFrkI8PGyOJjiwMfJ6P.jpg",
+                "credit_id": "5bbbecee925141379a0095e5",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 45135,
+                "known_for_department": "Production",
+                "name": "Claudia Steffen",
+                "original_name": "Claudia Steffen",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "5bbbed29c3a368590a00a203",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50026,
+                "known_for_department": "Editing",
+                "name": "Guy Lecorne",
+                "original_name": "Guy Lecorne",
+                "popularity": 1.012,
+                "profile_path": "/zmZonsEwgmrrFQCE2lcJeOBXghv.jpg",
+                "credit_id": "5665a4fbc3a368510e002672",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71400,
+                "known_for_department": "Production",
+                "name": "Bruno P\u00e9sery",
+                "original_name": "Bruno P\u00e9sery",
+                "popularity": 1.708,
+                "profile_path": null,
+                "credit_id": "5bbbed0dc3a36858f200ad96",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73724,
+                "known_for_department": "Writing",
+                "name": "Jean-Pol Fargeau",
+                "original_name": "Jean-Pol Fargeau",
+                "popularity": 1.4,
+                "profile_path": "/iby2OMwVqH9h1BJdU1wIPi4u8SK.jpg",
+                "credit_id": "5665a4cd9251416c36000177",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 957442,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Judy Shrewsbury",
+                "original_name": "Judy Shrewsbury",
+                "popularity": 1.22,
+                "profile_path": "/662N2ZWsA06Qa3LcubMvJbZT74c.jpg",
+                "credit_id": "61d7dafe99259c001a71e034",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1098178,
+                "known_for_department": "Art",
+                "name": "Arnaud de Mol\u00e9ron",
+                "original_name": "Arnaud de Mol\u00e9ron",
+                "popularity": 0.868,
+                "profile_path": null,
+                "credit_id": "5665a518c3a368510c002548",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1098178,
+                "known_for_department": "Art",
+                "name": "Arnaud de Mol\u00e9ron",
+                "original_name": "Arnaud de Mol\u00e9ron",
+                "popularity": 0.868,
+                "profile_path": null,
+                "credit_id": "61d7d9fd99259c0042637bab",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1360246,
+                "known_for_department": "Art",
+                "name": "Bruno Via",
+                "original_name": "Bruno Via",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61d7da0e1c6aa700411374ab",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1364141,
+                "known_for_department": "Acting",
+                "name": "Jean-Christophe Winding",
+                "original_name": "Jean-Christophe Winding",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61d7dad66840cc009d2b99b6",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1365892,
+                "known_for_department": "Sound",
+                "name": "Tindersticks",
+                "original_name": "Tindersticks",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b8d0bf3925141518a0437ad",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1720486,
+                "known_for_department": "Sound",
+                "name": "Martin Boissau",
+                "original_name": "Martin Boissau",
+                "popularity": 1.4,
+                "profile_path": "/yVnHmNvEmPBxBLlOpekw0X2aKY7.jpg",
+                "credit_id": "61d7da8c5c56340096e14d82",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1727611,
+                "known_for_department": "Art",
+                "name": "Boris Piot",
+                "original_name": "Boris Piot",
+                "popularity": 1.312,
+                "profile_path": null,
+                "credit_id": "61d7da31160e730019754253",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1954772,
+                "known_for_department": "Sound",
+                "name": "Josefina Rodr\u00edguez",
+                "original_name": "Josefina Rodr\u00edguez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61d7daa5c39266001963faad",
+                "department": "Sound",
+                "job": "Sound Editor"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "35 SHOTS OF RUM trailer",
+                "key": "PPDvNGruo2Y",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2009-07-13T21:21:43.000Z",
+                "id": "634061d1e04d8a00812880db"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/xLkjp2bgKXVJe3tKfvJ4mihc7zv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/fvoUX74RTx6KU9Fc9jtVrj7ArBJ.jpg",
+                "vote_average": 5.522,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/joOoCuOaiZXZZRiS4JpontBL3Gz.jpg",
+                "vote_average": 5.39,
+                "vote_count": 6,
+                "width": 506
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5AOUujIFEA0ptUOvSl12QKn9NAv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/gGQdA21hLCUH58lox3DbggN646v.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 532
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/nRAp3IvcFQeEfF5apQ5sPuBYc0i.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2170,
+                "iso_639_1": "en",
+                "file_path": "/sCSZeRbliL9Uy0nDHwqgmNYYfQq.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1446
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "en",
+                "file_path": "/vqxEQzZxmYMAnkQNcQdZJeAXrMN.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/oiOlqB7bfLP3CkTGTUqmnvAdlwG.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1066
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/6dAbPlmT1ds4jSgOdTB90Dj9wbm.jpg",
+                "vote_average": 4.996,
+                "vote_count": 6,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 800,
+                "iso_639_1": "fr",
+                "file_path": "/kNbo1k7USekbyaQlWfZNl0RJoeK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1104,
+                "iso_639_1": "fr",
+                "file_path": "/sa3zuaRM51dEYZcN4vMzvTkNMeG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 736
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 10683,
+                "name": "coming of age"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            }
+        ]
+    },
+    "title_english": "35 Shots of Rum",
+    "year": "2008",
+    "rated": "Unrated",
+    "director_list": [
+        "Claire Denis"
+    ],
+    "writer_list": [
+        "Claire Denis",
+        " Jean-Pol Fargeau"
+    ],
+    "main_cast": [
+        "Alex Descas",
+        " Mati Diop",
+        " Nicole Dogu\u00e9"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "92/100"
+        }
+    ],
+    "imdb_rating": "7.1",
+    "imdb_votes": "5,145",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/35_Shots_of_Rum",
+    "wikipedia_summary": "35 Shots of Rum (French: 35 Rhums) is a 2008 drama film directed by Claire Denis. It stars Alex Descas, Mati Diop, Nicole Dogue, and Gr\u00e9goire Colin. It tells the story of a father-daughter relationship complicated by the arrival of an attractive young man. The film had its world premiere out of competition at the 65th Venice International Film Festival on 29 August 2008. It was released in France on 18 February 2009, and in Germany on 5 March 2009.",
+    "wikipedia_plot": "Lionel (Alex Descas), a widower who drives RER trains in metropolitan Paris, has raised his daughter Josephine (Mati Diop) alone for many years. They have always shared a special bond and live a secure and contented life somewhat isolated from others, in an apartment building in a suburb of Paris. Josephine, an anthropology student, is now grown and has become a young woman, but she remains deeply devoted to her father.\nThey have developed a loose family with some of the other residents of the building: Gabrielle (Nicole Dogue), a cab driver, who once had a love affair with Lionel; and No\u00e9 (Gr\u00e9goire Colin), a moody young man who lives with his cat and has feelings for Josephine. No\u00e9 leads a disorganised life and goes abroad often. Gabrielle appears to have feelings for Lionel and motherly feelings towards Josephine. However, both father and daughter are ambivalent toward more than a casual friendship with anyone outside their special relationship.\nWhile attending the retirement party for a colleague and friend, Lionel declines to try the customary feat of downing 35 shots of rum. His colleague appears to be lost without his job, and Lionel realises that time is moving on. He (Lionel) must find meaning and security in things other than his present life, lest he end up the same way. During an outing with Gabrielle and No\u00e9, their car breaks down and the four friends take refuge in a closed bar. No\u00e9 shows his feelings for Josephine, and Lionel realises that she must eventually leave him. He knows that she needs to live her own life independent of him. It is subtly suggested that Josephine decides to marry No\u00e9 in a scene of her emotionally charged visit to No\u00e9's apartment.\nWhen Lionel's former colleague commits suicide on the RER tracks, Lionel has to stop his train when he comes across the body. The father and the daughter then go on a long car trip to visit her mother's tomb in Germany before her wedding.\nIn the final scene, Josephine weds a nervous but happy No\u00e9. At the party, Lionel successfully downs 35 shots of rum in celebration of the occasion. It is not clear whether he does so in joy or in sadness. He returns home to live alone.",
+    "wikipedia_plot_html": "<p>Lionel (Alex Descas), a widower who drives RER trains in metropolitan Paris, has raised his daughter Josephine (Mati Diop) alone for many years. They have always shared a special bond and live a secure and contented life somewhat isolated from others, in an apartment building in a suburb of Paris. Josephine, an anthropology student, is now grown and has become a young woman, but she remains deeply devoted to her father.\n</p><p>They have developed a loose family with some of the other residents of the building: Gabrielle (Nicole Dogue), a cab driver, who once had a love affair with Lionel; and No\u00e9 (Gr\u00e9goire Colin), a moody young man who lives with his cat and has feelings for Josephine. No\u00e9 leads a disorganised life and goes abroad often. Gabrielle appears to have feelings for Lionel and motherly feelings towards Josephine. However, both father and daughter are ambivalent toward more than a casual friendship with anyone outside their special relationship.\n</p><p>While attending the retirement party for a colleague and friend, Lionel declines to try the customary feat of downing 35 shots of rum. His colleague appears to be lost without his job, and Lionel realises that time is moving on. He (Lionel) must find meaning and security in things other than his present life, lest he end up the same way. During an outing with Gabrielle and No\u00e9, their car breaks down and the four friends take refuge in a closed bar. No\u00e9 shows his feelings for Josephine, and Lionel realises that she must eventually leave him. He knows that she needs to live her own life independent of him. It is subtly suggested that Josephine decides to marry No\u00e9 in a scene of her emotionally charged visit to No\u00e9's apartment.\n</p><p>When Lionel's former colleague commits suicide on the RER tracks, Lionel has to stop his train when he comes across the body. The father and the daughter then go on a long car trip to visit her mother's tomb in Germany before her wedding.\n</p><p>In the final scene, Josephine weds a nervous but happy No\u00e9. At the party, Lionel successfully downs 35 shots of rum in celebration of the occasion. It is not clear whether he does so in joy or in sadness. He returns home to live alone.\n</p>",
+    "wikipedia_critics": "On review aggregator website Rotten Tomatoes, the film holds an approval rating of 97% based on 65 reviews, with a weighted average rating of 8.3/10. The website's critical consensus reads, \"This slow-moving French family drama is rich, complex, subtle and emotionally eloquent.\" On Metacritic, the film has a weighted average score of 92 out of 100, based on 17 critics, indicating \"universal acclaim\".Jay Weissberg of Variety wrote, \"Claire Denis' latest may appear whisper-thin on the surface, yet it's marvelously profound, illuminating the love between a father and daughter but also highlighting the difficulty of relinquishing what most people spend a lifetime putting into place.\" Deborah Young of The Hollywood Reporter called it \"French art house cinema at its unpretentious best.\"Sight & Sound included it on the \"30 Great Films of the 2000s\" list.",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>35 Shots of Rum</b></i> (French: <i lang=\"fr\"><b>35 Rhums</b></i>) is a 2008 drama film directed by Claire Denis. It stars Alex Descas, Mati Diop, Nicole Dogue, and Gr\u00e9goire Colin. It tells the story of a father-daughter relationship complicated by the arrival of an attractive young man. The film had its world premiere out of competition at the 65th Venice International Film Festival on 29 August 2008. It was released in France on 18 February 2009, and in Germany on 5 March 2009.</p>\n\n<h2>Plot</h2>\n<p>Lionel (Alex Descas), a widower who drives RER trains in metropolitan Paris, has raised his daughter Josephine (Mati Diop) alone for many years. They have always shared a special bond and live a secure and contented life somewhat isolated from others, in an apartment building in a suburb of Paris. Josephine, an anthropology student, is now grown and has become a young woman, but she remains deeply devoted to her father.\n</p><p>They have developed a loose family with some of the other residents of the building: Gabrielle (Nicole Dogue), a cab driver, who once had a love affair with Lionel; and No\u00e9 (Gr\u00e9goire Colin), a moody young man who lives with his cat and has feelings for Josephine. No\u00e9 leads a disorganised life and goes abroad often. Gabrielle appears to have feelings for Lionel and motherly feelings towards Josephine. However, both father and daughter are ambivalent toward more than a casual friendship with anyone outside their special relationship.\n</p><p>While attending the retirement party for a colleague and friend, Lionel declines to try the customary feat of downing 35 shots of rum. His colleague appears to be lost without his job, and Lionel realises that time is moving on. He (Lionel) must find meaning and security in things other than his present life, lest he end up the same way. During an outing with Gabrielle and No\u00e9, their car breaks down and the four friends take refuge in a closed bar. No\u00e9 shows his feelings for Josephine, and Lionel realises that she must eventually leave him. He knows that she needs to live her own life independent of him. It is subtly suggested that Josephine decides to marry No\u00e9 in a scene of her emotionally charged visit to No\u00e9's apartment.\n</p><p>When Lionel's former colleague commits suicide on the RER tracks, Lionel has to stop his train when he comes across the body. The father and the daughter then go on a long car trip to visit her mother's tomb in Germany before her wedding.\n</p><p>In the final scene, Josephine weds a nervous but happy No\u00e9. At the party, Lionel successfully downs 35 shots of rum in celebration of the occasion. It is not clear whether he does so in joy or in sadness. He returns home to live alone.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<p>For the film, director Claire Denis got inspiration from Yasujir\u014d Ozu's film <i>Late Spring</i>, as well as a relationship between her own mother and grandfather. She wrote the screenplay with Jean-Pol Fargeau. The film was shot by Agn\u00e8s Godard. Tindersticks wrote the score for the film. The Commodores song Nightshift was featured in the film.\n</p>\n\n<h2>Release</h2>\n<p>The film had its world premiere out of competition at the 65th Venice International Film Festival on 29 August 2008. It was released in France on 18 February 2009, and in Germany on 5 March 2009. It was also screened at the Toronto International Film Festival and the New York Film Festival.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p>On review aggregator website Rotten Tomatoes, the film holds an approval rating of 97% based on 65 reviews, with a weighted average rating of 8.3/10. The website's critical consensus reads, \"This slow-moving French family drama is rich, complex, subtle and emotionally eloquent.\" On Metacritic, the film has a weighted average score of 92 out of 100, based on 17 critics, indicating \"universal acclaim\".</p><p>Jay Weissberg of <i>Variety</i> wrote, \"Claire Denis' latest may appear whisper-thin on the surface, yet it's marvelously profound, illuminating the love between a father and daughter but also highlighting the difficulty of relinquishing what most people spend a lifetime putting into place.\" Deborah Young of <i>The Hollywood Reporter</i> called it \"French art house cinema at its unpretentious best.\"</p><p><i>Sight &amp; Sound</i> included it on the \"30 Great Films of the 2000s\" list.</p>\n\n<h3>Accolades</h3>\n<p>At the 2008 Gij\u00f3n International Film Festival <i>35 Shots of Rum</i> was nominated as <i>best film</i> and won a <i>Special Jury Prize</i>.</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>35 Shots of Rum</i> at IMDb</li></ul>"
+}

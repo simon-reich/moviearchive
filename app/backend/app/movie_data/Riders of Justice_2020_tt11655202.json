@@ -1,0 +1,1918 @@
+{
+    "adult": false,
+    "backdrop_path": "/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
+    "belongs_to_collection": null,
+    "budget": 5300000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 663870,
+    "imdb_id": "tt11655202",
+    "original_language": "da",
+    "original_title": "Retf\u00e6rdighedens ryttere",
+    "overview": "Markus returns home to care for his daughter when his wife dies in a tragic train accident. However, when a survivor of the wreck surfaces and claims foul play, Markus suspects his wife was murdered and embarks on a mission to find those responsible.",
+    "popularity": 20.803,
+    "poster_path": "/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+    "production_companies": [
+        {
+            "id": 8288,
+            "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+            "name": "Zentropa International Sweden",
+            "origin_country": "SE"
+        },
+        {
+            "id": 2801,
+            "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+            "name": "Film i V\u00e4st",
+            "origin_country": "SE"
+        },
+        {
+            "id": 76,
+            "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+            "name": "Zentropa Entertainments",
+            "origin_country": "DK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DK",
+            "name": "Denmark"
+        },
+        {
+            "iso_3166_1": "FI",
+            "name": "Finland"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2020-11-19",
+    "revenue": 679505,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+        },
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+        },
+        {
+            "english_name": "Estonian",
+            "iso_639_1": "et",
+            "name": "Eesti"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Someone is going to pay.",
+    "title": "Riders of Justice",
+    "video": false,
+    "vote_average": 7.259,
+    "vote_count": 711,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1019,
+                "known_for_department": "Acting",
+                "name": "Mads Mikkelsen",
+                "original_name": "Mads Mikkelsen",
+                "popularity": 42.452,
+                "profile_path": "/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg",
+                "cast_id": 2,
+                "character": "Markus",
+                "credit_id": "5e1e3ecce55937001522dec1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1018,
+                "known_for_department": "Acting",
+                "name": "Nikolaj Lie Kaas",
+                "original_name": "Nikolaj Lie Kaas",
+                "popularity": 13.969,
+                "profile_path": "/oc0wzmAJILh21Gf0cVOwPTA8fMf.jpg",
+                "cast_id": 3,
+                "character": "Otto",
+                "credit_id": "5e1e3ef3e55937001722ce6d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4467,
+                "known_for_department": "Acting",
+                "name": "Lars Brygmann",
+                "original_name": "Lars Brygmann",
+                "popularity": 7.655,
+                "profile_path": "/fjeqaDHEeInfWjDqrH1nPIqhBul.jpg",
+                "cast_id": 4,
+                "character": "Lennart",
+                "credit_id": "5e1e3f01e55937001722ce8d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15086,
+                "known_for_department": "Acting",
+                "name": "Nicolas Bro",
+                "original_name": "Nicolas Bro",
+                "popularity": 5.043,
+                "profile_path": "/sWmsxndhY7vsHBQWdO3UITrQ0Mr.jpg",
+                "cast_id": 5,
+                "character": "Emmenthaler",
+                "credit_id": "5e1e3f0f511d09001481c1b8",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2486187,
+                "known_for_department": "Acting",
+                "name": "Andrea Heick Gadeberg",
+                "original_name": "Andrea Heick Gadeberg",
+                "popularity": 2.002,
+                "profile_path": "/zNh4HlmVZtVtmm55tyRlZEeEsuN.jpg",
+                "cast_id": 9,
+                "character": "Mathilde",
+                "credit_id": "5e1e3fc95c071b0011625afc",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1428295,
+                "known_for_department": "Acting",
+                "name": "Gustav Lindh",
+                "original_name": "Gustav Lindh",
+                "popularity": 8.36,
+                "profile_path": "/nrDYmssLbWpwvGKmhMFxgaGgzBp.jpg",
+                "cast_id": 6,
+                "character": "Bodashka",
+                "credit_id": "5e1e3f35511d09001681ac99",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141876,
+                "known_for_department": "Acting",
+                "name": "Roland M\u00f8ller",
+                "original_name": "Roland M\u00f8ller",
+                "popularity": 6.599,
+                "profile_path": "/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg",
+                "cast_id": 7,
+                "character": "Kurt",
+                "credit_id": "5e1e3f40e55937001722cebb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1552847,
+                "known_for_department": "Acting",
+                "name": "Albert Rudbeck Lindhardt",
+                "original_name": "Albert Rudbeck Lindhardt",
+                "popularity": 10.253,
+                "profile_path": "/iEvh3kr3ZTfxjUdWvXCLPUUsx.jpg",
+                "cast_id": 10,
+                "character": "Sirius",
+                "credit_id": "6019caecfb3f610041c90c74",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41905,
+                "known_for_department": "Acting",
+                "name": "Morten Suurballe",
+                "original_name": "Morten Suurballe",
+                "popularity": 4.061,
+                "profile_path": "/aDSREhL99vTjZArWNGala3SLMwW.jpg",
+                "cast_id": 11,
+                "character": "Gert",
+                "credit_id": "6019cb69bc86570040b9e03f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1442353,
+                "known_for_department": "Acting",
+                "name": "Jesper Ole Feit Andersen",
+                "original_name": "Jesper Ole Feit Andersen",
+                "popularity": 1.919,
+                "profile_path": "/2NfOhOXpA60Y4U1y2JC79FH1dKV.jpg",
+                "cast_id": 12,
+                "character": "Leif",
+                "credit_id": "6019cb7ab97442003c2348b6",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1433475,
+                "known_for_department": "Acting",
+                "name": "Jacob Ulrik Lohmann",
+                "original_name": "Jacob Ulrik Lohmann",
+                "popularity": 5.268,
+                "profile_path": "/iOtISPGzgM7vTKfR3ZQIyYb7uWQ.jpg",
+                "cast_id": 13,
+                "character": "Kenneth Pigvaren",
+                "credit_id": "6019cb8bb97442003e24475a",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 40421,
+                "known_for_department": "Acting",
+                "name": "Rikke Louise Andersson",
+                "original_name": "Rikke Louise Andersson",
+                "popularity": 3.964,
+                "profile_path": "/fyPaon8j8OAaqJ8i34rqd77xgJT.jpg",
+                "cast_id": 14,
+                "character": "Crisis Psychologist",
+                "credit_id": "6019cba787a27a0045e6142d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1149906,
+                "known_for_department": "Acting",
+                "name": "Gustav Dyekj\u00e6r Giese",
+                "original_name": "Gustav Dyekj\u00e6r Giese",
+                "popularity": 2.785,
+                "profile_path": "/tvW6k8auVqVjb7xmpNqgnF6819j.jpg",
+                "cast_id": 15,
+                "character": "Adrian",
+                "credit_id": "6019cbb68a88b2003cb3c08d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1388462,
+                "known_for_department": "Acting",
+                "name": "Henrik No\u00ebl Olesen",
+                "original_name": "Henrik No\u00ebl Olesen",
+                "popularity": 2.712,
+                "profile_path": "/lqdW3HateYuMcTWbr3r9BwfiJjt.jpg",
+                "cast_id": 27,
+                "character": "Noah",
+                "credit_id": "6019d84ea0664500413be928",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1185963,
+                "known_for_department": "Acting",
+                "name": "Anne Birgitte Lind",
+                "original_name": "Anne Birgitte Lind",
+                "popularity": 0.608,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Emma",
+                "credit_id": "60425fc8d371970058324a90",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141879,
+                "known_for_department": "Acting",
+                "name": "Omar Shargawi",
+                "original_name": "Omar Shargawi",
+                "popularity": 2.298,
+                "profile_path": "/oUByeBtnGOjy71fGNKoPJ00T5hu.jpg",
+                "cast_id": 29,
+                "character": "Palle Olsen / Aharon Nahas Shadid",
+                "credit_id": "60425fe41c6329006ee691ed",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1542784,
+                "known_for_department": "Acting",
+                "name": "Klaus Hjuler",
+                "original_name": "Klaus Hjuler",
+                "popularity": 1.632,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Rocker #1",
+                "credit_id": "60426013af58cb004344ffe1",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121523,
+                "known_for_department": "Acting",
+                "name": "Peder Holm Johansen",
+                "original_name": "Peder Holm Johansen",
+                "popularity": 1.658,
+                "profile_path": "/9ZuULaqU1w8nn76yLsYgD9yxKgC.jpg",
+                "cast_id": 31,
+                "character": "Officer",
+                "credit_id": "6042602bb77d4b00766681c2",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1038466,
+                "known_for_department": "Acting",
+                "name": "Christina Ibsen Meyer",
+                "original_name": "Christina Ibsen Meyer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Psychologist",
+                "credit_id": "6042603921c4ca00456df481",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999530,
+                "known_for_department": "Acting",
+                "name": "Stine Lee Bruhn Schr\u00f8der",
+                "original_name": "Stine Lee Bruhn Schr\u00f8der",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Chef",
+                "credit_id": "6042606296670e006d9733f4",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2163397,
+                "known_for_department": "Acting",
+                "name": "Jesper Groth",
+                "original_name": "Jesper Groth",
+                "popularity": 1.96,
+                "profile_path": "/7EsnF0bVOeKmQh8mtNSef6mYsYI.jpg",
+                "cast_id": 34,
+                "character": "Middle Manager",
+                "credit_id": "604260717cffda005991d8b7",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999531,
+                "known_for_department": "Acting",
+                "name": "Natali Vallespir Sand",
+                "original_name": "Natali Vallespir Sand",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Priest",
+                "credit_id": "60426083db705800792db4fb",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2204701,
+                "known_for_department": "Acting",
+                "name": "Rigmor Ranthe",
+                "original_name": "Rigmor Ranthe",
+                "popularity": 2.453,
+                "profile_path": "/nC45we8cikjLHflnbgNoTPTUts.jpg",
+                "cast_id": 36,
+                "character": "Noah's Daughter",
+                "credit_id": "6042608fdb7058005b21108e",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1026,
+                "known_for_department": "Acting",
+                "name": "Anders Nyborg",
+                "original_name": "Anders Nyborg",
+                "popularity": 1.733,
+                "profile_path": "/iLNstFn1auql0hNbwozROPfvDiQ.jpg",
+                "cast_id": 37,
+                "character": "Journalist",
+                "credit_id": "604260a0d3719700789c35dd",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999532,
+                "known_for_department": "Acting",
+                "name": "Christian Hornhof",
+                "original_name": "Christian Hornhof",
+                "popularity": 0.732,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Eagle",
+                "credit_id": "604260b07cffda002a56eb0d",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2945687,
+                "known_for_department": "Acting",
+                "name": "Natasja Crone",
+                "original_name": "Natasja Crone",
+                "popularity": 0.817,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Reporter",
+                "credit_id": "604260c79a358d002cedb08c",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1921849,
+                "known_for_department": "Acting",
+                "name": "Johanne Dal-Lewkovitch",
+                "original_name": "Johanne Dal-Lewkovitch",
+                "popularity": 1.62,
+                "profile_path": "/yQM2QwZRDrSmlWLLuWtUVvL6AIC.jpg",
+                "cast_id": 40,
+                "character": "Prosecutor",
+                "credit_id": "604260d496670e005858c829",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1418968,
+                "known_for_department": "Acting",
+                "name": "Kaspar Velberg",
+                "original_name": "Kaspar Velberg",
+                "popularity": 1.919,
+                "profile_path": "/pMNwFK7Yogbxgt4WRQsp2p3CJcE.jpg",
+                "cast_id": 41,
+                "character": "Bicycle Dealer",
+                "credit_id": "604260e7b77d4b004489585b",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999535,
+                "known_for_department": "Acting",
+                "name": "Marta Riisalu",
+                "original_name": "Marta Riisalu",
+                "popularity": 0.631,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Niece",
+                "credit_id": "604260f406f984007696c87f",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 138129,
+                "known_for_department": "Acting",
+                "name": "Raivo Trass",
+                "original_name": "Raivo Trass",
+                "popularity": 1.156,
+                "profile_path": "/24YNBt3X3jA7FYtbqWqfRChE7ry.jpg",
+                "cast_id": 43,
+                "character": "Orthodox Priest",
+                "credit_id": "6042610b9f0e19004516812c",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999537,
+                "known_for_department": "Acting",
+                "name": "Nadia Mhadhbi",
+                "original_name": "Nadia Mhadhbi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Aharon's Daughter",
+                "credit_id": "604261179f0e19002b40d537",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999539,
+                "known_for_department": "Acting",
+                "name": "Kamal Krayti",
+                "original_name": "Kamal Krayti",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Aharon's Son",
+                "credit_id": "6042612b1c63290044e1dfca",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999540,
+                "known_for_department": "Acting",
+                "name": "Veronica Verdugo",
+                "original_name": "Veronica Verdugo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Aharon's Wife",
+                "credit_id": "6042613871083a006f2e9a3e",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2999542,
+                "known_for_department": "Acting",
+                "name": "Christian H\u00f8gh Andersen",
+                "original_name": "Christian H\u00f8gh Andersen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 47,
+                "character": "News Anchor",
+                "credit_id": "604261427cffda002a56ebde",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3632694,
+                "known_for_department": "Acting",
+                "name": "Mikkel Aarestrup",
+                "original_name": "Mikkel Aarestrup",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 62,
+                "character": "Nurse (uncredited)",
+                "credit_id": "62d98791bccf1e005419ad87",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2653064,
+                "known_for_department": "Acting",
+                "name": "Alice E. Bier Zand\u00e9n",
+                "original_name": "Alice E. Bier Zand\u00e9n",
+                "popularity": 2.631,
+                "profile_path": "/haNIgcKPZZGik4bvZtawv5FJZPb.jpg",
+                "cast_id": 63,
+                "character": "Goth Girl (uncredited)",
+                "credit_id": "62d987c18b959e005e866d85",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2927147,
+                "known_for_department": "Acting",
+                "name": "Kenny Duerlund",
+                "original_name": "Kenny Duerlund",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 64,
+                "character": "Rocker (uncredited)",
+                "credit_id": "62d987cb1dbc880057fc4fd2",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1440808,
+                "known_for_department": "Acting",
+                "name": "Anne Fletting",
+                "original_name": "Anne Fletting",
+                "popularity": 0.652,
+                "profile_path": null,
+                "cast_id": 65,
+                "character": "Officer (uncredited)",
+                "credit_id": "62d987e98b959e004c024bec",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3632697,
+                "known_for_department": "Acting",
+                "name": "Jakob Candy Kolborg",
+                "original_name": "Jakob Candy Kolborg",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 66,
+                "character": "Rocker (uncredited)",
+                "credit_id": "62d987f3713ed40050d552f1",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2913704,
+                "known_for_department": "Acting",
+                "name": "Nikolas Kouroumtzis",
+                "original_name": "Nikolas Kouroumtzis",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 67,
+                "character": "Doctor (uncredited)",
+                "credit_id": "62d987ff5ff34e004cb6164d",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3632700,
+                "known_for_department": "Acting",
+                "name": "Pia Larsen",
+                "original_name": "Pia Larsen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 68,
+                "character": "Doctor (uncredited)",
+                "credit_id": "62d9883c713ed40055de5bed",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1824059,
+                "known_for_department": "Acting",
+                "name": "Ghita Lehrmann",
+                "original_name": "Ghita Lehrmann",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 69,
+                "character": "Doctor (uncredited)",
+                "credit_id": "62d988467719d70050405a54",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3375365,
+                "known_for_department": "Acting",
+                "name": "Patrick Kweku Quansah Kv\u00e6rn\u00f8",
+                "original_name": "Patrick Kweku Quansah Kv\u00e6rn\u00f8",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 70,
+                "character": "Man on Train (uncredited)",
+                "credit_id": "62d98877d9554b004c39d4de",
+                "order": 42
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1012,
+                "known_for_department": "Writing",
+                "name": "Anders Thomas Jensen",
+                "original_name": "Anders Thomas Jensen",
+                "popularity": 1.943,
+                "profile_path": "/dcV0ZkjU4fIpAr0ehG3LY7dESFi.jpg",
+                "credit_id": "6019cbfafb3f610040c9fbf0",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1012,
+                "known_for_department": "Writing",
+                "name": "Anders Thomas Jensen",
+                "original_name": "Anders Thomas Jensen",
+                "popularity": 1.943,
+                "profile_path": "/dcV0ZkjU4fIpAr0ehG3LY7dESFi.jpg",
+                "credit_id": "5e1e3e68e55937001322dd52",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1014,
+                "known_for_department": "Production",
+                "name": "Karen Bentzon",
+                "original_name": "Karen Bentzon",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "6055ebc18c44b9003f952ae4",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1015,
+                "known_for_department": "Production",
+                "name": "Sisse Graum J\u00f8rgensen",
+                "original_name": "Sisse Graum J\u00f8rgensen",
+                "popularity": 1.138,
+                "profile_path": null,
+                "credit_id": "6019cc271b70ae003d641db7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15082,
+                "known_for_department": "Sound",
+                "name": "Jeppe Kaas",
+                "original_name": "Jeppe Kaas",
+                "popularity": 1.67,
+                "profile_path": "/zpuyWLMj09jcSKNJMaoIBcUT9r.jpg",
+                "credit_id": "6055eb9c6f6a99006b2563d6",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 40415,
+                "known_for_department": "Sound",
+                "name": "Nino Jacobsen",
+                "original_name": "Nino Jacobsen",
+                "popularity": 0.986,
+                "profile_path": null,
+                "credit_id": "6055ec070792e1006b2e4937",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74752,
+                "known_for_department": "Writing",
+                "name": "Nikolaj Arcel",
+                "original_name": "Nikolaj Arcel",
+                "popularity": 3.276,
+                "profile_path": "/79JljyWnfjqE87UyTo7xgFQa5fy.jpg",
+                "credit_id": "6055ebb06e3deb0028d5af1e",
+                "department": "Writing",
+                "job": "Idea"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 135965,
+                "known_for_department": "Sound",
+                "name": "Eddie Simonsen",
+                "original_name": "Eddie Simonsen",
+                "popularity": 2.246,
+                "profile_path": null,
+                "credit_id": "6055ec205c071b0054691077",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236606,
+                "known_for_department": "Camera",
+                "name": "Kasper Tuxen",
+                "original_name": "Kasper Tuxen",
+                "popularity": 0.932,
+                "profile_path": null,
+                "credit_id": "6055eb92ab1bc700544fb256",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1106164,
+                "known_for_department": "Production",
+                "name": "Peter B\u00e6kkel",
+                "original_name": "Peter B\u00e6kkel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6019cc8f0f1e580041e8d363",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1156371,
+                "known_for_department": "Editing",
+                "name": "Nicolaj Monberg",
+                "original_name": "Nicolaj Monberg",
+                "popularity": 1.166,
+                "profile_path": null,
+                "credit_id": "6019cc598a88b2003fb3d9d3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1372321,
+                "known_for_department": "Editing",
+                "name": "Anders Albjerg Kristiansen",
+                "original_name": "Anders Albjerg Kristiansen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6019cc4d470ead0040721ab6",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1453342,
+                "known_for_department": "Art",
+                "name": "Nikolaj Danielsen",
+                "original_name": "Nikolaj Danielsen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6019cc6966a0d3003f7b1e1f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1639085,
+                "known_for_department": "Production",
+                "name": "Lizette Jonjic",
+                "original_name": "Lizette Jonjic",
+                "popularity": 0.705,
+                "profile_path": null,
+                "credit_id": "6055ebc8ab1bc700544fb29e",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1659182,
+                "known_for_department": "Sound",
+                "name": "Henric Andersson",
+                "original_name": "Henric Andersson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6019ccadfb3f61003fc9aaeb",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2040575,
+                "known_for_department": "Sound",
+                "name": "Robert Leib",
+                "original_name": "Robert Leib",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6055ec0f4557a0006816a19e",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2405305,
+                "known_for_department": "Directing",
+                "name": "Mikkel Andreas Smidt",
+                "original_name": "Mikkel Andreas Smidt",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6019cc9ee942ee0042f51465",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2499749,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vibe Knoblauch Hededam",
+                "original_name": "Vibe Knoblauch Hededam",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6055ebee4083b3003ebe0d6d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2548577,
+                "known_for_department": "Sound",
+                "name": "Simon Nordberg",
+                "original_name": "Simon Nordberg",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6055ec174557a0006816a1a3",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2667246,
+                "known_for_department": "Production",
+                "name": "Sidsel Hybschmann",
+                "original_name": "Sidsel Hybschmann",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6019cc18a76ac5003d53b6b8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2872100,
+                "known_for_department": "Sound",
+                "name": "Alayn Crespo",
+                "original_name": "Alayn Crespo",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "6055ebff6f6a99003f350160",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2986666,
+                "known_for_department": "Production",
+                "name": "Andreas Bak",
+                "original_name": "Andreas Bak",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6055ebd88c44b9003f952aed",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3017621,
+                "known_for_department": "Production",
+                "name": "Ann-Alicia Thunbo Ilskov",
+                "original_name": "Ann-Alicia Thunbo Ilskov",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6055ebd15c071b003d4e36f0",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3017622,
+                "known_for_department": "Art",
+                "name": "S\u00f8ren Jochumsen",
+                "original_name": "S\u00f8ren Jochumsen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6055ebe55c071b0029c3ff60",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3448306,
+                "known_for_department": "Crew",
+                "name": "Fredrik Blom",
+                "original_name": "Fredrik Blom",
+                "popularity": 0.84,
+                "profile_path": "/tFor5CxFMCWvcIha6M2Cgoalbtv.jpg",
+                "credit_id": "643d3db74d679104c1d85259",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Riders of Justice - Official Trailer",
+                "key": "j9Okx5teGBQ",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2021-04-15T19:00:16.000Z",
+                "id": "6078d983f48e0d0077bddb4e"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Retf\u00e6rdighedens Ryttere Official Trailer",
+                "key": "ZQSQ-D5Q4gM",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2020-10-20T10:01:30.000Z",
+                "id": "6006fcd3869e75003d860090"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/u6LFVxyUePNqKhgnqxAYUJukbNP.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "sv",
+                "file_path": "/6SU42WLtDzxgIBhIX0VkSUccQZ6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/2FpqUVV4vwz6clORlchCTZcBRx7.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/3LFIil3YCVpyajp8nxJ9XvfNupv.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/nkn3i1QYdFmjE0W34SkjCb24ZgB.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": null,
+                "file_path": "/oZYUrxvgFZ0CmBrsL37Oiw4oRlN.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/1zxHSD4IOnpPYfu37ZQtfP1geht.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 774,
+                "iso_639_1": null,
+                "file_path": "/b90yCFJJhVHR5ESom9JsesGUdPG.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1376
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1124,
+                "iso_639_1": null,
+                "file_path": "/r6iQ10svq7lwVTxJ1TUUhVe0bXv.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/nygh9t1KZdAyyIOhccP7PYsuyLm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/i286vxm7vlrgMfJRFHZ7OJlZk3P.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/pQW1EKlZ0h2nroKDDjqBZQDqFJp.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "sv",
+                "file_path": "/4R4L6cEWcIQAQ5CokxuGnxfHEIS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 10.609,
+                "height": 394,
+                "iso_639_1": "en",
+                "file_path": "/vOPr8VQ6PzNnHjvOiyOmfEjLeXq.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 4180
+            },
+            {
+                "aspect_ratio": 1.166,
+                "height": 296,
+                "iso_639_1": "pt",
+                "file_path": "/vk2FwBEqWSeFBJNr6aQtwsQJMj5.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 345
+            },
+            {
+                "aspect_ratio": 4.951,
+                "height": 364,
+                "iso_639_1": "da",
+                "file_path": "/4ClOH2EJ61UoSWslAJajcCNkt6j.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1802
+            },
+            {
+                "aspect_ratio": 1.121,
+                "height": 338,
+                "iso_639_1": "en",
+                "file_path": "/sIiLOLk0PYXHRtcBFpAad9qfLZx.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 379
+            },
+            {
+                "aspect_ratio": 3.248,
+                "height": 161,
+                "iso_639_1": "es",
+                "file_path": "/4LrwMoliI4c52dRfha6zPJRlSjh.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 523
+            },
+            {
+                "aspect_ratio": 4.403,
+                "height": 310,
+                "iso_639_1": "de",
+                "file_path": "/gL1k8KjXQjjHPlbcbqugQ9vfvWq.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 4.403,
+                "height": 310,
+                "iso_639_1": "de",
+                "file_path": "/fTZZNuwC44J61kuIrth7UnV7AYc.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1365
+            },
+            {
+                "aspect_ratio": 1.125,
+                "height": 799,
+                "iso_639_1": "en",
+                "file_path": "/aq9FleJK4nge41WPXpbwZVAaJj2.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 899
+            },
+            {
+                "aspect_ratio": 1.366,
+                "height": 1131,
+                "iso_639_1": "en",
+                "file_path": "/efUrh4hzM4iRfk8zjJxpRwACOsJ.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1545
+            },
+            {
+                "aspect_ratio": 4.692,
+                "height": 918,
+                "iso_639_1": "sv",
+                "file_path": "/fzU6RXJiUp2ZpRh27h3X1o3BKuy.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4307
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/2SfoAbAcXCcNb1V3GpPPJG6OLFB.jpg",
+                "vote_average": 5.522,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1680,
+                "iso_639_1": "ru",
+                "file_path": "/kiqonugKWlGI3IBBz956VC9KT5y.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1120
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "da",
+                "file_path": "/bjwKt3kqqmptTZwknUHi1nMb3Tq.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/hodjybp8Ih4F9qk7isBW9sA3hJ4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/zT8HHKGQGchssG1WyPmtoDv2Ap6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/hX2cReRF9pxyfgsz6TCQVjNJSYW.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/tkaQn7tAKrAhUVC8CRTy6QLizap.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sv",
+                "file_path": "/9aEIn2Gt0zTgpyrhhB3GFPOMpHh.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2560,
+                "iso_639_1": "pt",
+                "file_path": "/5bZuSurW14ICJL3YX3Ls76hgmL3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1707
+            },
+            {
+                "aspect_ratio": 0.672,
+                "height": 2197,
+                "iso_639_1": "en",
+                "file_path": "/evIMo53WIXJEge5qVbN3cTrTNd5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1476
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/3eE0HuQXH2q5wQilbm3c59gJOST.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/leiXLYkXOEpsZDSXQydCLIMkcUK.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/qzUNs6hGvuBVHp1wAayz43LYxAl.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/gtb77SMGTBN3D5w4Gegp1QlvJ1p.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/9O7hIB5pKSTch9jmKEXOH5KrKtr.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/iDpmNnNaNcPsGDljvuj0mKGeMCI.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "da",
+                "file_path": "/pAv7Nq0Y1am5HkiVh1RsPZpvvDg.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/pGTYfWtpqscNnN1tP5emN0BTfKX.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "uk",
+                "file_path": "/eNX58oAqL4uAfWw63Vck8B9JT0y.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/gVmg1m3Kfri25eyvqgCu74kF6pj.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/i6DpJGNF4cMghgvUXE7Nz7I3rPf.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/88IrMfRHav1jHKyl74Kodsdkg6R.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/59wS5I0hyufQY4QeNqHpZfrLQtR.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/vYFBJWarHmAbl7eQ6UICCIZmWpo.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.68,
+                "height": 1000,
+                "iso_639_1": "es",
+                "file_path": "/f65iLgTgK9Y3c6GFJENmAAkqOM4.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 680
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/ut4bRuK9kwyxSL2VUQRICmpcmyZ.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "uk",
+                "file_path": "/vUTbFG8TYs1y7hdDP31Qy47ICVI.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1772,
+                "iso_639_1": "de",
+                "file_path": "/cDeKeXE5UuJMawbTrrmcSB2AaHN.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1252
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/dNsdWTICnLt9FF4FYlwf4oslQq9.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sv",
+                "file_path": "/vFES3njHTIpEuLDaZHkVbmGa8zc.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/d4r9DulqLT0itabfq2OyXX5cOo1.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2157,
+                "iso_639_1": "en",
+                "file_path": "/fuW8agqQpSTFNWUXejEYK7VAUOG.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1526
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "ru",
+                "file_path": "/v3YyPdTjJa0RcbgSU9SGIsyHjmt.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2829,
+                "iso_639_1": "es",
+                "file_path": "/tFBAHlE7FUJZ4YIWPS573ThCobh.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/irtFguP04xW4PsDbapWjOJJRWUe.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1944
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": null,
+                "file_path": "/wcctJWlcpkKtIMuBl80pUhmokB2.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/qflVBQfSG7liuWO0xnzpKppRA9E.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/vKNUd65qICbXhxf8IcGPIFao9o7.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1481,
+                "iso_639_1": "en",
+                "file_path": "/yBi0eNLKqqB6bOK9dKBb56Q69i1.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "da",
+                "file_path": "/e5XBABjhrUXwxvyJJc5QJ21bJii.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "cs",
+                "file_path": "/ryCcQ20rnF2AaSjXmul4jcGxeoy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2834,
+                "iso_639_1": "nl",
+                "file_path": "/jM8nAWpFZRFi9xITy8G1vOQpS2m.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1984
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "da",
+                "file_path": "/r0Jy6E9QRsCr744yRIAraJ0xzSF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2137,
+                "iso_639_1": "ko",
+                "file_path": "/AkXOLyA0hZU23Zf2BpcmxKVLsOU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2384,
+                "iso_639_1": "sk",
+                "file_path": "/2mLPODtZ0sJXjSzWX3DWgVX2Lc8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1590
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "he",
+                "file_path": "/ejBECuXRV7cMHmPiEHhmT0N03IP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": null,
+                "file_path": "/j2MRn5jpONTzdEexteiZ0CglSfy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1357,
+                "iso_639_1": "el",
+                "file_path": "/1rfEbpbHEyoV2eKrec8LvevCTsk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 950
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/ivB064Mcf7cvWUTI8BDAXntb7Lq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/aFAfZm0WLewCMBDLyMX7gOcKwxt.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/idRxzYGXcyUIxxZLd6Uoe9GFPVj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "fr",
+                "file_path": "/87XGju0vWXBcy5LMiowZmUgK5wH.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/qZeSXpbbAGFgmJPNnwFMCMvuzpV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/aq8LvX1dhO6BPmBEL9nGuC9BFDV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1125,
+                "iso_639_1": "no",
+                "file_path": "/mVmDIe6OKRqHkKVkrgnxX6Co6f2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2250,
+                "iso_639_1": "en",
+                "file_path": "/z1uW2fVWflrOUbGO7YMz0W69vi9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/z2jnCjP7LjTMOHGISUfp0bbdoxk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "fi",
+                "file_path": "/h9mJ1JS5XSMjczKbwl7YRRFhkGU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "da",
+                "file_path": "/yNDv8epUepAQKGwmJr5elxCU0ix.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/9d00VOv32YHGmSvoboiy5HlYnZx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/bIJ6YyhVzAwtDDLSYRovfRjsZNV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/xIWbHzTbzUdv5m1kpPo8tdDZhWY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6009,
+                "name": "mathematics"
+            },
+            {
+                "id": 4619,
+                "name": "train accident"
+            },
+            {
+                "id": 10199,
+                "name": "gay interest"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 13008,
+                "name": "train"
+            },
+            {
+                "id": 240303,
+                "name": "father daughter relationship"
+            },
+            {
+                "id": 324907,
+                "name": "gay sub-plot"
+            }
+        ]
+    },
+    "title_english": "Riders of Justice",
+    "year": "2020",
+    "rated": "Not Rated",
+    "director_list": [
+        "Anders Thomas Jensen"
+    ],
+    "writer_list": [
+        "Anders Thomas Jensen",
+        " Nikolaj Arcel"
+    ],
+    "main_cast": [
+        "Mads Mikkelsen",
+        " Nikolaj Lie Kaas",
+        " Andrea Heick Gadeberg"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "imdb_rating": "7.5",
+    "imdb_votes": "59,073",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Riders_of_Justice",
+    "wikipedia_summary": "Riders of Justice (Danish: Retf\u00e6rdighedens Ryttere) is a 2020 Danish action comedy film directed and written by Anders Thomas Jensen. The film was released in Denmark on 19 November 2020, receiving positive reviews from critics.",
+    "wikipedia_plot": "Mathilde loses her mother in a train accident and her father, Markus, a serving soldier in Afghanistan, comes home to console his grieving daughter. Mathilde and Markus find it difficult to come to terms with the tragedy, causing strain in their relationship. However, Markus is approached by a man named Otto (who was on the same train with Markus's wife) who informs him that the train accident wasn't a coincidence, but a planned murder to eliminate a key witness about to give evidence against the leader of the \"Riders of Justice\" motorbike-criminal gang.\nWith the help of Otto's friends, Lennart and Emmenthaler, the group identifies a suspicious man who left the train seconds before the accident as the brother of the Riders of Justice's leader. The group goes to the man's house, intending to interrogate him for information about the accident, but Markus loses control and kills him out of anger. Lennart disposes of the evidence, and encounters a young Ukrainian boy named Bodashka. The Riders interrogate Bodashka for information, leading to their identification of Emmenthaler.\nThe Riders attempt a drive-by shooting on the group, but Markus is able to kill the attackers and rescue Bodashka. Mathilde discovers one of the group's meetings, and Lennart lies and explains that they are actually a therapy group attempting to help Markus with his trauma.\nAs the ensemble prepares another hit on the Riders of Justice, Bodashka explains that the suspicious man was not on the train; Lennart and Otto had convinced Emmenthaler to accept a less accurate facial recognition result, and the suspicious man was actually an Egyptian tourist, meaning that their crusade against the Riders of Justice was committed in error, and the evidence they relied on was a simple coincidence. Markus, learning this, breaks down in anger and frustration, finally lowering his stony facade and crying.\nThe next day, the Riders follow social media connections left by Mathilde's boyfriend and attack the group at Markus' house. Several of them are injured, Mathilde is taken hostage, and Markus is disarmed by the Riders. Otto, Lennart, and Emmenthaler, using weapons training Markus gave them earlier, ambush and kill the Riders, saving Markus and Mathilde.\nA few months later, during Christmas, the entire group have joined to celebrate and open presents, and Markus and Mathilde have reconciled.",
+    "wikipedia_plot_html": "<p>Mathilde loses her mother in a train accident and her father, Markus, a serving soldier in Afghanistan, comes home to console his grieving daughter. Mathilde and Markus find it difficult to come to terms with the tragedy, causing strain in their relationship. However, Markus is approached by a man named Otto (who was on the same train with Markus's wife) who informs him that the train accident wasn't a coincidence, but a planned murder to eliminate a key witness about to give evidence against the leader of the \"Riders of Justice\" motorbike-criminal gang.\n</p><p>With the help of Otto's friends, Lennart and Emmenthaler, the group identifies a suspicious man who left the train seconds before the accident as the brother of the Riders of Justice's leader. The group goes to the man's house, intending to interrogate him for information about the accident, but Markus loses control and kills him out of anger. Lennart disposes of the evidence, and encounters a young Ukrainian boy named Bodashka. The Riders interrogate Bodashka for information, leading to their identification of Emmenthaler.\n</p><p>The Riders attempt a drive-by shooting on the group, but Markus is able to kill the attackers and rescue Bodashka. Mathilde discovers one of the group's meetings, and Lennart lies and explains that they are actually a therapy group attempting to help Markus with his trauma.\n</p><p>As the ensemble prepares another hit on the Riders of Justice, Bodashka explains that the suspicious man was not on the train; Lennart and Otto had convinced Emmenthaler to accept a less accurate facial recognition result, and the suspicious man was actually an Egyptian tourist, meaning that their crusade against the Riders of Justice was committed in error, and the evidence they relied on was a simple coincidence. Markus, learning this, breaks down in anger and frustration, finally lowering his stony facade and crying.\n</p><p>The next day, the Riders follow social media connections left by Mathilde's boyfriend and attack the group at Markus' house. Several of them are injured, Mathilde is taken hostage, and Markus is disarmed by the Riders. Otto, Lennart, and Emmenthaler, using weapons training Markus gave them earlier, ambush and kill the Riders, saving Markus and Mathilde.\n</p><p>A few months later, during Christmas, the entire group have joined to celebrate and open presents, and Markus and Mathilde have reconciled.\n</p>",
+    "wikipedia_critics": "Review aggregator Rotten Tomatoes reports an approval rating of 96% based on 122 reviews, with an average rating of 8/10. The website's critics consensus reads: \"A darkly humorous revenge thriller with satisfying depth and a dash of savory quirk, Riders of Justice makes another compelling case for Mads Mikkelsen as an all-purpose leading man.\" Metacritic, which uses a weighted average, assigned the film a score of 81 out of 100, based on 25 critics, indicating \"universal acclaim\".The film was met with a favorable critical response from the Danish press. Politiken called Riders of Justice \"Anders Thomas Jensen's best movie since Flickering Lights\", giving it 5 out of 6 hearts.B.T. remarked that the movie does not have as many memorable scenes as a number of Anders Thomas Jensen's previous movies, but has as significant an emotional impact as Another Round, another film released that year with Mikkelsen in a leading role.",
+    "wikipedia_full_html": "<p><i><b>Riders of Justice</b></i> (Danish: <i lang=\"da\"><b>Retf\u00e6rdighedens Ryttere</b></i>) is a 2020 Danish action comedy film directed and written by Anders Thomas Jensen. The film was released in Denmark on 19 November 2020, receiving positive reviews from critics.\n</p>\n\n<h2>Plot</h2>\n<p>Mathilde loses her mother in a train accident and her father, Markus, a serving soldier in Afghanistan, comes home to console his grieving daughter. Mathilde and Markus find it difficult to come to terms with the tragedy, causing strain in their relationship. However, Markus is approached by a man named Otto (who was on the same train with Markus's wife) who informs him that the train accident wasn't a coincidence, but a planned murder to eliminate a key witness about to give evidence against the leader of the \"Riders of Justice\" motorbike-criminal gang.\n</p><p>With the help of Otto's friends, Lennart and Emmenthaler, the group identifies a suspicious man who left the train seconds before the accident as the brother of the Riders of Justice's leader. The group goes to the man's house, intending to interrogate him for information about the accident, but Markus loses control and kills him out of anger. Lennart disposes of the evidence, and encounters a young Ukrainian boy named Bodashka. The Riders interrogate Bodashka for information, leading to their identification of Emmenthaler.\n</p><p>The Riders attempt a drive-by shooting on the group, but Markus is able to kill the attackers and rescue Bodashka. Mathilde discovers one of the group's meetings, and Lennart lies and explains that they are actually a therapy group attempting to help Markus with his trauma.\n</p><p>As the ensemble prepares another hit on the Riders of Justice, Bodashka explains that the suspicious man was not on the train; Lennart and Otto had convinced Emmenthaler to accept a less accurate facial recognition result, and the suspicious man was actually an Egyptian tourist, meaning that their crusade against the Riders of Justice was committed in error, and the evidence they relied on was a simple coincidence. Markus, learning this, breaks down in anger and frustration, finally lowering his stony facade and crying.\n</p><p>The next day, the Riders follow social media connections left by Mathilde's boyfriend and attack the group at Markus' house. Several of them are injured, Mathilde is taken hostage, and Markus is disarmed by the Riders. Otto, Lennart, and Emmenthaler, using weapons training Markus gave them earlier, ambush and kill the Riders, saving Markus and Mathilde.\n</p><p>A few months later, during Christmas, the entire group have joined to celebrate and open presents, and Markus and Mathilde have reconciled.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Mads Mikkelsen as Markus Hansen <small> (nomination for Robert Award for Best Actor in a Leading Role 2021)</small></li>\n<li>Nikolaj Lie Kaas as Otto Hoffmann</li>\n<li>Andrea Heick Gadeberg as Mathilde Hansen</li>\n<li>Lars Brygmann as Lennart <small>(Robert Award for Best Actor in a Supporting Role 2021)</small></li>\n<li>Nicolas Bro as Emmenthaler</li>\n<li>Gustav Lindh as Bodashka</li>\n<li>Roland M\u00f8ller as Kurt</li>\n<li>Albert Rudbeck Lindhardt as Sirius</li>\n<li>Anne Birgitte Lind as Emma Hansen</li>\n<li>Omar Shargawi as Palle Olesen / Aharon Nahas Shadid</li>\n<li>Jacob Lohmann as Kenneth</li>\n<li>Henrik No\u00ebl Olesen as Noah</li>\n<li>Gustav Dyekj\u00e6r Giese as Adrian</li></ul>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>The movie opened to Danish cinemas on November 19, 2020, selling 150,486 tickets for the opening weekend and pre-premieres; beating out <i>Another Round</i> for best selling opening weekend in Denmark that year.</p>\n\n<h3>Critical response</h3>\n<p>Review aggregator Rotten Tomatoes reports an approval rating of 96% based on 122 reviews, with an average rating of 8/10. The website's critics consensus reads: \"A darkly humorous revenge thriller with satisfying depth and a dash of savory quirk, <i>Riders of Justice</i> makes another compelling case for Mads Mikkelsen as an all-purpose leading man.\" Metacritic, which uses a weighted average, assigned the film a score of 81 out of 100, based on 25 critics, indicating \"universal acclaim\".</p><p>The film was met with a favorable critical response from the Danish press. <i>Politiken</i> called <i>Riders of Justice</i> \"Anders Thomas Jensen's best movie since <i>Flickering Lights</i>\", giving it 5 out of 6 hearts.</p><p><i>B.T.</i> remarked that the movie does not have as many memorable scenes as a number of Anders Thomas Jensen's previous movies, but has as significant an emotional impact as <i>Another Round</i>, another film released that year with Mikkelsen in a leading role.\n</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Riders of Justice</i> at IMDb</li></ul>"
+}

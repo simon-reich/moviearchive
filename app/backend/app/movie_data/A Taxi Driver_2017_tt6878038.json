@@ -1,0 +1,1622 @@
+{
+    "adult": false,
+    "backdrop_path": "/7PL3DCHgYapI8QKDVLfxToCHWkZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 12820005,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 437068,
+    "imdb_id": "tt6878038",
+    "original_language": "ko",
+    "original_title": "\ud0dd\uc2dc\uc6b4\uc804\uc0ac",
+    "overview": "May, 1980. Man-seob is a taxi driver in Seoul who lives from hand to mouth, raising his young daughter alone. One day, he hears that there is a foreigner who will pay big money for a drive down to Gwangju city. Not knowing that he\u2019s a German journalist with a hidden agenda, Man-seob takes the job.",
+    "popularity": 38.157,
+    "poster_path": "/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg",
+    "production_companies": [
+        {
+            "id": 92012,
+            "logo_path": "/lGELj7l0lQpnbC4uYm3nX4jS4d1.png",
+            "name": "The LAMP",
+            "origin_country": "KR"
+        },
+        {
+            "id": 3491,
+            "logo_path": "/uKP7h0WRYRK3jAWqrlohB6hO4pk.png",
+            "name": "Showbox",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2017-08-02",
+    "revenue": 81927980,
+    "runtime": 138,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Based on true events, an untold story of a taxi driver.",
+    "title": "A Taxi Driver",
+    "video": false,
+    "vote_average": 8.07,
+    "vote_count": 855,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20738,
+                "known_for_department": "Acting",
+                "name": "Song Kang-ho",
+                "original_name": "Song Kang-ho",
+                "popularity": 17.447,
+                "profile_path": "/dyWUKQlNyr7SUAjo58VZXvPODkr.jpg",
+                "cast_id": 0,
+                "character": "Kim Man-seob",
+                "credit_id": "5887819cc3a36839390052d0",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3491,
+                "known_for_department": "Acting",
+                "name": "Thomas Kretschmann",
+                "original_name": "Thomas Kretschmann",
+                "popularity": 25.746,
+                "profile_path": "/7M0P39a3CVA22dJyv5YQEkTThU7.jpg",
+                "cast_id": 1,
+                "character": "Peter",
+                "credit_id": "588781b5c3a368358a00582b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84996,
+                "known_for_department": "Acting",
+                "name": "Yoo Hae-jin",
+                "original_name": "Yoo Hae-jin",
+                "popularity": 14.402,
+                "profile_path": "/y6L2EsmnbnCFxCgfHR2oeL7oQoo.jpg",
+                "cast_id": 2,
+                "character": "Hwang Tae-sul",
+                "credit_id": "588781c2925141656d00522a",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1530733,
+                "known_for_department": "Acting",
+                "name": "Ryu Jun-yeol",
+                "original_name": "Ryu Jun-yeol",
+                "popularity": 16.711,
+                "profile_path": "/5CYYuEiAocVRRhmrvUrithsCpil.jpg",
+                "cast_id": 3,
+                "character": "Gu Jae-sik",
+                "credit_id": "588781d09251416668005010",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587676,
+                "known_for_department": "Acting",
+                "name": "Park Hyeok-kwon",
+                "original_name": "Park Hyeok-kwon",
+                "popularity": 11.349,
+                "profile_path": "/pigJfp2H6bcnW5qEZ2KOaI4PSEI.jpg",
+                "cast_id": 19,
+                "character": "Reporter Choi",
+                "credit_id": "5ac9cabac3a36834e8059a92",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150697,
+                "known_for_department": "Acting",
+                "name": "Ko Chang-seok",
+                "original_name": "Ko Chang-seok",
+                "popularity": 9.974,
+                "profile_path": "/zhR1UpGXvh5oEsKNixHHoyfeoZH.jpg",
+                "cast_id": 7,
+                "character": "Sang-gu's Father",
+                "credit_id": "598710bcc3a368323401b3d7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 150126,
+                "known_for_department": "Acting",
+                "name": "Jeon Hye-jin",
+                "original_name": "Jeon Hye-jin",
+                "popularity": 6.956,
+                "profile_path": "/7PliJIOzUei41vyE9FaIWvFMNzC.jpg",
+                "cast_id": 8,
+                "character": "Sang-gu's Mother",
+                "credit_id": "598710d49251413d4a0196af",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1418581,
+                "known_for_department": "Acting",
+                "name": "Choi Gwi-hwa",
+                "original_name": "Choi Gwi-hwa",
+                "popularity": 19.073,
+                "profile_path": "/aYiS6jQNNmOSfzcobDs12pLOOjj.jpg",
+                "cast_id": 9,
+                "character": "Civvies Leader",
+                "credit_id": "59a17706925141774b02b76e",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1436248,
+                "known_for_department": "Acting",
+                "name": "Um Tae-goo",
+                "original_name": "Um Tae-goo",
+                "popularity": 12.435,
+                "profile_path": "/gUhi5YnUGQQ9k4RKWaVZmw7skgX.jpg",
+                "cast_id": 20,
+                "character": "Sergeant First Class Park",
+                "credit_id": "5b23fa860e0a26562f000db6",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1957562,
+                "known_for_department": "Acting",
+                "name": "Joey Albright",
+                "original_name": "Joey Albright",
+                "popularity": 3.758,
+                "profile_path": "/fKGOybn9ZtjyaXk9fa2zY1dXc1m.jpg",
+                "cast_id": 11,
+                "character": "BBC Reporter David John",
+                "credit_id": "5a56858d0e0a2607ec02d25c",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1572354,
+                "known_for_department": "Acting",
+                "name": "Lee Jung-eun",
+                "original_name": "Lee Jung-eun",
+                "popularity": 18.92,
+                "profile_path": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg",
+                "cast_id": 41,
+                "character": "Tae-sul's Wife",
+                "credit_id": "5c70eb320e0a262c0c7a0c4b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96484,
+                "known_for_department": "Acting",
+                "name": "Jung Jin-young",
+                "original_name": "Jung Jin-young",
+                "popularity": 13.381,
+                "profile_path": "/ipBYiyEfFrffCoTpoSiEChHDwz4.jpg",
+                "cast_id": 42,
+                "character": "Reporter Lee",
+                "credit_id": "5c70eb630e0a262c117a09ee",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1136064,
+                "known_for_department": "Acting",
+                "name": "Ryu Tae-ho",
+                "original_name": "Ryu Tae-ho",
+                "popularity": 6.426,
+                "profile_path": "/3vnSlWZNQJXXS0UMW5LC95lslhh.jpg",
+                "cast_id": 43,
+                "character": "Newspaper Manager",
+                "credit_id": "5c70eb8dc3a3685a4011ed89",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17127,
+                "known_for_department": "Acting",
+                "name": "Jeong Seok-yong",
+                "original_name": "Jeong Seok-yong",
+                "popularity": 5.393,
+                "profile_path": "/tyTSdGaVKotPmJXGNtz6fXoj8Tc.jpg",
+                "cast_id": 44,
+                "character": "Car Center Manager",
+                "credit_id": "5c70ebb20e0a262c067a195b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2101538,
+                "known_for_department": "Acting",
+                "name": "Cha Soon-bae",
+                "original_name": "Cha Soon-bae",
+                "popularity": 6.031,
+                "profile_path": "/7oDDNlBZRUb9M7VxM5X1p1eXw4c.jpg",
+                "cast_id": 45,
+                "character": "Driver Cha",
+                "credit_id": "5c70ec3d9251415eecafda59",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3592921,
+                "known_for_department": "Acting",
+                "name": "Shin Dam-su",
+                "original_name": "Shin Dam-su",
+                "popularity": 1.788,
+                "profile_path": "/AjvP3uNhS2XoROTRmHmKHGF8pfB.jpg",
+                "cast_id": 72,
+                "character": "Driver Shin",
+                "credit_id": "62adb4ce4142910051c8c959",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1988030,
+                "known_for_department": "Acting",
+                "name": "Ryu Sung-hyun",
+                "original_name": "Ryu Sung-hyun",
+                "popularity": 3.408,
+                "profile_path": "/5841sEgkOQdiNxlacRjUWwknyhl.jpg",
+                "cast_id": 71,
+                "character": "Driver Ryoo",
+                "credit_id": "62adb4b06f31af03a8d6baf4",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1671441,
+                "known_for_department": "Acting",
+                "name": "Heo Jeong-do",
+                "original_name": "Heo Jeong-do",
+                "popularity": 14.714,
+                "profile_path": "/bydtqmIPSPPrQwsIjiPtNrJd8Lr.jpg",
+                "cast_id": 51,
+                "character": "Seoul Man",
+                "credit_id": "5d04a06bc3a3680a571e6dad",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2220866,
+                "known_for_department": "Acting",
+                "name": "Kyul Hwi",
+                "original_name": "Kyul Hwi",
+                "popularity": 1.644,
+                "profile_path": "/1vLUHl8rU1ME4twPBRBbwLxMxTI.jpg",
+                "cast_id": 52,
+                "character": "Checkpoint Soldier 2",
+                "credit_id": "5d4184ff34e15216ffe896fb",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1591370,
+                "known_for_department": "Acting",
+                "name": "Seo Hyun-woo",
+                "original_name": "Seo Hyun-woo",
+                "popularity": 12.192,
+                "profile_path": "/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg",
+                "cast_id": 55,
+                "character": "Security Command",
+                "credit_id": "6001ae9b326c19003e81628c",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2097061,
+                "known_for_department": "Acting",
+                "name": "Lee Sae-byeol",
+                "original_name": "Lee Sae-byeol",
+                "popularity": 3.816,
+                "profile_path": "/plu6JiZ0T334qtmeangxBtSCbR6.jpg",
+                "cast_id": 56,
+                "character": "Female College Student with Rice Balls",
+                "credit_id": "601612a43e09f3003c415e25",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2252328,
+                "known_for_department": "Acting",
+                "name": "Lee Ho-chul",
+                "original_name": "Lee Ho-chul",
+                "popularity": 3.095,
+                "profile_path": "/2PGPILdi22UagXQVEhzEZWTwqze.jpg",
+                "cast_id": 75,
+                "character": "Hong Yong-pyo",
+                "credit_id": "6365e996e004a600815c9616",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 141157,
+                "known_for_department": "Acting",
+                "name": "Lee Yong-i",
+                "original_name": "Lee Yong-i",
+                "popularity": 5.529,
+                "profile_path": "/5A5gD6gqTes8w1sFCOLrxtxiIOf.jpg",
+                "cast_id": 61,
+                "character": "Hong Yong-pyo's Mother",
+                "credit_id": "60b97f4cc2f44b006d6405e7",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2197696,
+                "known_for_department": "Acting",
+                "name": "Han Sa-myung",
+                "original_name": "Han Sa-myung",
+                "popularity": 5.523,
+                "profile_path": "/dVqixdKE1x0EkD1I4r3BscazTP3.jpg",
+                "cast_id": 64,
+                "character": "College Student Demonstrator",
+                "credit_id": "6123f86a501cf200462bc0a3",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 572173,
+                "known_for_department": "Acting",
+                "name": "Choi Jae-sup",
+                "original_name": "Choi Jae-sup",
+                "popularity": 2.744,
+                "profile_path": "/AblXBoGtLVLCiKIDvt175DMdk6d.jpg",
+                "cast_id": 77,
+                "character": "Delivery Driver",
+                "credit_id": "63d67e5420e6a500bc00d0a1",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4038334,
+                "known_for_department": "Acting",
+                "name": "Yang Shin-ji",
+                "original_name": "Yang Shin-ji",
+                "popularity": 1.932,
+                "profile_path": null,
+                "cast_id": 78,
+                "character": "Airport Counter Employee",
+                "credit_id": "644fb4343503980321d471a8",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2133921,
+                "known_for_department": "Acting",
+                "name": "Lee Bong-ryeon",
+                "original_name": "Lee Bong-ryeon",
+                "popularity": 14.98,
+                "profile_path": "/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg",
+                "cast_id": 79,
+                "character": "Seoul Pregnant Woman",
+                "credit_id": "64688e322bcf670172b125e4",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4315852,
+                "known_for_department": "Acting",
+                "name": "Park Sung-hyun",
+                "original_name": "Park Sung-hyun",
+                "popularity": 1.38,
+                "profile_path": "/AjxYytkeqruVt2C2JsWTfFLkz0J.jpg",
+                "cast_id": 80,
+                "character": "Reporter",
+                "credit_id": "652694a8ea84c700eb9fe0cf",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10108,
+                "known_for_department": "Editing",
+                "name": "Kim Sang-bum",
+                "original_name": "Kim Sang-bum",
+                "popularity": 3.842,
+                "profile_path": "/nojYhmyW89hLohQsRw1uIbeCBSa.jpg",
+                "credit_id": "5c05f02692514116540d9985",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37930,
+                "known_for_department": "Sound",
+                "name": "Cho Young-wuk",
+                "original_name": "Cho Young-wuk",
+                "popularity": 3.397,
+                "profile_path": "/x2L4b4FjEPoPq2lLOeV9EaSHM4z.jpg",
+                "credit_id": "5b2d2dc20e0a264ae70004c3",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38016,
+                "known_for_department": "Editing",
+                "name": "Kim Jae-beom",
+                "original_name": "Kim Jae-beom",
+                "popularity": 2.665,
+                "profile_path": null,
+                "credit_id": "5c05f03492514116540d999c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38017,
+                "known_for_department": "Art",
+                "name": "Jo Hwa-seong",
+                "original_name": "Jo Hwa-seong",
+                "popularity": 3.363,
+                "profile_path": null,
+                "credit_id": "5a5686b00e0a2607e402e46c",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43570,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cho Sang-kyung",
+                "original_name": "Cho Sang-kyung",
+                "popularity": 3.641,
+                "profile_path": "/aTd5Tq5P6a41Q4kYRn9yxuj8xy8.jpg",
+                "credit_id": "5c05f07d9251417e2e080d06",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 148747,
+                "known_for_department": "Directing",
+                "name": "Jang Hoon",
+                "original_name": "Jang Hoon",
+                "popularity": 3.275,
+                "profile_path": "/oKksQCw61rym2D79Sh4IHdQpnvB.jpg",
+                "credit_id": "588781eec3a3683b93004893",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1294077,
+                "known_for_department": "Camera",
+                "name": "Go Rak-sun",
+                "original_name": "Go Rak-sun",
+                "popularity": 4.222,
+                "profile_path": null,
+                "credit_id": "5b2d25f4c3a368476200003d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1326166,
+                "known_for_department": "Camera",
+                "name": "Park Se-seung",
+                "original_name": "Park Se-seung",
+                "popularity": 1.388,
+                "profile_path": null,
+                "credit_id": "5cb882750e0a266b9bf15146",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1440491,
+                "known_for_department": "Production",
+                "name": "Bo Rosenm\u00fcller",
+                "original_name": "Bo Rosenm\u00fcller",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5a5685ef9251417a9702bade",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1843793,
+                "known_for_department": "Writing",
+                "name": "Eom Yu-na",
+                "original_name": "Eom Yu-na",
+                "popularity": 2.062,
+                "profile_path": null,
+                "credit_id": "595a2a789251410c5603736d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1957564,
+                "known_for_department": "Sound",
+                "name": "Falko Duczmal",
+                "original_name": "Falko Duczmal",
+                "popularity": 1.394,
+                "profile_path": null,
+                "credit_id": "5bd0bd2392514168ea0005cd",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1957564,
+                "known_for_department": "Sound",
+                "name": "Falko Duczmal",
+                "original_name": "Falko Duczmal",
+                "popularity": 1.394,
+                "profile_path": null,
+                "credit_id": "5b2d2d8cc3a368476b0004b8",
+                "department": "Crew",
+                "job": "Mixing Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1957567,
+                "known_for_department": "Art",
+                "name": "Jeong Yi-jin",
+                "original_name": "Jeong Yi-jin",
+                "popularity": 2.244,
+                "profile_path": null,
+                "credit_id": "5a56866c9251417a9702bb42",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2078582,
+                "known_for_department": "Sound",
+                "name": "Choi Tae-young",
+                "original_name": "Choi Tae-young",
+                "popularity": 5.586,
+                "profile_path": "/rVi3rqXJ3E9GD9H2vJzZdvrTndW.jpg",
+                "credit_id": "5c185eda0e0a26037f3eae13",
+                "department": "Sound",
+                "job": "Sound Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2100270,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kwak Tae-yong",
+                "original_name": "Kwak Tae-yong",
+                "popularity": 3.448,
+                "profile_path": null,
+                "credit_id": "5d9e9a3165686e003761793a",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2100272,
+                "known_for_department": "Sound",
+                "name": "Gang Hye-yeong",
+                "original_name": "Gang Hye-yeong",
+                "popularity": 4.651,
+                "profile_path": null,
+                "credit_id": "5c4ad47dc3a36847778ca960",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2159397,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kim Ka-ryoon",
+                "original_name": "Kim Ka-ryoon",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5bd0bce6c3a3686875000775",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2159398,
+                "known_for_department": "Crew",
+                "name": "Si Jung-yoo",
+                "original_name": "Si Jung-yoo",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "5bd0bcfbc3a3686883000947",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2159399,
+                "known_for_department": "Crew",
+                "name": "Felix Trawoeger",
+                "original_name": "Felix Trawoeger",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bd0bd3892514168f90008e0",
+                "department": "Crew",
+                "job": "Score Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2159401,
+                "known_for_department": "Production",
+                "name": "Seo Kang-ho",
+                "original_name": "Seo Kang-ho",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "5bd0bd5992514168f50006d4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2159402,
+                "known_for_department": "Production",
+                "name": "Yoon Seo-young",
+                "original_name": "Yoon Seo-young",
+                "popularity": 1.298,
+                "profile_path": null,
+                "credit_id": "5c05f107c3a36863700e06af",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2188187,
+                "known_for_department": "Production",
+                "name": "Choi Ki-sup",
+                "original_name": "Choi Ki-sup",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "5cf3baedc3a36861781f8c01",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2188188,
+                "known_for_department": "Production",
+                "name": "Park Un-kyoung",
+                "original_name": "Park Un-kyoung",
+                "popularity": 1.621,
+                "profile_path": null,
+                "credit_id": "5cf3bace9251412e55b96720",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2197063,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kim Seo-young",
+                "original_name": "Kim Seo-young",
+                "popularity": 3.115,
+                "profile_path": "/hHVfNMZc1hikOFk6a6mGfTNt2g.jpg",
+                "credit_id": "5c178a320e0a26037f3e3634",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2197563,
+                "known_for_department": "Visual Effects",
+                "name": "Hong Jang-pyo",
+                "original_name": "Hong Jang-pyo",
+                "popularity": 4.116,
+                "profile_path": null,
+                "credit_id": "621067524f9a99006c237a2d",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2213287,
+                "known_for_department": "Crew",
+                "name": "Hwang Jin-mo",
+                "original_name": "Hwang Jin-mo",
+                "popularity": 2.754,
+                "profile_path": null,
+                "credit_id": "6071c896dd471600299fed32",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2309964,
+                "known_for_department": "Writing",
+                "name": "Jo Seul-yeah",
+                "original_name": "Jo Seul-yeah",
+                "popularity": 2.254,
+                "profile_path": null,
+                "credit_id": "5cd6b02d0e0a263080cb8590",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2310033,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Choi Yoon-sun",
+                "original_name": "Choi Yoon-sun",
+                "popularity": 1.844,
+                "profile_path": null,
+                "credit_id": "5cd6cd720e0a262e51cbc29a",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2447853,
+                "known_for_department": "Crew",
+                "name": "Jeong Bong-yeon",
+                "original_name": "Jeong Bong-yeon",
+                "popularity": 3.771,
+                "profile_path": null,
+                "credit_id": "606615bbbc2cb3002ab998b8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2825267,
+                "known_for_department": "Lighting",
+                "name": "Lee Seung-bin",
+                "original_name": "Lee Seung-bin",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5f914e4284f2490037f59df5",
+                "department": "Lighting",
+                "job": "Lighting Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2839378,
+                "known_for_department": "Production",
+                "name": "Kim Do-su",
+                "original_name": "Kim Do-su",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "60e455456ee3d7005e4e33e1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2965655,
+                "known_for_department": "Visual Effects",
+                "name": "Park Dae-hun",
+                "original_name": "Park Dae-hun",
+                "popularity": 1.371,
+                "profile_path": null,
+                "credit_id": "601d3aa57ad08c0041e0bcf1",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3032345,
+                "known_for_department": "Crew",
+                "name": "Yang Hae-gil",
+                "original_name": "Yang Hae-gil",
+                "popularity": 4.748,
+                "profile_path": null,
+                "credit_id": "607a69017776f0006dced57c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3200681,
+                "known_for_department": "Sound",
+                "name": "Han Cheol-hui",
+                "original_name": "Han Cheol-hui",
+                "popularity": 2.793,
+                "profile_path": null,
+                "credit_id": "6207702bdb154f010de5af6c",
+                "department": "Sound",
+                "job": "Production Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3200807,
+                "known_for_department": "Visual Effects",
+                "name": "Park Ui-dong",
+                "original_name": "Park Ui-dong",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "62522f49a6c104320b2f6f42",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3333957,
+                "known_for_department": "Editing",
+                "name": "Jeong Hye-gyeong",
+                "original_name": "Jeong Hye-gyeong",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "61aa2c49c5c1ef00450044fb",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3377895,
+                "known_for_department": "Production",
+                "name": "Jung Hyun-ju",
+                "original_name": "Jung Hyun-ju",
+                "popularity": 1.975,
+                "profile_path": null,
+                "credit_id": "61dd71461d6c5f006ac62af4",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3409169,
+                "known_for_department": "Crew",
+                "name": "Lee Tae-ho",
+                "original_name": "Lee Tae-ho",
+                "popularity": 0.697,
+                "profile_path": null,
+                "credit_id": "61fa71088c0a4800c0fa1bf2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3697990,
+                "known_for_department": "Visual Effects",
+                "name": "Bae Sang-min",
+                "original_name": "Bae Sang-min",
+                "popularity": 1.516,
+                "profile_path": null,
+                "credit_id": "631f39909c24fc0091e2d2d5",
+                "department": "Visual Effects",
+                "job": "Matte Painter"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3700660,
+                "known_for_department": "Camera",
+                "name": "Kim Do-gyun",
+                "original_name": "Kim Do-gyun",
+                "popularity": 1.48,
+                "profile_path": null,
+                "credit_id": "6321dc9b9a3c49007ddf3a5b",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3891527,
+                "known_for_department": "Art",
+                "name": "Kim Min-hye",
+                "original_name": "Kim Min-hye",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "63d27f63cb71b80081029477",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A Taxi Driver Trailer #1 (2017) | Movieclips Indie",
+                "key": "bB7z4Xn5oNA",
+                "published_at": "2017-07-07T19:41:12.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": false,
+                "id": "595fea9d925141790400fc4f"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": null,
+                "file_path": "/7PL3DCHgYapI8QKDVLfxToCHWkZ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": null,
+                "file_path": "/eEJVX5w6rbeQGls3pNY7wYhB5YB.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1518,
+                "iso_639_1": null,
+                "file_path": "/dbXjTu5J00kCggPnQlDpVZmDBil.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 2700
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": null,
+                "file_path": "/2H8edBAJZ6RqQWXwcd3j48Qhqrj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/zaQ45ZiWnaqpt0vSrthNTpKjWBV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": null,
+                "file_path": "/5l2kTFOC9QicBxOVpocy5pSu4i8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": null,
+                "file_path": "/w4MDGRUzcsKLDIcUy7XzYuU703v.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 753,
+                "iso_639_1": null,
+                "file_path": "/pGV7148yHOE7PYEyhfDkfrZ93IC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1338
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/bJsXNCrnDvimkiONmck2VHNGEAA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/837lvaHbXol6cMdnKQSKLNgjl36.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/i4VxCt7vM9Aq1yPcJMY65ycD8Di.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/oHVISHS7gedXMPaNMbw314LB8ml.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/pr1I2ikcRqIcSvbWNi6B6ni38vv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/e7hRd6zlKot5e6v5YOWihs4Jiom.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/1q9JVXo38DRa35m16LR27mvxt4C.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/2AGtA6BNZhRgJnESbIuIvcivc6B.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1350,
+                "iso_639_1": null,
+                "file_path": "/ffsoe0R3Q6Y4SIlP6qpyqRDxfr4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2400
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/z6IoLC3DM6KBOYdgQQbMxBgt28e.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/1ZjCB7Das8VSoA3LPtETASAEH3t.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/qUKfdyVwthiT6sXNPg04sgdWxT3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": null,
+                "file_path": "/s1oSLpSEBLnfWcNlO3SD0K7Nvdm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "en",
+                "file_path": "/7DFyQtybrS3la3ktdtyiqdnOKjb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 2.353,
+                "height": 544,
+                "iso_639_1": "ja",
+                "file_path": "/i7bNGyVZQu0JBhQv3HSqUtZ38oQ.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 10.144,
+                "height": 236,
+                "iso_639_1": "en",
+                "file_path": "/yenD4wHxejGgH7AN1hPpvAw0B1k.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2394
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg",
+                "vote_average": 5.714,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/pCdx7X5JLaSJZLNVtpryGSdjvvB.jpg",
+                "vote_average": 5.588,
+                "vote_count": 5,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/QbkBqgBc6TCufd0ThoGdUhlE3V.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 1382
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/cQoAmOh3DbXdPGKWobwzEpFpRZ6.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/xvtFRbIf5oGPcI4OI199Msup4dD.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/j4nH0vVhs7hD7KqsXv0YMNXdYQx.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2976,
+                "iso_639_1": "zh",
+                "file_path": "/kZJa2WIVG7QzXQ6JQZjhxC1qVP0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1984
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/hx8KzQ9C1UoshyTGf094dCIDsfi.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/pqlUdM3TxZVSYNKT2oI31T1mUDd.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/rq3byy19JW9O2uYBGrb0HyIJ5Hb.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 666
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/uQNHIaOywOOBYnhdagbV0D6Bp8F.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1382
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 2141,
+                "iso_639_1": "en",
+                "file_path": "/kH4qJl2qGNh2H57lRsFyzInm7yh.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.684,
+                "height": 1080,
+                "iso_639_1": "pt",
+                "file_path": "/mitsWtcDYrax8IxUw8McBWmtcHI.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 739
+            },
+            {
+                "aspect_ratio": 0.671,
+                "height": 1819,
+                "iso_639_1": "ko",
+                "file_path": "/7GzY90szD061de6OhI9qZwkm1TL.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1220
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/al6r5mXPBax10SHZrWa9ILMbmy0.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 714
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/ahqAmgWohd38Qqqnh83zRuq1W7M.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 664
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/rOLyuOH0QCb44nTCjrivRhiGOAe.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/wyJ2Y6uKsJfAImV2xYYvC7G5wV1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.697,
+                "height": 1864,
+                "iso_639_1": "ko",
+                "file_path": "/4eJCevg9d0LSTO6bZwNujiEePP9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/9RZ1G6ZEbCuUyCm3WNkswNVZeOA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/3AT0SOEB6bPlggGddLMraOfHIx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/fdgkgX2n4YqN0AUfpYLARFH5vIG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 915,
+                "iso_639_1": "zh",
+                "file_path": "/uq5QUIlT4inLH6jDVD5WM3YXMag.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 611
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2048,
+                "iso_639_1": "pl",
+                "file_path": "/nh6ATHTv2uuGlphmhTTFUdAJKuE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1382
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 979,
+                "iso_639_1": "fr",
+                "file_path": "/5n7sbyS3QTIIZ1epq7QiNxUwWpK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 663
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "ru",
+                "file_path": "/4xVDYysqRwR1dIq9fRzt7qYIhj6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/45oP9Fng0vf6yO4wanjM70NPBFY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ko",
+                "file_path": "/i53YkfieSaBLSXawc4uli9cD09X.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "en",
+                "file_path": "/pD9EXASWhzBFpNu5wSw25RlcVzS.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1856,
+                "iso_639_1": "ko",
+                "file_path": "/3JdKdOLw629EdXc3p3fxnkeEp0B.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/qfgUswWo9MRzRUW1WUjkKbpBVVl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "zh",
+                "file_path": "/f27pjtAXJFT6kMuV3IlMdSjv8wW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 444,
+                "name": "taxi"
+            },
+            {
+                "id": 1749,
+                "name": "taxi driver"
+            },
+            {
+                "id": 4108,
+                "name": "protest"
+            },
+            {
+                "id": 9672,
+                "name": "based on true story"
+            },
+            {
+                "id": 33640,
+                "name": "democracy"
+            },
+            {
+                "id": 159289,
+                "name": "historical event"
+            },
+            {
+                "id": 208289,
+                "name": "1980s"
+            },
+            {
+                "id": 231977,
+                "name": "gwangju uprising"
+            },
+            {
+                "id": 253157,
+                "name": "gwangju"
+            },
+            {
+                "id": 259773,
+                "name": "democratization movement"
+            },
+            {
+                "id": 261681,
+                "name": "south korea"
+            }
+        ]
+    },
+    "title_english": "A Taxi Driver",
+    "year": "2017",
+    "rated": "Not Rated",
+    "director_list": [
+        "Hun Jang"
+    ],
+    "writer_list": [
+        "Yu-na Eom"
+    ],
+    "main_cast": [
+        "Song Kang-ho",
+        " Thomas Kretschmann",
+        " Yoo Hae-jin"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "imdb_rating": "7.9",
+    "imdb_votes": "29,197",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Taxi_Driver",
+    "wikipedia_summary": "A Taxi Driver (Korean: \ud0dd\uc2dc\uc6b4\uc804\uc0ac) is a 2017 South Korean historical action drama film directed by Jang Hoon and written by Eom Yu-na, with Song Kang-ho starring in the lead role, alongside Thomas Kretschmann, Yoo Hae-jin, and Ryu Jun-yeol.Based on a real-life story, the film centers on a taxi driver from Seoul who unintentionally becomes involved in the events of the Gwangju Uprising in 1980. It is based on German journalist J\u00fcrgen Hinzpeter's interactions with driver Kim Sa-bok; however, as very little information on Kim was  known at the time the film was made, most elements regarding his life and the events that happened to him outside of Gwangju are fictional.\nThe film was released on August 2, 2017, in South Korea. It was very positively received by critics, who praised its unique approach to depicting the Gwangju Uprising events, emotional weight, as well as the main character and his relationship with Hinzpeter, and was selected as the South Korean entry for the Best Foreign Language Film at the 90th Academy Awards. The film was a notable commercial success: it was the second highest grossing film of 2017 in South Korea, and currently stands as the thirteenth highest-grossing South Korean film in history.",
+    "wikipedia_plot": "In 1980, Kim Man-seob is a debt-laden widower who works as a taxi driver in Seoul. Overhearing another taxi driver bragging about a 100,000 won job to bring a foreign client to Gwangju, Man-seob steals the client, unaware of the events in Gwangju. The client is J\u00fcrgen \"Peter\" Hinzpeter, a German journalist wanting to report on the increasing civil unrest in Gwangju. The two men are stopped by soldiers as they approach Gwangju, but manage to enter with Peter posing as a businessman.\nIn Gwangju, they encounter a group of college students, who warm up to Peter and invites him aboard their pickup truck. Man-seob turns back, reluctant to be involved in the civil unrest. Along the way, he takes pity on an old woman and brings her to the local hospital to look for her son, who turns out to be one of the college students. Peter confronts Man-seob about abandoning him and offers to pay up part of the fare, but the college students and the local taxi drivers refuse to let Peter pay until Man-seob fulfils the agreed-upon trip.\nMan-seob takes Peter and another student Jae-sik to a protest at the Provincial Office, where protesters greet the trio with food and gifts. Peter films the crackdowns that followed. Plainclothed Defense Security Command (DSC) officers attempt to arrest Peter, but the three evade capture. That evening, Man-seob's taxi breaks down and Tae-soo, one of the local taxi drivers, tows the taxi to his shop for overnight repair and lets the men stay at his place for the night. During dinner, the television station has been bombed, and the three head there for Peter to film the turmoil. The officers recognize Peter and chase the three men; Man-seob is assaulted and Jae-sik is captured, but before he is taken away, he yells for Peter to share the footage with the world.\nDistressed about his young daughter and unable to contact her, Man-seob departs for Seoul the next morning with the fake Gwangju license plates Tae-soo has given him. In Suncheon, he overhears reports of the events in Gwangju; the media claims North Korean infiltrators caused the chaos. Overwhelmed with guilt, he drives back to the hospital in Gwangju to find Peter in shock and Tae-soo mourning over Jae-sik's corpse. Peter, encouraged to continue filming by Man-seob, urges Man-seob to return to Seoul and his daughter, but Man-seob insists on staying by his side.\nAt a street protest, soldiers open fire at civilians, including those rescuing the wounded. Man-seob and the other taxi drivers assist the wounded into the taxis and get them to safety. Departing for Seoul via a mountainous road, Man-seob and Peter arrive at an armed roadblock. The sergeant searches the car and finds the Seoul license plates but lets them go. The soldiers, receiving orders to stop any foreigners, open fire on the taxi but Man-seob breaks through. DSC officers give chase but the local taxi drivers intervene to allow Man-seob and Peter to escape. At the airport, they bid each other farewell. Before departing, Peter asks Man-seob for his name and phone number, but Man-seob writes \u201cKim Sa-bok\u201d as his name and a cigarette company\u2019s phone number in Peter's notebook. Man-seob reunites with his daughter while Peter broadcasts his footage about the Gwangju Uprising. On subsequent trips to Seoul, Peter attempts to search for \"Kim Sa-bok\", but is unable to find him.\nIn 2003, Peter receives an award in South Korea for his report on the Gwangju Uprising. In his speech, he expresses his gratitude to \"Kim Sa-bok\" and hopes to see him again someday. Man-seob, still a taxi driver, reads a newspaper article about Peter's speech and achievements, murmuring that he is more grateful to Peter and that he misses him too. The film ends with a video of the real Peter, expressing his thanks to \u201cKim Sa-bok\u201d and his wish to see him again.",
+    "wikipedia_plot_html": "<p>In 1980, Kim Man-seob is a debt-laden widower who works as a taxi driver in Seoul. Overhearing another taxi driver bragging about a 100,000 won job to bring a foreign client to Gwangju, Man-seob steals the client, unaware of the events in Gwangju. The client is J\u00fcrgen \"Peter\" Hinzpeter, a German journalist wanting to report on the increasing civil unrest in Gwangju. The two men are stopped by soldiers as they approach Gwangju, but manage to enter with Peter posing as a businessman.\n</p><p>In Gwangju, they encounter a group of college students, who warm up to Peter and invites him aboard their pickup truck. Man-seob turns back, reluctant to be involved in the civil unrest. Along the way, he takes pity on an old woman and brings her to the local hospital to look for her son, who turns out to be one of the college students. Peter confronts Man-seob about abandoning him and offers to pay up part of the fare, but the college students and the local taxi drivers refuse to let Peter pay until Man-seob fulfils the agreed-upon trip.\n</p><p>Man-seob takes Peter and another student Jae-sik to a protest at the Provincial Office, where protesters greet the trio with food and gifts. Peter films the crackdowns that followed. Plainclothed Defense Security Command (DSC) officers attempt to arrest Peter, but the three evade capture. That evening, Man-seob's taxi breaks down and Tae-soo, one of the local taxi drivers, tows the taxi to his shop for overnight repair and lets the men stay at his place for the night. During dinner, the television station has been bombed, and the three head there for Peter to film the turmoil. The officers recognize Peter and chase the three men; Man-seob is assaulted and Jae-sik is captured, but before he is taken away, he yells for Peter to share the footage with the world.\n</p><p>Distressed about his young daughter and unable to contact her, Man-seob departs for Seoul the next morning with the fake Gwangju license plates Tae-soo has given him. In Suncheon, he overhears reports of the events in Gwangju; the media claims North Korean infiltrators caused the chaos. Overwhelmed with guilt, he drives back to the hospital in Gwangju to find Peter in shock and Tae-soo mourning over Jae-sik's corpse. Peter, encouraged to continue filming by Man-seob, urges Man-seob to return to Seoul and his daughter, but Man-seob insists on staying by his side.\n</p><p>At a street protest, soldiers open fire at civilians, including those rescuing the wounded. Man-seob and the other taxi drivers assist the wounded into the taxis and get them to safety. Departing for Seoul via a mountainous road, Man-seob and Peter arrive at an armed roadblock. The sergeant searches the car and finds the Seoul license plates but lets them go. The soldiers, receiving orders to stop any foreigners, open fire on the taxi but Man-seob breaks through. DSC officers give chase but the local taxi drivers intervene to allow Man-seob and Peter to escape. At the airport, they bid each other farewell. Before departing, Peter asks Man-seob for his name and phone number, but Man-seob writes \u201cKim Sa-bok\u201d as his name and a cigarette company\u2019s phone number in Peter's notebook. Man-seob reunites with his daughter while Peter broadcasts his footage about the Gwangju Uprising. On subsequent trips to Seoul, Peter attempts to search for \"Kim Sa-bok\", but is unable to find him.\n</p><p>In 2003, Peter receives an award in South Korea for his report on the Gwangju Uprising. In his speech, he expresses his gratitude to \"Kim Sa-bok\" and hopes to see him again someday. Man-seob, still a taxi driver, reads a newspaper article about Peter's speech and achievements, murmuring that he is more grateful to Peter and that he misses him too. The film ends with a video of the real Peter, expressing his thanks to \u201cKim Sa-bok\u201d and his wish to see him again.\n</p>",
+    "wikipedia_critics": "A Taxi Driver received positive reviews upon its release. The review aggregation website Rotten Tomatoes gives the film an approval rating of 96% based on 28 reviews, with an average rating of 7.3/10. The website's critical consensus reads \"A Taxi Driver brings a ground-level perspective and a refreshingly light touch to a fact-based story with sobering implications.\" On Metacritic, which assigns a normalized rating based on reviews, the film has a score of 69 out of 100, based on 7 critics, indicating \"generally favorable reviews\".Sohing Yi Chan of Off Screen pointed out A Taxi Driver \"as a film depicting a historical trauma\", let the international audience, especially those who were not familiar with the event, be able to learn more about the truth.  He also suggested that the film by adopting a classical Hollywood structure in narrative, gave audiences a chance to \"experience the roller coaster of emotions that the film bombards the audience within a highly workmanlike fashion\".Jennie Kermode of Eye For Film shared the relevant ideas that the director didn\u2019t ignore the peaceful and lovely moments besides the violent, panic and horrible scenes, and it created a contrast in emotion and let audience keep shocking or plunge into consideration.The cinematography in this film gained some more attention. Sheri Linden of The Hollywood Reporter went further that especially in the checkpoint scene and the mountain-road chase scene, the cinematography captured a \"metal-on-metal violence\" which was exaggerated in a \"pastoral backdrop\" that made Kim\u2019s decision and reaction more convincing. Sheri Linden also refuted the doubt on the other character Hinzpeter that his emotions might be overplayed in the last act, by evidencing the found footage from the real Hinzpeter by the end of the film, to show the proper performance in the film.Some people have pointed out the formulaic elements and the weakness they brought to the film. Manfred Selzer of Asian Movie Web argued due to the heavy use of slow-motion, repetitions and soundtrack, some scenes of killing seemed too melodramatic; and the exciting scenes that the taxi chasing on mountain road although were some wonderful action scenes, did not work on well with the narrative, which seemed \"out of place in the film and aren\u2019t captured that convincing either\".Simon Abrams of RogerEbert.com argued that Peter was depicted as a stiff supporting role to work for the narrative rather than a vivid character in the story, and each peak moment \"feels too neat and schematic\" that couldn\u2019t evoke sincere emotion. Sohing Yin Chan, in his review, questioned whether the emotional wave based on the balanced narrative made between drama and action genre could squeeze the audience\u2019s tear in ethical way; he also believed those emotion are \"too detached from all the action.\"",
+    "wikipedia_full_html": "<p><i><b>A Taxi Driver</b></i> (Korean:\u00a0<span title=\"Korean-language text\"><span lang=\"ko-Hang\">\ud0dd\uc2dc\uc6b4\uc804\uc0ac</span></span>) is a 2017 South Korean historical action drama film directed by Jang Hoon and written by Eom Yu-na, with Song Kang-ho starring in the lead role, alongside Thomas Kretschmann, Yoo Hae-jin, and Ryu Jun-yeol.</p><p>Based on a real-life story, the film centers on a taxi driver from Seoul who unintentionally becomes involved in the events of the Gwangju Uprising in 1980. It is based on German journalist J\u00fcrgen Hinzpeter's interactions with driver Kim Sa-bok; however, as very little information on Kim was  known at the time the film was made, most elements regarding his life and the events that happened to him outside of Gwangju are fictional.\n</p><p>The film was released on August 2, 2017, in South Korea. It was very positively received by critics, who praised its unique approach to depicting the Gwangju Uprising events, emotional weight, as well as the main character and his relationship with Hinzpeter, and was selected as the South Korean entry for the Best Foreign Language Film at the 90th Academy Awards. The film was a notable commercial success: it was the second highest grossing film of 2017 in South Korea, and currently stands as the thirteenth highest-grossing South Korean film in history.</p>\n\n<h2>Background</h2>\n<h3>Historical background</h3>\n<p>The film centers around the Gwangju Uprising that occurred from May 18, 1980 to May 27, 1980 and it is estimated to have led to 2,000 people being killed. The plot in the film mirrors the historical background of the Gwangju Uprisings.\n</p><p>The Gwangju Uprising was a result of a continuous power tug-of-war between the government and the citizens of South Korea \u2013 mainly college students \u2013 that were advocating for democracy.</p><p>For many years, Gwangju\u2019s Uprising was a forbidden term in South Korea \u2013 those who were on the side of the government during that time held the reins of nation. According to scholar Jang Se Young from the Wilson Center, \"books related to Gwangju were strictly censored or prohibited from even being published. Although a number of political dissidents and activists sought to inherit and develop the spirit of Gwangju, they were persecuted.\" Scholar Kim Yong Cheol stated, \"the political legacies the Gwangju Uprising produced played a pivotal role in checking military intervention in politics during the democratic transition as well as in establishing the principle of civilian supremacy during the democratic transition period.\" Despite being banned, hundreds and thousands of news articles on what was happening in Gwangju were trying to be released by some of the journalists inside the city.</p><p>Efforts were made by some American journalists in order to inform the world about what was happening in Gwangju. Tim Shorrock published numerous US government documents related to the uprisings that were happening in Gwangju, and Terry A. Anderson, who was a former AP correspondent, covered the uprisings himself and provided an eyewitness account of the situation in 1980.  People in Seoul were not aware of what was happening in Gwangju, until international media took hold of the story. Andrew David Jackson of Cambridge University argued that J\u00fcrgen Hinzpeter's relationship with South Korea's democratization movement \"have become important weapons for the activist generation in an ongoing struggle over the memorialization of the Gwangju Uprising.\"</p>\n\n<h4>Candlelight protests</h4>\n<p>Candlelight protests through the fall and winter of 2016-17 marked the thirtieth year of significant democratic advancement in South Korean history, compared to the setting in which <i>A Taxi Driver</i> took place. Harvard sociology professor Paul Y. Chang argued in 2018 in KOAJ that \"the contemporary candlelight protest industry draws on organizational and cultural resources first established in past democracy movements.\" During the filming of the movie, the director Jang Hoon was stopped multiple times, and the main actor of this film, Song Kang Ho, was blacklisted by the government from appearing on major motion picture films. Similar to the past, where newspaper articles and mass media coverage in South Korea was heavily monitored and censored, this movie faced obstacles as it reached its release date due to the former government\u2019s implications.</p>\n\n<h2>Plot</h2>\n<p>In 1980, Kim Man-seob is a debt-laden widower who works as a taxi driver in Seoul. Overhearing another taxi driver bragging about a 100,000 won job to bring a foreign client to Gwangju, Man-seob steals the client, unaware of the events in Gwangju. The client is J\u00fcrgen \"Peter\" Hinzpeter, a German journalist wanting to report on the increasing civil unrest in Gwangju. The two men are stopped by soldiers as they approach Gwangju, but manage to enter with Peter posing as a businessman.\n</p><p>In Gwangju, they encounter a group of college students, who warm up to Peter and invites him aboard their pickup truck. Man-seob turns back, reluctant to be involved in the civil unrest. Along the way, he takes pity on an old woman and brings her to the local hospital to look for her son, who turns out to be one of the college students. Peter confronts Man-seob about abandoning him and offers to pay up part of the fare, but the college students and the local taxi drivers refuse to let Peter pay until Man-seob fulfils the agreed-upon trip.\n</p><p>Man-seob takes Peter and another student Jae-sik to a protest at the Provincial Office, where protesters greet the trio with food and gifts. Peter films the crackdowns that followed. Plainclothed Defense Security Command (DSC) officers attempt to arrest Peter, but the three evade capture. That evening, Man-seob's taxi breaks down and Tae-soo, one of the local taxi drivers, tows the taxi to his shop for overnight repair and lets the men stay at his place for the night. During dinner, the television station has been bombed, and the three head there for Peter to film the turmoil. The officers recognize Peter and chase the three men; Man-seob is assaulted and Jae-sik is captured, but before he is taken away, he yells for Peter to share the footage with the world.\n</p><p>Distressed about his young daughter and unable to contact her, Man-seob departs for Seoul the next morning with the fake Gwangju license plates Tae-soo has given him. In Suncheon, he overhears reports of the events in Gwangju; the media claims North Korean infiltrators caused the chaos. Overwhelmed with guilt, he drives back to the hospital in Gwangju to find Peter in shock and Tae-soo mourning over Jae-sik's corpse. Peter, encouraged to continue filming by Man-seob, urges Man-seob to return to Seoul and his daughter, but Man-seob insists on staying by his side.\n</p><p>At a street protest, soldiers open fire at civilians, including those rescuing the wounded. Man-seob and the other taxi drivers assist the wounded into the taxis and get them to safety. Departing for Seoul via a mountainous road, Man-seob and Peter arrive at an armed roadblock. The sergeant searches the car and finds the Seoul license plates but lets them go. The soldiers, receiving orders to stop any foreigners, open fire on the taxi but Man-seob breaks through. DSC officers give chase but the local taxi drivers intervene to allow Man-seob and Peter to escape. At the airport, they bid each other farewell. Before departing, Peter asks Man-seob for his name and phone number, but Man-seob writes \u201cKim Sa-bok\u201d as his name and a cigarette company\u2019s phone number in Peter's notebook. Man-seob reunites with his daughter while Peter broadcasts his footage about the Gwangju Uprising. On subsequent trips to Seoul, Peter attempts to search for \"Kim Sa-bok\", but is unable to find him.\n</p><p>In 2003, Peter receives an award in South Korea for his report on the Gwangju Uprising. In his speech, he expresses his gratitude to \"Kim Sa-bok\" and hopes to see him again someday. Man-seob, still a taxi driver, reads a newspaper article about Peter's speech and achievements, murmuring that he is more grateful to Peter and that he misses him too. The film ends with a video of the real Peter, expressing his thanks to \u201cKim Sa-bok\u201d and his wish to see him again.\n</p>\n\n<h2>Cast</h2>\n<h3>Main</h3>\n<ul><li>Song Kang-ho as Kim Man-seob</li></ul><dl><dd>A widowed taxi driver who lives with his eleven year old daughter in a small house. He is an ordinary man from the working class who cares only about his family's livelihood and is uninterested in political issues. The character is loosely based on real-life taxi driver Kim Sa-bok, who ferried J\u00fcrgen Hinzpeter to Gwangju. Kim's whereabouts was unknown until the release of <i>A Taxi Driver</i>, when in September 2017, following the immense commercial and critical success of the film in South Korea, Kim's identity was finally confirmed by his son, Kim Seung-pil. The younger Kim shared with the media a photo of J\u00fcrgen Hinzpeter with his father and revealed that his father died of cancer in 1984, four years after the Gwangju events. Kim Sa-bok was reportedly 54 years old at the time of his death in December 1984.</dd></dl><ul><li>Thomas Kretschmann as J\u00fcrgen Hinzpeter</li></ul><dl><dd>A German reporter. The character is based on the life of J\u00fcrgen Hinzpeter (1937\u20132016), the German journalist who filmed and reported on the Gwangju Uprising.</dd></dl><ul><li>Yoo Hae-jin as Hwang Tae-sool</li></ul><dl><dd>A kindhearted local taxi driver.</dd></dl><ul><li>Ryu Jun-yeol as Gu Jae-sik</li></ul><dl><dd>A naive university student who knows English.</dd></dl>\n\n<h3>Supporting</h3>\n<h3>Special appearances</h3>\n<ul><li>Ko Chang-seok as Sang-goo's father</li>\n<li>Jeon Hye-jin as Sang-goo's mother</li>\n<li>Jung Jin-young as Reporter Lee</li>\n<li>Ryu Tae-ho as Gwangju newspaper director</li>\n<li>Jeong Seok-yong as President of car center in Seoul</li></ul>\n\n<h2>Production</h2>\n<p>Filming began on June 5, 2016, and ended on October 24, 2016.</p>\n\n<h2>Release</h2>\n<p>The film was released on August 2, 2017 in South Korea. On the same day, the film had its international premiere at the Fantasia International Film Festival in Montreal, where Song Kang-ho was named Best Actor for his role in the film.</p><p>According to distributor Showbox, the film was released in North America on August 11, Australia and New Zealand on August 24, followed by the UK on August 25. It then opened in Asian countries including Hong Kong, Taiwan and Japan in September.</p><p>\nOn August 13, 2017, South Korean President Moon Jae-in viewed <i>A Taxi Driver</i> with Edeltraut Brahmstaedt, the widow of the German journalist J\u00fcrgen Hinzpeter, and her family. A Blue House official said, \"The movie shows how a foreign reporter's efforts contributed to Korea's democratization, and President Moon saw the film to honor Hinzpeter in respect for what he did for the country.\" After watching the film, President Moon commented:</p><blockquote class=\"templatequote\"><p>\"The truth about the uprising has not been fully revealed. This is the task we have to resolve. I believe this movie will help resolve it.\"</p></blockquote>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p><i>A Taxi Driver</i> received positive reviews upon its release. The review aggregation website Rotten Tomatoes gives the film an approval rating of 96% based on 28 reviews, with an average rating of 7.3/10. The website's critical consensus reads \"<i>A Taxi Driver</i> brings a ground-level perspective and a refreshingly light touch to a fact-based story with sobering implications.\" On Metacritic, which assigns a normalized rating based on reviews, the film has a score of 69 out of 100, based on 7 critics, indicating \"generally favorable reviews\".</p><p>Sohing Yi Chan of <i>Off Screen</i> pointed out <i>A Taxi Driver</i> \"as a film depicting a historical trauma\", let the international audience, especially those who were not familiar with the event, be able to learn more about the truth.  He also suggested that the film by adopting a classical Hollywood structure in narrative, gave audiences a chance to \"experience the roller coaster of emotions that the film bombards the audience within a highly workmanlike fashion\".</p><p>Jennie Kermode of <i>Eye For Film</i> shared the relevant ideas that the director didn\u2019t ignore the peaceful and lovely moments besides the violent, panic and horrible scenes, and it created a contrast in emotion and let audience keep shocking or plunge into consideration.</p><p>The cinematography in this film gained some more attention. Sheri Linden of <i>The Hollywood Reporter</i> went further that especially in the checkpoint scene and the mountain-road chase scene, the cinematography captured a \"metal-on-metal violence\" which was exaggerated in a \"pastoral backdrop\" that made Kim\u2019s decision and reaction more convincing. Sheri Linden also refuted the doubt on the other character Hinzpeter that his emotions might be overplayed in the last act, by evidencing the found footage from the real Hinzpeter by the end of the film, to show the proper performance in the film.</p><p>Some people have pointed out the formulaic elements and the weakness they brought to the film. Manfred Selzer of <i>Asian Movie Web</i> argued due to the heavy use of slow-motion, repetitions and soundtrack, some scenes of killing seemed too melodramatic; and the exciting scenes that the taxi chasing on mountain road although were some wonderful action scenes, did not work on well with the narrative, which seemed \"out of place in the film and aren\u2019t captured that convincing either\".</p><p>Simon Abrams of <i>RogerEbert.com</i> argued that Peter was depicted as a stiff supporting role to work for the narrative rather than a vivid character in the story, and each peak moment \"feels too neat and schematic\" that couldn\u2019t evoke sincere emotion. Sohing Yin Chan, in his review, questioned whether the emotional wave based on the balanced narrative made between drama and action genre could squeeze the audience\u2019s tear in ethical way; he also believed those emotion are \"too detached from all the action.\"</p>\n\n<h3>Box office</h3>\n<p>According to the Korean Film Council, on the first day of the release, a total of 698,090 tickets were sold, which earned <span>US$4.5 million</span>. The film was available on 1,446 screens and was shown 7,068 times across South Korea. By noon on the second day of its run, the film had passed the one million viewer mark.</p><p>On the third day, the total audience doubled, attracting two million viewers. The viewer numbers continued to rise as the tickets sale increased to four million by the fourth day.</p><p><i>A Taxi Driver</i> has earned a total of <span>US$30.7 million</span> in five days with 4.38 million admissions.\nIt has tied with <i>The Admiral: Roaring Currents</i> and <i>The Battleship Island</i> for the record of films which have surpassed four million viewers in the first five days of release. At the end of the first seven days, the film surpassed 5 million admissions. On the eleventh day since the opening the film recorded more than 7 million viewers.</p><p><i>A Taxi Driver</i> became the most viewed South Korean film in 2017 in less than two weeks since its premiere by attracting more than 8 million audience. By August 15, 2017, it has earned a total of <span>US$62.7 million</span> with 9.02 million admissions.</p><p>By August 20, in just 19 days since the film was released, <i>A Taxi Driver</i> surpassed 10 million viewers selling 10,068,708 tickets, earning a total of <span>US$73 million</span>. <i>A Taxi Driver</i> also became the first film of 2017 and the fifteenth Korean film overall to surpass the 10 million milestone. It is also Song Kang-ho's third film to have sold more than 10 million tickets.</p><p>The film topped the South Korean box office for three consecutive weekends. By August 28, the film had attracted 11.4 million viewers. According to the film's distributor Showbox, the total attendance of the film surpassed the 12 million mark as of September 9, becoming the tenth most-watched local film of all time in South Korea.</p>\n\n<h3>Reactions in China</h3>\n<p><i>A Taxi Driver</i> is yet to be released in any form in China, though it received a theatrical release on September 21, 2017 in Hong Kong. The film has received warm responses from users on Chinese movie website Douban, where it had a high user rating. However at around 21:10, October 3, 2017, the film was entirely removed from the Chinese movie portal, the reason possibly being that a number of reviews had compared the film's content to the 1989 Tiananmen Square protests and massacre, which is strictly censored on media in China.</p>\n\n<h2>Fictionalized elements</h2>\n<p><i>A Taxi Driver</i> generally shows good accuracy on the memory of Gwangju Uprising, but several historical events depicted in the film are inaccurate and fictional.\n</p><p>The name of the taxi driver who helps Hinzpeter in the film is Kim Man-seob. He gives a false name, Kim Sa-bok, to Hinzpeter when he asks for Kim's name later in the film. However, in real life, the taxi driver\u2019s name was actually Kim Sa-bok. The only information known about the driver at the time during production was the name Kim Sa-bok, which was not registered as a taxi driver. Therefore, most of the character settings, including the \"real\" name Kim Man-seob, were created for the film.</p>\n<p>In the film, Kim Man-seob is a self-employed taxi driver, while Kim Sa-bok was a hotel taxi driver. Thus, his car was not a green taxi shown in the film but a black sedan. Kim Man-seob and J\u00fcrgen Hinzpeter were actually accompanied by Hinzpeter\u2019s sound technician Henning Rumohr. The massive car chase sequence in which the taxi drivers in Gwangju help Kim Man-seob and Hinzpeter escape did not happen. In reality, they escaped from Gwangju without incident on the pretext of doing business.</p><p>In the film, Kim Man-seob communicates with Hintzpeter in short English and is unable to speak English fluently. However, Kim Sa-bok was able to speak fluent English. Kim Man-seob in the film shows no interest in demonstrations and doesn't know what's happening in Gwangju. In real life, Kim Sa-bok was actually interested in democratic movements and explained the situation in Gwangju to Hinzpeter. In the film, J\u00fcrgen Hinzpeter is described as the only foreign press personnel to document the events in Gwangju. However, other foreign news reporters including Henry Scott-Stokes from <i>The New York Times</i> and Terry A. Anderson from Associated Press were in Gwangju covering the movement.</p><p>The film ends with footage of an interview from November 2015 with the real J\u00fcrgen Hinzpeter describing his fruitless efforts to find his driver Kim Sa-bok again, after the events of Gwangju. Hinzpeter died in January, 2016 without ever finding Kim Sa-bok. In 2017, the immense popularity of the film in South Korea brought the story of Kim Sa-bok to the attention of his son, Kim Seung-pil, who came forth publicly on Twitter and presented photographic evidence and details of his father's work with J\u00fcrgen Hinzpeter. The real Kim Sa-bok had a long term working relationship as a driver for J\u00fcrgen Hinzpeter, since at least 1975, and had died of liver cancer on December 19, 1984 at the age of 54. According to his son, Kim Sa-bok was traumatized by the terrible events at Gwangju and became a heavy drinker afterwards. Kim Sa-bok's death just a few years after the events depicted in the movie, and the fact that he was an independent driver not registered with any of the taxi companies were the reasons that J\u00fcrgen Hinzpeter had been unable to find him again when he returned later to Korea. The photographs presented by Kim Seung-pil were confirmed to be authentic by German broadcaster ARD and Hinzpeter's widow.</p>\n\n<h2>Awards and nominations</h2>\n<h2>See also</h2>\n<ul><li>List of submissions to the 90th Academy Awards for Best Foreign Language Film</li>\n<li>List of South Korean submissions for the Academy Award for Best International Feature Film</li></ul>\n\n<h2>Notes</h2>\n<h2>References</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>External links</h2>\n<ul><li><i>A Taxi Driver</i> at the Korean Movie Database</li>\n<li><i>A Taxi Driver</i> at IMDb</li>\n<li><i>A Taxi Driver</i> at HanCinema</li>\n<li><i>A Taxi Driver</i> at Naver Movies <span>(in Korean)</span></li></ul>"
+}

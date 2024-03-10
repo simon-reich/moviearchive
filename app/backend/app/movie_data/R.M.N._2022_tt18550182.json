@@ -1,0 +1,1480 @@
+{
+    "adult": false,
+    "backdrop_path": "/bGfbeZ52aqTvxde9pjyC62jaSUg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 919570,
+    "imdb_id": "tt18550182",
+    "original_language": "ro",
+    "original_title": "R.M.N.",
+    "overview": "A few days before Christmas, having quit his job in Germany, Matthias returns to his Transylvanian village. He wishes to involve himself more in the education of his son, Rudi, left for too long in the care of his mother, Ana, and to rid him of the unresolved fears that have gripped him. He\u2019s also eager to see his ex-lover Csilla and preoccupied about his old father, Otto. When a few new workers are hired at the small factory that Csilla manages, the peace of the community is disturbed, underlying fears grip the adults, and frustrations, conflicts and passions erupt through the thin sliver of apparent understanding and calm.",
+    "popularity": 17.445,
+    "poster_path": "/7zGDc1sWKlfYb6bKs2s2JaU4jLl.jpg",
+    "production_companies": [
+        {
+            "id": 5545,
+            "logo_path": "/A9JHyYxaCXaxqsVQCw9kRsrwqNm.png",
+            "name": "Mobra Films",
+            "origin_country": "RO"
+        },
+        {
+            "id": 729,
+            "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+            "name": "Why Not Productions",
+            "origin_country": "FR"
+        },
+        {
+            "id": 591,
+            "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+            "name": "France 3 Cin\u00e9ma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 1926,
+            "logo_path": "/sORCydQs61kwWqRIIzPiBpgVVag.png",
+            "name": "Les Films du Fleuve",
+            "origin_country": "BE"
+        },
+        {
+            "id": 18230,
+            "logo_path": "/la7GdaztdxKjJ22IUKn6zHjKKa0.png",
+            "name": "Filmgate Films",
+            "origin_country": "SE"
+        },
+        {
+            "id": 173477,
+            "logo_path": null,
+            "name": "Film iV\u00e4st",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "RO",
+            "name": "Romania"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2022-06-03",
+    "revenue": 450255,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "Hungarian",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Sinhalese",
+            "iso_639_1": "si",
+            "name": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Romanian",
+            "iso_639_1": "ro",
+            "name": "Rom\u00e2n\u0103"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "R.M.N.",
+    "video": false,
+    "vote_average": 7.085,
+    "vote_count": 105,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1681281,
+                "known_for_department": "Acting",
+                "name": "Marin Grigore",
+                "original_name": "Marin Grigore",
+                "popularity": 1.96,
+                "profile_path": "/gLLi7w7z4FQ8XbldajROcIfyvvb.jpg",
+                "cast_id": 6,
+                "character": "Matthias",
+                "credit_id": "62599519fe6c180068e822b5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1617045,
+                "known_for_department": "Acting",
+                "name": "Judith State",
+                "original_name": "Judith State",
+                "popularity": 1.334,
+                "profile_path": "/2Q4Ve3GlKDXbBQyJj9URmp4xxDk.jpg",
+                "cast_id": 7,
+                "character": "Csilla",
+                "credit_id": "6259952169eb900066c7e3e6",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3507781,
+                "known_for_department": "Acting",
+                "name": "Macrina B\u00e2rl\u0103deanu",
+                "original_name": "Macrina B\u00e2rl\u0103deanu",
+                "popularity": 1.62,
+                "profile_path": "/AwvWHy1eTiN53BukOTlD0tRGjty.jpg",
+                "cast_id": 8,
+                "character": "Ana",
+                "credit_id": "6259952adff66e0051b1033e",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1913574,
+                "known_for_department": "Acting",
+                "name": "Orsolya Moldovan",
+                "original_name": "Orsolya Moldovan",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Mrs. D\u00e9nes",
+                "credit_id": "625995323acd2016291d0d0b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 558003,
+                "known_for_department": "Acting",
+                "name": "Andr\u00e1s Hath\u00e1zi",
+                "original_name": "Andr\u00e1s Hath\u00e1zi",
+                "popularity": 1.176,
+                "profile_path": "/91icVVKJ665Smy9JD4dLlDPuQXa.jpg",
+                "cast_id": 10,
+                "character": "",
+                "credit_id": "6259953bc92c5d196925b9b0",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553365,
+                "known_for_department": "Acting",
+                "name": "R\u00e1cz Endre",
+                "original_name": "R\u00e1cz Endre",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "",
+                "credit_id": "62838da2cee481544b1828e5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2512146,
+                "known_for_department": "Acting",
+                "name": "J\u00f3zsef B\u00edr\u00f3",
+                "original_name": "J\u00f3zsef B\u00edr\u00f3",
+                "popularity": 0.98,
+                "profile_path": "/g4TLSvOrH1vtg6qQHwZUzrxnjIT.jpg",
+                "cast_id": 12,
+                "character": "",
+                "credit_id": "62838daafa78cd126ed8f482",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1151789,
+                "known_for_department": "Acting",
+                "name": "Ovidiu Cri\u0219an",
+                "original_name": "Ovidiu Cri\u0219an",
+                "popularity": 0.626,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "",
+                "credit_id": "62838db98d77c4005073e8b4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1948206,
+                "known_for_department": "Writing",
+                "name": "Zolt\u00e1n De\u00e1k",
+                "original_name": "Zolt\u00e1n De\u00e1k",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "",
+                "credit_id": "62838dccfb3f61312d31fe36",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 983490,
+                "known_for_department": "Acting",
+                "name": "Cerasela Iosifescu",
+                "original_name": "Cerasela Iosifescu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "",
+                "credit_id": "62838dd66d9fe83492bbc5f0",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1022032,
+                "known_for_department": "Acting",
+                "name": "Andrei Finti",
+                "original_name": "Andrei Finti",
+                "popularity": 3.021,
+                "profile_path": "/tycnutcdGKzRlmjtD8aUMInfnMX.jpg",
+                "cast_id": 16,
+                "character": "",
+                "credit_id": "62838ddfec45521034182931",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2329345,
+                "known_for_department": "Acting",
+                "name": "Miklos Bacs",
+                "original_name": "Miklos Bacs",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "",
+                "credit_id": "62838de7dcf875334e4e8ec7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1178619,
+                "known_for_department": "Acting",
+                "name": "Alin Panc",
+                "original_name": "Alin Panc",
+                "popularity": 2.084,
+                "profile_path": "/ejcjjoj8AetYJ7mTu5yFUg4hzo7.jpg",
+                "cast_id": 18,
+                "character": "",
+                "credit_id": "62838df0cee481541d5bd9cf",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3553366,
+                "known_for_department": "Acting",
+                "name": "Victor Benderra",
+                "original_name": "Victor Benderra",
+                "popularity": 0.6,
+                "profile_path": "/iDwKTJ5yUpP4exdXs0vt1hl9t4A.jpg",
+                "cast_id": 19,
+                "character": "",
+                "credit_id": "62838dfaec45521034182949",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553367,
+                "known_for_department": "Acting",
+                "name": "Amitha Jayasinghe",
+                "original_name": "Amitha Jayasinghe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "62838e050d5d854561789f51",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553368,
+                "known_for_department": "Acting",
+                "name": "Gihan Edirisinghe",
+                "original_name": "Gihan Edirisinghe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "62838e0cfa78cd126c5f1af3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553369,
+                "known_for_department": "Acting",
+                "name": "Nuwan Karunarathna",
+                "original_name": "Nuwan Karunarathna",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "62838e188d77c40066cfe358",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553370,
+                "known_for_department": "Acting",
+                "name": "Kovacs Levente Jr.",
+                "original_name": "Kovacs Levente Jr.",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "62838e208d77c400a4be5b34",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2662821,
+                "known_for_department": "Acting",
+                "name": "N\u00e9medi-Varga Csilla",
+                "original_name": "N\u00e9medi-Varga Csilla",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "62838e2ff5c8240066e27b57",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553371,
+                "known_for_department": "Acting",
+                "name": "Orban Attila",
+                "original_name": "Orban Attila",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "62838e376d9fe83492bbc6cd",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553372,
+                "known_for_department": "Acting",
+                "name": "Boros-Piroska Klara",
+                "original_name": "Boros-Piroska Klara",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "62838e41fd140b300ec40a43",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 587475,
+                "known_for_department": "Acting",
+                "name": "Lucian Ifrim",
+                "original_name": "Lucian Ifrim",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "62838e52fa78cd126d2aab36",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553373,
+                "known_for_department": "Acting",
+                "name": "Mark Edward Blenyesi",
+                "original_name": "Mark Edward Blenyesi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "62838e5bf5c82400a56b5b02",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553374,
+                "known_for_department": "Acting",
+                "name": "Fekete Beata",
+                "original_name": "Fekete Beata",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "62838e67873f006bb23a3850",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553375,
+                "known_for_department": "Acting",
+                "name": "Szucs Tamas",
+                "original_name": "Szucs Tamas",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "62838e76fa78cd126ed8f6a5",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553376,
+                "known_for_department": "Acting",
+                "name": "Nagy Csilla",
+                "original_name": "Nagy Csilla",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "62838e81fb3f61312e1cd8c9",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553377,
+                "known_for_department": "Acting",
+                "name": "Szabo Andras-Botond",
+                "original_name": "Szabo Andras-Botond",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "62838e8f6d9fe8349382acf1",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 592232,
+                "known_for_department": "Acting",
+                "name": "Axel Moustache",
+                "original_name": "Axel Moustache",
+                "popularity": 1.957,
+                "profile_path": "/fOzZ8qgJ7hKk90XBY97I7ezmdZE.jpg",
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "62838e9bfd140b300d1fffc7",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2080406,
+                "known_for_department": "Acting",
+                "name": "Rares Hontzu",
+                "original_name": "Rares Hontzu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "62838ea36d9fe8349382ad17",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1392576,
+                "known_for_department": "Writing",
+                "name": "Stefan Statnic",
+                "original_name": "Stefan Statnic",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "62838eaadcf875334e4e9063",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553378,
+                "known_for_department": "Acting",
+                "name": "Carla Todoran",
+                "original_name": "Carla Todoran",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "",
+                "credit_id": "62838eb2f5c824005056f251",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 39249,
+                "known_for_department": "Acting",
+                "name": "Maria Dragus",
+                "original_name": "Maria Dragus",
+                "popularity": 4.255,
+                "profile_path": "/4AiU1EdwWlNuxBbYV1qLxc09mv1.jpg",
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "62838ebf6d9fe83492bbc7b3",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2828122,
+                "known_for_department": "Acting",
+                "name": "Ecaterina Ladin",
+                "original_name": "Ecaterina Ladin",
+                "popularity": 0.6,
+                "profile_path": "/v6SZUnqt4jhgwdyFdgICuWLpQLA.jpg",
+                "cast_id": 38,
+                "character": "",
+                "credit_id": "62838ecaf5c8240066e27c3c",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587474,
+                "known_for_department": "Acting",
+                "name": "Gheorghe Ifrim",
+                "original_name": "Gheorghe Ifrim",
+                "popularity": 3.984,
+                "profile_path": "/1b1eVjvOrOHiPjtbXZsGsZWdSOQ.jpg",
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "62838ed1ec455210333632ec",
+                "order": 33
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19112,
+                "known_for_department": "Production",
+                "name": "Pascal Caucheteux",
+                "original_name": "Pascal Caucheteux",
+                "popularity": 2.189,
+                "profile_path": "/1KJEsRuQ1CsRq1oNwMASefl9VXA.jpg",
+                "credit_id": "62838f69ec455210333633f3",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20657,
+                "known_for_department": "Directing",
+                "name": "Cristian Mungiu",
+                "original_name": "Cristian Mungiu",
+                "popularity": 0.776,
+                "profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+                "credit_id": "61c5ad482ac4990093d9e85c",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20657,
+                "known_for_department": "Directing",
+                "name": "Cristian Mungiu",
+                "original_name": "Cristian Mungiu",
+                "popularity": 0.776,
+                "profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+                "credit_id": "61c5ad423e6f2b0060225b6a",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20657,
+                "known_for_department": "Directing",
+                "name": "Cristian Mungiu",
+                "original_name": "Cristian Mungiu",
+                "popularity": 0.776,
+                "profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+                "credit_id": "62838fa2f5c82400a56b5db7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27715,
+                "known_for_department": "Production",
+                "name": "Jean Labadie",
+                "original_name": "Jean Labadie",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "62838f81fb3f61312d320250",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 73334,
+                "known_for_department": "Production",
+                "name": "Delphine Tomson",
+                "original_name": "Delphine Tomson",
+                "popularity": 0.836,
+                "profile_path": null,
+                "credit_id": "62838fe8ec4552103336345c",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1044453,
+                "known_for_department": "Production",
+                "name": "Gr\u00e9goire Sorlat",
+                "original_name": "Gr\u00e9goire Sorlat",
+                "popularity": 1.191,
+                "profile_path": "/pMvpmIZ5AoFo3n7cFWvYPHjcmGm.jpg",
+                "credit_id": "62838fb9fd140b300c118b98",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1322063,
+                "known_for_department": "Art",
+                "name": "Anca Perja",
+                "original_name": "Anca Perja",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327afa443250f007b7e53c7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1395761,
+                "known_for_department": "Visual Effects",
+                "name": "Sean Wheelan",
+                "original_name": "Sean Wheelan",
+                "popularity": 1.131,
+                "profile_path": null,
+                "credit_id": "62838ff40d5d854562625a65",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1480638,
+                "known_for_department": "Sound",
+                "name": "Marius Leftarache",
+                "original_name": "Marius Leftarache",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "6327b056dcb6a30085b44ee2",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1547388,
+                "known_for_department": "Production",
+                "name": "Tudor Reu",
+                "original_name": "Tudor Reu",
+                "popularity": 0.84,
+                "profile_path": "/biH6fIvtEcE8sO52lulgF5asstU.jpg",
+                "credit_id": "62838fad873f006bb23a39fe",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547389,
+                "known_for_department": "Editing",
+                "name": "Mircea Olteanu",
+                "original_name": "Mircea Olteanu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6259950efe6c180052208f23",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1554308,
+                "known_for_department": "Camera",
+                "name": "Tudor Vladimir Panduru",
+                "original_name": "Tudor Vladimir Panduru",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "625994dc5e120012c4ba14ab",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1617288,
+                "known_for_department": "Art",
+                "name": "Simona P\u0103dure\u021bu",
+                "original_name": "Simona P\u0103dure\u021bu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327af93bbd0b000821753f9",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1617288,
+                "known_for_department": "Art",
+                "name": "Simona P\u0103dure\u021bu",
+                "original_name": "Simona P\u0103dure\u021bu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6259950469eb9000504b2757",
+                "department": "Production",
+                "job": "Production Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1635805,
+                "known_for_department": "Visual Effects",
+                "name": "Christian Lindholm",
+                "original_name": "Christian Lindholm",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327b06e713ed40081ef6464",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1712000,
+                "known_for_department": "Sound",
+                "name": "Olivier D\u00f4 H\u00f9u",
+                "original_name": "Olivier D\u00f4 H\u00f9u",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327b02d0f21c6007faa32c6",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1833460,
+                "known_for_department": "Sound",
+                "name": "Ioan Filip",
+                "original_name": "Ioan Filip",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327b04074d6c000906870e7",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2031552,
+                "known_for_department": "Production",
+                "name": "Anthony Muir",
+                "original_name": "Anthony Muir",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62838f92873f006bb3aa61ec",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2241787,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ciresica Cuciuc",
+                "original_name": "Ciresica Cuciuc",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327afec93bd69007f64b373",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2669684,
+                "known_for_department": "Sound",
+                "name": "Marian B\u0103lan",
+                "original_name": "Marian B\u0103lan",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "6327b019a14e100092c2b13b",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3553379,
+                "known_for_department": "Production",
+                "name": "Kristina B\u00f6rjeson",
+                "original_name": "Kristina B\u00f6rjeson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62838f5adcf875334cbed3bc",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3706336,
+                "known_for_department": "Art",
+                "name": "Marius Mititelu",
+                "original_name": "Marius Mititelu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327afb5d46537009166cbfa",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3706339,
+                "known_for_department": "Art",
+                "name": "Adrian Selaru",
+                "original_name": "Adrian Selaru",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327afc724f2ce007eb07ea9",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3706341,
+                "known_for_department": "Art",
+                "name": "Aurel Toma",
+                "original_name": "Aurel Toma",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327afda713ed4007e749145",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3706344,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ana Mihalache",
+                "original_name": "Ana Mihalache",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6327afff74d6c0007994880c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer #2 [Subtitled]",
+                "key": "0fROZfFTpD8",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2023-09-22T05:00:01.000Z",
+                "id": "650f3f6be1faed013a0a88b9"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official UK Trailer [Subtitled]",
+                "key": "82MLIK02vXs",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2023-08-17T13:00:06.000Z",
+                "id": "64e332a665e0a200e2efdd54"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A Conversation on R.M.N. with Ethan Hawke and Cristian Mungiu",
+                "key": "cDz6hBnW9LM",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2023-05-05T15:14:35.000Z",
+                "id": "650f3f9109c24c011cd64ff8"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer [Subtitled]",
+                "key": "aGi_xGhu1j8",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2023-03-22T16:19:06.000Z",
+                "id": "64e33164b77d4b11434a1563"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Cristian Mungiu on R.M.N.",
+                "key": "i7jO--caNys",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2022-10-13T19:16:32.000Z",
+                "id": "650f3fbe09c24c0139634909"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1440,
+                "iso_639_1": null,
+                "file_path": "/bGfbeZ52aqTvxde9pjyC62jaSUg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2560
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/3h3JdJLbq5au9XCkpBOCFxV2fRk.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/7beEAjr2qnz6E6ct3EHRW3Bd4vL.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1440,
+                "iso_639_1": "ro",
+                "file_path": "/k5wsIVdxvpBcBfW0bZZNsGZsfJy.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2560
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1152,
+                "iso_639_1": "en",
+                "file_path": "/9M1DFlRTnwNf73TzKVAmeaGznCf.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2048
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/5jLc82JUNkTXxccP1xNOGWnV48d.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/2d0vAQnGdjcsLw65Nyz9rS2eHt2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/qPBfi6viNz1tSVFJ8SxlHPNFEfG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.784,
+                "height": 897,
+                "iso_639_1": "rm",
+                "file_path": "/erO3nAtSozEAlMWXjklxMkVxsXz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "ru",
+                "file_path": "/xQysPYqnmYcMG2yglwWBwxQDJuC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/r37qqYYKiK7rsa1jK5tFSSSRTzW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/zFTOJVXXLeyY6WtZ3kxKuD6KzVg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/pUZxFLWFt0Q1RikTc2EVNL7PDPh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/a3oLmNvuLf3MdAnNqPptm7oVI0n.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/zz8m8NC2dkjJLymeNv0TT6c8AWk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/xp5Z9DrxcHPWS0xEgWeBIiLkQTD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/9Eu0bBGUAyj7GNycQ5N5YyXJTOX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/vBumEcj4OzKiu2spONdm75y3DRb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/uMYGc6jLmeUIuhf9xSlZFufoLDy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/pLNbQQ5O8k38j0ZneiYoMIGcO03.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/eoCSaKYq9ZVBoVxY3rvkyKc5tlw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/od7axrLdnDOsckGjNE8leu8gbSf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 2.373,
+                "height": 397,
+                "iso_639_1": null,
+                "file_path": "/kptEGqlEngAZYiyxnL7TCpzAQUY.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 942
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "zh",
+                "file_path": "/sU26E6XIYYGaourayR9mEtiS2xd.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 848,
+                "iso_639_1": "no",
+                "file_path": "/hsaGT6OVb8WimPDbTqgLe0T7LKD.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/xnkFpmPF1SZ75zpC8P6Jt8lw4zz.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2567,
+                "iso_639_1": "fr",
+                "file_path": "/bLsub01eHw97LFlXxcbMUCh3hwz.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1711
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/7zGDc1sWKlfYb6bKs2s2JaU4jLl.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2567,
+                "iso_639_1": "en",
+                "file_path": "/kDcEfgF7CUo0IYLIazUYYqxagTG.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1712
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2567,
+                "iso_639_1": "ro",
+                "file_path": "/5Sq2460CtKPxwJAbD1kKC60yRcD.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1712
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/3VXhOYh7q8GNVoZOlE8n4YR8QEu.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.703,
+                "height": 1960,
+                "iso_639_1": "en",
+                "file_path": "/5uo8zTC0jAdDHGzGGAqr82HxoyE.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1378
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1778,
+                "iso_639_1": "en",
+                "file_path": "/kGzufyQG5Tq1WzB0RxF8ol4ksPY.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.703,
+                "height": 1423,
+                "iso_639_1": "ro",
+                "file_path": "/wyGqO6d7SzYBVqpKqj4fHeROZbL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2567,
+                "iso_639_1": "fr",
+                "file_path": "/jbsWnAfhQnQbSImHxCqi1QrvqTG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1712
+            },
+            {
+                "aspect_ratio": 0.736,
+                "height": 2048,
+                "iso_639_1": "fr",
+                "file_path": "/ks5Sz0pUvEefiZhvC6sm9Il0UmT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1508
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1969,
+                "iso_639_1": "el",
+                "file_path": "/qOY6Xk9EFqwwAULilZIjYut3BOz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1378
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 2834,
+                "iso_639_1": "nl",
+                "file_path": "/gFw4FKgXbSpwgmcnd2op0BRyLEh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1984
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 2351,
+                "iso_639_1": "es",
+                "file_path": "/wQXWnmOvh9GlcRJ29WXMSBeiv1Q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1648
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "fr",
+                "file_path": "/xvKCQuNANjrBc6UbLXURPMUTG2Z.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2559,
+                "iso_639_1": "he",
+                "file_path": "/cs7xcpBvjIQIZCSGmmhoJOkUUAw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1707
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "ru",
+                "file_path": "/fOXVU8nWEuSIlXqBieb1sp6T8Bw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 2384,
+                "iso_639_1": "cs",
+                "file_path": "/4qtiOxvoeC23xRPKD50lpLAxnYn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1684
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 2384,
+                "iso_639_1": "sk",
+                "file_path": "/ytF0dXocqRjxwY1VLEx3QWIGHDR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1684
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1428,
+                "iso_639_1": "it",
+                "file_path": "/4PqYRxVBXVSnJY4sG4r5dlCrOnr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 953
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/m8iCkeBm46pHRSb4UihKd1oYTpf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1000,
+                "iso_639_1": "cn",
+                "file_path": "/qKbJshz822XEgyTLdClsSunD8vd.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 707
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/utl1I1uy1wUB3FJQgZgQxC825p7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1945
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "R.M.N.",
+    "year": "2022",
+    "rated": "N/A",
+    "director_list": [
+        "Cristian Mungiu"
+    ],
+    "writer_list": [
+        "Cristian Mungiu"
+    ],
+    "main_cast": [
+        "Marin Grigore",
+        " Judith State",
+        " Macrina Barladeanu"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "imdb_rating": "7.3",
+    "imdb_votes": "4,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R.M.N.",
+    "wikipedia_summary": "R.M.N. is a 2022 drama film written and directed by Cristian Mungiu. Set in a multiethnic village in Transylvania, Romania, during the 2019\u201320 holiday season, the film follows a man who returns from Germany and his ex-lover who works in the village. Mungiu named the film after a Romanian acronym for nuclear magnetic resonance, as the film is \"an investigation of the brain, a brain scan trying to detect things below the surface\". The film is based on the 2020 Ditr\u0103u xenophobic incident.The film premiered in competition at the Cannes Film Festival in May 2022.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>R.M.N.</b></i> is a 2022 drama film written and directed by Cristian Mungiu. Set in a multiethnic village in Transylvania, Romania, during the 2019\u201320 holiday season, the film follows a man who returns from Germany and his ex-lover who works in the village. Mungiu named the film after a Romanian acronym for nuclear magnetic resonance, as the film is \"an investigation of the brain, a brain scan trying to detect things below the surface\". The film is based on the 2020 Ditr\u0103u xenophobic incident.</p><p>The film premiered in competition at the Cannes Film Festival in May 2022.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Marin Grigore as Matthias</li>\n<li>Judith State as Csilla</li>\n<li>Macrina B\u00e2rl\u0103deanu as Ana</li>\n<li>Orsolya Moldov\u00e1n as Mrs. D\u00e9nes</li>\n<li>Andrei Fin\u021bi as Papa Otto</li>\n<li>Mark Blenyesi as Rudi</li>\n<li>Ovidiu Cri\u0219an as Mr. Baciu</li></ul>\n\n<h2>Production</h2>\n<p>Mungiu wrote the screenplay in the spring of 2021. Filming took place from November 2021 to January 2022 in Rimetea and other villages across Transylvania.</p>\n\n<h2>Release</h2>\n<p>The film premiered at the 2022 Cannes Film Festival in the main competition. In May 2022, IFC Films acquired the North American rights ahead of the premiere, and released it in US theaters on April 28, 2023.</p><p>It also screened at the 2022 Toronto International Film Festival, in the Contemporary World Cinema category, as well as at the 29th edition of the European Film Festival Pali\u0107, and the 15th edition of the Central and Eastern European Film Festival in Luxembourg.\n</p>\n\n<h2>Reception</h2>\n<p>On the review aggregator website Rotten Tomatoes, 96% of 69 critics' reviews are positive, with an average rating of 8.1/10. The website's consensus reads: \"<i>R.M.N.</i><span>'</span>s spare, elegant approach lends a deceptively cool surface to its caustic take on cultural divisions.\" Metacritic, which uses a weighted average, assigned the film a score of 81 out of 100, based on 20 critics, indicating \"universal acclaim\".</p>\n\n<h3>Accolades</h3>\n<p>It was awarded the Golden Tower for Best Film at the 2022 European Film Festival Pali\u0107 and received a Special Mention from the Press Jury of the 2022 CinEast Film Festival in Luxembourg.</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>R.M.N.</i> at IMDb</li></ul>"
+}

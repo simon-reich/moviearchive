@@ -1,0 +1,1449 @@
+{
+    "adult": false,
+    "backdrop_path": "/3CMT4APmiXBuFn3NYUZVGoA4knF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 14626,
+    "imdb_id": "tt0209933",
+    "original_language": "fr",
+    "original_title": "Beau travail",
+    "overview": "Foreign Legion officer Galoup recalls his once glorious life, training troops in the Gulf of Djibouti. His existence there was happy, strict and regimented, until the arrival of a promising young recruit, Sentain, plants the seeds of jealousy in Galoup's mind.",
+    "popularity": 10.469,
+    "poster_path": "/m3FaQ55Ywk0oUBDrBVarHOcXZw6.jpg",
+    "production_companies": [
+        {
+            "id": 75482,
+            "logo_path": null,
+            "name": "Tana\u00efs Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 11332,
+            "logo_path": null,
+            "name": "La Sept-Arte",
+            "origin_country": "FR"
+        },
+        {
+            "id": 75483,
+            "logo_path": null,
+            "name": "S.M. Films",
+            "origin_country": ""
+        },
+        {
+            "id": 31821,
+            "logo_path": null,
+            "name": "Path\u00e9 T\u00e9l\u00e9vision",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2000-05-03",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Maybe freedom begins with remorse.",
+    "title": "Beau Travail",
+    "video": false,
+    "vote_average": 7.009,
+    "vote_count": 232,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27978,
+                "known_for_department": "Acting",
+                "name": "Denis Lavant",
+                "original_name": "Denis Lavant",
+                "popularity": 7.91,
+                "profile_path": "/WgGsHm3IC6ocjmjslREvKKNnX3.jpg",
+                "cast_id": 2,
+                "character": "Galoup",
+                "credit_id": "52fe46099251416c7506af19",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24365,
+                "known_for_department": "Acting",
+                "name": "Michel Subor",
+                "original_name": "Michel Subor",
+                "popularity": 2.148,
+                "profile_path": "/il6f0zTI3YZx6pEe13x1vEQo5eX.jpg",
+                "cast_id": 3,
+                "character": "Commander Bruno Forestier",
+                "credit_id": "52fe46099251416c7506af1d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136170,
+                "known_for_department": "Acting",
+                "name": "Gr\u00e9goire Colin",
+                "original_name": "Gr\u00e9goire Colin",
+                "popularity": 4.626,
+                "profile_path": "/1HLfq8oddSZYpwOVJFp8mkKQMAb.jpg",
+                "cast_id": 7,
+                "character": "Gilles Sentain",
+                "credit_id": "52fe46099251416c7506af2d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 240050,
+                "known_for_department": "Acting",
+                "name": "Richard Courcet",
+                "original_name": "Richard Courcet",
+                "popularity": 3.176,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Legionnaire",
+                "credit_id": "570eaf68c3a368538b0006c7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81054,
+                "known_for_department": "Acting",
+                "name": "Nicolas Duvauchelle",
+                "original_name": "Nicolas Duvauchelle",
+                "popularity": 9.48,
+                "profile_path": "/nQsvg9syyFY112gi9TC56xIKhRI.jpg",
+                "cast_id": 17,
+                "character": "Legionnaire",
+                "credit_id": "5bbc9499c3a36858f501710a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2145877,
+                "known_for_department": "Acting",
+                "name": "Adiatou Massudi",
+                "original_name": "Adiatou Massudi",
+                "popularity": 0.605,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Legionnaire",
+                "credit_id": "5bbc94e9c3a36858f9014edb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2145879,
+                "known_for_department": "Acting",
+                "name": "Mickael Ravovski",
+                "original_name": "Mickael Ravovski",
+                "popularity": 0.7,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Legionnaire",
+                "credit_id": "5bbc95150e0a266606016f17",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554591,
+                "known_for_department": "Acting",
+                "name": "Dan Herzberg",
+                "original_name": "Dan Herzberg",
+                "popularity": 3.318,
+                "profile_path": "/3NNKmbZO70NIYmeWsINMCziZw0i.jpg",
+                "cast_id": 20,
+                "character": "Legionnaire",
+                "credit_id": "5bbc95480e0a266618015212",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2145880,
+                "known_for_department": "Acting",
+                "name": "Giuseppe Molino",
+                "original_name": "Giuseppe Molino",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Legionnaire",
+                "credit_id": "5bbc9576c3a368590a015c62",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188528,
+                "known_for_department": "Acting",
+                "name": "Gianfranco Poddighe",
+                "original_name": "Gianfranco Poddighe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Legionnaire",
+                "credit_id": "5bbc959f92514137930140d7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2145884,
+                "known_for_department": "Acting",
+                "name": "Marc Veh",
+                "original_name": "Marc Veh",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Legionnaire",
+                "credit_id": "5bbc95c0925141378e014958",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2145887,
+                "known_for_department": "Acting",
+                "name": "Thong Duy Nguyen",
+                "original_name": "Thong Duy Nguyen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Legionnaire",
+                "credit_id": "5bbc95fb925141379301412a",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379432,
+                "known_for_department": "Acting",
+                "name": "Jean-Yves Vivet",
+                "original_name": "Jean-Yves Vivet",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Legionnaire",
+                "credit_id": "61de83b268b1ea0041358fd3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2087210,
+                "known_for_department": "Crew",
+                "name": "Bernardo Montet",
+                "original_name": "Bernardo Montet",
+                "popularity": 0.6,
+                "profile_path": "/999Bn8SPEpv8YDXTrqOxjQXTkG3.jpg",
+                "cast_id": 49,
+                "character": "Legionnaire",
+                "credit_id": "61de8822945c200019531bb5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379468,
+                "known_for_department": "Acting",
+                "name": "Dimitri Tsiapkinis",
+                "original_name": "Dimitri Tsiapkinis",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 50,
+                "character": "Legionnaire",
+                "credit_id": "61de883f4c1d9a008d792c45",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379469,
+                "known_for_department": "Acting",
+                "name": "Djamel Zemali",
+                "original_name": "Djamel Zemali",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "Legionnaire",
+                "credit_id": "61de88538cfcc700654da467",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379470,
+                "known_for_department": "Acting",
+                "name": "Abdelkader Bouti",
+                "original_name": "Abdelkader Bouti",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 52,
+                "character": "Legionnaire",
+                "credit_id": "61de88740b5fd6004385cb44",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379478,
+                "known_for_department": "Acting",
+                "name": "Marta Tafesse Kassa",
+                "original_name": "Marta Tafesse Kassa",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 53,
+                "character": "Rahel",
+                "credit_id": "61de8a0fc175b2001c8af56f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379479,
+                "known_for_department": "Acting",
+                "name": "Loula Ali Lotta",
+                "original_name": "Loula Ali Lotta",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 54,
+                "character": "",
+                "credit_id": "61de8a2e1d6c5f001b024691",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379481,
+                "known_for_department": "Acting",
+                "name": "Ali Mohammed Hamadou",
+                "original_name": "Ali Mohammed Hamadou",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 55,
+                "character": "",
+                "credit_id": "61de8ac2b0040a006612add8",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379482,
+                "known_for_department": "Acting",
+                "name": "Ahmed Houffeil Abdi",
+                "original_name": "Ahmed Houffeil Abdi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "",
+                "credit_id": "61de8ad6c525c4001a92cc2a",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379484,
+                "known_for_department": "Acting",
+                "name": "Aicha Med Robleh",
+                "original_name": "Aicha Med Robleh",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 57,
+                "character": "",
+                "credit_id": "61de8ae60b5fd6008de0d0ed",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379485,
+                "known_for_department": "Acting",
+                "name": "Sigue Samouel",
+                "original_name": "Sigue Samouel",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 58,
+                "character": "",
+                "credit_id": "61de8af768b1ea0066972195",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379487,
+                "known_for_department": "Acting",
+                "name": "Almaz Lissana",
+                "original_name": "Almaz Lissana",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 59,
+                "character": "",
+                "credit_id": "61de8b07c525c4001a92cc65",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379489,
+                "known_for_department": "Acting",
+                "name": "Kounana Mitike",
+                "original_name": "Kounana Mitike",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 60,
+                "character": "",
+                "credit_id": "61de8b192811a1006972fffd",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379491,
+                "known_for_department": "Acting",
+                "name": "Amina Iman",
+                "original_name": "Amina Iman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 61,
+                "character": "",
+                "credit_id": "61de8b5f6e0d72001b6f190c",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379492,
+                "known_for_department": "Acting",
+                "name": "Yawadit Bahailou",
+                "original_name": "Yawadit Bahailou",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 62,
+                "character": "",
+                "credit_id": "61de8b700dea6e006b84dc28",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379493,
+                "known_for_department": "Acting",
+                "name": "Zinat Cheik Safi",
+                "original_name": "Zinat Cheik Safi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 63,
+                "character": "",
+                "credit_id": "61de8b805c071b001dee1195",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379494,
+                "known_for_department": "Acting",
+                "name": "Hiwat Ayalleh",
+                "original_name": "Hiwat Ayalleh",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 64,
+                "character": "",
+                "credit_id": "61de8b91441b030090e54b2f",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379495,
+                "known_for_department": "Acting",
+                "name": "Touriye Ballata",
+                "original_name": "Touriye Ballata",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 65,
+                "character": "",
+                "credit_id": "61de8ba15c071b0043fb4b8b",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379496,
+                "known_for_department": "Acting",
+                "name": "Hiwat Echete",
+                "original_name": "Hiwat Echete",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 66,
+                "character": "",
+                "credit_id": "61de8bb10dea6e0042526848",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379497,
+                "known_for_department": "Acting",
+                "name": "Haba Kebede",
+                "original_name": "Haba Kebede",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 67,
+                "character": "",
+                "credit_id": "61de8bc3b0040a001c66d4a4",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379499,
+                "known_for_department": "Acting",
+                "name": "Makdas Sahay",
+                "original_name": "Makdas Sahay",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 68,
+                "character": "",
+                "credit_id": "61de8bd2c175b200664e82cb",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379500,
+                "known_for_department": "Acting",
+                "name": "Amina Idriss",
+                "original_name": "Amina Idriss",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 69,
+                "character": "",
+                "credit_id": "61de8be41d6c5f009605eb5e",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379502,
+                "known_for_department": "Acting",
+                "name": "Sahait Alemanyeh",
+                "original_name": "Sahait Alemanyeh",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 70,
+                "character": "",
+                "credit_id": "61de8c4d1d6c5f006ac96b01",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379503,
+                "known_for_department": "Acting",
+                "name": "Yedit Bahalou",
+                "original_name": "Yedit Bahalou",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 71,
+                "character": "",
+                "credit_id": "61de8c5f4c1d9a008d792fb6",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379504,
+                "known_for_department": "Acting",
+                "name": "Kadija Mohamed",
+                "original_name": "Kadija Mohamed",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 72,
+                "character": "",
+                "credit_id": "61de8c72441b030041caea35",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379505,
+                "known_for_department": "Acting",
+                "name": "Mimi Alem",
+                "original_name": "Mimi Alem",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 73,
+                "character": "",
+                "credit_id": "61de8c84b0040a006612af6c",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379506,
+                "known_for_department": "Acting",
+                "name": "Roukoya Mohamed",
+                "original_name": "Roukoya Mohamed",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 74,
+                "character": "",
+                "credit_id": "61de8ca9b0040a008e90be27",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379507,
+                "known_for_department": "Acting",
+                "name": "Amina Salah",
+                "original_name": "Amina Salah",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 75,
+                "character": "",
+                "credit_id": "61de8cbb07291c0067fc3a11",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379508,
+                "known_for_department": "Acting",
+                "name": "Imabet Tadesse",
+                "original_name": "Imabet Tadesse",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 76,
+                "character": "",
+                "credit_id": "61de8ccc68b1ea0041359a9a",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3379509,
+                "known_for_department": "Acting",
+                "name": "Ganat Mamo",
+                "original_name": "Ganat Mamo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 77,
+                "character": "",
+                "credit_id": "61de8cdc8cfcc7008be69353",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379511,
+                "known_for_department": "Acting",
+                "name": "Matha Wolde",
+                "original_name": "Matha Wolde",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 78,
+                "character": "",
+                "credit_id": "61de8d1cb0040a006612aff7",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3379512,
+                "known_for_department": "Acting",
+                "name": "Mona Lisa",
+                "original_name": "Mona Lisa",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 79,
+                "character": "",
+                "credit_id": "61de8d6a945c2000679e03f4",
+                "order": 43
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 5.058,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "5bbcbbf9c3a36858f201b53d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9888,
+                "known_for_department": "Directing",
+                "name": "Claire Denis",
+                "original_name": "Claire Denis",
+                "popularity": 5.058,
+                "profile_path": "/zKR7pmegNQDjWqeWv7JNvHqJ2l5.jpg",
+                "credit_id": "52fe46099251416c7506af15",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9890,
+                "known_for_department": "Sound",
+                "name": "Jean-Paul Mugel",
+                "original_name": "Jean-Paul Mugel",
+                "popularity": 1.659,
+                "profile_path": "/4MPwCouuem4PjQjKytI1WMYcp0Q.jpg",
+                "credit_id": "60fa228ef056d5004763e05f",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14196,
+                "known_for_department": "Camera",
+                "name": "Agn\u00e8s Godard",
+                "original_name": "Agn\u00e8s Godard",
+                "popularity": 1.632,
+                "profile_path": "/684UZWONgJHqqEVGqdHd9yKmMCb.jpg",
+                "credit_id": "5bbcbd83c3a3685901016d69",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 49927,
+                "known_for_department": "Sound",
+                "name": "Dominique Gaborieau",
+                "original_name": "Dominique Gaborieau",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "60fa226f99d5c30047e650dd",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54358,
+                "known_for_department": "Directing",
+                "name": "Patrick Grandperret",
+                "original_name": "Patrick Grandperret",
+                "popularity": 1.4,
+                "profile_path": "/lBCIr5bTYG3ioMhC45WErF5CiWY.jpg",
+                "credit_id": "5bbcbe20c3a36858f501bb93",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42842,
+                "known_for_department": "Writing",
+                "name": "Herman Melville",
+                "original_name": "Herman Melville",
+                "popularity": 1.491,
+                "profile_path": "/wnIvi01g6RhlhC6sKfPQMVqrnXg.jpg",
+                "credit_id": "64ef904cebb99d00ad8b36d8",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73724,
+                "known_for_department": "Writing",
+                "name": "Jean-Pol Fargeau",
+                "original_name": "Jean-Pol Fargeau",
+                "popularity": 1.4,
+                "profile_path": "/iby2OMwVqH9h1BJdU1wIPi4u8SK.jpg",
+                "credit_id": "5bbcbc0c0e0a266618018c96",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928946,
+                "known_for_department": "Production",
+                "name": "Eric Zaouali",
+                "original_name": "Eric Zaouali",
+                "popularity": 1.383,
+                "profile_path": null,
+                "credit_id": "60fa22599603310081193d92",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928946,
+                "known_for_department": "Production",
+                "name": "Eric Zaouali",
+                "original_name": "Eric Zaouali",
+                "popularity": 1.383,
+                "profile_path": null,
+                "credit_id": "5bbcbe5e92514137a801787b",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 957442,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Judy Shrewsbury",
+                "original_name": "Judy Shrewsbury",
+                "popularity": 1.22,
+                "profile_path": "/662N2ZWsA06Qa3LcubMvJbZT74c.jpg",
+                "credit_id": "5bbcbf110e0a26661e01a3a6",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1016336,
+                "known_for_department": "Editing",
+                "name": "Nelly Quettier",
+                "original_name": "Nelly Quettier",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bbcbdb00e0a26660301b0a2",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1098178,
+                "known_for_department": "Art",
+                "name": "Arnaud de Mol\u00e9ron",
+                "original_name": "Arnaud de Mol\u00e9ron",
+                "popularity": 0.868,
+                "profile_path": null,
+                "credit_id": "5bbcbeeec3a368590d01aa1d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1364141,
+                "known_for_department": "Acting",
+                "name": "Jean-Christophe Winding",
+                "original_name": "Jean-Christophe Winding",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60fa22c4310325002370b218",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1476491,
+                "known_for_department": "Production",
+                "name": "Nicolas Lublin",
+                "original_name": "Nicolas Lublin",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5bbcbeca9251413797018d65",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1870764,
+                "known_for_department": "Sound",
+                "name": "Eran Zur",
+                "original_name": "Eran Zur",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bbcbdfc9251413793017f24",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1870765,
+                "known_for_department": "Sound",
+                "name": "Charles Henri de Pierrefeu",
+                "original_name": "Charles Henri de Pierrefeu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bbcbde69251413793017f05",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1895259,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Dani\u00e8le Vuarin",
+                "original_name": "Dani\u00e8le Vuarin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5bbcbf35925141378b017593",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1919274,
+                "known_for_department": "Sound",
+                "name": "Alexis Leverve",
+                "original_name": "Alexis Leverve",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60fa227f960331004727751b",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2075027,
+                "known_for_department": "Sound",
+                "name": "Nathalie Vidal",
+                "original_name": "Nathalie Vidal",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60fa22a3e24b930075b82344",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2474014,
+                "known_for_department": "Production",
+                "name": "J\u00e9r\u00f4me Minet",
+                "original_name": "J\u00e9r\u00f4me Minet",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5fc7aca013a388003e061aa4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2766692,
+                "known_for_department": "Production",
+                "name": "Danielle Vaugon",
+                "original_name": "Danielle Vaugon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60fa230371f095007fd29ea2",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3168454,
+                "known_for_department": "Visual Effects",
+                "name": "Ronan Broudin",
+                "original_name": "Ronan Broudin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60fa22dc3103250072abb745",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3168456,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Christine Keusch",
+                "original_name": "Christine Keusch",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "60fa22ec0dea6e005e8c51f6",
+                "department": "Costume & Make-Up",
+                "job": "Costumer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "v-JFDmKsOCY",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2021-10-13T16:47:23.000Z",
+                "id": "617de0bdcb6db5002c22b85e"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Beau Travail | Trailer",
+                "key": "Hh4HzACZOOQ",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2020-08-17T19:14:30.000Z",
+                "id": "60fa2225df857c0075c75ba8"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "BEAU TRAVAIL - FULL TRAILER",
+                "key": "447659358",
+                "site": "Vimeo",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2020-08-14T00:20:26.000Z",
+                "id": "5f3a9d7dbe4b360035af8c09"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/3CMT4APmiXBuFn3NYUZVGoA4knF.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/pIiO1Su1iaYj6qos6fF13p1PpG5.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1009,
+                "iso_639_1": null,
+                "file_path": "/5IJN0Ruobs5Jj9gVhZHULH3lBcs.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1794
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/suD9efvyQU3iWtOD5mfxW9nVgn2.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 846,
+                "iso_639_1": null,
+                "file_path": "/rmmgQKxLaZm8872MIcmU9qMwPWM.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1504
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/qJry0JqLuDd7wF4wkY7qTIJmymC.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/aR6kM2Bqt7o7RXX7Um1OIpOJN5m.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/4SZq6xpQGAKVEpBPoF2mJG9m55k.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/ercYxyzjVgIjOT3ol8PW0nHCg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/6TewiYmoMpUAX5bQNCmWKeSDVHz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/nLsjxoLjJgRAprOwdTluqH1BDbG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/gBFdAWHNtikQjKFMqqlzmtpquEr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/zXDyHo4WX7AhgbzoCPg11VQ7N7N.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/ugckqn09Td6MKxOxIs7BQtSIwPr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/uJ2O2YVIMvPsdRjSu5gW1eH7z0x.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1009,
+                "iso_639_1": null,
+                "file_path": "/qd1vtYC8QnPm5AHrmzXGck0khoQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1794
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1009,
+                "iso_639_1": null,
+                "file_path": "/D1aUoS0Tp5mc49fQrnHWSVOkKA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1794
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/6YA06RBOXtHU3VDsnpy2WX11fIQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 2.62,
+                "height": 271,
+                "iso_639_1": "en",
+                "file_path": "/bQCaFs3kJ3OkwudQkisB571qpr8.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 710
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/7aVQFvGkLnpA71mYoDkVkzSzBZM.jpg",
+                "vote_average": 5.638,
+                "vote_count": 12,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/gR8z07v2Y1gwAbmLnrJyZWxCHxs.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "fr",
+                "file_path": "/bEJzBtPuuuWKUDWlGPET2DXhWqU.jpg",
+                "vote_average": 5.396,
+                "vote_count": 12,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2666,
+                "iso_639_1": "en",
+                "file_path": "/m3FaQ55Ywk0oUBDrBVarHOcXZw6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1776
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "fr",
+                "file_path": "/jjdHjLxT53t8w75VamQzLYEmycK.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1932,
+                "iso_639_1": "fr",
+                "file_path": "/fa1zMCVyRqUlXLJcRuL4uUC0pZD.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 1288
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1000,
+                "iso_639_1": "fr",
+                "file_path": "/l5SHLE26GScHuv0gTO00dyc1Ux.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 666
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/uE7HAsvfxZwE2XHAKZNAJabIwba.jpg",
+                "vote_average": 4.724,
+                "vote_count": 11,
+                "width": 667
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1932,
+                "iso_639_1": "en",
+                "file_path": "/8liInyfcnyn0vizoQNGmJohtsCm.jpg",
+                "vote_average": 4.724,
+                "vote_count": 11,
+                "width": 1288
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/q8yqNHupN2sm8sAACvsTgCAXnoq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/vCkrpYoUrhbspRVwxrPg5Lp7McA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/e3LHKiARKUaIX89JVdFwJjyX6qP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/an3787MhEKLJ0EMEAkbGb1vH6sg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/glmuIo2hvXkN7fwXwa0oPhfcem4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/eCQz3DaUIHkQAZbzzN6M0t2WTKA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1691,
+                "name": "dance"
+            },
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 2905,
+                "name": "foreign legion"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            },
+            {
+                "id": 194226,
+                "name": "masculinity"
+            },
+            {
+                "id": 214647,
+                "name": "power play"
+            },
+            {
+                "id": 226576,
+                "name": "djibouti"
+            },
+            {
+                "id": 258533,
+                "name": "gay theme"
+            }
+        ]
+    },
+    "title_english": "Beau travail",
+    "year": "1999",
+    "rated": "Unrated",
+    "director_list": [
+        "Claire Denis"
+    ],
+    "writer_list": [
+        "Claire Denis",
+        " Jean-Pol Fargeau",
+        " Herman Melville"
+    ],
+    "main_cast": [
+        "Denis Lavant",
+        " Michel Subor",
+        " Gr\u00e9goire Colin"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "91/100"
+        }
+    ],
+    "imdb_rating": "7.3",
+    "imdb_votes": "13,647",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beau_Travail",
+    "wikipedia_summary": "Beau Travail (pronounced [bo t\u0281a.vaj], French for \"good work\") is a 1999 French film directed by Claire Denis that is loosely based on Herman Melville's 1888 novella Billy Budd. The story is set in Djibouti, where the protagonists are soldiers in the French Foreign Legion. Parts of the soundtrack of the movie are from Benjamin Britten's 1951 opera based on the novella.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>Beau Travail</b></i> (<span>pronounced</span> <span lang=\"fr-Latn-fonipa\">[bo<span> </span>t\u0281a.vaj]</span>, French for \"good work\") is a 1999 French film directed by Claire Denis that is loosely based on Herman Melville's 1888 novella <i>Billy Budd</i>. The story is set in Djibouti, where the protagonists are soldiers in the French Foreign Legion. Parts of the soundtrack of the movie are from Benjamin Britten's 1951 opera based on the novella.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Synopsis</h2>\n<p>Adjudant-Chef Galoup of the French Foreign Legion reflects on his life from his home Marseille. He recalls his time in Djibouti, where he led a section of men under the command of Commandant Bruno Forestier. Galoup admired and envied many of Forestier's qualities, including his clear affection from the men, and retains a wristband with Forestier's name. Galoup has a Djiboutian girlfriend, and they often go out dancing.\n</p><p>One day, a new recruit named Gilles Sentain joins Galoup's section. Galoup harbors an immediate and seemingly irrational hostility towards Sentain, and vows to destroy him. When Sentain hands a canteen of water to another soldier who is being punished by being forced to dig a large hole in the heat of the day, Galoup chastises Sentain and knocks the water from his hand. Sentain strikes Galoup, who retaliates by taking Sentain into the desert and ordering him to walk back to the base alone. However, Galoup had previously tampered with Sentain's compass, causing him to become lost and collapse from dehydration in the arid salt flats.\n</p><p>Sentain is ultimately found and rescued by locals, but never returns to the base and is presumed to have deserted. His compass is later found by the legionnaires at a local sale of salt-encrusted novelties, and is believed to prove Sentain is dead. On the assumption that Galoup has either killed or attempted to kill Sentain, Galoup is sent back to France by Forestier for a court martial, ending his career in the Foreign Legion. He makes his bed in the immaculate military manner, then lies on top clutching a pistol, and reads aloud the phrase tattooed on his chest: \"<span title=\"French-language text\"><i lang=\"fr\">Sers la bonne cause et meurs</i></span>\" (\"Serve the good cause then die\"). The film ends with a dream sequence of Galoup at a night club in Djibouti, engaging in a lively acrobatic solo dance to \"The Rhythm of the Night\". It is heavily implied that he commits suicide.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Denis Lavant - Adjudant-Chef Galoup</li>\n<li>Michel Subor - Commandant Bruno Forestier</li>\n<li>Gr\u00e9goire Colin - L\u00e9gionnaire Gilles Sentain</li>\n<li>Richard Courcet - L\u00e9gionnaire</li>\n<li>Nicolas Duvauchelle - L\u00e9gionnaire</li></ul><p>Subor played a character with the same name 30 years earlier in <i>Le petit soldat</i>.\n</p>\n\n<h2>Production</h2>\n<p>In an interview, Denis said, \"One of the cast had actually been in the Legion, so we took all their real exercises and did them together every day, to concentrate the actors as a group. We never said we were going to choreograph the film. But afterwards, when we started shooting, using Britten's music, those exercises became like a dance.\"</p>\n\n<h2>Reception</h2>\n<p>The film was highly acclaimed in the United States, topping the <i>Village Voice'</i>s Film Critics' Poll in 2000, with Claire Denis also placing at #2 for best director. Jonathan Rosenbaum of the <i>Chicago Reader</i> rated it a \"masterpiece\", giving it the paper's highest rating of four stars. Charles Taylor of <i>Salon.com</i> wrote that \"<i>Beau Travail</i> is the most extreme example of [Denis'] talent, baffling and exhilarating. I don't know when I've seen a movie that is in so many ways foreign to what draws me to movies and still felt under a spell.\" Peter Travers of <i>Rolling Stone</i> gave it the magazine's highest rating, calling it \"unique and unforgettable\". J. Hoberman of the <i>Village Voice</i> wrote that the film is \"so tactile in its cinematography, inventive in its camera placement, and sensuous in its editing that the purposefully oblique and languid narrative is all but eclipsed.\" Film scholar Erika Balsom wrote that the ending sequence \"is perhaps the best ending of any film, ever,\" explaining that \"Galoup finds a rhythm of life that follows none of the patterns of colonial, patriarchal power the film so skilfully traces and complicates...he inhabits a utopia of movement without rules\".</p><p>The review aggregator website, Metacritic, gave the film a score of 91 out of 100 based on 20 reviews, indicating \"universal acclaim\". Rotten Tomatoes, another aggregator, reports an 86% approval rating based on 44 reviews, with a weighted average of 7.8/10. The site's consensus reads: \"<i>Beau Travail</i> finds director Claire Denis drawing on classic literature to construct a modern tragedy fueled by timeless desires\".</p><p><i>Variety</i> magazine named Beau Travail as one of The 100 Greatest Movies of All Time (No. 69). \n</p><p>In the 2022 <i>Sight and Sound</i> critic's poll, <i>Beau Travail</i> was ranked the 7th best movie of all time.\n</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Beau Travail</i> at IMDb</li>\n<li><i>Beau Travail</i> at Rotten Tomatoes</li>\n<li><i>Beau Travail</i> at Metacritic </li>\n<li><i>Beau Travail</i> at Turner Classic Movies</li>\n<li><i>Beau travail: A Cinema of Sensation</i> an essay by Girish Shambu at the Criterion Collection</li></ul>\n\n<!-- \nNewPP limit report\nParsed by mw1471\nCached time: 20231203072144\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.615 seconds\nReal time usage: 0.790 seconds\nPreprocessor visited node count: 2022/1000000\nPost\u2010expand include size: 44087/2097152 bytes\nTemplate argument size: 3961/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 3/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 41850/5000000 bytes\nLua time usage: 0.479/10.000 seconds\nLua memory usage: 24906380/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  747.562      1 -total\n 44.51%  332.757      1 Template:Infobox_film\n 39.99%  298.955     10 Template:Main_other\n 37.50%  280.356      1 Template:Infobox_film/short_description\n 34.99%  261.564      1 Template:Short_description\n 26.98%  201.672      2 Template:Country2nationality\n 26.00%  194.382      4 Template:ISO_3166_code\n 15.31%  114.420      1 Template:IPA-fr\n 15.13%  113.081      1 Template:IPA\n 14.19%  106.072      1 Template:Reflist\n-->"
+}

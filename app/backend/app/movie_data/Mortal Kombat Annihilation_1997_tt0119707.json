@@ -1,0 +1,1970 @@
+{
+    "adult": false,
+    "backdrop_path": "/19EpgKZDkLIwY1TI1pjBJtQ5qdr.jpg",
+    "belongs_to_collection": {
+        "id": 9818,
+        "name": "Mortal Kombat Collection",
+        "poster_path": "/quwcbufZZiTMUjuiGSLKBkWWaga.jpg",
+        "backdrop_path": "/qD3efz57VGNywAN4lTvgz3FHnBb.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 9823,
+    "imdb_id": "tt0119707",
+    "original_language": "en",
+    "original_title": "Mortal Kombat: Annihilation",
+    "overview": "A group of heroic warriors has only six days to save the planet in \"Mortal Kombat Annihilation.\" To succeed they must survive the most spectacular series of challenges any human, or god, has ever encountered as they battle an evil warlord bent on taking control of Earth.",
+    "popularity": 27.51,
+    "poster_path": "/ttryglcY2osWZE3sRYBf3ewTZsW.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 4174,
+            "logo_path": null,
+            "name": "Threshold Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-11-11",
+    "revenue": 51376861,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Destroy All Expectations...",
+    "title": "Mortal Kombat: Annihilation",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 1094,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57250,
+                "known_for_department": "Acting",
+                "name": "Robin Shou",
+                "original_name": "Robin Shou",
+                "popularity": 11.603,
+                "profile_path": "/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg",
+                "cast_id": 1,
+                "character": "Liu Kang",
+                "credit_id": "52fe4534c3a36847f80c2023",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10680,
+                "known_for_department": "Acting",
+                "name": "Talisa Soto",
+                "original_name": "Talisa Soto",
+                "popularity": 7.654,
+                "profile_path": "/tpEGbGgASne8m1iHzncuxdSLIkX.jpg",
+                "cast_id": 2,
+                "character": "Kitana",
+                "credit_id": "52fe4534c3a36847f80c2027",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1736,
+                "known_for_department": "Acting",
+                "name": "James Remar",
+                "original_name": "James Remar",
+                "popularity": 20.968,
+                "profile_path": "/ctMVpFDKKWCty60lLORf3IoJcv9.jpg",
+                "cast_id": 9,
+                "character": "Raiden",
+                "credit_id": "52fe4534c3a36847f80c204b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 59642,
+                "known_for_department": "Acting",
+                "name": "Sandra Hess",
+                "original_name": "Sandra Hess",
+                "popularity": 2.865,
+                "profile_path": "/qqXxOm6UzrjxQ4yQ9jhApHw8ZXD.jpg",
+                "cast_id": 3,
+                "character": "Sonya Blade",
+                "credit_id": "52fe4534c3a36847f80c202b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59643,
+                "known_for_department": "Acting",
+                "name": "Lynn 'Red' Williams",
+                "original_name": "Lynn 'Red' Williams",
+                "popularity": 4.463,
+                "profile_path": "/gXhZfx3F98V8QX5WqWlSnHIKe9l.jpg",
+                "cast_id": 4,
+                "character": "Jax",
+                "credit_id": "52fe4534c3a36847f80c202f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2719,
+                "known_for_department": "Acting",
+                "name": "Brian Thompson",
+                "original_name": "Brian Thompson",
+                "popularity": 12.993,
+                "profile_path": "/qooSjBMA1P85JhBpHlwmmisGroO.jpg",
+                "cast_id": 10,
+                "character": "Shao Kahn",
+                "credit_id": "52fe4534c3a36847f80c204f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38624,
+                "known_for_department": "Acting",
+                "name": "Reiner Sch\u00f6ne",
+                "original_name": "Reiner Sch\u00f6ne",
+                "popularity": 4.34,
+                "profile_path": "/iCpfVjPn9fMCm9RSgHAlBIo1zUu.jpg",
+                "cast_id": 11,
+                "character": "Shinnok",
+                "credit_id": "52fe4534c3a36847f80c2053",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1475,
+                "known_for_department": "Acting",
+                "name": "Musetta Vander",
+                "original_name": "Musetta Vander",
+                "popularity": 8.499,
+                "profile_path": "/7dW6Zjh81x0Ibb3THwdtX4XXuMg.jpg",
+                "cast_id": 12,
+                "character": "Sindel",
+                "credit_id": "52fe4534c3a36847f80c2057",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 69532,
+                "known_for_department": "Acting",
+                "name": "Irina Pantaeva",
+                "original_name": "Irina Pantaeva",
+                "popularity": 2.843,
+                "profile_path": "/uZiajwCHfKXhnLXPT9Bb2vg4GX6.jpg",
+                "cast_id": 13,
+                "character": "Jade",
+                "credit_id": "52fe4534c3a36847f80c205b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31368,
+                "known_for_department": "Acting",
+                "name": "Deron McBee",
+                "original_name": "Deron McBee",
+                "popularity": 4.384,
+                "profile_path": "/38pu9f5TXpSsA2YypFfBpyk8dgH.jpg",
+                "cast_id": 14,
+                "character": "Motaro",
+                "credit_id": "52fe4534c3a36847f80c205f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 106728,
+                "known_for_department": "Acting",
+                "name": "Marjean Holden",
+                "original_name": "Marjean Holden",
+                "popularity": 7.64,
+                "profile_path": "/psdSq3GOF0pxYu9K8IJD8JfI5q6.jpg",
+                "cast_id": 15,
+                "character": "Sheeva",
+                "credit_id": "52fe4534c3a36847f80c2063",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69302,
+                "known_for_department": "Acting",
+                "name": "Litefoot",
+                "original_name": "Litefoot",
+                "popularity": 2.128,
+                "profile_path": "/lZirENb3WkQarkkgKDs0qyjOltH.jpg",
+                "cast_id": 16,
+                "character": "Nightwolf",
+                "credit_id": "52fe4534c3a36847f80c2067",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227199,
+                "known_for_department": "Acting",
+                "name": "Chris Conrad",
+                "original_name": "Chris Conrad",
+                "popularity": 4.031,
+                "profile_path": "/bT3imD3L01okntIJRM1SiHt6gTG.jpg",
+                "cast_id": 17,
+                "character": "Johnny Cage",
+                "credit_id": "52fe4534c3a36847f80c206b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1068803,
+                "known_for_department": "Directing",
+                "name": "John Medlen",
+                "original_name": "John Medlen",
+                "popularity": 2.116,
+                "profile_path": "/31mi98LXo5z6tFCxdaZLM7EHHF7.jpg",
+                "cast_id": 18,
+                "character": "Ermac",
+                "credit_id": "52fe4534c3a36847f80c206f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131532,
+                "known_for_department": "Crew",
+                "name": "J.J. Perry",
+                "original_name": "J.J. Perry",
+                "popularity": 3.446,
+                "profile_path": "/57assDPZceZ4x7YWrkPE5FqVn1f.jpg",
+                "cast_id": 19,
+                "character": "Cyrax / Scorpion / Noob Saibot / Tarkatan (Baraka) #3",
+                "credit_id": "52fe4534c3a36847f80c2073",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1645507,
+                "known_for_department": "Acting",
+                "name": "Tyrone C. Wiggins",
+                "original_name": "Tyrone C. Wiggins",
+                "popularity": 0.6,
+                "profile_path": "/ArCLUNl0jyoFvwumAUDjV0eRHmJ.jpg",
+                "cast_id": 22,
+                "character": "Rain",
+                "credit_id": "577b2d049251412d8d000ce6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1221121,
+                "known_for_department": "Acting",
+                "name": "Dennis Keiffer",
+                "original_name": "Dennis Keiffer",
+                "popularity": 7.143,
+                "profile_path": "/jb6FR0OZgCqbPOkKq2KikXr31WW.jpg",
+                "cast_id": 23,
+                "character": "Baraka",
+                "credit_id": "577b2d109251412d8d000cef",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277922,
+                "known_for_department": "Acting",
+                "name": "Ridley Tsui Bo-wah",
+                "original_name": "Ridley Tsui Bo-wah",
+                "popularity": 4.326,
+                "profile_path": "/aHjeyxfSvoYyeQVaz3qmEiCMVwZ.jpg",
+                "cast_id": 24,
+                "character": "Smoke",
+                "credit_id": "577b2d1bc3a36837fe0003f6",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57255,
+                "known_for_department": "Acting",
+                "name": "Keith Cooke",
+                "original_name": "Keith Cooke",
+                "popularity": 3.099,
+                "profile_path": "/dnvy4P6gd7jRduV4OLQoYdW9CAW.jpg",
+                "cast_id": 25,
+                "character": "Sub-Zero",
+                "credit_id": "577b2d279251412d8d000cf7",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119776,
+                "known_for_department": "Acting",
+                "name": "Lance LeGault",
+                "original_name": "Lance LeGault",
+                "popularity": 5.561,
+                "profile_path": "/dQOCLWXsB1VKFtg4TZqC9QCxpLJ.jpg",
+                "cast_id": 26,
+                "character": "Elder God #1",
+                "credit_id": "577b2d329251414ba800032e",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42970,
+                "known_for_department": "Acting",
+                "name": "Carolyn Seymour",
+                "original_name": "Carolyn Seymour",
+                "popularity": 6.187,
+                "profile_path": "/6Q88aLK6c9zNmUU3OEsrFx5b21M.jpg",
+                "cast_id": 27,
+                "character": "Elder God #2",
+                "credit_id": "577b2d3dc3a36837fe0003ff",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 131528,
+                "known_for_department": "Crew",
+                "name": "Dana Hee",
+                "original_name": "Dana Hee",
+                "popularity": 3.7,
+                "profile_path": "/bRGiJHTNCk7YLNMeGKnG87OAqf6.jpg",
+                "cast_id": 28,
+                "character": "Mileena",
+                "credit_id": "577b2d48c3a3682433002927",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11007,
+                "known_for_department": "Acting",
+                "name": "Ray Park",
+                "original_name": "Ray Park",
+                "popularity": 12.236,
+                "profile_path": "/1BxwBrCTfTw9u9RGwEl6qWbPnZL.jpg",
+                "cast_id": 29,
+                "character": "Raptor #3 / Tarkatan (Baraka) #2",
+                "credit_id": "577b2d559251411f570011a4",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57256,
+                "known_for_department": "Crew",
+                "name": "Ed Boon",
+                "original_name": "Ed Boon",
+                "popularity": 2.271,
+                "profile_path": "/8uc1wLbLsnTYsVZcXhSP0G2cIOR.jpg",
+                "cast_id": 30,
+                "character": "Scorpion (voice)",
+                "credit_id": "577b2d619251414b4b00039d",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1216726,
+                "known_for_department": "Acting",
+                "name": "Steven Ho",
+                "original_name": "Steven Ho",
+                "popularity": 3.506,
+                "profile_path": "/knCr9YBFbNT0Qhu68Jz74G9tHon.jpg",
+                "cast_id": 31,
+                "character": "Chan (archive footage)",
+                "credit_id": "5e81f67e0bc5290016f1708a",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11398,
+                "known_for_department": "Acting",
+                "name": "Cary-Hiroyuki Tagawa",
+                "original_name": "Cary-Hiroyuki Tagawa",
+                "popularity": 11.088,
+                "profile_path": "/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg",
+                "cast_id": 32,
+                "character": "Shang Tsung (archive footage)",
+                "credit_id": "5e81f69d2a210c00132c53ee",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78214,
+                "known_for_department": "Acting",
+                "name": "Mark Caso",
+                "original_name": "Mark Caso",
+                "popularity": 4.162,
+                "profile_path": "/owtIXZOz764fkORD8GOt4yOh7Ca.jpg",
+                "cast_id": 56,
+                "character": "Raptor #1 (uncredited)",
+                "credit_id": "60173ecb12425c003ee23b1a",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3084539,
+                "known_for_department": "Acting",
+                "name": "Sultan Uddin",
+                "original_name": "Sultan Uddin",
+                "popularity": 0.753,
+                "profile_path": null,
+                "cast_id": 57,
+                "character": "Raptor #2 (uncredited)",
+                "credit_id": "6097dea89bcd0f003b782524",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2507,
+                "known_for_department": "Camera",
+                "name": "Matthew F. Leonetti",
+                "original_name": "Matthew F. Leonetti",
+                "popularity": 2.261,
+                "profile_path": "/v9kwWIkNkanReGoFfJA1vrLBUDP.jpg",
+                "credit_id": "5f2d942891f0ea00383645d1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3504,
+                "known_for_department": "Sound",
+                "name": "David Farmer",
+                "original_name": "David Farmer",
+                "popularity": 3.044,
+                "profile_path": "/oYNchEjc32GucUPvXAHMXajk3xJ.jpg",
+                "credit_id": "643acc6842f19f04c71e9af3",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9204,
+                "known_for_department": "Sound",
+                "name": "George S. Clinton",
+                "original_name": "George S. Clinton",
+                "popularity": 1.882,
+                "profile_path": "/tdJbE5zJV037lc2RwIRWv0cCJpZ.jpg",
+                "credit_id": "643edc39aad9c2056d9f3388",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10789,
+                "known_for_department": "Art",
+                "name": "Simon Wakefield",
+                "original_name": "Simon Wakefield",
+                "popularity": 1.313,
+                "profile_path": null,
+                "credit_id": "643acbe1b6c26402ec39ec5c",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26714,
+                "known_for_department": "Camera",
+                "name": "John R. Leonetti",
+                "original_name": "John R. Leonetti",
+                "popularity": 5.143,
+                "profile_path": "/uksq1bamaA4MfpBPaP4Vv8BvLpu.jpg",
+                "credit_id": "52fe4534c3a36847f80c2035",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78214,
+                "known_for_department": "Acting",
+                "name": "Mark Caso",
+                "original_name": "Mark Caso",
+                "popularity": 4.162,
+                "profile_path": "/owtIXZOz764fkORD8GOt4yOh7Ca.jpg",
+                "credit_id": "643accb0e329430552f9d579",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78214,
+                "known_for_department": "Acting",
+                "name": "Mark Caso",
+                "original_name": "Mark Caso",
+                "popularity": 4.162,
+                "profile_path": "/owtIXZOz764fkORD8GOt4yOh7Ca.jpg",
+                "credit_id": "643acd4de3294304f2f9d700",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11007,
+                "known_for_department": "Acting",
+                "name": "Ray Park",
+                "original_name": "Ray Park",
+                "popularity": 12.236,
+                "profile_path": "/1BxwBrCTfTw9u9RGwEl6qWbPnZL.jpg",
+                "credit_id": "643acd13e329430552f9d5ac",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 22033,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jennifer L. Parsons",
+                "original_name": "Jennifer L. Parsons",
+                "popularity": 0.605,
+                "profile_path": null,
+                "credit_id": "5ec03c21ae2811001f01806b",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 22077,
+                "known_for_department": "Production",
+                "name": "Carla Fry",
+                "original_name": "Carla Fry",
+                "popularity": 1.721,
+                "profile_path": null,
+                "credit_id": "5e81f744ce4ddc00137562ce",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 23456,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Shaune Harrison",
+                "original_name": "Shaune Harrison",
+                "popularity": 1.995,
+                "profile_path": null,
+                "credit_id": "643acbf631234504eed8666a",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32349,
+                "known_for_department": "Art",
+                "name": "Charles Wood",
+                "original_name": "Charles Wood",
+                "popularity": 1.253,
+                "profile_path": "/lxhuwWMdbvuPzher5TSdGFsel1S.jpg",
+                "credit_id": "5ec03c0a8e2e000020163efd",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 32351,
+                "known_for_department": "Art",
+                "name": "Nathan Schroeder",
+                "original_name": "Nathan Schroeder",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ec03c158e2e000020163f01",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33283,
+                "known_for_department": "Editing",
+                "name": "Peck Prior",
+                "original_name": "Peck Prior",
+                "popularity": 1.096,
+                "profile_path": null,
+                "credit_id": "5ec03bdc8e2e000020163edd",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43518,
+                "known_for_department": "Production",
+                "name": "Lawrence Kasanoff",
+                "original_name": "Lawrence Kasanoff",
+                "popularity": 2.241,
+                "profile_path": "/4ahZJTfqhzINKenq7C34oJRRLYx.jpg",
+                "credit_id": "52fe4534c3a36847f80c203b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43518,
+                "known_for_department": "Production",
+                "name": "Lawrence Kasanoff",
+                "original_name": "Lawrence Kasanoff",
+                "popularity": 2.241,
+                "profile_path": "/4ahZJTfqhzINKenq7C34oJRRLYx.jpg",
+                "credit_id": "5ec03b37283ed90021e5864f",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43521,
+                "known_for_department": "Camera",
+                "name": "Christopher Faloona",
+                "original_name": "Christopher Faloona",
+                "popularity": 1.383,
+                "profile_path": null,
+                "credit_id": "643acdb242f19f02ec1e9ac9",
+                "department": "Camera",
+                "job": "Second Unit Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12942,
+                "known_for_department": "Production",
+                "name": "Fern Champion",
+                "original_name": "Fern Champion",
+                "popularity": 1.866,
+                "profile_path": "/8sZ4LBckRrhrCX0BS1YFTOoAQ9.jpg",
+                "credit_id": "5ec03be679b3d4001d94013d",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46916,
+                "known_for_department": "Production",
+                "name": "Mark Paladini",
+                "original_name": "Mark Paladini",
+                "popularity": 0.84,
+                "profile_path": "/42fl3sSDpKBZLeG5HoKJ3z5bAt8.jpg",
+                "credit_id": "5ec03bf29979d200212d6b80",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57207,
+                "known_for_department": "Acting",
+                "name": "Tony Jaa",
+                "original_name": "Tony Jaa",
+                "popularity": 13.691,
+                "profile_path": "/AdN11kgJeKgjyWPRTGSHjSPzG7N.jpg",
+                "credit_id": "643acd7342f19f054a1e9a99",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57250,
+                "known_for_department": "Acting",
+                "name": "Robin Shou",
+                "original_name": "Robin Shou",
+                "popularity": 11.603,
+                "profile_path": "/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg",
+                "credit_id": "643acd1c7d2bc1043633e157",
+                "department": "Crew",
+                "job": "Fight Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57255,
+                "known_for_department": "Acting",
+                "name": "Keith Cooke",
+                "original_name": "Keith Cooke",
+                "popularity": 3.099,
+                "profile_path": "/dnvy4P6gd7jRduV4OLQoYdW9CAW.jpg",
+                "credit_id": "643accb6312345049ad8671e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57255,
+                "known_for_department": "Acting",
+                "name": "Keith Cooke",
+                "original_name": "Keith Cooke",
+                "popularity": 3.099,
+                "profile_path": "/dnvy4P6gd7jRduV4OLQoYdW9CAW.jpg",
+                "credit_id": "643acd5b091e6204a55e3e05",
+                "department": "Crew",
+                "job": "Fight Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57256,
+                "known_for_department": "Crew",
+                "name": "Ed Boon",
+                "original_name": "Ed Boon",
+                "popularity": 2.271,
+                "profile_path": "/8uc1wLbLsnTYsVZcXhSP0G2cIOR.jpg",
+                "credit_id": "643acb90091e6202eb5e3c2a",
+                "department": "Crew",
+                "job": "Video Game"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57257,
+                "known_for_department": "Crew",
+                "name": "John Tobias",
+                "original_name": "John Tobias",
+                "popularity": 1.57,
+                "profile_path": "/fhYED1lAFVrOuUTVkL8ahZQgPoH.jpg",
+                "credit_id": "5ec03b4e3d3557001ddeab3b",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57257,
+                "known_for_department": "Crew",
+                "name": "John Tobias",
+                "original_name": "John Tobias",
+                "popularity": 1.57,
+                "profile_path": "/fhYED1lAFVrOuUTVkL8ahZQgPoH.jpg",
+                "credit_id": "643acb96091e6202eb5e3c2d",
+                "department": "Crew",
+                "job": "Video Game"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 57260,
+                "known_for_department": "Production",
+                "name": "Alison Savitch",
+                "original_name": "Alison Savitch",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5e81f78b6d97e60018c8c9ae",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 59644,
+                "known_for_department": "Production",
+                "name": "Joshua Wexler",
+                "original_name": "Joshua Wexler",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "5ec03b4128723c001f450cf0",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 59644,
+                "known_for_department": "Production",
+                "name": "Joshua Wexler",
+                "original_name": "Joshua Wexler",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "5ec03bc23d3557001ee34105",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60858,
+                "known_for_department": "Acting",
+                "name": "Apichart Chusakul",
+                "original_name": "Apichart Chusakul",
+                "popularity": 3.948,
+                "profile_path": null,
+                "credit_id": "643acc31b6c26402ec39ec88",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83143,
+                "known_for_department": "Production",
+                "name": "Kevin Reidy",
+                "original_name": "Kevin Reidy",
+                "popularity": 1.216,
+                "profile_path": null,
+                "credit_id": "5ec03bb0d2147c0023b28857",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114628,
+                "known_for_department": "Acting",
+                "name": "Pat E. Johnson",
+                "original_name": "Pat E. Johnson",
+                "popularity": 1.41,
+                "profile_path": null,
+                "credit_id": "643acce942f19f049d1e9a79",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114628,
+                "known_for_department": "Acting",
+                "name": "Pat E. Johnson",
+                "original_name": "Pat E. Johnson",
+                "popularity": 1.41,
+                "profile_path": null,
+                "credit_id": "643acc29b6c26404c039ed24",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96358,
+                "known_for_department": "Writing",
+                "name": "Brent V. Friedman",
+                "original_name": "Brent V. Friedman",
+                "popularity": 2.673,
+                "profile_path": "/zTr6G54CJasKC3xNwDA6RtdFTMM.jpg",
+                "credit_id": "5ec03b5d8e2e00002118b5a9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 131528,
+                "known_for_department": "Crew",
+                "name": "Dana Hee",
+                "original_name": "Dana Hee",
+                "popularity": 3.7,
+                "profile_path": "/bRGiJHTNCk7YLNMeGKnG87OAqf6.jpg",
+                "credit_id": "6421146153466100aa006753",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131532,
+                "known_for_department": "Crew",
+                "name": "J.J. Perry",
+                "original_name": "J.J. Perry",
+                "popularity": 3.446,
+                "profile_path": "/57assDPZceZ4x7YWrkPE5FqVn1f.jpg",
+                "credit_id": "643acd0ee3294302ebf9d5b4",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 133118,
+                "known_for_department": "Writing",
+                "name": "Bryce Zabel",
+                "original_name": "Bryce Zabel",
+                "popularity": 1.66,
+                "profile_path": null,
+                "credit_id": "5ec03b66ae281100210176ea",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 202955,
+                "known_for_department": "Crew",
+                "name": "Theo Kypri",
+                "original_name": "Theo Kypri",
+                "popularity": 3.342,
+                "profile_path": "/4JrpMbLip6wZY0BmHvnfM5OZO3j.jpg",
+                "credit_id": "643accf9e8d0b41047cda975",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 202955,
+                "known_for_department": "Crew",
+                "name": "Theo Kypri",
+                "original_name": "Theo Kypri",
+                "popularity": 3.342,
+                "profile_path": "/4JrpMbLip6wZY0BmHvnfM5OZO3j.jpg",
+                "credit_id": "643acd6f091e62047b5e3d90",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1068803,
+                "known_for_department": "Directing",
+                "name": "John Medlen",
+                "original_name": "John Medlen",
+                "popularity": 2.116,
+                "profile_path": "/31mi98LXo5z6tFCxdaZLM7EHHF7.jpg",
+                "credit_id": "643accfd31234502ecd86706",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1113443,
+                "known_for_department": "Acting",
+                "name": "Kenji Tanigaki",
+                "original_name": "Kenji Tanigaki",
+                "popularity": 4.932,
+                "profile_path": "/4WKEFXTK233yvrRvjA6TLIQiCn0.jpg",
+                "credit_id": "643acd2e3123450470d86618",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1185530,
+                "known_for_department": "Crew",
+                "name": "Eddie Stacey",
+                "original_name": "Eddie Stacey",
+                "popularity": 2.053,
+                "profile_path": null,
+                "credit_id": "643acd333123450518d8666d",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1185530,
+                "known_for_department": "Crew",
+                "name": "Eddie Stacey",
+                "original_name": "Eddie Stacey",
+                "popularity": 2.053,
+                "profile_path": null,
+                "credit_id": "643acc52091e62047b5e3d04",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1221121,
+                "known_for_department": "Acting",
+                "name": "Dennis Keiffer",
+                "original_name": "Dennis Keiffer",
+                "popularity": 7.143,
+                "profile_path": "/jb6FR0OZgCqbPOkKq2KikXr31WW.jpg",
+                "credit_id": "643acced42f19f054a1e9a55",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1221121,
+                "known_for_department": "Acting",
+                "name": "Dennis Keiffer",
+                "original_name": "Dennis Keiffer",
+                "popularity": 7.143,
+                "profile_path": "/jb6FR0OZgCqbPOkKq2KikXr31WW.jpg",
+                "credit_id": "643acd6842f19f054a1e9a91",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1229882,
+                "known_for_department": "Acting",
+                "name": "Valentino Musetti",
+                "original_name": "Valentino Musetti",
+                "popularity": 0.814,
+                "profile_path": "/6IheLyxykYQFMWAlogumzfRAvEL.jpg",
+                "credit_id": "643acd04b6c26402ec39ecec",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1271793,
+                "known_for_department": "Crew",
+                "name": "Ron Trost",
+                "original_name": "Ron Trost",
+                "popularity": 0.636,
+                "profile_path": null,
+                "credit_id": "643acc7db6c26404ea39ed1d",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277922,
+                "known_for_department": "Acting",
+                "name": "Ridley Tsui Bo-wah",
+                "original_name": "Ridley Tsui Bo-wah",
+                "popularity": 4.326,
+                "profile_path": "/aHjeyxfSvoYyeQVaz3qmEiCMVwZ.jpg",
+                "credit_id": "643acd3f31234502ecd8672f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1392107,
+                "known_for_department": "Lighting",
+                "name": "Logan Leabo",
+                "original_name": "Logan Leabo",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "643acda87d2bc104de33e1a2",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1402112,
+                "known_for_department": "Sound",
+                "name": "Ken Teaney",
+                "original_name": "Ken Teaney",
+                "popularity": 0.784,
+                "profile_path": null,
+                "credit_id": "643acc6342f19f051b1e98a4",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1404912,
+                "known_for_department": "Production",
+                "name": "Gerrit V. Folsom",
+                "original_name": "Gerrit V. Folsom",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ec03b936d675a00207d82bc",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1426334,
+                "known_for_department": "Acting",
+                "name": "Buster Reeves",
+                "original_name": "Buster Reeves",
+                "popularity": 4.39,
+                "profile_path": "/2HzxVrNFJN8CGx45XAByl8EXise.jpg",
+                "credit_id": "643acd80e8d0b41099cda78a",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1445972,
+                "known_for_department": "Visual Effects",
+                "name": "Joss Williams",
+                "original_name": "Joss Williams",
+                "popularity": 1.506,
+                "profile_path": null,
+                "credit_id": "643acc8fb6c264049639eac0",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1445972,
+                "known_for_department": "Visual Effects",
+                "name": "Joss Williams",
+                "original_name": "Joss Williams",
+                "popularity": 1.506,
+                "profile_path": null,
+                "credit_id": "643acc8a31234502ecd866ce",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1456365,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Melissa Lackersteen",
+                "original_name": "Melissa Lackersteen",
+                "popularity": 2.744,
+                "profile_path": null,
+                "credit_id": "5ec03c2f3d3557001ddeab6e",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1477146,
+                "known_for_department": "Production",
+                "name": "Lee Cleary",
+                "original_name": "Lee Cleary",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "643acc3d091e62047b5e3cfb",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1512798,
+                "known_for_department": "Directing",
+                "name": "Jamie Christopher",
+                "original_name": "Jamie Christopher",
+                "popularity": 4.512,
+                "profile_path": null,
+                "credit_id": "643acc46312345049ad866e2",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1536458,
+                "known_for_department": "Lighting",
+                "name": "Pat Blymyer",
+                "original_name": "Pat Blymyer",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "643acd9cb6c264044239eda4",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1605401,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michelle Taylor",
+                "original_name": "Michelle Taylor",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5ec03c3d28723c001f450d9e",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1645507,
+                "known_for_department": "Acting",
+                "name": "Tyrone C. Wiggins",
+                "original_name": "Tyrone C. Wiggins",
+                "popularity": 0.6,
+                "profile_path": "/ArCLUNl0jyoFvwumAUDjV0eRHmJ.jpg",
+                "credit_id": "643acd4442f19f049d1e9aa8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1645507,
+                "known_for_department": "Acting",
+                "name": "Tyrone C. Wiggins",
+                "original_name": "Tyrone C. Wiggins",
+                "popularity": 0.6,
+                "profile_path": "/ArCLUNl0jyoFvwumAUDjV0eRHmJ.jpg",
+                "credit_id": "643acd94091e6202eb5e3d1a",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1709352,
+                "known_for_department": "Crew",
+                "name": "Gary Pollard",
+                "original_name": "Gary Pollard",
+                "popularity": 0.988,
+                "profile_path": null,
+                "credit_id": "643acc09e8d0b410bdcda9fd",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2076189,
+                "known_for_department": "Crew",
+                "name": "Matt Jordon",
+                "original_name": "Matt Jordon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643acc10e8d0b41047cda8bb",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2583856,
+                "known_for_department": "Production",
+                "name": "Brian Witten",
+                "original_name": "Brian Witten",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5e81f7a59a643500184e41bb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2641287,
+                "known_for_department": "Production",
+                "name": "Thom Fleming",
+                "original_name": "Thom Fleming",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5ec03b856d675a00217f07e7",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2725757,
+                "known_for_department": "Crew",
+                "name": "Jeff Hewitt-Davis",
+                "original_name": "Jeff Hewitt-Davis",
+                "popularity": 1.396,
+                "profile_path": null,
+                "credit_id": "643accd8e329430552f9d591",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2800969,
+                "known_for_department": "Crew",
+                "name": "Carlton Headley",
+                "original_name": "Carlton Headley",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643accdfe8d0b410bdcdaa90",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3084539,
+                "known_for_department": "Acting",
+                "name": "Sultan Uddin",
+                "original_name": "Sultan Uddin",
+                "popularity": 0.753,
+                "profile_path": null,
+                "credit_id": "643acd51e3294304c8f9da0c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3345804,
+                "known_for_department": "Crew",
+                "name": "Nikki Powell",
+                "original_name": "Nikki Powell",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643acd23e3294304c8f9d9f2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3345804,
+                "known_for_department": "Crew",
+                "name": "Nikki Powell",
+                "original_name": "Nikki Powell",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643acd8931234502ecd86753",
+                "department": "Crew",
+                "job": "Stunt Double"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Mortal Kombat: Annihilation (1997) - Trailer HD 1080p",
+                "key": "PvG9HPUPCLg",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2021-04-28T23:00:07.000Z",
+                "id": "63d70eed20e6a5007b015c4a"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Mortal Kombat Annihilation (1997) - Liu Kang vs. Shao Khan Scene (8/8) | Movieclips",
+                "key": "-43yn6Men8U",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Clip",
+                "official": false,
+                "published_at": "2020-08-12T15:07:50.000Z",
+                "id": "648cdd7ac2ff3d00ffba8f5a"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Mortal Kombat: Annihilation (Behind The Scenes)",
+                "key": "PWiZXPuVeuA",
+                "site": "YouTube",
+                "size": 360,
+                "type": "Behind the Scenes",
+                "official": false,
+                "published_at": "2016-08-23T15:01:15.000Z",
+                "id": "648cdc3cc2ff3d00e2df7819"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/19EpgKZDkLIwY1TI1pjBJtQ5qdr.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "pt",
+                "file_path": "/y0q27qPqdqMWbAdhxxlA9Crbq40.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/wUQQsNkuSLEBbwisBAHOKgxkrAw.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/tt4uno5FCcBkhGwZyChK7dubBGa.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/uL9qzzezu3tk2QTi2h4Y4MZwZOt.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/nltXQNf8tB7LnqPDXMwG3ZV272N.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eRuhL2Qsg0XeSHwpP3zP2kzvu1G.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/pUBDlarkWH2s0YP2HiZ3I9XUoss.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/aatgukKEii0YcquEdVcOQoKfX6g.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/paTI7DtjA06gTVW15fXdLiBUrpR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 5.295,
+                "height": 149,
+                "iso_639_1": "en",
+                "file_path": "/s7T3UioiXZP63RODbEeCNk2PVaO.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 789
+            },
+            {
+                "aspect_ratio": 4.95,
+                "height": 121,
+                "iso_639_1": "pt",
+                "file_path": "/xGBmg9M0P7W0mMFPHU3a5i0JNzr.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 599
+            },
+            {
+                "aspect_ratio": 5.546,
+                "height": 778,
+                "iso_639_1": "en",
+                "file_path": "/q7sYBkB4shxqHHWUnnvraSAPEOC.png",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 4315
+            },
+            {
+                "aspect_ratio": 7.119,
+                "height": 59,
+                "iso_639_1": "ru",
+                "file_path": "/t8kcwlhYhfwMSIiv2Y63KEbRiWE.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 420
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/ttryglcY2osWZE3sRYBf3ewTZsW.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "pt",
+                "file_path": "/jnqPIhG2nn0cGZujaSG9ojIGgq.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.737,
+                "height": 1031,
+                "iso_639_1": "pt",
+                "file_path": "/x2R0HoIgKhMgsgmn250jijQdd8K.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 760
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/bAkwTylBnF16wkWvFQ0RjOaU0q6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/mKAPPO4USUI4j2VsMXk3BgJIy3D.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 1440,
+                "iso_639_1": "pl",
+                "file_path": "/lIDFX5JUhXpSlzsq8K8ZNxU3R65.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1020
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1620,
+                "iso_639_1": "uk",
+                "file_path": "/mL0WqWLJgLfAWcdwsnpzCKaZyWa.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/9PmtU0XrF2BwG186jWzMVJufZJQ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "hu",
+                "file_path": "/1midD6SoR4m3fY2Gllk7N95XxJx.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.705,
+                "height": 2172,
+                "iso_639_1": "hu",
+                "file_path": "/oySyosiFi0YR59kyLLBQsRXXeEY.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1532
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/6uQcIhB9DTP63013IwDwg4HSFXG.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/jDtre8gssiMtT9kMq7flpsV4HB7.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/1bGMotnLmjFvsZBoEPfwWzEpzlY.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/jNgEHOSpRh5WhsfEWIZFaqlBp0.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.665,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/5Vrr3kXRk58sKQ5F5g4N7K6q81Z.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1362
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1665,
+                "iso_639_1": "cs",
+                "file_path": "/dfp9auwlwmjsIznpbqnb8SpknlC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1181
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/yIA1JFBvxMLJnOor1yvPzmBSimF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "hu",
+                "file_path": "/s6ggmuZoeIgfvMCWRxgg6NSP8VT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1401
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/pM2SztHPR6yDg1Xnrm0dbjMdA3b.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2997,
+                "iso_639_1": null,
+                "file_path": "/42MOdwQATnhCzqFDlnlBZSwbIUs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/fpvLsBSwKVY7uFSVtAk3RstnSAW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1080,
+                "iso_639_1": "it",
+                "file_path": "/t349pGXoA48qOxkQSPdeNGT7OqB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/6tFntyWmqPlD4CLf32hAXfgE8Iy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "he",
+                "file_path": "/qCDsMnEKArMn1M10F5OKVhU25td.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/p6PMXmONnS2iC8St3d03FqxLY2n.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/mofnW1VuS3QjkyPpDAhgTAdAmDK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/rxQYG1cQNRa3Q1Jm61Ed772dyxl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1620,
+                "iso_639_1": "ru",
+                "file_path": "/58WQnP2gqMd7G09U1uyBbJqylf1.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 2116,
+                "iso_639_1": "ru",
+                "file_path": "/vh8vpTuhdIYwmBLmKahg0P5tzb3.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/pXH69GCAGmUXWPud8EfQgdBoySq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/k0JbzUljDwBu61o8L5Q5Sing4XX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/xPjB24B4zkPtDjBbr8nmfgBbUDz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/7wjjdsAAwwJDsaMJMtyupq88b2f.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 83,
+                "name": "saving the world"
+            },
+            {
+                "id": 2343,
+                "name": "magic"
+            },
+            {
+                "id": 1002,
+                "name": "authority"
+            },
+            {
+                "id": 4375,
+                "name": "transformation"
+            },
+            {
+                "id": 3289,
+                "name": "villain"
+            },
+            {
+                "id": 9663,
+                "name": "sequel"
+            },
+            {
+                "id": 9820,
+                "name": "alternate dimension"
+            },
+            {
+                "id": 10278,
+                "name": "ninja"
+            },
+            {
+                "id": 12380,
+                "name": "tournament"
+            },
+            {
+                "id": 14643,
+                "name": "battle"
+            },
+            {
+                "id": 14955,
+                "name": "fighting"
+            },
+            {
+                "id": 17977,
+                "name": "underground fighting"
+            },
+            {
+                "id": 41645,
+                "name": "based on video game"
+            },
+            {
+                "id": 188955,
+                "name": "hand to hand combat"
+            },
+            {
+                "id": 192913,
+                "name": "warrior"
+            },
+            {
+                "id": 210911,
+                "name": "centaur"
+            },
+            {
+                "id": 219404,
+                "name": "action hero"
+            },
+            {
+                "id": 251513,
+                "name": "supernatural power"
+            },
+            {
+                "id": 269233,
+                "name": "good versus evil"
+            }
+        ]
+    },
+    "title_english": "Mortal Kombat: Annihilation",
+    "year": "1997",
+    "rated": "PG-13",
+    "director_list": [
+        "John R. Leonetti"
+    ],
+    "writer_list": [
+        "Ed Boon",
+        " Lawrence Kasanoff",
+        " Joshua Wexler"
+    ],
+    "main_cast": [
+        "Robin Shou",
+        " Talisa Soto",
+        " James Remar"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "4%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "11/100"
+        }
+    ],
+    "imdb_rating": "3.6",
+    "imdb_votes": "57,322",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_Annihilation",
+    "wikipedia_summary": "Mortal Kombat Annihilation is a 1997 American martial arts fantasy film directed by John R. Leonetti in his directorial debut. Based on the Mortal Kombat video game franchise, it is the second installment in the Mortal Kombat film series and a sequel to the original 1995 film, on which Leonetti served as cinematographer. Largely adapted from the 1995 video game Mortal Kombat 3, Annihilation follows Liu Kang and his allies as they attempt to prevent the malevolent Shao Kahn from conquering Earthrealm. It stars Robin Shou as Liu, Talisa Soto as Kitana, James Remar as Raiden, Sandra Hess as Sonya Blade, Lynn Red Williams as Jax and Brian Thompson as Kahn. Only Shou and Soto reprise their roles, with the other characters recast from the previous film.\nMortal Kombat Annihilation was theatrically released on November 21, 1997 by New Line Cinema. The film debuted number one at the box office but quickly dropped the next week due to overwhelming lackluster reviews. Panned by critics, with particular negativity aimed at its story, characters and special effects, and a box office bomb, grossing $51.3 million against a $30 million budget, a direct sequel was cancelled. A third film languished in development hell for nearly two decades until the series was rebooted in 2021.",
+    "wikipedia_plot": "The Outworld emperor Shao Kahn opens a portal to Earthrealm and has resurrected Queen Sindel, Princess Kitana's long-deceased mother, to facilitate his invasion. Thunder god Raiden and Earthrealm warriors Liu Kang, Sonya Blade, and Johnny Cage try to defend themselves, but Kahn kills Cage. The Earthrealm warriors retreat to seek allies.\nSonya Blade enlists the help of her Special Forces partner, Jax, while Kitana and Liu search for a Native American shaman named Nightwolf, who seemingly knows the key to defeating Kahn. Scorpion appears and kidnaps Kitana.\nRaiden meets with the Elder Gods and asks them why Kahn was allowed to break the tournament rules and force his way into Earthrealm, and how he can be stopped. One says that reuniting Kitana with her mother, Sindel, is the key to breaking Kahn's hold on Earthrealm, but another Elder God insists that the defeat of Kahn himself is the solution. Raiden is then asked by the Elder Gods about his feelings and obligations towards the mortals, and what he would be willing to do to ensure their survival.\nLiu finds Nightwolf, who teaches him about the power of the Animality, a form of shapeshifting which utilizes the caster's strengths and abilities. To achieve the mindset needed to acquire this power, Liu must pass three tests. The first is a trial of his self-esteem, courage, and focus. The second comes in the form of temptation, which manifests itself in the form of Jade, a mysterious warrior who attempts to seduce Liu and offers her assistance after he resists her advances. Liu accepts Jade's offer and takes her with him to the Elder Gods' temple, where he and his friends meet with Raiden. The third test is never revealed.\nThe Earthrealm warriors learn that Rayden has sacrificed his immortality to freely fight alongside them. Together, they infiltrate Outworld to rescue Kitana and reunite her with Sindel in hopes of restoring her soul and closing the Outworld portal to Earth. Liu rescues Kitana while the others incapacitate Sindel. However, Sindel remains under Kahn's control and escapes during an ambush. Jade reveals herself to be a double agent sent by Kahn to disrupt the heroes' plans. Kahn feeds Jade to a gargoyle for her failure. Raiden reveals that Shao Kahn is his brother and that the former Elder God Shinnok is their father. He realizes that Shinnok is supporting Kahn. Raiden and the Earthrealm warriors make their way to Kahn, Sindel, and his remaining generals. Shinnok demands that Raiden submit to him and restore their broken family, at the expense of his mortal friends. Raiden refuses and is killed by an energy blast from Shao Kahn.\nJax, Sonya, and Kitana emerge victorious over Kahn's generals (with Jax defeating Motaro, Kitana defeating her mother, and Sonya defeating Ermac). Liu struggles with Kahn. Liu's Animality proves effective, exposing a cut to Kahn that proves he is now mortal, as a consequence of his breaking the sacred rules. Shinnok attempts to intervene and kill Liu on Kahn's behalf, but two of the Elder Gods arrive, having uncovered Shinnok's treachery. They declare that the fate of Earth shall be decided in Mortal Kombat. Liu defeats Kahn, and Shinnok is banished to the Netherrealm. Earthrealm reverts to its former state. With Kahn's hold over Sindel broken, she reunites with Kitana. Raiden is revived by the Elder Gods, who bestow upon him his father's former position. Before departing to the immortal realm, he enjoins the Earthrealm warriors to be there for one another. The Earthrealm warriors return home.",
+    "wikipedia_plot_html": "<p>The Outworld emperor Shao Kahn opens a portal to Earthrealm and has resurrected Queen Sindel, Princess Kitana's long-deceased mother, to facilitate his invasion. Thunder god Raiden and Earthrealm warriors Liu Kang, Sonya Blade, and Johnny Cage try to defend themselves, but Kahn kills Cage. The Earthrealm warriors retreat to seek allies.\n</p><p>Sonya Blade enlists the help of her Special Forces partner, Jax, while Kitana and Liu search for a Native American shaman named Nightwolf, who seemingly knows the key to defeating Kahn. Scorpion appears and kidnaps Kitana.\n</p><p>Raiden meets with the Elder Gods and asks them why Kahn was allowed to break the tournament rules and force his way into Earthrealm, and how he can be stopped. One says that reuniting Kitana with her mother, Sindel, is the key to breaking Kahn's hold on Earthrealm, but another Elder God insists that the defeat of Kahn himself is the solution. Raiden is then asked by the Elder Gods about his feelings and obligations towards the mortals, and what he would be willing to do to ensure their survival.\n</p><p>Liu finds Nightwolf, who teaches him about the power of the Animality, a form of shapeshifting which utilizes the caster's strengths and abilities. To achieve the mindset needed to acquire this power, Liu must pass three tests. The first is a trial of his self-esteem, courage, and focus. The second comes in the form of temptation, which manifests itself in the form of Jade, a mysterious warrior who attempts to seduce Liu and offers her assistance after he resists her advances. Liu accepts Jade's offer and takes her with him to the Elder Gods' temple, where he and his friends meet with Raiden. The third test is never revealed.\n</p><p>The Earthrealm warriors learn that Rayden has sacrificed his immortality to freely fight alongside them. Together, they infiltrate Outworld to rescue Kitana and reunite her with Sindel in hopes of restoring her soul and closing the Outworld portal to Earth. Liu rescues Kitana while the others incapacitate Sindel. However, Sindel remains under Kahn's control and escapes during an ambush. Jade reveals herself to be a double agent sent by Kahn to disrupt the heroes' plans. Kahn feeds Jade to a gargoyle for her failure. Raiden reveals that Shao Kahn is his brother and that the former Elder God Shinnok is their father. He realizes that Shinnok is supporting Kahn. Raiden and the Earthrealm warriors make their way to Kahn, Sindel, and his remaining generals. Shinnok demands that Raiden submit to him and restore their broken family, at the expense of his mortal friends. Raiden refuses and is killed by an energy blast from Shao Kahn.\n</p><p>Jax, Sonya, and Kitana emerge victorious over Kahn's generals (with Jax defeating Motaro, Kitana defeating her mother, and Sonya defeating Ermac). Liu struggles with Kahn. Liu's Animality proves effective, exposing a cut to Kahn that proves he is now mortal, as a consequence of his breaking the sacred rules. Shinnok attempts to intervene and kill Liu on Kahn's behalf, but two of the Elder Gods arrive, having uncovered Shinnok's treachery. They declare that the fate of Earth shall be decided in Mortal Kombat. Liu defeats Kahn, and Shinnok is banished to the Netherrealm. Earthrealm reverts to its former state. With Kahn's hold over Sindel broken, she reunites with Kitana. Raiden is revived by the Elder Gods, who bestow upon him his father's former position. Before departing to the immortal realm, he enjoins the Earthrealm warriors to be there for one another. The Earthrealm warriors return home.\n</p>",
+    "wikipedia_critics": "On Rotten Tomatoes, 4% of 53 reviews were positive, with an average rating of 2.6/10. The website's critics consensus states, \"With its shallow characters, low budget special effects, and mindless fight scenes, Mortal Kombat - Annihilation offers minimal plot development and manages to underachieve the low bar set by its predecessor.\" On Metacritic it has a weighted average score of 11 out of 100, based on 12 critics, indicating an \"overwhelming dislike.\" Audiences polled by CinemaScore gave the film an average grade of \"C+\" on an A+ to F scale.Jason Gibner of Allmovie wrote, \"Whereas the first film was a guilty schlock pleasure, this sequel is an exercise in the art of genuinely beautiful trash cinema.\" Marjorie Baumgarten of the Austin Chronicle opined that it was \"nothing more than a perpetual chain of elaborately choreographed fight sequences that ... are linked together by the most flimsy and laughable of plot elements.\" Owen Gleiberman of Entertainment Weekly gave the film a \"D\u2212\" rating, calling it \"abysmal\" and \"incoherent.\" R.L. Shaffer of IGN wrote in 2011: \"Mortal Kombat: Annihilation is a bad movie. No way around it. Over the years, however, it has evolved into a cult hit of sorts, playing as an unintentional comedy \u2013 a spoof of the early video game movies and their painfully obvious cash-in mentality.\"In separate 2012 interviews, Mortal Kombat co-creators Ed Boon and John Tobias selected Annihilation as their personal worst moments in the history of their work on the franchise.In an interview for Luke Owen\u2019s book, Lights, Camera, Game Over, producer Lawrence Kasinoff revealed the film was released unfinished: \"I'm telling you the effects in that movie are not the final effects. I never anticipated that someone would take the movie and go, 'it's good enough'. We weren't done. We never finished that movie. But the studio said, 'we don\u2019t care'. We sacrificed quality for business.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Mortal Kombat Annihilation</b></i> is a 1997 American martial arts fantasy film directed by John R. Leonetti in his directorial debut. Based on the <i>Mortal Kombat</i> video game franchise, it is the second installment in the <i>Mortal Kombat</i> film series and a sequel to the original 1995 film, on which Leonetti served as cinematographer. Largely adapted from the 1995 video game <i>Mortal Kombat 3</i>, <i>Annihilation</i> follows Liu Kang and his allies as they attempt to prevent the malevolent Shao Kahn from conquering Earthrealm. It stars Robin Shou as Liu, Talisa Soto as Kitana, James Remar as Raiden, Sandra Hess as Sonya Blade, Lynn Red Williams as Jax and Brian Thompson as Kahn. Only Shou and Soto reprise their roles, with the other characters recast from the previous film.\n</p><p><i>Mortal Kombat Annihilation</i> was theatrically released on November 21, 1997 by New Line Cinema. The film debuted number one at the box office but quickly dropped the next week due to overwhelming lackluster reviews. Panned by critics, with particular negativity aimed at its story, characters and special effects, and a box office bomb, grossing $51.3 million against a $30 million budget, a direct sequel was cancelled. A third film languished in development hell for nearly two decades until the series was rebooted in 2021.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>The Outworld emperor Shao Kahn opens a portal to Earthrealm and has resurrected Queen Sindel, Princess Kitana's long-deceased mother, to facilitate his invasion. Thunder god Raiden and Earthrealm warriors Liu Kang, Sonya Blade, and Johnny Cage try to defend themselves, but Kahn kills Cage. The Earthrealm warriors retreat to seek allies.\n</p><p>Sonya Blade enlists the help of her Special Forces partner, Jax, while Kitana and Liu search for a Native American shaman named Nightwolf, who seemingly knows the key to defeating Kahn. Scorpion appears and kidnaps Kitana.\n</p><p>Raiden meets with the Elder Gods and asks them why Kahn was allowed to break the tournament rules and force his way into Earthrealm, and how he can be stopped. One says that reuniting Kitana with her mother, Sindel, is the key to breaking Kahn's hold on Earthrealm, but another Elder God insists that the defeat of Kahn himself is the solution. Raiden is then asked by the Elder Gods about his feelings and obligations towards the mortals, and what he would be willing to do to ensure their survival.\n</p><p>Liu finds Nightwolf, who teaches him about the power of the Animality, a form of shapeshifting which utilizes the caster's strengths and abilities. To achieve the mindset needed to acquire this power, Liu must pass three tests. The first is a trial of his self-esteem, courage, and focus. The second comes in the form of temptation, which manifests itself in the form of Jade, a mysterious warrior who attempts to seduce Liu and offers her assistance after he resists her advances. Liu accepts Jade's offer and takes her with him to the Elder Gods' temple, where he and his friends meet with Raiden. The third test is never revealed.\n</p><p>The Earthrealm warriors learn that Rayden has sacrificed his immortality to freely fight alongside them. Together, they infiltrate Outworld to rescue Kitana and reunite her with Sindel in hopes of restoring her soul and closing the Outworld portal to Earth. Liu rescues Kitana while the others incapacitate Sindel. However, Sindel remains under Kahn's control and escapes during an ambush. Jade reveals herself to be a double agent sent by Kahn to disrupt the heroes' plans. Kahn feeds Jade to a gargoyle for her failure. Raiden reveals that Shao Kahn is his brother and that the former Elder God Shinnok is their father. He realizes that Shinnok is supporting Kahn. Raiden and the Earthrealm warriors make their way to Kahn, Sindel, and his remaining generals. Shinnok demands that Raiden submit to him and restore their broken family, at the expense of his mortal friends. Raiden refuses and is killed by an energy blast from Shao Kahn.\n</p><p>Jax, Sonya, and Kitana emerge victorious over Kahn's generals (with Jax defeating Motaro, Kitana defeating her mother, and Sonya defeating Ermac). Liu struggles with Kahn. Liu's Animality proves effective, exposing a cut to Kahn that proves he is now mortal, as a consequence of his breaking the sacred rules. Shinnok attempts to intervene and kill Liu on Kahn's behalf, but two of the Elder Gods arrive, having uncovered Shinnok's treachery. They declare that the fate of Earth shall be decided in Mortal Kombat. Liu defeats Kahn, and Shinnok is banished to the Netherrealm. Earthrealm reverts to its former state. With Kahn's hold over Sindel broken, she reunites with Kitana. Raiden is revived by the Elder Gods, who bestow upon him his father's former position. Before departing to the immortal realm, he enjoins the Earthrealm warriors to be there for one another. The Earthrealm warriors return home.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<p><i>Mortal Kombat Annihilation</i> is loosely based on the 1995 video game <i>Mortal Kombat 3</i>, while featuring the character roster of <i>Ultimate Mortal Kombat 3</i>. There were also plot elements from <i>Mortal Kombat 4</i>, but these scenes were cut from the final theatrical version. While the original attracted casual moviegoers as well as gamers, <i>Annihilation</i> catered exclusively to the games' fans. Producer Lawrence Kasanoff said he was trying to make the film \"even more spectacular than the first movie, which earned a healthy $73 million in the U.S. <i>Annihilation</i> is three times more ambitious than <i>Mortal Kombat</i>. Our theme for the sequel is to shoot for more\u2014more fights, more special effects, more Outworld, more everything.\"</p>\n<p>Filming began in the first quarter of 1996. Part of the movie was filmed on location at Parys Mountain on the island of Anglesey, off the coast of Wales (incorrectly listed as being part of England in the closing credits). Other filming locations included London, Jordan, and Thailand. Though <i>Annihilation</i> attempted to continue in the style of the first movie, the cast of returning characters from the original was almost completely overhauled; only Robin Shou (Liu Kang) and Talisa Soto (Kitana) reprised their roles, while the only other actor to return was Keith Cooke (Reptile in the first film) as Sub-Zero. Stephen Painter and Neill Gorton provided some of the props for the film. J. J. Perry replaced Chris Casamassa as Scorpion, as Casamassa chose to do <i>Batman &amp; Robin</i> instead.</p><p>The French release of the movie was known as <i>Mortal Kombat: Destruction Finale</i> (<i>Final Destruction</i>), while the Italian release was titled <i>Mortal Kombat: Distruzione Totale</i> (<i>Total Destruction</i>). The film's novelization by Jerome Preisler was published through Tor Books.\n</p><p>Thai actor and martial artist Tony Jaa was a stunt double for Robin Shou in the film.</p>\n\n<h2>Music</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1066479718\"><p><i>Mortal Kombat Annihilation</i> is the soundtrack to the film. The Mortal Kombat theme was composed by Praga Khan and Oliver Adams. The soundtrack was released on October 28, 1997 by TVT Records.\n</p>\n\n<p>Though this being not mentioned, \"Megalomaniac\" appears in its single edit (shortened to 4:19 while it lasts 6:07 in its complete version), and \"Fire\" appears in a slightly shortened version (cut to 3:14 while its single and album versions last 3:31).\n</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p><i>Mortal Kombat Annihilation</i> was released on November 21, 1997, and its opening weekend take was $16 million, enough for a number-one debut at the box office. It grossed $35 million domestically and made $51.3 million worldwide.</p>\n\n<h3>Critical response</h3>\n<p>On Rotten Tomatoes, 4% of 53 reviews were positive, with an average rating of 2.6/10. The website's critics consensus states, \"With its shallow characters, low budget special effects, and mindless fight scenes, <i>Mortal Kombat - Annihilation</i> offers minimal plot development and manages to underachieve the low bar set by its predecessor.\" On Metacritic it has a weighted average score of 11 out of 100, based on 12 critics, indicating an \"overwhelming dislike.\" Audiences polled by CinemaScore gave the film an average grade of \"C+\" on an A+ to F scale.</p><p>Jason Gibner of Allmovie wrote, \"Whereas the first film was a guilty schlock pleasure, this sequel is an exercise in the art of genuinely beautiful trash cinema.\" Marjorie Baumgarten of the <i>Austin Chronicle</i> opined that it was \"nothing more than a perpetual chain of elaborately choreographed fight sequences that ... are linked together by the most flimsy and laughable of plot elements.\" Owen Gleiberman of <i>Entertainment Weekly</i> gave the film a \"D\u2212\" rating, calling it \"abysmal\" and \"incoherent.\" R.L. Shaffer of IGN wrote in 2011: \"<i>Mortal Kombat: Annihilation</i> is a bad movie. No way around it. Over the years, however, it has evolved into a cult hit of sorts, playing as an unintentional comedy \u2013 a spoof of the early video game movies and their painfully obvious cash-in mentality.\"</p><p>In separate 2012 interviews, <i>Mortal Kombat</i> co-creators Ed Boon and John Tobias selected <i>Annihilation</i> as their personal worst moments in the history of their work on the franchise.</p><p>In an interview for Luke Owen\u2019s book, <i>Lights, Camera, Game Over</i>, producer Lawrence Kasinoff revealed the film was released unfinished: \"I'm telling you the effects in that movie are not the final effects. I never anticipated that someone would take the movie and go, 'it's good enough'. We weren't done. We never finished that movie. But the studio said, 'we don\u2019t care'. We sacrificed quality for business.\"</p>\n\n<h2>Other media</h2>\n<h3>Novelization</h3>\n<p>Novelizations of both <i>Mortal Kombat</i> movies were written by Martin Delrio and Jerome Preisler.\n</p>\n\n<h3>Cancelled sequel</h3>\n<p>Shou's original contract was a three-picture deal, and Threshold Entertainment's production on a second sequel was initially scheduled to commence shortly after the release of <i>Annihilation</i>, but was shelved due to <i>Annihilation's</i> poor reception and disappointing box office performance. Attempts to produce a third film since then have remained stuck in development hell, with numerous script rewrites, and storyline, cast and crew changes. A November 2001 poll on the official <i>Mortal Kombat</i> website hosted by Threshold asked fans which characters they believed would die in a third film.</p><p>The 2005 destruction of New Orleans by Hurricane Katrina greatly affected one of the planned shooting locations. In June 2009, a bankruptcy court lawsuit saw producer Kasanoff suing Midway Games while mentioning that a third film was in the works. Warner Bros. (which became the parent company of New Line Cinema in 2008, after over a decade of both operating as separate divisions of Time Warner) ended up purchasing most of Midway's assets, including <i>Mortal Kombat</i>.</p>\n\n<h2>See also</h2>\n<ul><li>List of films based on video games</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Mortal Kombat Annihilation</i> at AllMovie</li>\n<li><i>Mortal Kombat Annihilation</i> at IMDb</li></ul>\n\n<!-- \nNewPP limit report\nParsed by mw1404\nCached time: 20231202233755\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.567 seconds\nReal time usage: 0.736 seconds\nPreprocessor visited node count: 4478/1000000\nPost\u2010expand include size: 126149/2097152 bytes\nTemplate argument size: 13069/2097152 bytes\nHighest expansion depth: 23/100\nExpensive parser function count: 3/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 94431/5000000 bytes\nLua time usage: 0.292/10.000 seconds\nLua memory usage: 9941756/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  641.835      1 -total\n 27.99%  179.635      1 Template:Reflist\n 24.93%  159.990      3 Template:Infobox\n 18.06%  115.922     16 Template:Cite_web\n 15.67%  100.560      1 Template:Infobox_film\n 15.01%   96.322      1 Template:Infobox_album\n  9.18%   58.906      5 Template:Navbox\n  8.65%   55.528      1 Template:Mortal_Kombat_series\n  7.80%   50.064      1 Template:Short_description\n  7.00%   44.935      1 Template:IMDb_title\n-->"
+}

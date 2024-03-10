@@ -1,0 +1,1642 @@
+{
+    "adult": false,
+    "backdrop_path": "/eDaGs1lhUIeo395sd73bDZpu5Ts.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.sonyclassics.com/ashesoftimeredux/",
+    "id": 40751,
+    "imdb_id": "tt0109688",
+    "original_language": "cn",
+    "original_title": "\u6771\u90aa\u897f\u6bd2",
+    "overview": "Ouyang Feng is a heartbroken and cynical man who spends his days in the desert, connecting expert swordsmen with those seeking revenge and willing to pay for it. Throughout five seasons in exile, Ouyang spins tales of his clients' unrequited loves and unusual acts of bravery.",
+    "popularity": 16.509,
+    "poster_path": "/1I5EksYqL87d1dxvpci1YX95CS6.jpg",
+    "production_companies": [
+        {
+            "id": 540,
+            "logo_path": null,
+            "name": "Jet Tone Production",
+            "origin_country": "HK"
+        },
+        {
+            "id": 539,
+            "logo_path": "/iPLtePguIzOPNtAWfTxWLXb2O11.png",
+            "name": "Block 2 Pictures",
+            "origin_country": "HK"
+        },
+        {
+            "id": 6673,
+            "logo_path": null,
+            "name": "Scholar Films Company",
+            "origin_country": ""
+        },
+        {
+            "id": 708,
+            "logo_path": null,
+            "name": "Beijing Film Studio",
+            "origin_country": "CN"
+        },
+        {
+            "id": 1615,
+            "logo_path": null,
+            "name": "Fortissimo Films",
+            "origin_country": "NL"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 81655,
+            "logo_path": null,
+            "name": "Tsui Siu Ming Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "TW",
+            "name": "Taiwan"
+        }
+    ],
+    "release_date": "1994-09-17",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ashes of Time",
+    "video": false,
+    "vote_average": 7.06,
+    "vote_count": 293,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69637,
+                "known_for_department": "Acting",
+                "name": "Leslie Cheung",
+                "original_name": "Leslie Cheung",
+                "popularity": 9.047,
+                "profile_path": "/6H8gTq1QCB0bD9CGDhrIJITiGVX.jpg",
+                "cast_id": 14,
+                "character": "Ouyang Feng / Malicious West",
+                "credit_id": "52fe45a1c3a36847f80d1d8b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56861,
+                "known_for_department": "Acting",
+                "name": "Tony Leung Ka-fai",
+                "original_name": "Tony Leung Ka-fai",
+                "popularity": 16.902,
+                "profile_path": "/ksrZeHeEKqPm5GS1IrmJ9WC9sRS.jpg",
+                "cast_id": 13,
+                "character": "Huang Yaoshi / Evil East",
+                "credit_id": "52fe45a1c3a36847f80d1d87",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 56830,
+                "known_for_department": "Acting",
+                "name": "Brigitte Lin",
+                "original_name": "Brigitte Lin",
+                "popularity": 13.954,
+                "profile_path": "/8Nq6F8bPy1HUHl4HkNIF0YGW1xD.jpg",
+                "cast_id": 15,
+                "character": "Murong Yang / Murong Yin",
+                "credit_id": "52fe45a1c3a36847f80d1d8f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25245,
+                "known_for_department": "Acting",
+                "name": "Jacky Cheung",
+                "original_name": "Jacky Cheung",
+                "popularity": 11.082,
+                "profile_path": "/eoh2sI1IBYmQSuIapr32EUbl3Nw.jpg",
+                "cast_id": 8,
+                "character": "Hong Qi",
+                "credit_id": "52fe45a1c3a36847f80d1d7b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1337,
+                "known_for_department": "Acting",
+                "name": "Tony Leung Chiu-wai",
+                "original_name": "Tony Leung Chiu-wai",
+                "popularity": 18.109,
+                "profile_path": "/ybe5FGhJShc6qJqA0vsxfLkFXgY.jpg",
+                "cast_id": 7,
+                "character": "Blind Swordsman",
+                "credit_id": "52fe45a1c3a36847f80d1d77",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12672,
+                "known_for_department": "Acting",
+                "name": "Carina Lau",
+                "original_name": "Carina Lau",
+                "popularity": 13.593,
+                "profile_path": "/5Va4jk69gkdAcABtkTtcUz85RLA.jpg",
+                "cast_id": 11,
+                "character": "Peach Blossom",
+                "credit_id": "52fe45a1c3a36847f80d1d83",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 66762,
+                "known_for_department": "Acting",
+                "name": "Charlie Yeung",
+                "original_name": "Charlie Yeung",
+                "popularity": 7.622,
+                "profile_path": "/kPevUgmVapc3U00AsnNajWvTFaS.jpg",
+                "cast_id": 24,
+                "character": "Girl with Mule",
+                "credit_id": "52fe45a1c3a36847f80d1db7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1338,
+                "known_for_department": "Acting",
+                "name": "Maggie Cheung",
+                "original_name": "Maggie Cheung",
+                "popularity": 12.26,
+                "profile_path": "/hXsXzhSmzqGKC6yGn8WHsgDujT7.jpg",
+                "cast_id": 6,
+                "character": "Feng's Sister-in-Law",
+                "credit_id": "52fe45a1c3a36847f80d1d73",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52908,
+                "known_for_department": "Acting",
+                "name": "Collin Chou",
+                "original_name": "Collin Chou",
+                "popularity": 7.504,
+                "profile_path": "/tXZmRt3kp0wknv9jM2WLIf2W7EX.jpg",
+                "cast_id": 29,
+                "character": "Swordsman",
+                "credit_id": "53fc609e0e0a267a6900a6f7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65974,
+                "known_for_department": "Acting",
+                "name": "Shun Lau",
+                "original_name": "Shun Lau",
+                "popularity": 11.747,
+                "profile_path": "/w949uXNdjsbuXcSG7JKDIHApYf8.jpg",
+                "cast_id": 82,
+                "character": "Leader of Ouyang's Opponents in Opening Battle (uncredited)",
+                "credit_id": "60860c5c426ae800571d9d69",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 68557,
+                "known_for_department": "Acting",
+                "name": "Joey Wong",
+                "original_name": "Joey Wong",
+                "popularity": 20.154,
+                "profile_path": "/czi7jy9VnrEmrJTE9oVUJRgDsY.jpg",
+                "cast_id": 83,
+                "character": "( Taiwanese Cut Version )",
+                "credit_id": "64bc5128af85de00e3d9baed",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1357,
+                "known_for_department": "Camera",
+                "name": "Christopher Doyle",
+                "original_name": "Christopher Doyle",
+                "popularity": 5.388,
+                "profile_path": "/dm2g37ak1EzIu1YViAwvZAvytlx.jpg",
+                "credit_id": "5310c39cc3a36829e2001495",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12453,
+                "known_for_department": "Directing",
+                "name": "Wong Kar-wai",
+                "original_name": "Wong Kar-wai",
+                "popularity": 10.928,
+                "profile_path": "/gWfo3lseDx5h9YzsfnaVblG3S6c.jpg",
+                "credit_id": "52fe45a1c3a36847f80d1d6f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12453,
+                "known_for_department": "Directing",
+                "name": "Wong Kar-wai",
+                "original_name": "Wong Kar-wai",
+                "popularity": 10.928,
+                "profile_path": "/gWfo3lseDx5h9YzsfnaVblG3S6c.jpg",
+                "credit_id": "52fe45a1c3a36847f80d1d63",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12453,
+                "known_for_department": "Directing",
+                "name": "Wong Kar-wai",
+                "original_name": "Wong Kar-wai",
+                "popularity": 10.928,
+                "profile_path": "/gWfo3lseDx5h9YzsfnaVblG3S6c.jpg",
+                "credit_id": "6084a3b4e61e6d0057156b47",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12667,
+                "known_for_department": "Camera",
+                "name": "Kwan Pung-Leung",
+                "original_name": "Kwan Pung-Leung",
+                "popularity": 1.386,
+                "profile_path": null,
+                "credit_id": "532ed68f9251413a81003493",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20475,
+                "known_for_department": "Production",
+                "name": "Jacky Pang",
+                "original_name": "Jacky Pang",
+                "popularity": 1.316,
+                "profile_path": "/bfhNUrGr53tjBZm2EiCbqslaOr9.jpg",
+                "credit_id": "6084a2e4904f6d002a0fb7a3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45818,
+                "known_for_department": "Art",
+                "name": "William Chang Suk-Ping",
+                "original_name": "William Chang Suk-Ping",
+                "popularity": 3.743,
+                "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+                "credit_id": "6084a46f5c3247007764dc34",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45818,
+                "known_for_department": "Art",
+                "name": "William Chang Suk-Ping",
+                "original_name": "William Chang Suk-Ping",
+                "popularity": 3.743,
+                "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+                "credit_id": "6084a49c2da846006e3c7a29",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45818,
+                "known_for_department": "Art",
+                "name": "William Chang Suk-Ping",
+                "original_name": "William Chang Suk-Ping",
+                "popularity": 3.743,
+                "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+                "credit_id": "6084a4fe5c3247007764dd28",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45818,
+                "known_for_department": "Art",
+                "name": "William Chang Suk-Ping",
+                "original_name": "William Chang Suk-Ping",
+                "popularity": 3.743,
+                "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+                "credit_id": "52fe45a1c3a36847f80d1dad",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57617,
+                "known_for_department": "Writing",
+                "name": "Jeff Lau Chun-Wai",
+                "original_name": "Jeff Lau Chun-Wai",
+                "popularity": 7.479,
+                "profile_path": "/8YZWVweBpwvIik3RGQrIMulmrcF.jpg",
+                "credit_id": "532ef5349251413a780035c4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62410,
+                "known_for_department": "Acting",
+                "name": "Sammo Hung",
+                "original_name": "Sammo Hung",
+                "popularity": 23.8,
+                "profile_path": "/AsB9uRDQWdIbFGnkICEl8I2gDWn.jpg",
+                "credit_id": "6084a933960cde00412adda7",
+                "department": "Crew",
+                "job": "Martial Arts Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64355,
+                "known_for_department": "Sound",
+                "name": "Traithep Wongpaiboon",
+                "original_name": "Traithep Wongpaiboon",
+                "popularity": 1.4,
+                "profile_path": "/spP5idDWZ9NaUzZXhsPFBIgbw6a.jpg",
+                "credit_id": "6084a911960cde00412add86",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64490,
+                "known_for_department": "Editing",
+                "name": "Eric Kwong Chi-Leung",
+                "original_name": "Eric Kwong Chi-Leung",
+                "popularity": 3.384,
+                "profile_path": "/veGpjq5YU1wj9QeBSzYQhBZ5dCO.jpg",
+                "credit_id": "6084a3e72da846006e3c7879",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67218,
+                "known_for_department": "Writing",
+                "name": "Louis Cha",
+                "original_name": "Louis Cha",
+                "popularity": 1.811,
+                "profile_path": "/7zpS5byvvwtKYqDrfirFThofhS3.jpg",
+                "credit_id": "52fe45a1c3a36847f80d1d69",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 68029,
+                "known_for_department": "Sound",
+                "name": "Roel A. Garc\u00eda",
+                "original_name": "Roel A. Garc\u00eda",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a3cb4cd912006f91e94b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68030,
+                "known_for_department": "Editing",
+                "name": "Hai Kit-Wai",
+                "original_name": "Hai Kit-Wai",
+                "popularity": 1.145,
+                "profile_path": null,
+                "credit_id": "52fe45a1c3a36847f80d1da7",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71063,
+                "known_for_department": "Directing",
+                "name": "Patrick Tam",
+                "original_name": "Patrick Tam",
+                "popularity": 2.769,
+                "profile_path": "/7QdaxdLfd9jeuIHXXSDdAocqkyK.jpg",
+                "credit_id": "6084a44ff92532002c6e8bca",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87950,
+                "known_for_department": "Directing",
+                "name": "Johnnie Kong",
+                "original_name": "Johnnie Kong",
+                "popularity": 2.384,
+                "profile_path": "/4yNY47RtpAyaQCdFtvuWsMlo8Ww.jpg",
+                "credit_id": "6084a2a356b9f700573dc187",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 96616,
+                "known_for_department": "Production",
+                "name": "Tsai Mu Ho",
+                "original_name": "Tsai Mu Ho",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "6084a2c0e61e6d004094b968",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 119877,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kwan Lee-na",
+                "original_name": "Kwan Lee-na",
+                "popularity": 3.177,
+                "profile_path": "/urn0b8TvUFKfZc1DSH10nPnvyeQ.jpg",
+                "credit_id": "5cd2167f0e0a262d7b04217f",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 213439,
+                "known_for_department": "Production",
+                "name": "Tsai Sung-lin",
+                "original_name": "Tsai Sung-lin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a34833a533006f424c3b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 213439,
+                "known_for_department": "Production",
+                "name": "Tsai Sung-lin",
+                "original_name": "Tsai Sung-lin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084ab55f9253200435f78ba",
+                "department": "Crew",
+                "job": "Presenter"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554842,
+                "known_for_department": "Writing",
+                "name": "Shu Kei",
+                "original_name": "Shu Kei",
+                "popularity": 2.534,
+                "profile_path": "/8nYkhr7cELR6waMoGAyR5dInozS.jpg",
+                "credit_id": "6084a3172c6b7b0070eaae8f",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1011224,
+                "known_for_department": "Acting",
+                "name": "Frankie Chan Fan-Kei",
+                "original_name": "Frankie Chan Fan-Kei",
+                "popularity": 10.108,
+                "profile_path": "/7QhbscCqK0yVzL22H8fdQsI9ezb.jpg",
+                "credit_id": "52fe45a1c3a36847f80d1dbd",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1059532,
+                "known_for_department": "Production",
+                "name": "Chan Ye-cheng",
+                "original_name": "Chan Ye-cheng",
+                "popularity": 0.62,
+                "profile_path": null,
+                "credit_id": "52fe45a1c3a36847f80d1d95",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338255,
+                "known_for_department": "Sound",
+                "name": "Nopawat Likitwong",
+                "original_name": "Nopawat Likitwong",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "6084a8a6904f6d002a0fc307",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1410551,
+                "known_for_department": "Sound",
+                "name": "Robert Mackenzie",
+                "original_name": "Robert Mackenzie",
+                "popularity": 1.356,
+                "profile_path": null,
+                "credit_id": "6084a8d68d22fc0077221092",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1410551,
+                "known_for_department": "Sound",
+                "name": "Robert Mackenzie",
+                "original_name": "Robert Mackenzie",
+                "popularity": 1.356,
+                "profile_path": null,
+                "credit_id": "6084a8c856b9f70029322476",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1473180,
+                "known_for_department": "Crew",
+                "name": "Norman Wang",
+                "original_name": "Norman Wang",
+                "popularity": 1.185,
+                "profile_path": null,
+                "credit_id": "6084ab6d56b9f7003fbaf1f1",
+                "department": "Production",
+                "job": "Publicist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1508736,
+                "known_for_department": "Art",
+                "name": "Butt Yiu-Kwong",
+                "original_name": "Butt Yiu-Kwong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a4b18d22fc00772209f8",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1600335,
+                "known_for_department": "Acting",
+                "name": "Chan Yiu-Ming",
+                "original_name": "Chan Yiu-Ming",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "6084aa0ae61e6d004094c3cd",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2307411,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Poon Man-Wa",
+                "original_name": "Poon Man-Wa",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5cd21658925141223625fa8c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2307412,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ko Mei-Wah",
+                "original_name": "Ko Mei-Wah",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cd216710e0a262fb30b0e3f",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2377508,
+                "known_for_department": "Sound",
+                "name": "Terry Tu",
+                "original_name": "Terry Tu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a8f7426ae800571bbea4",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2778395,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Pan Min-Hua",
+                "original_name": "Pan Min-Hua",
+                "popularity": 0.995,
+                "profile_path": null,
+                "credit_id": "6084a676f9253200435f71b3",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2795943,
+                "known_for_department": "Production",
+                "name": "Gilles Ciment",
+                "original_name": "Gilles Ciment",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "6084ab8d01b1ca0077ae67ce",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2969223,
+                "known_for_department": "Art",
+                "name": "Tam Wing-Cheong",
+                "original_name": "Tam Wing-Cheong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a84c9a8a8a00589b2eb3",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2971802,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lee Lin-Tai",
+                "original_name": "Lee Lin-Tai",
+                "popularity": 0.648,
+                "profile_path": null,
+                "credit_id": "6084a5b4e8601700779abc49",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066360,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lee Bo-lin",
+                "original_name": "Lee Bo-lin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a57bbefb09003fd8ad78",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066362,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ng Yuk-Ho",
+                "original_name": "Ng Yuk-Ho",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a6269a8a8a00288b5a1e",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066363,
+                "known_for_department": "Directing",
+                "name": "Fanny Lee",
+                "original_name": "Fanny Lee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a6a92da846003f16c732",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066364,
+                "known_for_department": "Directing",
+                "name": "Catherine Sie",
+                "original_name": "Catherine Sie",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a6e28390180029ab50f1",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066367,
+                "known_for_department": "Art",
+                "name": "Chen Jinhua",
+                "original_name": "Chen Jinhua",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a801904f6d00415400f2",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066368,
+                "known_for_department": "Art",
+                "name": "Cheng Ping-Chi",
+                "original_name": "Cheng Ping-Chi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a8144cd912002b50cd94",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066369,
+                "known_for_department": "Art",
+                "name": "Cheung Cheuk-Wing",
+                "original_name": "Cheung Cheuk-Wing",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a8265c32470040866a65",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066370,
+                "known_for_department": "Art",
+                "name": "She Hsien-Heng",
+                "original_name": "She Hsien-Heng",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a833e860170058f1b451",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066371,
+                "known_for_department": "Sound",
+                "name": "Leung Lik-Chi",
+                "original_name": "Leung Lik-Chi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a88af92532007c568597",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066372,
+                "known_for_department": "Sound",
+                "name": "Tat Leung",
+                "original_name": "Tat Leung",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a8964cd91200587e6eb3",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066373,
+                "known_for_department": "Lighting",
+                "name": "Chan Wai-Kong",
+                "original_name": "Chan Wai-Kong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084a95d65e0a20029947634",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066380,
+                "known_for_department": "Lighting",
+                "name": "Ho Kai-On",
+                "original_name": "Ho Kai-On",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aa3801b1ca0041ee5805",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066383,
+                "known_for_department": "Lighting",
+                "name": "Law Hong Lung",
+                "original_name": "Law Hong Lung",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aa62960cde005939ea8b",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066384,
+                "known_for_department": "Camera",
+                "name": "Ng Man Chuen",
+                "original_name": "Ng Man Chuen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aa73a1d332004078bc3d",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066385,
+                "known_for_department": "Lighting",
+                "name": "Pun Hi-Hong",
+                "original_name": "Pun Hi-Hong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aa82c439c000794948de",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066386,
+                "known_for_department": "Camera",
+                "name": "Sit Kan-Tat",
+                "original_name": "Sit Kan-Tat",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aaa3c439c0002a411ea3",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066388,
+                "known_for_department": "Camera",
+                "name": "Tam Kar-Hing",
+                "original_name": "Tam Kar-Hing",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aab8befb09005781a022",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066389,
+                "known_for_department": "Lighting",
+                "name": "Tsang Chun Fai",
+                "original_name": "Tsang Chun Fai",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084aac6960cde002a8546d4",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066390,
+                "known_for_department": "Lighting",
+                "name": "Yu Kin-Man",
+                "original_name": "Yu Kin-Man",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "6084aad4426ae80040baf635",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3066394,
+                "known_for_department": "Writing",
+                "name": "Chan Wan-Yu",
+                "original_name": "Chan Wan-Yu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6084ab37a579f90078ac4022",
+                "department": "Writing",
+                "job": "Story Editor"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Ashes Of Time Redux - Trailer",
+                "key": "j8zg_25-SYA",
+                "published_at": "2013-06-28T08:39:03.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "id": "568a3e749251417c060027b9"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eDaGs1lhUIeo395sd73bDZpu5Ts.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1652,
+                "iso_639_1": null,
+                "file_path": "/eCVxEk1NM5dCgcgzCXvn3Hv3B6a.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2937
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/u2ZT6uhwN0qLixZqWssn12O1jFq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/uzecQY63Qkgk5LvMj6e9RVOV3pH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/6U26cT3jYSzvH0wHsVA2VHvfy0u.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/zKimBWuDnXHjZug7Y6mbHwxavGh.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eEaB57TIAsXBj2kWtaJDz7UXBxC.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/5FWtDv8YOUMcq4ME4Z7of8NIaaM.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1599,
+                "iso_639_1": null,
+                "file_path": "/riRGzPHnGR23eJ8Fv3jmAuFVZfZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2842
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1567,
+                "iso_639_1": null,
+                "file_path": "/wYLPlHkwNVpfz1005nD6toVFnCQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2785
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hOM9OfPEo6vKSAFp2koP04gedCy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/kenBrFYq1nvxOhuWykAqITBs5kG.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/36LFrNPcRASxD0gjtc8wlpKTpsq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/9Qhvc1V2pVYsQ20rHbDBtQYLyC4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/oVZM6wdEvwiFcADPup9RrbRcEu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bNiqQqmmeub1MUY16XigivXPU6Q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/knE7GqBVZ7rCVu4CWpDEATElJvP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/4MTNUs5iwuN3BuRF1VwePVfFc8u.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hWjrIQRVbsd7ezvii9QR8OcV6WE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/7WaV1Wys11EL0oVYMV6VGuNwuNo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/zz6hvzkNAa3VxTc0D3ybybjtbCY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/dyycLZ8KuQrx4IWSK8b5jAEQMNh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/smtzZRpE8hQkQNnhQg2TIRfcWcj.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 5.12,
+                "height": 855,
+                "iso_639_1": "cn",
+                "file_path": "/2k8zsCFaMhuLdQ1igNuVjKE4uu8.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 4378
+            },
+            {
+                "aspect_ratio": 1.934,
+                "height": 258,
+                "iso_639_1": "pt",
+                "file_path": "/6AixvVgrmyaZ6QIf8230m7K309x.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 499
+            },
+            {
+                "aspect_ratio": 5.135,
+                "height": 577,
+                "iso_639_1": "cn",
+                "file_path": "/fqzZuZpPmWjhym7lsouSbjqUdIA.png",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2963
+            },
+            {
+                "aspect_ratio": 2.4,
+                "height": 400,
+                "iso_639_1": "cn",
+                "file_path": "/dO3ALvsUfAaKltCIkHlMzQC82sR.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 7.88,
+                "height": 100,
+                "iso_639_1": "en",
+                "file_path": "/hC4e63R0dyaO2mQC2NWCTYbqGD5.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 788
+            },
+            {
+                "aspect_ratio": 2.031,
+                "height": 360,
+                "iso_639_1": "cn",
+                "file_path": "/vNWNuPaqPzkBGVHFxDyH0piYq6h.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 731
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.7,
+                "height": 1440,
+                "iso_639_1": "cn",
+                "file_path": "/igt54bK4dUNVocSloim4OI9CcSC.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1008
+            },
+            {
+                "aspect_ratio": 0.751,
+                "height": 1439,
+                "iso_639_1": "cn",
+                "file_path": "/cVXqJDRqel8LuVPRqttakj8AzSH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "cn",
+                "file_path": "/oWkJVljk6awYSw7BzrfdIPAcbwG.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ko",
+                "file_path": "/6DT3FV4HXqw7oiZpOgaa4hRPS7S.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "de",
+                "file_path": "/kiO1WefoZTCzLJDQeBSrppJy7YV.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/pnSam5q8GI5C3zKKFpRqDdKeQ6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/1I5EksYqL87d1dxvpci1YX95CS6.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/wWrmfbiTgJKShLleLJNkd6Dkwb9.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1000,
+                "iso_639_1": "cn",
+                "file_path": "/cqMCJTqvIrYm2PztsTBeHl88iNI.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 750
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2303,
+                "iso_639_1": "cn",
+                "file_path": "/bHu6jPDINOYjOiI3hwVqxX8pqt8.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1607
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "pt",
+                "file_path": "/bsp3zlf8eT7zfbyGsvtZeKSsHqB.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/hfRNjl1KL382xDlgcXpZ4btbIXR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 1139,
+                "iso_639_1": "ja",
+                "file_path": "/1eeStg81f6I3g3h6jY2eDJ9TJk2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "cn",
+                "file_path": "/lvuAllm4VyJ7G0B0O9Pe6jPA2Tu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.72,
+                "height": 900,
+                "iso_639_1": "cn",
+                "file_path": "/451TJ0ZVmMfhLq5EPVRjUO5eSQU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 648
+            },
+            {
+                "aspect_ratio": 0.751,
+                "height": 1439,
+                "iso_639_1": "cn",
+                "file_path": "/zCHDG5pFZYIemLKXigbXVEOx7ug.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/ciyEwAbvoMHPP3281cgSnfslu43.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "it",
+                "file_path": "/zssdjhYucEur24RZrNBdgfosT8b.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "uk",
+                "file_path": "/jvLOKto7dBaIoqQpp5RnacaG4mA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 1539,
+                "iso_639_1": "fr",
+                "file_path": "/aTMQq65KAvtZU15ny64x4DcWGan.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.72,
+                "height": 900,
+                "iso_639_1": "cn",
+                "file_path": "/kMpKyuaE5GeDlqqK40EvReyA0fn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 648
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1439,
+                "iso_639_1": "cn",
+                "file_path": "/4ma9mQk1tx5Sje15hHMoWSjEsrX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 959
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "cn",
+                "file_path": "/6Q4Wxn34XU54guF7key2eR3FDwf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.717,
+                "height": 2790,
+                "iso_639_1": "zh",
+                "file_path": "/wFkZSXeBAs2zaU6IxKOZMTE91uU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/rrPd2ZBMzyLTKNTxXWqlxjQ0KOK.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/su3EYvYwzXYbr0z96kuluHJrhnf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/3VpQhd4gKlJpua01iBITtnuCDrW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/wv36CkN1LMpAhth5cuPSQdrPLnO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/d9venpUB31GkXUK1pI1mf9oc05T.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/tquFp2qeBhWFmXFT0txbzJfkNak.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/g6hhZQjAR8u05NruNHLAytKmqqb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 2667,
+                "iso_639_1": "zh",
+                "file_path": "/xG1hYMHI5u13JirteRDPDKfwnvg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "Ashes of Time",
+    "year": "1994",
+    "rated": "R",
+    "director_list": [
+        "Kar-Wai Wong"
+    ],
+    "writer_list": [
+        "Louis Cha",
+        " Kar-Wai Wong"
+    ],
+    "main_cast": [
+        "Brigitte Lin",
+        " Maggie Cheung",
+        " Leslie Cheung"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "imdb_rating": "7.0",
+    "imdb_votes": "16,572",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ashes_of_Time",
+    "wikipedia_summary": "Ashes of Time (Chinese: \u6771\u90aa\u897f\u6bd2) is a 1994 Hong Kong film written and directed by Wong Kar-wai, and inspired by characters from Jin Yong's novel The Legend of the Condor Heroes.",
+    "wikipedia_plot": "Set in ancient China, the film consists of five short stories each featuring a main character from the novel; with the young Ouyang Feng serving as narrator and the common link.",
+    "wikipedia_plot_html": "<p>Set in ancient China, the film consists of five short stories each featuring a main character from the novel; with the young Ouyang Feng serving as narrator and the common link.\n</p>",
+    "wikipedia_critics": "When the film opened in Hong Kong it received mixed reviews. Critics found it so elliptical that it was almost impossible to make out any semblance of a plot, Wong Kar Wai made an introspective film that focuses on the main characters\u2019 inner lives rather than their martial arts performances. This decision is very rare in a wuxia film (a genre of fiction about martial artists in ancient China).In The New York Times, Lawrence Van Gelder also gave Ashes of Time a mixed review:\nFor those who seek metaphors, Ashes of Time... presents the eye as well as the illusions of vision. One character is nearly blind. Another, a swordsman, goes blind in the middle of a horrendous battle. Two characters, Yin and Yang\u2014one presented as a man, the other as his sister\u2014are identical. And there is a brief appearance by a legendary sword fighter who hones his skills against his own reflection.\nFor those who seek battle, Ashes of Time offers intermittent blurs of action, streaks of flying figures, flashing steel, and rare spatters and gouts of moist crimson, all washing across the screen like hurried brush paintings.\n\nLike the attainment of wisdom, Ashes of Time requires a long journey through testing terrain.\nThe review aggregator Rotten Tomatoes reported that 78% of critics have given Ashes of Time Redux a positive review based on 87 reviews, with an average rating of 6.80/10. The site's critics consensus reads, \"Wong Kar Wai's redux, with a few slight changes from his 1994 classic, is a feast for the eyes, if a little difficult to follow.\" On Metacritic, the film has a weighted average score of 69 out of 100 based on 20 critic reviews, indicating \"generally favorable reviews\".",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Ashes of Time</b></i> (Chinese: <span lang=\"zh-Hant\">\u6771\u90aa\u897f\u6bd2</span>) is a 1994 Hong Kong film written and directed by Wong Kar-wai, and inspired by characters from Jin Yong's novel <i>The Legend of the Condor Heroes</i>.\n</p>\n\n<h2>Background</h2>\n<p>In the 1960s, King Hu's <i>Come Drink with Me</i> raised the artistic level of wuxia films. Wong grew up immersed in wuxia culture. In 1972, Bruce Lee's <i>The Way of the Dragon</i> brought jianghu culture to the global stage. In the mid-1990s, wuxia films entered a new stage. Wong selected characters from \"new-school\" wuxia novelist Jin Yong's novel <i>The Legend of the Condor Heroes</i> and created an unprecedented wuxia story.</p><p>The film's story is a prequel to the novel <i>The Legend of the Condor Heroes</i> as it imagines the older characters when they were younger. It focuses on the main antagonist (Ouyang Feng) and humanizes him into a protagonist while retaining his despicable qualities.  Feng, known as the Western Venom, crosses paths with the other powerful wuxia masters.  Their backstories are depicted with great liberty and sometimes completely subvert the intended meaning from the novel.\n</p><p>During the film's long-delayed production, Wong produced a parody of the same novel with much of the same cast (in different roles) titled <i>The Eagle Shooting Heroes</i>.\n</p><p>Because it received limited box office success, the parallels <i>Ashes of Time</i> drew between modern ideas of dystopia imposed on a <i>wuxia</i> film have led critics to cite it as one of Wong Kar-wai's most under-appreciated works.\n</p><p>Due to the original prints being lost, Wong re-edited and re-scored the film in 2008 for future theater, DVD and Blu-ray releases under the title <i><b>Ashes of Time Redux</b></i>. The film was reduced from 100 to 93 minutes. Both the original and <i>Redux</i> versions can still be found on Asian markets, while only the Redux version is available to western markets. Several criticisms of the Redux version have been noted, such as poor image quality and color mastering from the source material, cropping and removal of portions of the bottom image, poor English translations, and the re-scoring.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Leslie Cheung as Ouyang Feng, the Western Venom</li>\n<li>Tony Leung Ka-fai as Huang Yaoshi, the Eastern Heretic</li>\n<li>Brigitte Lin as Murong Yang / Murong Yin / Dugu Qiubai</li>\n<li>Tony Leung Chiu-Wai as Blind Swordsman</li>\n<li>Carina Lau as Peach Blossom, Blind Swordsman's wife</li>\n<li>Charlie Yeung as Girl with mule</li>\n<li>Jacky Cheung as Hong Qigong, the Northern Beggar</li>\n<li>Maggie Cheung as Ouyang Feng's sister-in-law</li>\n<li>Li Bai as Hong Qigong's wife</li>\n<li>Siu Tak-fu</li>\n<li>Collin Chou as Swordsman</li>\n<li>Lau Shun</li></ul>\n\n<h2>Summary</h2>\n<p>The film follows the main antagonist Ouyang Feng, from the novel <i>The Legend of the Condor Heroes</i>, when he is a young man crossing paths with other important characters. The movie humanizes Feng and depicts the events that lead to his descent into villainy. It sometimes completely subverts the intended meaning of the novel, as in Feng's copulation with his sister-in-law, which is depicted as sinister and taboo in the book but is shown as true love in the film; the longing for her serves as a common theme that echoes throughout the movie.\n</p>\n\n<h2>Plot</h2>\n<p>Set in ancient China, the film consists of five short stories each featuring a main character from the novel; with the young Ouyang Feng serving as narrator and the common link.\n</p>\n\n<h3>Opening</h3>\n<p>The story begins with Ouyang Feng \u2013 known as the Western Venom due to his mercilessness and hailing from the western province \u2013 effortlessly toying with and disposing of a group of henchmen. He narrates that he is venomous because he is enraged with jealousy.\n</p><p>The story flashes back to a time when Feng is younger and working as a broker for assassins in a remote,  desert region. He eagerly waits for his friend Huang, who visits him once a year around this time.\n</p>\n\n<h3>Act I \u2013 Huang Yaoshi (Eastern Heretic)</h3>\n<p>Huang Yaoshi (Eastern Heretic) kills a band of bandits to take one of their horses because his has died. He arrives at Feng's and presents to him a bottle of wine called <i>Drunken Alive, Perish in Dreams</i> that was given to him by a close friend, who claims the wine can wipe a person's memory and allows that person to live a new life; he proceeds to drink the wine while Feng declines. That night, Huang begins to lose his memory, hurriedly leaves and chases after a shadowy woman who had awoken him in his sleep. She may have been a fragment of his dream.\n</p><p>Huang arrives at a shallow river. A woman (Cherry Blossom) is standing in the river and tending to her horse. Huang seemingly still retains memory of her, looks smugly at her while she steals glances at him. Neither one speaks.\n</p><p>In the next scene, Huang drinks with the Blind Swordsman inside an establishment. Huang asks how they know each other. The Blind Swordsman tells him they used to be best friends but Huang stole the former's wife. As he is leaving, the Blind Swordsman narrates that he would have killed Huang if he is not losing his sight and can still see at night.\n</p><p>Huang witnesses a group of men threatening Murong Yang. Huang interjects and stops Yang from drawing his sword but ends up inadvertently getting cut. Huang retreats outside, leans on a wall, and sees blood coming from his lower abdomen. Inside, Yang is laughing hysterically. Feng narrates that when Huang was young he was charming and rebellious - qualities that attracted many women and he has broken every one of their hearts.\n</p>\n\n<h3>Act II \u2013 Murong Yang / Murong Yin (Dugu Qiubai)</h3>\n<p>Yang arrives at Feng's looking to hire an assassin to kill Huang - angry that Huang had broken his sister's heart.  Later, Yang's sister, Yin, arrives at Feng's and attempts to call off the assassination - claiming Huang is madly in love with her. It is revealed that Yang and Yin are the same person; with the female Yin playing dress up as Yang.\n</p><p>In a flashback, after rounds of drinking, Huang tells Yang that if the latter has a sister he will marry her. Yang, already infatuated with Huang, tells him he will present Yin to him. Yin arrives at the rendezvous, dressed as her natural sex, but Huang was a no-show. The event sends her into a rage and she seeks to have Huang killed but she is torn on killing the person who broke her heart and at the same time madly in love with. After a night of conversation with Feng where she fades in and out of character between Yang and Yin, she abandons the idea of killing Huang. That night, Feng dreams that someone is caressing him. The camera pans to Yin sneaking into Feng's bedroom - the person she envisions caressing is Huang while Feng dreams he is being touched by his ex-lover. Feng says that he has never seen Yin again after that night.\n</p><p>Feng narrates that people who have been deeply hurt in love sometimes invent strange narratives to protect their broken hearts.  No one has seen Yang or Yin since, but shortly after her disappearance, a strange and powerful swordsman named Dugu Qiubai (who likes to practice her swordplay with her own reflection) appears on the stage. The film then shows Dugu Qiubai as Yang and Yin interchangeably.\n</p>\n\n<h3>Act III \u2013 Blind Swordsman</h3>\n<p>The Blind Swordsman approaches Feng for a job to help pay for his journey back home to see the cherry blossom. Feng offers him the job of protecting the villages from the band of bandits seeking revenge for the comrades that Huang killed earlier in the film.\n</p><p>The Girl with a Mule solicits Feng's help in hiring an assassin to exact revenge on a group of imperial guards who killed her younger brother. She is a poor peasant who can only offer an old mule and a basket of eggs as payment. Feng coldly brushes her off and implies she should offer her body as compensation, a suggestion that disgusts her. Undeterred, she sits outside Feng's front gate hoping to solicit assassins who come to work with Feng. While observing her through his balcony, Feng laments that from this vantage point, she reminds him of his ex-lover.\n</p><p>Feng notes that The Blind Swordsman has a very orderly and rigid daily routine, but he knows that even though the latter lights a candle at night, he cannot see in the dark.\n</p><p>During the course of fighting the bandits, the sky becomes overcast, and as a result the Blind Swordsman is unable to see and is killed in battle.\n</p>\n\n<h3>Act IV \u2013 Hong Qigong (Northern Beggar)</h3>\n<p>Feng comes across an exhausted and dirty young man (Hong Qigong) who has run out of food and money. He offers him food, shelter, and a job to work as an assassin. Hong begrudgingly accepts.\n</p><p>Hong's first job is to kill the bandits, who are returning to cause havoc after being impeded and suffering casualties in the battle with the Blind Swordsman. Hong successfully disposes of the bandits and receives compensation from Feng. Feng notes that Hong is a man with integrity and will not stay in this profession for long.\n</p><p>Hong's wife appears at Feng's looking for her husband. Hong angrily ushers her away to return home; instead, she stands outside and waits for him. Hong tells Feng that he cannot take her along while he is getting his hands dirty fighting and killing for a living, and notes that every wuxia master he knows rides alone. Feng replies that there are always exceptions and tells Hong he once had a woman waiting for him but she ended up marrying his brother.\n</p><p>Hong accepts an egg from the Girl with a Mule and kills the imperial guards to exact revenge for her brother. During the battle he suffers serious injuries, including losing a finger, and is nursed back to health by his wife. While Hong is still in critical condition, the Girl with a Mule begs Feng to hire a doctor to tend to Hong. Feng refuses, citing the costliness of a doctor visit and suggests again that she sells her body to raise money. A bedridden Hong relieves the Girl with a Mule from any responsibility to him by saying she owes him nothing since he has already accepted her egg as compensation.\n</p><p>Feng berates a bedridden Hong and asks if nearly dying for an egg was worth it. Hong smiles back and says using his wuxia for good instead of greed makes him feel alive; the cold and calculating Feng would never understand how good that feels. Feng leaves Hong's bedside speechless.\n</p><p>After Hong returns to health, he and his wife embark on their journey together and leave Feng. While watching them disappear over the horizon, Feng thinks of his own shattered love life and feels a great sense of jealousy.\n</p><p>Feng notes that Hong purposely heads north against the northerly wind. The caption narrates that Hong later becomes the leader of the Beggars' Gang, becomes the Northern Beggar, and later engages in a fierce duel with Feng.\n</p>\n\n<h3>Act V \u2013 Ouyang Feng (Western Venom)</h3>\n<p>Feng pays a visit to the Blind Swordsman's hometown to see the cherry blossom and is surprised to learn that the place has no cherry blossom. Cherry Blossom turns out to be the name of the Blind Swordsman's wife, who breaks down crying after she learns from Feng that her husband has been killed in battle.\n</p><p>In a flashback, Feng tracks down his lover the day before she is to be married to his brother and offers to take her away with him. She steadfastly refuses, telling him that he is too late. Feng, not wanting to attend the marriage ceremony, leaves that night and never returns.\n</p><p>Feng receives a note from his family that his lover (now his sister-in-law) died almost two years ago. Feng figures that the wine <i>Druken Alive, Perish in Dreams</i> that Huang brought to him early in the film is a gift from her.\n</p><p>In a flashback, Huang is sitting and talking with Feng's lover in her beach-side hut. He narrates that he is in love with her but she only loves Feng. She sends him to visit Feng every year to gather his news for her; secretly, she hopes that he would reveal to Feng her whereabouts. After he tells her he will never disclose her location because he made a promise to her, she breaks down sobbing. She laments that she always thought she was the winner in love but she now realizes that she is the loser.\n</p><p>Huang narrates that he likes cherry blossom because he gets to see her every year during the season. She dies of illness soon after their last meeting and on her deathbed she gives Huang the <i>Drunken Alive, Perish in Dreams</i> to deliver to Feng.\n</p><p>In the present, Huang has lost a lot of his memory. One of the few things he remembers is that he likes cherry blossom and he proceeds to become a hermit, residing on an island filled with cherry blossom and acquiring the nickname Eastern Heretic.\n</p><p>Feng waits for Huang's visit even though deep down he knows Huang will not come now that she is gone. After two days of waiting, Feng drinks the remaining bottle of <i>Drunken Alive, Perish in Dreams</i>; but instead of making him forget his past the wine makes his memory for her stronger. He narrates that the more a person wants to forget, the more he remembers; and deciphers that coaxing him to drink the wine is her method to make him never forget her.\n</p><p>Feng burns down his dwelling and returns to his hometown. The caption says he later becomes the leader of his clan and acquires the nickname Western Venom.\n</p>\n\n<h3>Ending</h3>\n<p>The film ends with brief appearances by the surviving main characters, and references scenes from the novel. It implies that the henchmen killed by Feng in the beginning of the film belong to the Beggars' Gang led by Hong. Hong sets a trap to corner Feng, but Feng is unfazed and smiles manically at Hong. Hong and Feng then engage in a battle. The film then pans to an older Feng in grey beard and hair, fighting and disposing of his enemies.\n</p>\n\n<h2>Soundtrack</h2>\n<p>The music was composed by Frankie Chan and Roel A. Garc\u00eda, and produced by Rock Records in Hong Kong and Taiwan. It was released in 1994. The redux version features additional cello solos by Yo-Yo Ma.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p>When the film opened in Hong Kong it received mixed reviews. Critics found it so elliptical that it was almost impossible to make out any semblance of a plot, Wong Kar Wai made an introspective film that focuses on the main characters\u2019 inner lives rather than their martial arts performances. This decision is very rare in a wuxia film (a genre of fiction about martial artists in ancient China).</p><p>In <i>The New York Times</i>, Lawrence Van Gelder also gave <i>Ashes of Time</i> a mixed review:</p>\n<blockquote class=\"templatequote\"><p>For those who seek metaphors, <i>Ashes of Time</i>... presents the eye as well as the illusions of vision. One character is nearly blind. Another, a swordsman, goes blind in the middle of a horrendous battle. Two characters, Yin and Yang\u2014one presented as a man, the other as his sister\u2014are identical. And there is a brief appearance by a legendary sword fighter who hones his skills against his own reflection.\n</p><p>For those who seek battle, <i>Ashes of Time</i> offers intermittent blurs of action, streaks of flying figures, flashing steel, and rare spatters and gouts of moist crimson, all washing across the screen like hurried brush paintings.\n</p><p>\nLike the attainment of wisdom, <i>Ashes of Time</i> requires a long journey through testing terrain.</p></blockquote>\n<p>The review aggregator Rotten Tomatoes reported that 78% of critics have given <i>Ashes of Time Redux</i> a positive review based on 87 reviews, with an average rating of 6.80/10. The site's critics consensus reads, \"Wong Kar Wai's redux, with a few slight changes from his 1994 classic, is a feast for the eyes, if a little difficult to follow.\" On Metacritic, the film has a weighted average score of 69 out of 100 based on 20 critic reviews, indicating \"generally favorable reviews\".</p>\n\n<h3>Awards and nominations</h3>\n<ul><li>1995 Hong Kong Film Awards\n<ul><li>Won: Best Art Direction (William Chang)</li>\n<li>Won: Best Cinematography (Christopher Doyle)</li>\n<li>Won: Best Costume and Make-up Design (William Chang)</li>\n<li>Nominated: Best Picture</li>\n<li>Nominated: Best Director (Wong Kar-wai)</li>\n<li>Nominated: Best Action Choreography (Sammo Hung)</li>\n<li>Nominated: Best Film Editing (Patrick Tam, Kai Kit-wai)</li>\n<li>Nominated: Best Original Score (Frankie Chan)</li>\n<li>Nominated: Best Screenplay (Wong Kar-wai)</li></ul></li>\n<li>1994 Golden Horse Awards\n<ul><li>Won: Best Cinematography (Christopher Doyle)</li>\n<li>Won: Best Editing (Patrick Tam, Kai Kit-wai)</li></ul></li>\n<li>1995 Hong Kong Film Critics Society Awards\n<ul><li>Won: Best Film</li>\n<li>Won: Best Director (Wong Kar-wai)</li>\n<li>Won: Best Actor (Leslie Cheung)</li>\n<li>Won: Best Screenplay (Wong Kar-wai)</li></ul></li>\n<li>1994 Venice Film Festival\n<ul><li>Nominated: Golden Lion (Wong Kar-Wai)</li>\n<li>Won: Best Cinematography (Christopher Doyle)</li></ul></li>\n<li>1997 Fant-Asia Film Festival\n<ul><li>Won: Best Asian Film \u2013 Third Place</li></ul></li></ul>\n\n<h3>Box office</h3>\n<p><i>Ashes of Time</i> grossed HK$9,023,583 during its Hong Kong run.\n</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Ashes of Time</i> at IMDb</li>\n<li><i>Ashes of Time</i> at AllMovie</li></ul>"
+}

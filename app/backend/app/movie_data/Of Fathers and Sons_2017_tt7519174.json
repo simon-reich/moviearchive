@@ -1,0 +1,462 @@
+{
+    "adult": false,
+    "backdrop_path": "/hOryMZ4I8QGjTjsqGAkrLYwDMj8.jpg",
+    "belongs_to_collection": null,
+    "budget": 125000,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "https://www.offathersandsons.com",
+    "id": 488740,
+    "imdb_id": "tt7519174",
+    "original_language": "ar",
+    "original_title": "Of Fathers And Sons",
+    "overview": "Talal Derki returns to his homeland where he gains the trust of a radical Islamist family, sharing their daily life for over two years. His camera focuses on Osama and his younger brother Ayman, providing an extremely rare insight into what it means to grow up in an Islamic Caliphate.",
+    "popularity": 7.88,
+    "poster_path": "/9nY0ef1kCwu1fUG0mjBq3wWghu1.jpg",
+    "production_companies": [
+        {
+            "id": 74289,
+            "logo_path": "/yaVRF2R8KwJ6e5oG3zfFeMYRuLE.png",
+            "name": "BASIS BERLIN Filmproduktion",
+            "origin_country": "DE"
+        },
+        {
+            "id": 57317,
+            "logo_path": "/3vol4eJ6YPMULoVJrLvixfdbyVe.png",
+            "name": "Ventana Film",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "LB",
+            "name": "Lebanon"
+        },
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        },
+        {
+            "iso_3166_1": "QA",
+            "name": "Qatar"
+        },
+        {
+            "iso_3166_1": "SY",
+            "name": "Syrian Arab Republic"
+        }
+    ],
+    "release_date": "2017-11-15",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Of Fathers and Sons",
+    "video": false,
+    "vote_average": 6.953,
+    "vote_count": 53,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2176140,
+                "known_for_department": "Acting",
+                "name": "Abu Osama",
+                "original_name": "Abu Osama",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Himself",
+                "credit_id": "5bed9ccf0e0a263298017d88",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10234,
+                "known_for_department": "Editing",
+                "name": "Anne Fabini",
+                "original_name": "Anne Fabini",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ae86f4fc3a36813510203fe",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15463,
+                "known_for_department": "Sound",
+                "name": "Ansgar Frerich",
+                "original_name": "Ansgar Frerich",
+                "popularity": 0.917,
+                "profile_path": null,
+                "credit_id": "5ae86ee60e0a2610720188cb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 15465,
+                "known_for_department": "Production",
+                "name": "Tobias Siebert",
+                "original_name": "Tobias Siebert",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ae86eb00e0a26106c0181da",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 48771,
+                "known_for_department": "Sound",
+                "name": "Karim Sebastian Elias",
+                "original_name": "Karim Sebastian Elias",
+                "popularity": 1.44,
+                "profile_path": null,
+                "credit_id": "5ae86f09c3a3681343018963",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25481,
+                "known_for_department": "Production",
+                "name": "Hans Robert Eisenhauer",
+                "original_name": "Hans Robert Eisenhauer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ae86e8b9251410d3d0167d6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1001668,
+                "known_for_department": "Production",
+                "name": "Dan Cogan",
+                "original_name": "Dan Cogan",
+                "popularity": 1.548,
+                "profile_path": "/bmeQ9JniM3nYWUaa7GVqs6cfZBh.jpg",
+                "credit_id": "5ae86e920e0a26104f0187d4",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1126877,
+                "known_for_department": "Production",
+                "name": "Geralyn White Dreyfous",
+                "original_name": "Geralyn White Dreyfous",
+                "popularity": 3.402,
+                "profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+                "credit_id": "5ae86eba9251410cdc0171ef",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1161763,
+                "known_for_department": "Production",
+                "name": "Jenny Raskin",
+                "original_name": "Jenny Raskin",
+                "popularity": 1.108,
+                "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+                "credit_id": "5ae86efec3a3681345016a2f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1273101,
+                "known_for_department": "Directing",
+                "name": "Talal Derki",
+                "original_name": "Talal Derki",
+                "popularity": 0.98,
+                "profile_path": "/arr5seJ4Xd3RLa3Auinebc2lPJE.jpg",
+                "credit_id": "5a72d80a925141059c006a1f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1273101,
+                "known_for_department": "Directing",
+                "name": "Talal Derki",
+                "original_name": "Talal Derki",
+                "popularity": 0.98,
+                "profile_path": "/arr5seJ4Xd3RLa3Auinebc2lPJE.jpg",
+                "credit_id": "5ae86ed8c3a3681355021f10",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1644676,
+                "known_for_department": "Production",
+                "name": "Eva Kemme",
+                "original_name": "Eva Kemme",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ae86ef30e0a261060019544",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2033840,
+                "known_for_department": "Camera",
+                "name": "Kahtan Hassoun",
+                "original_name": "Kahtan Hassoun",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ae86f2c0e0a261058017670",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official Trailer",
+                "key": "Zd0bRdYb8AI",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2018-10-30T19:21:33.000Z",
+                "id": "62eb115a273648005abfc586"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hOryMZ4I8QGjTjsqGAkrLYwDMj8.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1406,
+                "iso_639_1": null,
+                "file_path": "/qJ2IkFcKpvoMLnuwyBBOkHoCQ2Q.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2500
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ybQ5R3DDxiz6Ti7IxR02ap1uDLM.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/r9SkbQYP11BhVWUhQpFeRbQ7YDA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/y1ht3TJgnHo2rh6a2O5xRBhKXiA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eYccBSLVDPHhS6HnOThVSqJKjeT.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/gu0n8BQu8IV8NuTTCJ2AVwfyPCP.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/kgwuwhCE6hNSc4feyy07OhtjDbE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/pV9NWjtctuEFVhrLaVxKk6pxPpW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2649,
+                "iso_639_1": "en",
+                "file_path": "/9nY0ef1kCwu1fUG0mjBq3wWghu1.jpg",
+                "vote_average": 5.522,
+                "vote_count": 4,
+                "width": 1766
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/4GZsId88iEerFynEn7U2hQwfwi6.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "en",
+                "file_path": "/mPp78buaTB0T1XV7lFvgEsMgIHw.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1141,
+                "iso_639_1": "pl",
+                "file_path": "/cQS8pyHNlQUllJG7o5sVtDjO9jQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1848,
+                "iso_639_1": "ca",
+                "file_path": "/iKUvsxjixaZZUefDSu8dWsrnOww.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1311
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 166950,
+                "name": "indoctrination"
+            },
+            {
+                "id": 188507,
+                "name": "al qaeda"
+            },
+            {
+                "id": 256693,
+                "name": "syrian civil war"
+            },
+            {
+                "id": 262598,
+                "name": "radical islam"
+            },
+            {
+                "id": 294531,
+                "name": "documentary film"
+            }
+        ]
+    },
+    "title_english": "Of Fathers and Sons",
+    "year": "2017",
+    "rated": "Not Rated",
+    "director_list": [
+        "Talal Derki"
+    ],
+    "writer_list": [
+        "Talal Derki",
+        " Abd-Elhamed Emad Taha"
+    ],
+    "main_cast": [
+        "Tia Alkerdi",
+        " Yara Ibrahim",
+        " Abu Osama"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "imdb_rating": "7.3",
+    "imdb_votes": "2,664",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Of_Fathers_and_Sons",
+    "wikipedia_summary": "Of Fathers and Sons (Arabic: \u0639\u0646 \u0627\u0644\u0622\u0628\u0627\u0621 \u0648\u0627\u0644\u0623\u0628\u0646\u0627\u0621 \u02bfan al-\u02be\u0101b\u0101\u02be wal-\u02beabn\u0101\u02be) is a 2017 Arabic-language German-Syrian documentary film directed by Talal Derki about radical jihadism and terrorist training in Syria.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": "Of Fathers and Sons has an approval rating of 95% on review aggregator website Rotten Tomatoes, based on 20 reviews, and an average rating of 8.23/10. It also has a score of 70 out of 100 on Metacritic, based on 7 critics, indicating \"generally favorable reviews\".",
+    "wikipedia_full_html": "<p><i><b>Of Fathers and Sons</b></i> (Arabic: <span lang=\"ar\" dir=\"rtl\">\u0639\u0646 \u0627\u0644\u0622\u0628\u0627\u0621 \u0648\u0627\u0644\u0623\u0628\u0646\u0627\u0621</span> <i>\u02bfan al-\u02be\u0101b\u0101\u02be wal-\u02beabn\u0101\u02be</i>) is a 2017 Arabic-language German-Syrian documentary film directed by Talal Derki about radical jihadism and terrorist training in Syria.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Synopsis</h2>\n<p>Under the guise of a photojournalist sympathetic towards Salafi jihadism, Talal Derki is allowed to enter a village controlled by the al-Nusra Front close to the front line of the Syrian Civil War, and stays with the Osama family. The family patriarch Abu Osama is an enthusiastic fanatic, openly praising the September 11 attacks and naming his children after the leaders of al-Qaeda and the Taliban. He works as a sniper and as a mine remover, and removes his children from school due to coeducation. The children, in particular the eldest son Osama, become increasingly prone to fighting and bullying.\n</p><p>During a mission, Abu Osama's left lower leg is blown off by a mine. Shortly afterwards, the children are sent to a radical military training camp. The boys face harsh conditions, and quickly become homesick. After returning home, Abu Osama's treasured books are destroyed in an airstrike by the Russian Air Force, and he lives by selling components from disarmed mines to bombmakers. He remains committed to his belief that the war will lead to an apocalyptic Third World War between a revived Caliphate and the Christian world and bring on the victory of the Mahdi against the Antichrist.\n</p><p>At the camp, Osama advances along and is prepared for further military training, while his younger brother Ayman does not do well and wants to return to school. Abu Osama takes the decisive step of teaching Osama how to shoot a gun. Before Osama leaves for a more intensive camp, he shares a riddle with Ayman. Osama undergoes three years of training and indoctrination, while Ayman returns to school.\n</p><p>As Osama's brigade is driven to the front for the first time and as Talal leaves to return home to Berlin, he explains that Ayman and Osama continued down their separate paths into their teenage years, and reflects upon the deep devastation of Syria.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Abu Osama - Himself</li>\n<li>Ayman - Himself</li>\n<li>Osama - Himself</li></ul>\n\n<h2>Highlights</h2>\n<p>Derki mentioned in an interview that he stayed there about 2 and a half years and the effective filming days were 330 days.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p><i>Of Fathers and Sons</i> has an approval rating of 95% on review aggregator website Rotten Tomatoes, based on 20 reviews, and an average rating of 8.23/10. It also has a score of 70 out of 100 on Metacritic, based on 7 critics, indicating \"generally favorable reviews\".</p>\n\n<h3>Accolades</h3>\n<ul><li>2018 Sundance Film Festival \u2013 World Cinema Documentary Grand Jury Prize, Sundance Institute Open Borders Fellowship Presented by Netflix \u2013 won</li>\n<li>14th ZagrebDox (2018) \u2013 \"Grand Seal\" \u2013 won</li>\n<li>1st AJB DOC Festival (2018) \u2013 first prize \u2013 won</li>\n<li>31st European Film Awards \u2013 Best Documentary \u2013 nomination</li>\n<li>34th Independent Spirit Awards \u2013 Best Documentary Feature \u2013 nomination</li>\n<li>91st Academy Awards \u2013 Best Documentary Feature \u2013 nomination</li>\n<li>69th German Film Award 2019 \u2013 Winner of the Award for Best Documentary Film (Ansgar Frerich, Eva Kemme, Tobias N. Siebert, Hans Robert Eisenhauer) and the Award for Best Editing (Anne Fabini).</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li>Official website</li>\n<li><i>Of Fathers and Sons</i> at Rotten Tomatoes</li>\n<li><i>Of Fathers and Sons</i> at IMDb</li>\n<li><i>Of Fathers and Sons</i> at Metacritic </li></ul><!-- \nNewPP limit report\nParsed by mw1400\nCached time: 20231203064422\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.462 seconds\nReal time usage: 0.579 seconds\nPreprocessor visited node count: 1862/1000000\nPost\u2010expand include size: 25507/2097152 bytes\nTemplate argument size: 5246/2097152 bytes\nHighest expansion depth: 32/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 18231/5000000 bytes\nLua time usage: 0.345/10.000 seconds\nLua memory usage: 22170714/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n--><!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  545.002      1 -total\n 70.81%  385.897      1 Template:Infobox_film\n 47.62%  259.519      9 Template:Main_other\n 44.87%  244.549      1 Template:Infobox_film/short_description\n 42.82%  233.353      2 Template:Infobox\n 41.30%  225.082      1 Template:Short_description\n 30.62%  166.868      2 Template:Country2nationality\n 29.28%  159.567      4 Template:ISO_3166_code\n 18.21%   99.251      1 Template:Infobox_name_module\n 14.19%   77.354      2 Template:Iso2nationality\n-->"
+}

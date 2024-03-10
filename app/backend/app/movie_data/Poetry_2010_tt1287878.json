@@ -1,0 +1,893 @@
+{
+    "adult": false,
+    "backdrop_path": "/m3xCLh3b3QH9QkZx67argsU5PTO.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://diaphana.fr/film/poetry",
+    "id": 47909,
+    "imdb_id": "tt1287878",
+    "original_language": "ko",
+    "original_title": "\uc2dc",
+    "overview": "A sexagenarian South Korean woman enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
+    "popularity": 11.191,
+    "poster_path": "/dcefUQ0AIgRvkh9DS76tvetzxc2.jpg",
+    "production_companies": [
+        {
+            "id": 6596,
+            "logo_path": null,
+            "name": "UniKorea Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 6925,
+            "logo_path": "/7dvA3vHHZgLRImFa3QTA91jIkQL.png",
+            "name": "Pinehouse Film",
+            "origin_country": "KR"
+        },
+        {
+            "id": 20064,
+            "logo_path": "/2In7Heq6DuXDjOwPmJqHWkpohaL.png",
+            "name": "Next Entertainment World",
+            "origin_country": "KR"
+        },
+        {
+            "id": 92517,
+            "logo_path": null,
+            "name": "Diaphana Edition Video",
+            "origin_country": ""
+        },
+        {
+            "id": 744,
+            "logo_path": "/uM3Vrs3TZJJJTyCAPy4zir9IQeC.png",
+            "name": "Diaphana Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 147160,
+            "logo_path": null,
+            "name": "KT Capital Corporation",
+            "origin_country": ""
+        },
+        {
+            "id": 11590,
+            "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+            "name": "Finecut",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2010-05-13",
+    "revenue": 349899,
+    "runtime": 139,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Poetry",
+    "video": false,
+    "vote_average": 7.592,
+    "vote_count": 277,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 225119,
+                "known_for_department": "Acting",
+                "name": "Yoon Jeong-hee",
+                "original_name": "Yoon Jeong-hee",
+                "popularity": 4.304,
+                "profile_path": "/q8ipBodovEXPriWoKmyO9UXgYfU.jpg",
+                "cast_id": 19,
+                "character": "Yang Mi-ja",
+                "credit_id": "5a9a07350e0a2605e401885f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 557133,
+                "known_for_department": "Acting",
+                "name": "Lee Da-wit",
+                "original_name": "Lee Da-wit",
+                "popularity": 6.647,
+                "profile_path": "/qWGDFlr47d2AJLtJsOEmfmaC21l.jpg",
+                "cast_id": 5,
+                "character": "Jong-wook",
+                "credit_id": "52fe474dc3a36847f812e20f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 557132,
+                "known_for_department": "Acting",
+                "name": "Kim Hee-ra",
+                "original_name": "Kim Hee-ra",
+                "popularity": 2.902,
+                "profile_path": "/e0zy4aCIOGnjpP5xWftq7gMEoJJ.jpg",
+                "cast_id": 4,
+                "character": "Elder Kang",
+                "credit_id": "52fe474dc3a36847f812e20b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96659,
+                "known_for_department": "Acting",
+                "name": "Ahn Nae-sang",
+                "original_name": "Ahn Nae-sang",
+                "popularity": 8.308,
+                "profile_path": "/xV3sxmoeWodwOIC8EE6GlUvJQzQ.jpg",
+                "cast_id": 18,
+                "character": "Ki-beom's Father",
+                "credit_id": "53e5459a0e0a2628c4000103",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1077559,
+                "known_for_department": "Acting",
+                "name": "Kim Yong-taek",
+                "original_name": "Kim Yong-taek",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Poet",
+                "credit_id": "52fe474dc3a36847f812e24d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 96663,
+                "known_for_department": "Acting",
+                "name": "Park Myung-shin",
+                "original_name": "Park Myung-shin",
+                "popularity": 5.125,
+                "profile_path": "/fypp9llizTbldlHiCJYLG9UBMaJ.jpg",
+                "cast_id": 15,
+                "character": "Hee-jin's Mother",
+                "credit_id": "52fe474dc3a36847f812e249",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2158882,
+                "known_for_department": "Acting",
+                "name": "Jang Hye-jin",
+                "original_name": "Jang Hye-jin",
+                "popularity": 7.629,
+                "profile_path": "/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg",
+                "cast_id": 26,
+                "character": "Mr. Kang's Second Daughter-in-Law",
+                "credit_id": "5cbd85a8c3a3681369864cd6",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2520786,
+                "known_for_department": "Acting",
+                "name": "Kim Nam-jin",
+                "original_name": "Kim Nam-jin",
+                "popularity": 0.699,
+                "profile_path": "/9Lsm901Nd5nyNQhGA7sOnHifFZ1.jpg",
+                "cast_id": 29,
+                "character": "Soo-ok",
+                "credit_id": "5e2d26bd532acb0019537358",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1171953,
+                "known_for_department": "Acting",
+                "name": "Kim Jong-goo",
+                "original_name": "Kim Jong-goo",
+                "popularity": 9.125,
+                "profile_path": "/t5CnFB7boQEoNofUmch5wcUn2w3.jpg",
+                "cast_id": 36,
+                "character": "Park Sang-tae",
+                "credit_id": "5ffb2134e19de9003e152992",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2821426,
+                "known_for_department": "Acting",
+                "name": "Kim Hye-jung",
+                "original_name": "Kim Hye-jung",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Jo Mi-hye",
+                "credit_id": "5ffb216c1c0435003fbd9702",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1107744,
+                "known_for_department": "Acting",
+                "name": "Min Bok-gi",
+                "original_name": "Min Bok-gi",
+                "popularity": 3.013,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Soon-jeong's Father",
+                "credit_id": "5ffb219c20af77003e18ef1c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1180459,
+                "known_for_department": "Acting",
+                "name": "Kim Ja-young",
+                "original_name": "Kim Ja-young",
+                "popularity": 2.213,
+                "profile_path": "/l0gAbzagSjrALtWN6fb8S5vR39q.jpg",
+                "cast_id": 39,
+                "character": "Bus Woman",
+                "credit_id": "5ffb21f8dd83fa00406fdb28",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3247167,
+                "known_for_department": "Acting",
+                "name": "Kim Gye-sun",
+                "original_name": "Kim Gye-sun",
+                "popularity": 0.872,
+                "profile_path": "/t8FFgclT121W5srWX2jYVxye7jF.jpg",
+                "cast_id": 41,
+                "character": "Supermarket Woman",
+                "credit_id": "614f31ebaf95900026fbd30e",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2124002,
+                "known_for_department": "Acting",
+                "name": "Eun-yeong Kim",
+                "original_name": "Eun-yeong Kim",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Bus Woman",
+                "credit_id": "6287b395e004a60066106438",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3577815,
+                "known_for_department": "Acting",
+                "name": "Choi Moon-soon",
+                "original_name": "Choi Moon-soon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Head Teacher",
+                "credit_id": "629d5b79e4c9eb0051f4493f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3101469,
+                "known_for_department": "Acting",
+                "name": "Park Hyun-woo",
+                "original_name": "Park Hyun-woo",
+                "popularity": 1.593,
+                "profile_path": "/l2TGKIAynMXYFtkNhMpDlAPLI81.jpg",
+                "cast_id": 44,
+                "character": "Wook's Friend",
+                "credit_id": "629d5cc85507e93227a3e7b8",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10110,
+                "known_for_department": "Sound",
+                "name": "Lee Seung-chul",
+                "original_name": "Lee Seung-chul",
+                "popularity": 2.353,
+                "profile_path": null,
+                "credit_id": "5ffb200ba3b5e6003e36a3fc",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17134,
+                "known_for_department": "Editing",
+                "name": "Kim Hyun",
+                "original_name": "Kim Hyun",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe474dc3a36847f812e233",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20734,
+                "known_for_department": "Art",
+                "name": "Shin Jeom-hee",
+                "original_name": "Shin Jeom-hee",
+                "popularity": 0.6,
+                "profile_path": "/pJmtI26v62YgA7ktIRDcEiqiCPr.jpg",
+                "credit_id": "5acd195b925141434402fb91",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55808,
+                "known_for_department": "Production",
+                "name": "Michel Saint-Jean",
+                "original_name": "Michel Saint-Jean",
+                "popularity": 1.132,
+                "profile_path": null,
+                "credit_id": "5ffb1f9a0fb17f003c3eb84c",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96657,
+                "known_for_department": "Directing",
+                "name": "Lee Chang-dong",
+                "original_name": "Lee Chang-dong",
+                "popularity": 3.157,
+                "profile_path": "/shmg8UqN0hxGR84ZQuSwczkkhZE.jpg",
+                "credit_id": "52fe474dc3a36847f812e1ff",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96657,
+                "known_for_department": "Directing",
+                "name": "Lee Chang-dong",
+                "original_name": "Lee Chang-dong",
+                "popularity": 3.157,
+                "profile_path": "/shmg8UqN0hxGR84ZQuSwczkkhZE.jpg",
+                "credit_id": "52fe474dc3a36847f812e215",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1077553,
+                "known_for_department": "Production",
+                "name": "Choi Seong-min",
+                "original_name": "Choi Seong-min",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe474dc3a36847f812e21b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1077554,
+                "known_for_department": "Production",
+                "name": "Youm Tae-soon",
+                "original_name": "Youm Tae-soon",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe474dc3a36847f812e227",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1077555,
+                "known_for_department": "Camera",
+                "name": "Kim Hyun-seok",
+                "original_name": "Kim Hyun-seok",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5acd1b070e0a26320a031846",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1077557,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Yi Choong-yun",
+                "original_name": "Yi Choong-yun",
+                "popularity": 1.173,
+                "profile_path": null,
+                "credit_id": "52fe474dc3a36847f812e23f",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1077558,
+                "known_for_department": "Production",
+                "name": "Lee Dong-ha",
+                "original_name": "Lee Dong-ha",
+                "popularity": 2.293,
+                "profile_path": "/2ifFOtb8Rc1m1XfSIx5u8VguaJX.jpg",
+                "credit_id": "5acd1d450e0a267f97016321",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1080194,
+                "known_for_department": "Directing",
+                "name": "Park Jung-bum",
+                "original_name": "Park Jung-bum",
+                "popularity": 1.435,
+                "profile_path": "/7lRzpSdmRidXwZDPqBzjt4uf4aa.jpg",
+                "credit_id": "5e132303d64ac2001665df02",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1292979,
+                "known_for_department": "Production",
+                "name": "Lee Joon-dong",
+                "original_name": "Lee Joon-dong",
+                "popularity": 0.652,
+                "profile_path": "/eZWTc56fYSdtAAwX5EZNLvNL6Do.jpg",
+                "credit_id": "5acd1c109251410c48012f80",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1294102,
+                "known_for_department": "Sound",
+                "name": "Han Myung-hwan",
+                "original_name": "Han Myung-hwan",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5c2f16cbc3a3682919a69791",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2167013,
+                "known_for_department": "Editing",
+                "name": "Lee Yong-gi",
+                "original_name": "Lee Yong-gi",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5ffb20430fb17f003d3e7a38",
+                "department": "Editing",
+                "job": "Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2201526,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Hwang Hyun-gyu",
+                "original_name": "Hwang Hyun-gyu",
+                "popularity": 1.484,
+                "profile_path": null,
+                "credit_id": "5cd68db69251417c3fce03f5",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2242271,
+                "known_for_department": "Editing",
+                "name": "Kim Hyung-seok",
+                "original_name": "Kim Hyung-seok",
+                "popularity": 2.142,
+                "profile_path": null,
+                "credit_id": "631f3c49bd3209007ad140d1",
+                "department": "Editing",
+                "job": "Digital Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2499541,
+                "known_for_department": "Editing",
+                "name": "Lee Hye-min",
+                "original_name": "Lee Hye-min",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64fd990c2dffd8013bcc6beb",
+                "department": "Editing",
+                "job": "Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2930715,
+                "known_for_department": "Production",
+                "name": "Jung Myung-soo",
+                "original_name": "Jung Myung-soo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ffb1f4efab3fa003d4ce96b",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2930717,
+                "known_for_department": "Production",
+                "name": "Lee Seung-ho",
+                "original_name": "Lee Seung-ho",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ffb1f870fb17f003c3eb81d",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2930720,
+                "known_for_department": "Lighting",
+                "name": "Kim Bada",
+                "original_name": "Kim Bada",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5ffb2034a3b5e60041366b99",
+                "department": "Lighting",
+                "job": "Lighting Technician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3520975,
+                "known_for_department": "Visual Effects",
+                "name": "Kim Gwang-su",
+                "original_name": "Kim Gwang-su",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643e718443250f04ca5121a3",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4248634,
+                "known_for_department": "Directing",
+                "name": "Lee Mi-rang",
+                "original_name": "Lee Mi-rang",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64f2bcef5f2b8d0139cdd32b",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Poetry (2010) ORIGINAL TRAILER [HD 1080p]",
+                "key": "3WKH-HnYjGA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2018-11-23T21:53:17.000Z",
+                "id": "62e8739a1c09fb0060015f9f"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/m3xCLh3b3QH9QkZx67argsU5PTO.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.78,
+                "height": 920,
+                "iso_639_1": null,
+                "file_path": "/vud2jVDTLWLuaL0UXH4NQjPU3DO.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1638
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1637,
+                "iso_639_1": null,
+                "file_path": "/zrb9N8be4crIi68IlTdmRBMhXDw.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 2911
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1687,
+                "iso_639_1": null,
+                "file_path": "/jwRf6sUBnPwoFzmThzwPyvAymH7.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2999
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1687,
+                "iso_639_1": null,
+                "file_path": "/l4nAgxNB5LIYP2U3WUIXBy4rm73.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2999
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1687,
+                "iso_639_1": null,
+                "file_path": "/4sSxwH0ydQ0GOGUtL93O3r1EFNh.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2999
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1637,
+                "iso_639_1": null,
+                "file_path": "/gFLp0As6Sdkbp09y7lSiYSLa2VU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 2911
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/t39eiLTv904gXM6hWsbvUrFeabF.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1637,
+                "iso_639_1": null,
+                "file_path": "/5VXnfyLlpMnC5Ba8yfcHqs03eRi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2911
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1687,
+                "iso_639_1": null,
+                "file_path": "/w7qbWe3XElTxupbIWojX2iPrN4A.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2999
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1637,
+                "iso_639_1": null,
+                "file_path": "/qniitwptr5ofyrTLEykABvIyEzE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2911
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2520,
+                "iso_639_1": "en",
+                "file_path": "/dcefUQ0AIgRvkh9DS76tvetzxc2.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1680
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/n7XlC9McqIFbawFZNk1THH9VEsv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/5eEblZp1OsFSZVTBNG3yFhkQHlw.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1890
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/5RS3zovYbHdpZqLqyEOr24qWKwf.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1227,
+                "iso_639_1": "en",
+                "file_path": "/uv833DysXPOiovhqirX0RUU3n5q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 870
+            },
+            {
+                "aspect_ratio": 0.697,
+                "height": 900,
+                "iso_639_1": "ko",
+                "file_path": "/zk4y1tChshFUPPUuoGgZYrxtk8e.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 627
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "sv",
+                "file_path": "/ckJhDtRiejSnp6cg1tmfbVC2usq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/4MOB5yks4Pu8GIb5YfywxYXHLCR.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1437
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 496,
+                "name": "poetry"
+            },
+            {
+                "id": 986,
+                "name": "tv addicted person"
+            },
+            {
+                "id": 3450,
+                "name": "bridge"
+            },
+            {
+                "id": 5903,
+                "name": "alzheimer's disease"
+            },
+            {
+                "id": 10241,
+                "name": "caretaker"
+            },
+            {
+                "id": 15241,
+                "name": "teenage rape"
+            },
+            {
+                "id": 15242,
+                "name": "poetry teacher"
+            },
+            {
+                "id": 172972,
+                "name": "old woman"
+            },
+            {
+                "id": 206334,
+                "name": "badminton"
+            },
+            {
+                "id": 267659,
+                "name": "grandmother grandson relationship"
+            }
+        ]
+    },
+    "title_english": "Poetry",
+    "year": "2010",
+    "rated": "TV-PG",
+    "director_list": [
+        "Lee Chang-dong"
+    ],
+    "writer_list": [
+        "Lee Chang-dong"
+    ],
+    "main_cast": [
+        "Yun Jeong-hie",
+        " Lee Da-wit",
+        " Kim Hee-ra"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "87/100"
+        }
+    ],
+    "imdb_rating": "7.8",
+    "imdb_votes": "13,179",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poetry",
+    "wikipedia_summary": "Poetry (a term derived from the Greek word poiesis, \"making\"), also called verse, is a form of literature that uses aesthetic and often rhythmic qualities of language \u2212 such as phonaesthetics, sound symbolism, and metre \u2212 to evoke meanings in addition to, or in place of, a prosaic ostensible meaning. A poem is a literary composition, written by a poet, using this principle.\nPoetry has a long and varied history, evolving differentially across the globe. It dates back at least to prehistoric times with hunting poetry in Africa and to panegyric and elegiac court poetry of the empires of the Nile, Niger, and Volta River valleys. Some of the earliest written poetry in Africa occurs among the Pyramid Texts written during the 25th century BCE. The earliest surviving Western Asian epic poem, the Epic of Gilgamesh, was written in the Sumerian language.\nEarly poems in the Eurasian continent evolved from folk songs such as the Chinese Shijing as well as from religious hymns (the Sanskrit Rigveda, the Zoroastrian Gathas, the Hurrian songs, and the Hebrew Psalms); or from a need to retell oral epics, as with the Egyptian Story of Sinuhe, Indian epic poetry, and the Homeric epics, the Iliad and the Odyssey. \nAncient Greek attempts to define poetry, such as Aristotle's Poetics, focused on the uses of speech in rhetoric, drama, song, and comedy. Later attempts concentrated on features such as repetition, verse form, and rhyme, and emphasized the aesthetics which distinguish poetry from more objectively-informative prosaic writing.\nPoetry uses forms and conventions to suggest differential interpretations of words, or to evoke emotive responses. Devices such as assonance, alliteration, onomatopoeia, and rhythm may convey musical or incantatory effects. The use of ambiguity, symbolism, irony, and other stylistic elements of poetic diction often leaves a poem open to multiple interpretations. Similarly, figures of speech such as metaphor, simile, and metonymy establish a resonance between otherwise disparate images\u2014a layering of meanings, forming connections previously not perceived. Kindred forms of resonance may exist, between individual verses, in their patterns of rhyme or rhythm.\nSome poetry types are unique to particular cultures and genres and respond to characteristics of the language in which the poet writes. Readers accustomed to identifying poetry with Dante, Goethe, Mickiewicz, or Rumi may think of it as written in lines based on rhyme and regular meter. There are, however, traditions, such as Biblical poetry, that use other means to create rhythm and euphony. Much modern poetry reflects a critique of poetic tradition, testing the principle of euphony itself or altogether forgoing rhyme or set rhythm.Poets \u2013 as, from the Greek, \"makers\" of language \u2013 have contributed to the evolution of the linguistic, expressive, and utilitarian qualities of their languages. In an increasingly globalized world, poets often adapt forms, styles, and techniques from diverse cultures and languages. \nA Western cultural tradition (extending at least from Homer to Rilke) associates the production of poetry with inspiration \u2013 often by a Muse (either classical or contemporary), or through other (often canonised) poets' work which sets some kind of example or challenge. \n In first-person poems, the lyrics are spoken by an \"I\", a character who may be termed the speaker, distinct from the poet (the author). Thus if, for example, a poem asserts, \"I killed my enemy in Reno\", it is the speaker, not the poet, who is the killer (unless this \"confession\" is a form of metaphor which needs to be considered in closer context \u2013 via close reading).",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p class=\"mw-empty-elt\">\n\n</p>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1045330069\"><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1045330069\"><p><b>Poetry</b> (a term derived from the Greek word <i>poiesis</i>, \"making\"), also called <b>verse</b>, is a form of literature that uses aesthetic and often rhythmic qualities of language \u2212 such as phonaesthetics, sound symbolism, and metre \u2212 to evoke meanings in addition to, or in place of, a prosaic ostensible meaning. A <b>poem</b> is a literary composition, written by a poet, using this principle.\n</p><p>Poetry has a long and varied history, evolving differentially across the globe. It dates back at least to prehistoric times with hunting poetry in Africa and to panegyric and elegiac court poetry of the empires of the Nile, Niger, and Volta River valleys. Some of the earliest written poetry in Africa occurs among the Pyramid Texts written during the 25th century BCE. The earliest surviving Western Asian epic poem, the <i>Epic of Gilgamesh</i>, was written in the Sumerian language.\n</p><p>Early poems in the Eurasian continent evolved from folk songs such as the Chinese <i>Shijing</i> as well as from religious hymns (the Sanskrit <i>Rigveda</i>, the Zoroastrian <i>Gathas</i>, the <i>Hurrian songs</i>, and the Hebrew <i>Psalms</i>); or from a need to retell oral epics, as with the Egyptian <i>Story of Sinuhe</i>, Indian epic poetry, and the Homeric epics, the <i>Iliad</i> and the <i>Odyssey</i>. \n</p><p>Ancient Greek attempts to define poetry, such as Aristotle's <i>Poetics</i>, focused on the uses of speech in rhetoric, drama, song, and comedy. Later attempts concentrated on features such as repetition, verse form, and rhyme, and emphasized the aesthetics which distinguish poetry from more objectively-informative prosaic writing.\n</p><p>Poetry uses forms and conventions to suggest differential interpretations of words, or to evoke emotive responses. Devices such as assonance, alliteration, onomatopoeia, and rhythm may convey musical or incantatory effects. The use of ambiguity, symbolism, irony, and other stylistic elements of poetic diction often leaves a poem open to multiple interpretations. Similarly, figures of speech such as metaphor, simile, and metonymy establish a resonance between otherwise disparate images\u2014a layering of meanings, forming connections previously not perceived. Kindred forms of resonance may exist, between individual verses, in their patterns of rhyme or rhythm.\n</p><p>Some poetry types are unique to particular cultures and genres and respond to characteristics of the language in which the poet writes. Readers accustomed to identifying poetry with Dante, Goethe, Mickiewicz, or Rumi may think of it as written in lines based on rhyme and regular meter. There are, however, traditions, such as Biblical poetry, that use other means to create rhythm and euphony. Much modern poetry reflects a critique of poetic tradition, testing the principle of euphony itself or altogether forgoing rhyme or set rhythm.</p><p>Poets \u2013 as, from the Greek, \"makers\" of language \u2013 have contributed to the evolution of the linguistic, expressive, and utilitarian qualities of their languages. In an increasingly globalized world, poets often adapt forms, styles, and techniques from diverse cultures and languages. \n</p><p>A Western cultural tradition (extending at least from Homer to Rilke) associates the production of poetry with inspiration \u2013 often by a Muse (either classical or contemporary), or through other (often canonised) poets' work which sets some kind of example or challenge. \n</p><p><span id=\"Speaker\"></span> In first-person poems, the lyrics are spoken by an \"I\", a character who may be termed the <i>speaker</i>, distinct from the poet (the <i>author</i>). Thus if, for example, a poem asserts, \"I killed my enemy in Reno\", it is the speaker, not the poet, who is the killer (unless this \"confession\" is a form of metaphor which needs to be considered in closer context \u2013 via close reading).\n</p>\n\n<h2>History</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n\n<h3>Early works</h3>\n<p>Some scholars believe that the art of poetry may predate literacy, and developed from folk epics and other oral genres.\nOthers, however, suggest that poetry did not necessarily predate writing.</p><p>The oldest surviving epic poem, the <i>Epic of Gilgamesh</i>, dates from the 3rd millennium<span>\u00a0</span>BCE in Sumer (in Mesopotamia, present-day Iraq), and was written in cuneiform script on clay tablets and, later, on papyrus. The Istanbul tablet#2461, dating to <abbr title=\"circa\">c.</abbr><span>\u00a0</span>2000<span>\u00a0</span>BCE, describes an annual rite in which the king symbolically married and mated with the goddess Inanna to ensure fertility and prosperity; some have labelled it the world's oldest love poem. An example of Egyptian epic poetry is <i>The Story of Sinuhe</i> (c. 1800 BCE).</p><p>Other ancient epics includes the Greek <i>Iliad</i> and the <i>Odyssey</i>; the Persian Avestan books (the <i>Yasna</i>); the Roman national epic, Virgil's <i>Aeneid</i> (written between 29 and 19 BCE); and the Indian epics, the <i>Ramayana</i> and the <i>Mahabharata</i>. Epic poetry appears to have been composed in poetic form as an aid to memorization and oral transmission in ancient societies.</p><p>Other forms of poetry, including such ancient collections of religious hymns as the Indian Sanskrit-language <i>Rigveda</i>, the Avestan <i>Gathas</i>, the <i>Hurrian songs</i>, and the Hebrew <i>Psalms</i>, possibly developed directly from folk songs. The earliest entries in the oldest extant collection of Chinese poetry, the <i>Classic of Poetry</i> (<i>Shijing</i>), were initially lyrics. The Shijing, with its collection of poems and folk songs, was heavily valued by the philosopher Confucius and is considered to be one of the official Confucian classics. His remarks on the subject have become an invaluable source in ancient music theory.</p><p>The efforts of ancient thinkers to determine what makes poetry distinctive as a form, and what distinguishes good poetry from bad, resulted in \"poetics\"\u2014the study of the aesthetics of poetry. Some ancient societies, such as China's through the <i>Shijing</i>, developed canons of poetic works that had ritual as well as aesthetic importance. More recently, thinkers have struggled to find a definition that could encompass formal differences as great as those between Chaucer's <i>Canterbury Tales</i> and Matsuo Bash\u014d's <i>Oku no Hosomichi</i>, as well as differences in content spanning Tanakh religious poetry, love poetry, and rap.</p><p>Until recently, the earliest examples of stressed poetry had been thought to be works composed by Romanos the Melodist (<i>fl.</i> 6th century CE). However, Tim Whitmarsh writes that an inscribed Greek poem predated Romanos' stressed poetry.\n</p>\n<ul class=\"gallery mw-gallery-packed\"><li class=\"gallerybox\" style=\"width: 158.66666666667px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 153.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 130px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n</ul>\n\n<h3>Western traditions</h3>\n<p>Classical thinkers in the West employed classification as a way to define and assess the quality of poetry. Notably, the existing fragments of Aristotle's <i>Poetics</i> describe three genres of poetry\u2014the epic, the comic, and the tragic\u2014and develop rules to distinguish the highest-quality poetry in each genre, based on the perceived underlying purposes of the genre. Later aestheticians identified three major genres: epic poetry, lyric poetry, and dramatic poetry, treating comedy and tragedy as subgenres of dramatic poetry.</p>\n<p>Aristotle's work was influential throughout the Middle East during the Islamic Golden Age, as well as in Europe during the Renaissance. Later poets and aestheticians often distinguished poetry from, and defined it in opposition to prose, which they generally understood as writing with a proclivity to logical explication and a linear narrative structure.</p><p>This does not imply that poetry is illogical or lacks narration, but rather that poetry is an attempt to render the beautiful or sublime without the burden of engaging the logical or narrative thought-process. English Romantic poet John Keats termed this escape from logic \"negative capability\". This \"romantic\" approach views form as a key element of successful poetry because form is abstract and distinct from the underlying notional logic. This approach remained influential into the 20th century.</p><p>During the 18th and 19th centuries, there was also substantially more interaction among the various poetic traditions, in part due to the spread of European colonialism and the attendant rise in global trade. In addition to a boom in translation, during the Romantic period numerous ancient works were rediscovered.</p>\n\n<h3>20th-century and 21st-century disputes</h3>\n<p>Some 20th-century literary theorists rely less on the ostensible opposition of prose and poetry, instead focusing on the poet as simply one who creates using language, and poetry as what the poet creates. The underlying concept of the poet as creator is not uncommon, and some modernist poets essentially do not distinguish between the creation of a poem with words, and creative acts in other media. Other modernists challenge the very attempt to define poetry as misguided.</p><p>The rejection of traditional forms and structures for poetry that began in the first half of the 20th century coincided with a questioning of the purpose and meaning of traditional definitions of poetry and of distinctions between poetry and prose, particularly given examples of poetic prose and prosaic poetry. Numerous modernist poets have written in non-traditional forms or in what traditionally would have been considered prose, although their writing was generally infused with poetic diction and often with rhythm and tone established by non-metrical means. While there was a substantial formalist reaction within the modernist schools to the breakdown of structure, this reaction focused as much on the development of new formal structures and syntheses as on the revival of older forms and structures.</p><p>Postmodernism goes beyond modernism's emphasis on the creative role of the poet, to emphasize the role of the reader of a text (hermeneutics), and to highlight the complex cultural web within which a poem is read. Today, throughout the world, poetry often incorporates poetic form and diction from other cultures and from the past, further confounding attempts at definition and classification that once made sense within a tradition such as the Western canon.</p><p>The early 21st-century poetic tradition appears to continue to strongly orient itself to earlier precursor poetic traditions such as those initiated by Whitman, Emerson, and Wordsworth. The literary critic Geoffrey Hartman (1929\u20132016) used the phrase \"the anxiety of demand\" to describe the contemporary response to older poetic traditions as \"being fearful that the fact no longer has a form\", building on a trope introduced by Emerson. Emerson had maintained that in the debate concerning poetic structure where either \"form\" or \"fact\" could predominate, that one need simply \"Ask the fact for the form.\" This has been challenged at various levels by other literary scholars such as Harold Bloom (1930\u20132019), who has stated: \"The generation of poets who stand together now, mature and ready to write the major American verse of the twenty-first century, may yet be seen as what Stevens called 'a great shadow's last embellishment,' the shadow being Emerson's.\"</p>\n\n<h2>Elements</h2>\n<h3>Prosody</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Prosody is the study of the meter, rhythm, and intonation of a poem. Rhythm and meter are different, although closely related. Meter is the definitive pattern established for a verse (such as iambic pentameter), while rhythm is the actual sound that results from a line of poetry. Prosody also may be used more specifically to refer to the scanning of poetic lines to show meter.</p>\n\n<h4>Rhythm</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The methods for creating poetic rhythm vary across languages and between poetic traditions. Languages are often described as having timing set primarily by accents, syllables, or moras, depending on how rhythm is established, although a language can be influenced by multiple approaches. Japanese is a mora-timed language. Latin, Catalan, French, Leonese, Galician and Spanish are called syllable-timed languages. Stress-timed languages include English, Russian and, generally, German. Varying intonation also affects how rhythm is perceived. Languages can rely on either pitch or tone. Some languages with a pitch accent are Vedic Sanskrit or Ancient Greek. Tonal languages include Chinese, Vietnamese and most Subsaharan languages.</p><p>Metrical rhythm generally involves precise arrangements of stresses or syllables into repeated patterns called feet within a line. In Modern English verse the pattern of stresses primarily differentiate feet, so rhythm based on meter in Modern English is most often founded on the pattern of stressed and unstressed syllables (alone or elided). In the classical languages, on the other hand, while the metrical units are similar, vowel length rather than stresses define the meter. Old English poetry used a metrical pattern involving varied numbers of syllables but a fixed number of strong stresses in each line.</p>\n<p>The chief device of ancient Hebrew Biblical poetry, including many of the psalms, was <i>parallelism</i>, a rhetorical structure in which successive lines reflected each other in grammatical structure, sound structure, notional content, or all three. Parallelism lent itself to antiphonal or call-and-response performance, which could also be reinforced by intonation. Thus, Biblical poetry relies much less on metrical feet to create rhythm, but instead creates rhythm based on much larger sound units of lines, phrases and sentences. Some classical poetry forms, such as Venpa of the Tamil language, had rigid grammars (to the point that they could be expressed as a context-free grammar) which ensured a rhythm.</p><p>Classical Chinese poetics, based on the tone system of Middle Chinese, recognized two kinds of tones: the level (\u5e73 <i>p\u00edng</i>) tone and the oblique (\u4ec4 <i>z\u00e8</i>) tones, a category consisting of the rising (\u4e0a <i>sh\u00e1ng</i>) tone, the departing (\u53bb <i>q\u00f9</i>) tone and the entering (\u5165 <i>r\u00f9</i>) tone. Certain forms of poetry placed constraints on which syllables were required to be level and which oblique.\n</p><p>The formal patterns of meter used in Modern English verse to create rhythm no longer dominate contemporary English poetry. In the case of free verse, rhythm is often organized based on looser units of cadence rather than a regular meter. Robinson Jeffers, Marianne Moore, and William Carlos Williams are three notable poets who reject the idea that regular accentual meter is critical to English poetry. Jeffers experimented with sprung rhythm as an alternative to accentual rhythm.</p>\n\n<h4>Meter</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In the Western poetic tradition, meters are customarily grouped according to a characteristic metrical foot and the number of feet per line. The number of metrical feet in a line are described using Greek terminology: tetrameter for four feet and hexameter for six feet, for example. Thus, \"iambic pentameter\" is a meter comprising five feet per line, in which the predominant kind of foot is the \"iamb\". This metric system originated in ancient Greek poetry, and was used by poets such as Pindar and Sappho, and by the great tragedians of Athens. Similarly, \"dactylic hexameter\", comprises six feet per line, of which the dominant kind of foot is the \"dactyl\". Dactylic hexameter was the traditional meter of Greek epic poetry, the earliest extant examples of which are the works of Homer and Hesiod. Iambic pentameter and dactylic hexameter were later used by a number of poets, including William Shakespeare and Henry Wadsworth Longfellow, respectively. The most common metrical feet in English are:</p>\n<ul><li>iamb \u2013 one unstressed syllable followed by a stressed syllable (e.g. des-<b>cribe</b>, in-<b>clude</b>, re-<b>tract</b>)</li>\n<li>trochee\u2014one stressed syllable followed by an unstressed syllable (e.g. <b>pic</b>-ture, <b>flow</b>-er)</li>\n<li>dactyl \u2013 one stressed syllable followed by two unstressed syllables (e.g. <b>an</b>-no-tate, <b>sim</b>-i-lar)</li>\n<li>anapaest\u2014two unstressed syllables followed by one stressed syllable (e.g. com-pre-<b>hend</b>)</li>\n<li>spondee\u2014two stressed syllables together (e.g. <b>heart</b>-<b>beat</b>, <b>four</b>-<b>teen</b>)</li>\n<li>pyrrhic\u2014two unstressed syllables together (rare, usually used to end dactylic hexameter)</li></ul><p>There are a wide range of names for other types of feet, right up to a choriamb, a four syllable metric foot with a stressed syllable followed by two unstressed syllables and closing with a stressed syllable. The choriamb is derived from some ancient Greek and Latin poetry. Languages which use vowel length or intonation rather than or in addition to syllabic accents in determining meter, such as Ottoman Turkish or Vedic, often have concepts similar to the iamb and dactyl to describe common combinations of long and short sounds.</p><p>Each of these types of feet has a certain \"feel,\" whether alone or in combination with other feet. The iamb, for example, is the most natural form of rhythm in the English language, and generally produces a subtle but stable verse. Scanning meter can often show the basic or fundamental pattern underlying a verse, but does not show the varying degrees of stress, as well as the differing pitches and lengths of syllables.</p><p>There is debate over how useful a multiplicity of different \"feet\" is in describing meter. For example, Robert Pinsky has argued that while dactyls are important in classical verse, English dactylic verse uses dactyls very irregularly and can be better described based on patterns of iambs and anapests, feet which he considers natural to the language. Actual rhythm is significantly more complex than the basic scanned meter described above, and many scholars have sought to develop systems that would scan such complexity. Vladimir Nabokov noted that overlaid on top of the regular pattern of stressed and unstressed syllables in a line of verse was a separate pattern of accents resulting from the natural pitch of the spoken words, and suggested that the term \"scud\" be used to distinguish an unaccented stress from an accented stress.</p>\n\n<h4>Metrical patterns</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Different traditions and genres of poetry tend to use different meters, ranging from the Shakespearean iambic pentameter and the Homeric dactylic hexameter to the anapestic tetrameter used in many nursery rhymes. However, a number of variations to the established meter are common, both to provide emphasis or attention to a given foot or line and to avoid boring repetition. For example, the stress in a foot may be inverted, a caesura (or pause) may be added (sometimes in place of a foot or stress), or the final foot in a line may be given a feminine ending to soften it or be replaced by a spondee to emphasize it and create a hard stop. Some patterns (such as iambic pentameter) tend to be fairly regular, while other patterns, such as dactylic hexameter, tend to be highly irregular. Regularity can vary between language. In addition, different patterns often develop distinctively in different languages, so that, for example, iambic tetrameter in Russian will generally reflect a regularity in the use of accents to reinforce the meter, which does not occur, or occurs to a much lesser extent, in English.</p>\n<p>Some common metrical patterns, with notable examples of poets and poems who use them, include:\n</p>\n<ul><li>Iambic pentameter (John Milton, <i>Paradise Lost</i>; William Shakespeare, <i>Sonnets</i>)</li>\n<li>Dactylic hexameter (Homer, <i>Iliad</i>; Virgil, <i>Aeneid</i>)</li>\n<li>Iambic tetrameter (Andrew Marvell, \"To His Coy Mistress\"; Alexander Pushkin, <i>Eugene Onegin</i>; Robert Frost, <i>Stopping by Woods on a Snowy Evening</i>)</li>\n<li>Trochaic octameter (Edgar Allan Poe, \"The Raven\")</li>\n<li>Trochaic tetrameter (Henry Wadsworth Longfellow, <i>The Song of Hiawatha</i>; the Finnish national epic, <i>The Kalevala</i>, is also in trochaic tetrameter, the natural rhythm of Finnish and Estonian)</li>\n<li><span title=\"French-language text\"><i lang=\"fr\">Alexandrin</i></span> (Jean Racine, <i>Ph\u00e8dre</i>)</li></ul>\n\n<h3>Rhyme, alliteration, assonance</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Rhyme, alliteration, assonance and consonance are ways of creating repetitive patterns of sound. They may be used as an independent structural element in a poem, to reinforce rhythmic patterns, or as an ornamental element. They can also carry a meaning separate from the repetitive sound patterns created. For example, Chaucer used heavy alliteration to mock Old English verse and to paint a character as archaic.</p><p>Rhyme consists of identical (\"hard-rhyme\") or similar (\"soft-rhyme\") sounds placed at the ends of lines or at locations within lines (\"internal rhyme\"). Languages vary in the richness of their rhyming structures; Italian, for example, has a rich rhyming structure permitting maintenance of a limited set of rhymes throughout a lengthy poem. The richness results from word endings that follow regular forms. English, with its irregular word endings adopted from other languages, is less rich in rhyme. The degree of richness of a language's rhyming structures plays a substantial role in determining what poetic forms are commonly used in that language.</p><p>Alliteration is the repetition of letters or letter-sounds at the beginning of two or more words immediately succeeding each other, or at short intervals; or the recurrence of the same letter in accented parts of words. Alliteration and assonance played a key role in structuring early Germanic, Norse and Old English forms of poetry. The alliterative patterns of early Germanic poetry interweave meter and alliteration as a key part of their structure, so that the metrical pattern determines when the listener expects instances of alliteration to occur. This can be compared to an ornamental use of alliteration in most Modern European poetry, where alliterative patterns are not formal or carried through full stanzas. Alliteration is particularly useful in languages with less rich rhyming structures.\n</p><p>Assonance, where the use of similar vowel sounds within a word rather than similar sounds at the beginning or end of a word, was widely used in skaldic poetry but goes back to the Homeric epic. Because verbs carry much of the pitch in the English language, assonance can loosely evoke the tonal elements of Chinese poetry and so is useful in translating Chinese poetry. Consonance occurs where a consonant sound is repeated throughout a sentence without putting the sound only at the front of a word. Consonance provokes a more subtle effect than alliteration and so is less useful as a structural element.</p>\n\n<h4>Rhyming schemes</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In many languages, including Arabic and modern European languages, poets use rhyme in set patterns as a structural element for specific poetic forms, such as ballads, sonnets and rhyming couplets. However, the use of structural rhyme is not universal even within the European tradition. Much modern poetry avoids traditional rhyme schemes. Classical Greek and Latin poetry did not use rhyme. Rhyme entered European poetry in the High Middle Ages, due to the influence of the Arabic language in Al Andalus. Arabic language poets used rhyme extensively not only with the development of literary Arabic in the sixth century, but also with the much older oral poetry, as in their long, rhyming qasidas. Some rhyming schemes have become associated with a specific language, culture or period, while other rhyming schemes have achieved use across languages, cultures or time periods. Some forms of poetry carry a consistent and well-defined rhyming scheme, such as the chant royal or the rubaiyat, while other poetic forms have variable rhyme schemes.</p><p>Most rhyme schemes are described using letters that correspond to sets of rhymes, so if the first, second and fourth lines of a quatrain rhyme with each other and the third line do not rhyme, the quatrain is said to have an AA BA rhyme scheme. This rhyme scheme is the one used, for example, in the rubaiyat form. Similarly, an A BB A quatrain (what is known as \"enclosed rhyme\") is used in such forms as the Petrarchan sonnet. Some types of more complicated rhyming schemes have developed names of their own, separate from the \"a-bc\" convention, such as the ottava rima and terza rima. The types and use of differing rhyming schemes are discussed further in the main article.\n</p>\n\n<h3>Form in poetry</h3>\n<p>Poetic form is more flexible in modernist and post-modernist poetry and continues to be less structured than in previous literary eras. Many modern poets eschew recognizable structures or forms and write in free verse. Free verse is, however, not \"formless\" but composed of a series of more subtle, more flexible prosodic elements. Thus poetry remains, in all its styles, distinguished from prose by form; some regard for basic formal structures of poetry will be found in all varieties of free verse, however much such structures may appear to have been ignored. Similarly, in the best poetry written in classic styles there will be departures from strict form for emphasis or effect.</p><p>Among major structural elements used in poetry are the line, the stanza or verse paragraph, and larger combinations of stanzas or lines such as cantos. Also sometimes used are broader visual presentations of words and calligraphy. These basic units of poetic form are often combined into larger structures, called <i>poetic forms</i> or poetic modes (see the following section), as in the sonnet.\n</p>\n\n<h4>Lines and stanzas</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Poetry is often separated into lines on a page, in a process known as lineation. These lines may be based on the number of metrical feet or may emphasize a rhyming pattern at the ends of lines. Lines may serve other functions, particularly where the poem is not written in a formal metrical pattern. Lines can separate, compare or contrast thoughts expressed in different units, or can highlight a change in tone. See the article on line breaks for information about the division between lines.\n</p><p>Lines of poems are often organized into stanzas, which are denominated by the number of lines included. Thus a collection of two lines is a couplet (or distich), three lines a triplet (or tercet), four lines a quatrain, and so on. These lines may or may not relate to each other by rhyme or rhythm. For example, a couplet may be two lines with identical meters which rhyme or two lines held together by a common meter alone.</p>\n<p>Other poems may be organized into verse paragraphs, in which regular rhymes with established rhythms are not used, but the poetic tone is instead established by a collection of rhythms, alliterations, and rhymes established in paragraph form. Many medieval poems were written in verse paragraphs, even where regular rhymes and rhythms were used.</p><p>In many forms of poetry, stanzas are interlocking, so that the rhyming scheme or other structural elements of one stanza determine those of succeeding stanzas. Examples of such interlocking stanzas include, for example, the ghazal and the villanelle, where a refrain (or, in the case of the villanelle, refrains) is established in the first stanza which then repeats in subsequent stanzas. Related to the use of interlocking stanzas is their use to separate thematic parts of a poem. For example, the strophe, antistrophe and epode of the ode form are often separated into one or more stanzas.</p><p>In some cases, particularly lengthier formal poetry such as some forms of epic poetry, stanzas themselves are constructed according to strict rules and then combined. In skaldic poetry, the dr\u00f3ttkv\u00e6tt stanza had eight lines, each having three \"lifts\" produced with alliteration or assonance. In addition to two or three alliterations, the odd-numbered lines had partial rhyme of consonants with dissimilar vowels, not necessarily at the beginning of the word; the even lines contained internal rhyme in set syllables (not necessarily at the end of the word). Each half-line had exactly six syllables, and each line ended in a trochee. The arrangement of dr\u00f3ttkv\u00e6tts followed far less rigid rules than the construction of the individual dr\u00f3ttkv\u00e6tts.</p>\n\n<h4>Visual presentation</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Even before the advent of printing, the visual appearance of poetry often added meaning or depth. Acrostic poems conveyed meanings in the initial letters of lines or in letters at other specific places in a poem. In Arabic, Hebrew and Chinese poetry, the visual presentation of finely calligraphed poems has played an important part in the overall effect of many poems.</p><p>With the advent of printing, poets gained greater control over the mass-produced visual presentations of their work. Visual elements have become an important part of the poet's toolbox, and many poets have sought to use visual presentation for a wide range of purposes. Some Modernist poets have made the placement of individual lines or groups of lines on the page an integral part of the poem's composition. At times, this complements the poem's rhythm through visual caesuras of various lengths, or creates juxtapositions so as to accentuate meaning, ambiguity or irony, or simply to create an aesthetically pleasing form. In its most extreme form, this can lead to concrete poetry or asemic writing.</p>\n\n<h3>Diction</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Poetic diction treats the manner in which language is used, and refers not only to the sound but also to the underlying meaning and its interaction with sound and form. Many languages and poetic forms have very specific poetic dictions, to the point where distinct grammars and dialects are used specifically for poetry. Registers in poetry can range from strict employment of ordinary speech patterns, as favoured in much late-20th-century prosody, through to highly ornate uses of language, as in medieval and Renaissance poetry.</p><p>Poetic diction can include rhetorical devices such as simile and metaphor, as well as tones of voice, such as irony. Aristotle wrote in the <i>Poetics</i> that \"the greatest thing by far is to be a master of metaphor.\" Since the rise of Modernism, some poets have opted for a poetic diction that de-emphasizes rhetorical devices, attempting instead the direct presentation of things and experiences and the exploration of tone. On the other hand, Surrealists have pushed rhetorical devices to their limits, making frequent use of catachresis.</p><p>Allegorical stories are central to the poetic diction of many cultures, and were prominent in the West during classical times, the late Middle Ages and the Renaissance. <i>Aesop's Fables</i>, repeatedly rendered in both verse and prose since first being recorded about 500 BCE, are perhaps the richest single source of allegorical poetry through the ages. Other notables examples include the <i>Roman de la Rose</i>, a 13th-century French poem, William Langland's <i>Piers Ploughman</i> in the 14th century, and Jean de la Fontaine's <i>Fables</i> (influenced by Aesop's) in the 17th century. Rather than being fully allegorical, however, a poem may contain symbols or allusions that deepen the meaning or effect of its words without constructing a full allegory.</p><p>Another element of poetic diction can be the use of vivid imagery for effect. The juxtaposition of unexpected or impossible images is, for example, a particularly strong element in surrealist poetry and haiku. Vivid images are often endowed with symbolism or metaphor. Many poetic dictions use repetitive phrases for effect, either a short phrase (such as Homer's \"rosy-fingered dawn\" or \"the wine-dark sea\") or a longer refrain. Such repetition can add a somber tone to a poem, or can be laced with irony as the context of the words changes.</p>\n\n<h2>Forms</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Specific poetic forms have been developed by many cultures. In more developed, closed or \"received\" poetic forms, the rhyming scheme, meter and other elements of a poem are based on sets of rules, ranging from the relatively loose rules that govern the construction of an elegy to the highly formalized structure of the ghazal or villanelle. Described below are some common forms of poetry widely used across a number of languages. Additional forms of poetry may be found in the discussions of the poetry of particular cultures or periods and in the glossary.\n</p>\n\n<h3>Sonnet</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Among the most common forms of poetry, popular from the Late Middle Ages on, is the sonnet, which by the 13th century had become standardized as fourteen lines following a set rhyme scheme and logical structure. By the 14th century and the Italian Renaissance, the form had further crystallized under the pen of Petrarch, whose sonnets were translated in the 16th century by Sir Thomas Wyatt, who is credited with introducing the sonnet form into English literature. A traditional Italian or Petrarchan sonnet follows the rhyme scheme <i>ABBA, ABBA, CDECDE</i>, though some variation, perhaps the most common being CDCDCD, especially within the final six lines (or <i>sestet</i>), is common. The English (or Shakespearean) sonnet follows the rhyme scheme ABAB CDCD EFEF GG, introducing a third quatrain (grouping of four lines), a final couplet, and a greater amount of variety in rhyme than is usually found in its Italian predecessors. By convention, sonnets in English typically use iambic pentameter, while in the Romance languages, the hendecasyllable and Alexandrine are the most widely used meters.\n</p><p>Sonnets of all types often make use of a <i>volta</i>, or \"turn,\" a point in the poem at which an idea is turned on its head, a question is answered (or introduced), or the subject matter is further complicated. This <i>volta</i> can often take the form of a \"but\" statement contradicting or complicating the content of the earlier lines. In the Petrarchan sonnet, the turn tends to fall around the division between the first two quatrains and the sestet, while English sonnets usually place it at or near the beginning of the closing couplet.\n</p>\n<p>Sonnets are particularly associated with high poetic diction, vivid imagery, and romantic love, largely due to the influence of Petrarch as well as of early English practitioners such as Edmund Spenser (who gave his name to the Spenserian sonnet), Michael Drayton, and Shakespeare, whose sonnets are among the most famous in English poetry, with twenty being included in the <i>Oxford Book of English Verse</i>. However, the twists and turns associated with the <i>volta</i> allow for a logical flexibility applicable to many subjects. Poets from the earliest centuries of the sonnet to the present have used the form to address topics related to politics (John Milton, Percy Bysshe Shelley, Claude McKay), theology (John Donne, Gerard Manley Hopkins), war (Wilfred Owen, e.e. cummings), and gender and sexuality (Carol Ann Duffy). Further, postmodern authors such as Ted Berrigan and John Berryman have challenged the traditional definitions of the sonnet form, rendering entire sequences of \"sonnets\" that often lack rhyme, a clear logical progression, or even a consistent count of fourteen lines.\n</p>\n\n<h3>Shi</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p><i>Shi</i> (simplified Chinese: <span lang=\"zh-Hans\">\u8bd7</span>; traditional Chinese: <span lang=\"zh-Hant\">\u8a69</span>; pinyin: <i><span lang=\"zh-Latn-pinyin\">sh\u012b</span></i>; Wade\u2013Giles: <i><span lang=\"zh-Latn-wadegile\">shih</span></i>) Is the main type of Classical Chinese poetry. Within this form of poetry the most important variations are \"folk song\" styled verse (<i>yuefu</i>), \"old style\" verse (<i>gushi</i>), \"modern style\" verse (<i>jintishi</i>). In all cases, rhyming is obligatory. The Yuefu is a folk ballad or a poem written in the folk ballad style, and the number of lines and the length of the lines could be irregular. For the other variations of <i>shi</i> poetry, generally either a four line (quatrain, or <i>jueju</i>) or else an eight-line poem is normal; either way with the even numbered lines rhyming. The line length is scanned by an according number of characters (according to the convention that one character equals one syllable), and are predominantly either five or seven characters long, with a caesura before the final three syllables. The lines are generally end-stopped, considered as a series of couplets, and exhibit verbal parallelism as a key poetic device. The \"old style\" verse (<i>Gushi</i>) is less formally strict than the <i>jintishi</i>, or regulated verse, which, despite the name \"new style\" verse actually had its theoretical basis laid as far back as Shen Yue (441\u2013513 CE), although not considered to have reached its full development until the time of Chen Zi'ang (661\u2013702 CE). A good example of a poet known for his <i>Gushi</i> poems is Li Bai (701\u2013762 CE). Among its other rules, the jintishi rules regulate the tonal variations within a poem, including the use of set patterns of the four tones of Middle Chinese. The basic form of jintishi (sushi) has eight lines in four couplets, with parallelism between the lines in the second and third couplets. The couplets with parallel lines contain contrasting content but an identical grammatical relationship between words. Jintishi often have a rich poetic diction, full of allusion, and can have a wide range of subject, including history and politics. One of the masters of the form was Du Fu (712\u2013770 CE), who wrote during the Tang Dynasty (8th century).</p>\n\n<h3>Villanelle</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The villanelle is a nineteen-line poem made up of five triplets with a closing quatrain; the poem is characterized by having two refrains, initially used in the first and third lines of the first stanza, and then alternately used at the close of each subsequent stanza until the final quatrain, which is concluded by the two refrains. The remaining lines of the poem have an AB alternating rhyme. The villanelle has been used regularly in the English language since the late 19th century by such poets as Dylan Thomas, W. H. Auden, and Elizabeth Bishop.</p>\n\n<h3>Limerick</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>A limerick is a poem that consists of five lines and is often humorous. Rhythm is very important in limericks for the first, second and fifth lines must have seven to ten syllables. However, the third and fourth lines only need five to seven. Lines 1, 2 and 5 rhyme with each other, and lines 3 and 4 rhyme with each other.  Practitioners of the limerick included Edward Lear, Lord Alfred Tennyson, Rudyard Kipling, Robert Louis Stevenson.</p>\n\n<h3>Tanka</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Tanka is a form of unrhymed Japanese poetry, with five sections totalling 31 <i>on</i> (phonological units identical to morae), structured in a 5\u20137\u20135\u20137\u20137 pattern. There is generally a shift in tone and subject matter between the upper 5\u20137\u20135 phrase and the lower 7\u20137 phrase. Tanka were written as early as the Asuka period by such poets as Kakinomoto no Hitomaro (<i>fl.</i> late 7th century), at a time when Japan was emerging from a period where much of its poetry followed Chinese form. Tanka was originally the shorter form of Japanese formal poetry (which was generally referred to as \"waka\"), and was used more heavily to explore personal rather than public themes. By the tenth century, tanka had become the dominant form of Japanese poetry, to the point where the originally general term <i>waka</i> (\"Japanese poetry\") came to be used exclusively for tanka. Tanka are still widely written today.</p>\n\n<h3>Haiku</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Haiku is a popular form of unrhymed Japanese poetry, which evolved in the 17th century from the <i>hokku</i>, or opening verse of a renku. Generally written in a single vertical line, the haiku contains three sections totalling 17 <i>on</i> (morae), structured in a 5\u20137\u20135 pattern. Traditionally, haiku contain a kireji, or cutting word, usually placed at the end of one of the poem's three sections, and a kigo, or season-word. The most famous exponent of the haiku was Matsuo Bash\u014d (1644\u20131694). An example of his writing:</p>\n<dl><dd><span><span title=\"Japanese-language text\"><span lang=\"ja\">\u5bcc\u58eb\u306e\u98a8\u3084\u6247\u306b\u306e\u305b\u3066\u6c5f\u6238\u571f\u7523</span></span></span></dd>\n<dd>fuji no kaze ya oogi ni nosete Edo miyage</dd>\n<dd>the wind of Mt. Fuji</dd>\n<dd>I've brought on my fan!</dd>\n<dd>a gift from Edo</dd></dl>\n\n<h3>Khlong</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The <i>khlong</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e42\u0e04\u0e25\u0e07</span></span>, <span lang=\"th-Latn-fonipa\">[k\u02b0l\u014d\u02d0\u014b]</span>) is among the oldest Thai poetic forms. This is reflected in its requirements on the tone markings of certain syllables, which must be marked with <i>mai ek</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e44\u0e21\u0e49\u0e40\u0e2d\u0e01</span></span>, <span>Thai pronunciation:</span> <span lang=\"th-Latn-fonipa\">[m\u00e1j<span> </span>\u00e8\u02d0k]</span>, <span title=\"Thai-language text\"><span lang=\"th\">\u25cc\u0e48</span></span>) or <i>mai tho</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e44\u0e21\u0e49\u0e42\u0e17</span></span>, <span lang=\"th-Latn-fonipa\">[m\u00e1j<span> </span>t\u02b0\u014d\u02d0]</span>, <span title=\"Thai-language text\"><span lang=\"th\">\u25cc\u0e49</span></span>). This was likely derived from when the Thai language had three tones (as opposed to today's five, a split which occurred during the Ayutthaya Kingdom period), two of which corresponded directly to the aforementioned marks. It is usually regarded as an advanced and sophisticated poetic form.</p><p>In <i>khlong</i>, a stanza (<i>bot</i>, <span title=\"Thai-language text\"><span lang=\"th\">\u0e1a\u0e17</span></span>, <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1177148991\"><span>Thai pronunciation:</span> <span lang=\"th-Latn-fonipa\">[b\u00f2t]</span>) has a number of lines (<i>bat</i>, <span title=\"Thai-language text\"><span lang=\"th\">\u0e1a\u0e32\u0e17</span></span>, <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1177148991\"><span>Thai pronunciation:</span> <span lang=\"th-Latn-fonipa\">[b\u00e0\u02d0t]</span>, from Pali and Sanskrit <i>p\u0101da</i>), depending on the type. The <i>bat</i> are subdivided into two <i>wak</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e27\u0e23\u0e23\u0e04</span></span>, <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1177148991\"><span>Thai pronunciation:</span> <span lang=\"th-Latn-fonipa\">[w\u00e1k]</span>, from Sanskrit <i>varga</i>). The first <i>wak</i> has five syllables, the second has a variable number, also depending on the type, and may be optional. The type of <i>khlong</i> is named by the number of <i>bat</i> in a stanza; it may also be divided into two main types: <i>khlong suphap</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e42\u0e04\u0e25\u0e07\u0e2a\u0e38\u0e20\u0e32\u0e1e</span></span>, <span lang=\"th-Latn-fonipa\">[k\u02b0l\u014d\u02d0\u014b<span> </span>s\u00f9.p\u02b0\u00e2\u02d0p]</span>) and <i>khlong dan</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e42\u0e04\u0e25\u0e07\u0e14\u0e31\u0e49\u0e19</span></span>, <span lang=\"th-Latn-fonipa\">[k\u02b0l\u014d\u02d0\u014b<span> </span>d\u00e2n]</span>). The two differ in the number of syllables in the second <i>wak</i> of the final <i>bat</i> and inter-stanza rhyming rules.</p>\n\n<h4>Khlong si suphap</h4>\n<p>The <i>khlong si suphap</i> (<span title=\"Thai-language text\"><span lang=\"th\">\u0e42\u0e04\u0e25\u0e07\u0e2a\u0e35\u0e48\u0e2a\u0e38\u0e20\u0e32\u0e1e</span></span>, <span lang=\"th-Latn-fonipa\">[k\u02b0l\u014d\u02d0\u014b<span> </span>s\u00ec\u02d0<span> </span>s\u00f9.p\u02b0\u00e2\u02d0p]</span>) is the most common form still currently employed. It has four <i>bat</i> per stanza (<i>si</i> translates as <i>four</i>). The first <i>wak</i> of each <i>bat</i> has five syllables. The second <i>wak</i> has two or four syllables in the first and third <i>bat</i>, two syllables in the second, and four syllables in the fourth. <i>Mai ek</i> is required for seven syllables and <i>Mai tho</i> is required for four, as shown below. \"Dead word\" syllables are allowed in place of syllables which require <i>mai ek</i>, and changing the spelling of words to satisfy the criteria is usually acceptable.\n</p>\n\n<h3>Ode</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Odes were first developed by poets writing in ancient Greek, such as Pindar, and Latin, such as Horace. Forms of odes appear in many of the cultures that were influenced by the Greeks and Latins. The ode generally has three parts: a strophe, an antistrophe, and an epode. The strophe and the antistrophe of the ode possess similar metrical structures and, depending on the tradition, similar rhyme structures. In contrast, the epode is written with a different scheme and structure. Odes have a formal poetic diction and generally deal with a serious subject. The strophe and antistrophe look at the subject from different, often conflicting, perspectives, with the epode moving to a higher level to either view or resolve the underlying issues. Odes are often intended to be recited or sung by two choruses (or individuals), with the first reciting the strophe, the second the antistrophe, and both together the epode. Over time, differing forms for odes have developed with considerable variations in form and structure, but generally showing the original influence of the Pindaric or Horatian ode. One non-Western form which resembles the ode is the qasida in Arabic poetry.</p>\n\n<h3>Ghazal</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The <span title=\"Arabic-language romanization\"><span lang=\"ar-Latn\">ghazal</span></span> (also <span title=\"Arabic-language romanization\"><span lang=\"ar-Latn\">ghazel</span></span>, <span title=\"Arabic-language romanization\"><span lang=\"ar-Latn\">gazel</span></span>, <span title=\"Arabic-language romanization\"><span lang=\"ar-Latn\">gazal</span></span>, or <span title=\"Arabic-language romanization\"><span lang=\"ar-Latn\">gozol</span></span>) is a form of poetry common in Arabic, Bengali, Persian and Urdu. In classic form, the <span title=\"Arabic-language romanization\"><span lang=\"ar-Latn\">ghazal</span></span> has from five to fifteen rhyming couplets that share a refrain at the end of the second line. This refrain may be of one or several syllables and is preceded by a rhyme. Each line has an identical meter and is of the same length. The ghazal often reflects on a theme of unattainable love or divinity.</p><p>As with other forms with a long history in many languages, many variations have been developed, including forms with a quasi-musical poetic diction in Urdu. Ghazals have a classical affinity with Sufism, and a number of major Sufi religious works are written in ghazal form. The relatively steady meter and the use of the refrain produce an incantatory effect, which complements Sufi mystical themes well. Among the masters of the form are Rumi, the celebrated 13th-century Persian poet, and his equally famous near-contemporary Hafez. Hafez uses the ghazal to expose hypocrisy and the pitfalls of worldliness, but also expertly exploits the form to express the divine depths and secular subtleties of love; creating translations that meaningfully capture such complexities of content and form is immensely challenging, but lauded attempts to do so in English include Gertrude Bell's <i>Poems from the Divan of Hafiz</i> and <i>Beloved: 81 poems from Hafez</i> (Bloodaxe Books) whose Preface addresses in detail the problematic nature of translating ghazals and whose versions (according to Fatemeh Keshavarz, Roshan Institute for Persian Studies) preserve \"that audacious and multilayered richness one finds in the originals\". Indeed, Hafez's ghazals have been the subject of much analysis, commentary and interpretation, influencing post-fourteenth century Persian writing more than any other author. The West-\u00f6stlicher Diwan of Johann Wolfgang von Goethe, a collection of lyrical poems, is inspired by the Persian poet Hafez.</p>\n\n<h2>Genres</h2>\n<p>In addition to specific forms of poems, poetry is often thought of in terms of different genres and subgenres. A poetic genre is generally a tradition or classification of poetry based on the subject matter, style, or other broader literary characteristics. Some commentators view genres as natural forms of literature. Others view the study of genres as the study of how different works relate and refer to other works.</p>\n\n<h3>Narrative poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Narrative poetry is a genre of poetry that tells a story. Broadly it subsumes epic poetry, but the term \"narrative poetry\" is often reserved for smaller works, generally with more appeal to human interest. Narrative poetry may be the oldest type of poetry. Many scholars of Homer have concluded that his <i>Iliad</i> and <i>Odyssey</i> were composed of compilations of shorter narrative poems that related individual episodes. Much narrative poetry\u2014such as Scottish and English ballads, and Baltic and Slavic heroic poems\u2014is performance poetry with roots in a preliterate oral tradition. It has been speculated that some features that distinguish poetry from prose, such as meter, alliteration and kennings, once served as memory aids for bards who recited traditional tales.</p><p>Notable narrative poets have included Ovid, Dante, Juan Ruiz, William Langland, Chaucer, Fernando de Rojas, Lu\u00eds de Cam\u00f5es, Shakespeare, Alexander Pope, Robert Burns, Adam Mickiewicz, Alexander Pushkin, Letitia Elizabeth Landon, Edgar Allan Poe, Alfred Tennyson, and Anne Carson.\n</p>\n\n<h3>Lyric poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Lyric poetry is a genre that, unlike epic and dramatic poetry, does not attempt to tell a story but instead is of a more personal nature. Poems in this genre tend to be shorter, melodic, and contemplative. Rather than depicting characters and actions, it portrays the poet's own feelings, states of mind, and perceptions. Notable poets in this genre include Christine de Pizan, John Donne, Charles Baudelaire, Gerard Manley Hopkins, Antonio Machado, and Edna St. Vincent Millay.\n</p>\n\n<h3>Epic poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Epic poetry is a genre of poetry, and a major form of narrative literature. This genre is often defined as lengthy poems concerning events of a heroic or important nature to the culture of the time. It recounts, in a continuous narrative, the life and works of a heroic or mythological person or group of persons. Examples of epic poems are Homer's <i>Iliad</i> and <i>Odyssey</i>, Virgil's Aeneid, the <i>Nibelungenlied</i>, Lu\u00eds de Cam\u00f5es' <i>Os Lus\u00edadas</i>, the <i>Cantar de Mio Cid</i>, the <i>Epic of Gilgamesh</i>, the <i>Mahabharata</i>, L\u00f6nnrot's <i>Kalevala</i>, Valmiki's <i>Ramayana</i>, Ferdowsi's <i>Shahnama</i>, Nizami (or Nezami)'s Khamse (Five Books), and the <i>Epic of King Gesar</i>. While the composition of epic poetry, and of long poems generally, became less common in the west after the early 20th century, some notable epics have continued to be written. <i>The Cantos</i> by Ezra Pound, <i>Helen in Egypt</i> by H.D., and <i>Paterson</i> by William Carlos Williams are examples of modern epics. Derek Walcott won a Nobel prize in 1992 to a great extent on the basis of his epic, <i>Omeros</i>.</p>\n\n<h3>Satirical poetry</h3>\n<p>Poetry can be a powerful vehicle for satire. The Romans had a strong tradition of satirical poetry, often written for political purposes. A notable example is the Roman poet Juvenal's satires.</p><p>The same is true of the English satirical tradition. John Dryden (a Tory), the first Poet Laureate, produced in 1682 <i>Mac Flecknoe</i>, subtitled \"A Satire on the True Blue Protestant Poet, T.S.\" (a reference to Thomas Shadwell). Satirical poets outside England include Poland's Ignacy Krasicki, Azerbaijan's Sabir, Portugal's Manuel Maria Barbosa du Bocage, and Korea's Kim Kirim, especially noted for his <i>Gisangdo</i>.\n</p>\n\n<h3>Elegy</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>An elegy is a mournful, melancholy or plaintive poem, especially a lament for the dead or a funeral song. The term \"elegy,\" which originally denoted a type of poetic meter (elegiac meter), commonly describes a poem of mourning. An elegy may also reflect something that seems to the author to be strange or mysterious. The elegy, as a reflection on a death, on a sorrow more generally, or on something mysterious, may be classified as a form of lyric poetry.</p><p>Notable practitioners of elegiac poetry have included Propertius, Jorge Manrique, Jan Kochanowski, Chidiock Tichborne, Edmund Spenser, Ben Jonson, John Milton, Thomas Gray, Charlotte Smith, William Cullen Bryant, Percy Bysshe Shelley, Johann Wolfgang von Goethe, Evgeny Baratynsky, Alfred Tennyson, Walt Whitman, Antonio Machado, Juan Ram\u00f3n Jim\u00e9nez, William Butler Yeats, Rainer Maria Rilke, and Virginia Woolf.\n</p>\n\n<h3>Verse fable</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The fable is an ancient literary genre, often (though not invariably) set in verse. It is a succinct story that features anthropomorphised animals, legendary creatures, plants, inanimate objects, or forces of nature that illustrate a moral lesson (a \"moral\"). Verse fables have used a variety of meter and rhyme patterns.</p><p>Notable verse fabulists have included Aesop, Vishnu Sarma, Phaedrus, Marie de France, Robert Henryson, Biernat of Lublin, Jean de La Fontaine, Ignacy Krasicki, F\u00e9lix Mar\u00eda de Samaniego, Tom\u00e1s de Iriarte, Ivan Krylov and Ambrose Bierce.\n</p>\n\n<h3>Dramatic poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Dramatic poetry is drama written in verse to be spoken or sung, and appears in varying, sometimes related forms in many cultures. Greek tragedy in verse dates to the 6th century B.C., and may have been an influence on the development of Sanskrit drama, just as Indian drama in turn appears to have influenced the development of the <i>bianwen</i> verse dramas in China, forerunners of Chinese Opera. East Asian verse dramas also include Japanese Noh. Examples of dramatic poetry in Persian literature include Nizami's two famous dramatic works, <i>Layla and Majnun</i> and <i>Khosrow and Shirin</i>, Ferdowsi's tragedies such as <i>Rostam and Sohrab</i>, Rumi's <i>Masnavi</i>, Gorgani's tragedy of <i>Vis and Ramin</i>, and Vahshi's tragedy of <i>Farhad</i>.  American poets of 20th century revive dramatic poetry, including Ezra Pound in \"<i>Sestina: Altaforte,</i>\" T.S. Eliot with \"The Love Song of J. Alfred Prufrock\".</p>\n\n<h3>Speculative poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Speculative poetry, also known as fantastic poetry (of which weird or macabre poetry is a major sub-classification), is a poetic genre which deals thematically with subjects which are \"beyond reality\", whether via extrapolation as in science fiction or via weird and horrific themes as in horror fiction. Such poetry appears regularly in modern science fiction and horror fiction magazines. Edgar Allan Poe is sometimes seen as the \"father of speculative poetry\". Poe's most remarkable achievement in the genre was his anticipation, by three-quarters of a century, of the Big Bang theory of the universe's origin, in his then much-derided 1848 essay (which, due to its very speculative nature, he termed a \"prose poem\"), <i>Eureka: A Prose Poem</i>.</p>\n\n<h3>Prose poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Prose poetry is a hybrid genre that shows attributes of both prose and poetry. It may be indistinguishable from the micro-story (a.k.a. the \"short short story\", \"flash fiction\"). While some examples of earlier prose strike modern readers as poetic, prose poetry is commonly regarded as having originated in 19th-century France, where its practitioners included Aloysius Bertrand, Charles Baudelaire, St\u00e9phane Mallarm\u00e9, and Arthur Rimbaud. Since the late 1980s especially, prose poetry has gained increasing popularity, with entire journals, such as <i>The Prose Poem: An International Journal</i>, <i>Contemporary Haibun Online</i>, and <i>Haibun Today</i> devoted to that genre and its hybrids. Latin American poets of the 20th century who wrote prose poems include Octavio Paz and Alejandra Pizarnik.\n</p>\n\n<h3>Light poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Light poetry, or light verse, is poetry that attempts to be humorous.  Poems considered \"light\" are usually brief, and can be on a frivolous or serious subject, and often feature word play, including puns, adventurous rhyme and heavy alliteration. Although a few free verse poets have excelled at light verse outside the formal verse tradition, light verse in English usually obeys at least some formal conventions.  Common forms include the limerick, the clerihew, and the double dactyl.\n</p><p>While light poetry is sometimes condemned as doggerel, or thought of as poetry composed casually, humor often makes a serious point in a subtle or subversive way. Many of the most renowned \"serious\" poets have also excelled at light verse.  Notable writers of light poetry include Lewis Carroll, Ogden Nash, X. J. Kennedy, Willard R. Espy, Shel Silverstein, Gavin Ewart and Wendy Cope.\n</p>\n\n<h3>Slam poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Slam poetry as a genre originated in 1986 in Chicago, Illinois, when Marc Kelly Smith organized the first slam. Slam performers comment emotively, aloud before an audience, on personal, social, or other matters. Slam focuses on the aesthetics of word play, intonation, and voice inflection. Slam poetry is often competitive, at dedicated \"poetry slam\" contests.</p>\n\n<h3>Performance poetry</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Performance poetry, similar to slam in that it occurs before an audience, is a genre of poetry that may fuse a variety of disciplines in a performance of a text, such as dance, music, and other aspects of performance art.</p>\n\n<h3>Language happenings</h3>\n<p>The term <i>happening</i> was popularized by the avant-garde movements in the 1950s and regard spontaneous, site-specific performances. <i>Language happenings</i>, termed from the poetics collective OBJECT:PARADISE in 2018, are events which focus less on poetry as a prescriptive literary genre, but more as a descriptive linguistic act and performance, often incorporating broader forms of performance art while poetry is read or created in that moment.</p>\n\n<h2>See also</h2>\n<ul><li>Anti-poetry</li>\n<li>Digital poetry</li>\n<li>Glossary of poetry terms</li>\n<li>Improvisation</li>\n<li>List of poetry groups and movements</li>\n<li>Oral poetry</li>\n<li>Outline of poetry</li>\n<li>Persona poetry</li>\n<li>Phonestheme</li>\n<li>Phono-semantic matching</li>\n<li>Poetry reading</li>\n<li>Rhapsode</li>\n<li>Semantic differential</li>\n<li>Spoken word</li></ul>\n\n<h2>Notes</h2>\n<h2>References</h2>\n<h3>Citations</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>Bibliography</h2>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFAdams1997\" class=\"citation book cs1\">Adams, Stephen J. (1997). <i>Poetic designs: an introduction to meters, verse forms and figures of speech</i>. Broadview. ISBN\u00a0<bdi>978-1-55111-129-2</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Poetic+designs%3A+an+introduction+to+meters%2C+verse+forms+and+figures+of+speech&amp;rft.pub=Broadview&amp;rft.date=1997&amp;rft.isbn=978-1-55111-129-2&amp;rft.aulast=Adams&amp;rft.aufirst=Stephen+J.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpoeticdesigns00step&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCorn1997\" class=\"citation book cs1\">Corn, Alfred (1997). <i>The Poem's Heartbeat: A Manual of Prosody</i>. Storyline Press. ISBN\u00a0<bdi>978-1-885266-40-8</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Poem%27s+Heartbeat%3A+A+Manual+of+Prosody&amp;rft.pub=Storyline+Press&amp;rft.date=1997&amp;rft.isbn=978-1-885266-40-8&amp;rft.aulast=Corn&amp;rft.aufirst=Alfred&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpoemsheartbeatma00corn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFFussell1965\" class=\"citation book cs1\">Fussell, Paul (1965). <span title=\"Free registration required\"><i>Poetic Meter and Poetic Form</i></span>. Random House.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Poetic+Meter+and+Poetic+Form&amp;rft.pub=Random+House&amp;rft.date=1965&amp;rft.aulast=Fussell&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpoeticmeterpoeti00fuss&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFHollander1981\" class=\"citation book cs1\">Hollander, John (1981). <i>Rhyme's Reason</i>. Yale University Press. ISBN\u00a0<bdi>978-0-300-02740-2</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Rhyme%27s+Reason&amp;rft.pub=Yale+University+Press&amp;rft.date=1981&amp;rft.isbn=978-0-300-02740-2&amp;rft.aulast=Hollander&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Frhymesreasonguid00holl_1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFPinsky1998\" class=\"citation book cs1\">Pinsky, Robert (1998). <i>The Sounds of Poetry</i>. Farrar, Straus and Giroux. ISBN\u00a0<bdi>978-0-374-26695-0</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Sounds+of+Poetry&amp;rft.pub=Farrar%2C+Straus+and+Giroux&amp;rft.date=1998&amp;rft.isbn=978-0-374-26695-0&amp;rft.aulast=Pinsky&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fsoundsofpoetry00robe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li></ul>\n\n<h2>Further reading</h2>\n\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1134653256\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1134653256\">\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1134653256\">\n<dl><dt>Encyclopedias</dt></dl><ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFGreene2012\" class=\"citation encyclopaedia cs1\">Greene, Roland; et\u00a0al., eds. (2012). <i>The Princeton Encyclopedia of Poetry and Poetics</i> (4th rev.\u00a0ed.). Princeton, NJ: Princeton University Press. ISBN\u00a0<bdi>978-0-691-15491-6</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Princeton+Encyclopedia+of+Poetry+and+Poetics&amp;rft.place=Princeton%2C+NJ&amp;rft.edition=4th+rev.&amp;rft.pub=Princeton+University+Press&amp;rft.date=2012&amp;rft.isbn=978-0-691-15491-6&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuKiC6IeFR2UC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li></ul><dl><dt>Other critics</dt></dl><ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFBrooks1947\" class=\"citation book cs1\">Brooks, Cleanth (1947). <span title=\"Free registration required\"><i>The Well Wrought Urn: Studies in the Structure of Poetry</i></span>. Harcourt Brace &amp; Company. ISBN\u00a0<bdi>978-0156957052</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Well+Wrought+Urn%3A+Studies+in+the+Structure+of+Poetry&amp;rft.pub=Harcourt+Brace+%26+Company&amp;rft.date=1947&amp;rft.isbn=978-0156957052&amp;rft.aulast=Brooks&amp;rft.aufirst=Cleanth&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fwellwroughturnst00broo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFFinch2011\" class=\"citation book cs1\">Finch, Annie (2011). <i>A Poet's Ear: A Handbook of Meter and Form</i>. University of Michigan Press. ISBN\u00a0<bdi>978-0-472-05066-6</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Poet%27s+Ear%3A+A+Handbook+of+Meter+and+Form&amp;rft.pub=University+of+Michigan+Press&amp;rft.date=2011&amp;rft.isbn=978-0-472-05066-6&amp;rft.aulast=Finch&amp;rft.aufirst=Annie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFFry2007\" class=\"citation book cs1\">Fry, Stephen (2007). <i>The Ode Less Travelled: Unlocking the Poet Within</i>. Arrow Books. ISBN\u00a0<bdi>978-0-09-950934-9</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ode+Less+Travelled%3A+Unlocking+the+Poet+Within&amp;rft.pub=Arrow+Books&amp;rft.date=2007&amp;rft.isbn=978-0-09-950934-9&amp;rft.aulast=Fry&amp;rft.aufirst=Stephen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFGosse1911\" class=\"citation encyclopaedia cs1\">Gosse, Edmund William (1911). <span title=\"s:1911 Encyclop\u00e6dia Britannica/Verse\">\"Verse\"\u00a0</span>. <i>Encyclop\u00e6dia Britannica</i>. Vol.\u00a027 (11th\u00a0ed.). pp.\u00a01041\u20131047.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Verse&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=1041-1047&amp;rft.edition=11th&amp;rft.date=1911&amp;rft.aulast=Gosse&amp;rft.aufirst=Edmund+William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFPound1951\" class=\"citation book cs1\">Pound, Ezra (1951). <i>ABC of Reading</i>. Faber.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=ABC+of+Reading&amp;rft.pub=Faber&amp;rft.date=1951&amp;rft.aulast=Pound&amp;rft.aufirst=Ezra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li>Poetry, Music and Narrative \u2013 The Science of Art.</li>\n<li>Tatarkiewicz, W\u0142adys\u0142aw, \"The Concept of Poetry\", <i>Dialectics and Humanism: The Polish Philosophical Quarterly</i>, vol. II, no. 2 (spring 1975), pp.\u00a013\u201324.</li></ul><dl><dt>Anthologies</dt></dl><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFFergusonSalterStallworthy1996\" class=\"citation book cs1\">Ferguson, Margaret; Salter, Mary Jo; Stallworthy, Jon, eds. (1996). <i>The Norton Anthology of Poetry</i> (4th\u00a0ed.). W.W. Norton &amp; Co. ISBN\u00a0<bdi>978-0-393-96820-0</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Norton+Anthology+of+Poetry&amp;rft.edition=4th&amp;rft.pub=W.W.+Norton+%26+Co&amp;rft.date=1996&amp;rft.isbn=978-0-393-96820-0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFGardner1972\" class=\"citation book cs1\">Gardner, Helen, ed. (1972). <i>New Oxford Book of English Verse 1250\u20131950</i>. Oxford University Press. ISBN\u00a0<bdi>978-0-19-812136-7</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=New+Oxford+Book+of+English+Verse+1250%E2%80%931950&amp;rft.pub=Oxford+University+Press&amp;rft.date=1972&amp;rft.isbn=978-0-19-812136-7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFLarkin1973\" class=\"citation book cs1\">Larkin, Philip, ed. (1973). <i>The Oxford Book of Twentieth Century English Verse</i>. Oxford University Press.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Book+of+Twentieth+Century+English+Verse&amp;rft.pub=Oxford+University+Press&amp;rft.date=1973&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFRicks1999\" class=\"citation book cs1\">Ricks, Christopher, ed. (1999). <i>The Oxford Book of English Verse</i>. Oxford University Press. ISBN\u00a0<bdi>978-0-19-214182-8</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Book+of+English+Verse&amp;rft.pub=Oxford+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0-19-214182-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFYeats1936\" class=\"citation book cs1\">Yeats, W. B., ed. (1936). <i>Oxford Book of Modern Verse 1892\u20131935</i>. Oxford University Press.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Oxford+Book+of+Modern+Verse+1892%E2%80%931935&amp;rft.pub=Oxford+University+Press&amp;rft.date=1936&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APoetry\"></span></li></ul>"
+}

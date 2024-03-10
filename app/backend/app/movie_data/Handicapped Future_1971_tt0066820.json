@@ -1,0 +1,262 @@
+{
+    "adult": false,
+    "backdrop_path": "/qSFtQk1izG8Sh0ZUBvw5BBRQbgV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 45764,
+    "imdb_id": "tt0066820",
+    "original_language": "de",
+    "original_title": "Behinderte Zukunft",
+    "overview": "A documentary by Werner Herzog exploring the different treatment accorded to the disabled in Germany and the USA.",
+    "popularity": 1.997,
+    "poster_path": "/hg1jxX7h0sjJthfzb4WsSuIm7XH.jpg",
+    "production_companies": [
+        {
+            "id": 843,
+            "logo_path": null,
+            "name": "Werner Herzog Filmproduktion",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "1971-01-01",
+    "revenue": 0,
+    "runtime": 43,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Handicapped Future",
+    "video": false,
+    "vote_average": 6.75,
+    "vote_count": 16,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1258565,
+                "known_for_department": "Acting",
+                "name": "Rolf Illig",
+                "original_name": "Rolf Illig",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Narrator",
+                "credit_id": "53fcd8800e0a267a6600b06c",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "52fe46d2c3a36847f811409d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "5549d2569251412bb4000b93",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "634b803bc8a2d4007a30007b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6818,
+                "known_for_department": "Directing",
+                "name": "Werner Herzog",
+                "original_name": "Werner Herzog",
+                "popularity": 11.311,
+                "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
+                "credit_id": "5549d74dc3a36841bf001952",
+                "department": "Crew",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20554,
+                "known_for_department": "Editing",
+                "name": "Beate Mainka-Jellinghaus",
+                "original_name": "Beate Mainka-Jellinghaus",
+                "popularity": 2.027,
+                "profile_path": null,
+                "credit_id": "53fcd82b0e0a267a7800add1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49496,
+                "known_for_department": "Camera",
+                "name": "J\u00f6rg Schmidt-Reitwein",
+                "original_name": "J\u00f6rg Schmidt-Reitwein",
+                "popularity": 1.492,
+                "profile_path": "/wulR8LjXLXwxRjjbalwoU4KtGLb.jpg",
+                "credit_id": "53fcd7fd0e0a267a7800adca",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1464010,
+                "known_for_department": "Directing",
+                "name": "Hans-Peter Meier",
+                "original_name": "Hans-Peter Meier",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5549d75992514104ca00186e",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "videos": {
+        "results": []
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.777,
+                "height": 837,
+                "iso_639_1": null,
+                "file_path": "/qSFtQk1izG8Sh0ZUBvw5BBRQbgV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1487
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 836,
+                "iso_639_1": null,
+                "file_path": "/8SK4hb8Rm5kAFaTYgOHHePGC2hF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1487
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.707,
+                "height": 2245,
+                "iso_639_1": "en",
+                "file_path": "/hg1jxX7h0sjJthfzb4WsSuIm7XH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1587
+            },
+            {
+                "aspect_ratio": 0.68,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/c1fcM2gagD6tkrTqw5axeHVcL04.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 680
+            },
+            {
+                "aspect_ratio": 0.68,
+                "height": 1000,
+                "iso_639_1": "de",
+                "file_path": "/AqUFcuSTpVoTKFxcBKDlU9NSVZZ.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 680
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2425,
+                "name": "bodily disabled person"
+            },
+            {
+                "id": 4640,
+                "name": "disabled child"
+            }
+        ]
+    },
+    "title_english": "Behinderte Zukunft",
+    "year": "1971",
+    "rated": "N/A",
+    "director_list": [
+        "Werner Herzog"
+    ],
+    "writer_list": [
+        "Werner Herzog",
+        " Hans-Peter Meier"
+    ],
+    "main_cast": [
+        "Rolf Illig",
+        " Werner Herzog",
+        " Adolf Ratzka"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        }
+    ],
+    "imdb_rating": "7.0",
+    "imdb_votes": "488",
+    "wikipedia_url": null,
+    "wikipedia_summary": null,
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": null
+}

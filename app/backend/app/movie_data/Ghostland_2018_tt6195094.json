@@ -1,0 +1,2018 @@
+{
+    "adult": false,
+    "backdrop_path": "/gl3RKxaM65gyrvRoG3MffTYBoo5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 476299,
+    "imdb_id": "tt6195094",
+    "original_language": "en",
+    "original_title": "Ghostland",
+    "overview": "A mother of two inherits a home from her aunt. On the first night in the new home she is confronted with murderous intruders and fights for her daughters\u2019 lives. Sixteen years later the daughters reunite at the house, and that is when things get strange .\u00a0.\u00a0.",
+    "popularity": 31.271,
+    "poster_path": "/rMOEWekwTpsqsdsz1k8HobBNFPq.jpg",
+    "production_companies": [
+        {
+            "id": 819,
+            "logo_path": "/cEqVIluQuO1ubtID8RvOem4ZiIg.png",
+            "name": "Mars Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 100853,
+            "logo_path": null,
+            "name": "5656 Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 92840,
+            "logo_path": "/4LyDs7gsAMq5sg3fPjUa1P52emj.png",
+            "name": "Logical Pictures",
+            "origin_country": "FR"
+        },
+        {
+            "id": 83549,
+            "logo_path": "/6AQrYukoi0OGD1Yal9vYjFREXxJ.png",
+            "name": "Inferno Pictures",
+            "origin_country": "CA"
+        },
+        {
+            "id": 4845,
+            "logo_path": null,
+            "name": "Highwire Pictures",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2018-03-14",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "You really thought you\u2019ve been scared?",
+    "title": "Ghostland",
+    "video": false,
+    "vote_average": 7.36,
+    "vote_count": 2216,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 128629,
+                "known_for_department": "Acting",
+                "name": "Crystal Reed",
+                "original_name": "Crystal Reed",
+                "popularity": 8.628,
+                "profile_path": "/HQiJ7tNV98UVcVWfgZ8gupjUm4.jpg",
+                "cast_id": 2,
+                "character": "Beth",
+                "credit_id": "5a305c879251410330173ae8",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 145755,
+                "known_for_department": "Acting",
+                "name": "Myl\u00e8ne Farmer",
+                "original_name": "Myl\u00e8ne Farmer",
+                "popularity": 2.093,
+                "profile_path": "/zYQEn8vtXXZPIwennAEm2dXiEQ7.jpg",
+                "cast_id": 5,
+                "character": "Pauline",
+                "credit_id": "5a305cabc3a3680b8d17db16",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1245422,
+                "known_for_department": "Acting",
+                "name": "Anastasia Phillips",
+                "original_name": "Anastasia Phillips",
+                "popularity": 3.613,
+                "profile_path": "/rna1zo0at371irmv1c3StVnonLt.jpg",
+                "cast_id": 7,
+                "character": "Vera",
+                "credit_id": "5a305ccb925141032417a7cd",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1331023,
+                "known_for_department": "Acting",
+                "name": "Emilia Jones",
+                "original_name": "Emilia Jones",
+                "popularity": 10.46,
+                "profile_path": "/vQHfiR6bSKf7bJcYyDvfUSXlB9Q.jpg",
+                "cast_id": 4,
+                "character": "Young Beth",
+                "credit_id": "5a305c9ec3a3680b8a178d63",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1493223,
+                "known_for_department": "Acting",
+                "name": "Taylor Hickson",
+                "original_name": "Taylor Hickson",
+                "popularity": 5.183,
+                "profile_path": "/qYc16SYLGSwm31MklUP42oKeTmO.jpg",
+                "cast_id": 6,
+                "character": "Young Vera",
+                "credit_id": "5a305cbc925141032417a7bf",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1024492,
+                "known_for_department": "Acting",
+                "name": "Rob Archer",
+                "original_name": "Rob Archer",
+                "popularity": 3.846,
+                "profile_path": "/7z9egtEbLEwh7cxfJ39l6OOPlzh.jpg",
+                "cast_id": 3,
+                "character": "Fat Man",
+                "credit_id": "5a305c9392514103291850c9",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1148697,
+                "known_for_department": "Acting",
+                "name": "Adam Hurtig",
+                "original_name": "Adam Hurtig",
+                "popularity": 7.388,
+                "profile_path": "/nLOpEqGZkalzE74sXP3JMx4oq43.jpg",
+                "cast_id": 8,
+                "character": "Beth's Husband",
+                "credit_id": "5a305cdc0e0a264cbe17a433",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1701243,
+                "known_for_department": "Acting",
+                "name": "Alicia Johnston",
+                "original_name": "Alicia Johnston",
+                "popularity": 1.766,
+                "profile_path": "/fkqNtdoPW3WzUpUSP9wl1lh2z0i.jpg",
+                "cast_id": 9,
+                "character": "Cooper",
+                "credit_id": "5a305ce9c3a3680b8818302e",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1303813,
+                "known_for_department": "Acting",
+                "name": "Erik Athavale",
+                "original_name": "Erik Athavale",
+                "popularity": 14.079,
+                "profile_path": "/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg",
+                "cast_id": 10,
+                "character": "Ambulance paramedic",
+                "credit_id": "5a8ee362c3a36826880168c9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045112,
+                "known_for_department": "Acting",
+                "name": "Kevin Power",
+                "original_name": "Kevin Power",
+                "popularity": 1.733,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Candy Truck Woman",
+                "credit_id": "5afe692dc3a3687497002e6d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 132557,
+                "known_for_department": "Acting",
+                "name": "Mariam Bernstein",
+                "original_name": "Mariam Bernstein",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Janet",
+                "credit_id": "5afe6971c3a3687479006b99",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64478,
+                "known_for_department": "Acting",
+                "name": "Ernesto Griffith",
+                "original_name": "Ernesto Griffith",
+                "popularity": 1.747,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Sanford",
+                "credit_id": "5afe698f0e0a262491004520",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045113,
+                "known_for_department": "Acting",
+                "name": "Denis Cozzi",
+                "original_name": "Denis Cozzi",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Beth's Son",
+                "credit_id": "5afe6a560e0a2624780042e0",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 81239,
+                "known_for_department": "Acting",
+                "name": "Sharon Bajer",
+                "original_name": "Sharon Bajer",
+                "popularity": 2.305,
+                "profile_path": "/oQkahOuFsSSrmdSb7wNWk75sGzX.jpg",
+                "cast_id": 15,
+                "character": "Eve",
+                "credit_id": "5afe6a61c3a368747c006478",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045114,
+                "known_for_department": "Acting",
+                "name": "Tony Braga",
+                "original_name": "Tony Braga",
+                "popularity": 0.901,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Beth's Limo Driver",
+                "credit_id": "5afe6a879251417862004e7f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045115,
+                "known_for_department": "Acting",
+                "name": "Paul Titley",
+                "original_name": "Paul Titley",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Lovecraft",
+                "credit_id": "5afe6a9bc3a368747f007028",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045116,
+                "known_for_department": "Acting",
+                "name": "Gordon Tanner",
+                "original_name": "Gordon Tanner",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Elegant Man",
+                "credit_id": "5afe6ac30e0a2624690045ee",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1733438,
+                "known_for_department": "Acting",
+                "name": "Paolo Bryant",
+                "original_name": "Paolo Bryant",
+                "popularity": 0.615,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Policeman",
+                "credit_id": "5afe6acd0e0a262484004772",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1718106,
+                "known_for_department": "Acting",
+                "name": "Terry Ray",
+                "original_name": "Terry Ray",
+                "popularity": 2.081,
+                "profile_path": null,
+                "cast_id": 81,
+                "character": "Gas Attendant",
+                "credit_id": "6435cf8b651fcf00b4845f58",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4005168,
+                "known_for_department": "Acting",
+                "name": "Suzanne Pringle",
+                "original_name": "Suzanne Pringle",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 80,
+                "character": "Talk Show Guest",
+                "credit_id": "643552fdec8a43025fb8409b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045119,
+                "known_for_department": "Acting",
+                "name": "Malick Laugier",
+                "original_name": "Malick Laugier",
+                "popularity": 0.75,
+                "profile_path": "/adSmypB9fJNM5enAwRlNubMFtrg.jpg",
+                "cast_id": 22,
+                "character": "Amish Boy",
+                "credit_id": "5afe6aebc3a3687476003569",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 166450,
+                "known_for_department": "Acting",
+                "name": "Angela Asher",
+                "original_name": "Angela Asher",
+                "popularity": 3.472,
+                "profile_path": "/3Nps2JIm09vQIfPEng7CMdvSHDk.jpg",
+                "cast_id": 79,
+                "character": "Candy Truck Woman (voice) (uncredited)",
+                "credit_id": "5d8482a76cf3d50258262ea2",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33577,
+                "known_for_department": "Camera",
+                "name": "Danny Nowak",
+                "original_name": "Danny Nowak",
+                "popularity": 1.495,
+                "profile_path": null,
+                "credit_id": "64541e3833ad8f01728e4573",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59611,
+                "known_for_department": "Writing",
+                "name": "Pascal Laugier",
+                "original_name": "Pascal Laugier",
+                "popularity": 3.19,
+                "profile_path": "/1s4nJTsl921VAOwyBoXqByvOS19.jpg",
+                "credit_id": "59bea4a8925141472a000ee1",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59611,
+                "known_for_department": "Writing",
+                "name": "Pascal Laugier",
+                "original_name": "Pascal Laugier",
+                "popularity": 3.19,
+                "profile_path": "/1s4nJTsl921VAOwyBoXqByvOS19.jpg",
+                "credit_id": "59bea49d925141473b000e9b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 61140,
+                "known_for_department": "Art",
+                "name": "Sara McCudden",
+                "original_name": "Sara McCudden",
+                "popularity": 0.982,
+                "profile_path": null,
+                "credit_id": "5afe6c950e0a2624720043ae",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64481,
+                "known_for_department": "Art",
+                "name": "Gordon Wilding",
+                "original_name": "Gordon Wilding",
+                "popularity": 1.905,
+                "profile_path": null,
+                "credit_id": "5afe6c8b0e0a26247e00415b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67700,
+                "known_for_department": "Sound",
+                "name": "Todd Bryanton",
+                "original_name": "Todd Bryanton",
+                "popularity": 1.026,
+                "profile_path": "/xumAqfgVZ2clPIRIOgnmKRgwtR3.jpg",
+                "credit_id": "5afe6c41c3a3687470002f8c",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 75814,
+                "known_for_department": "Crew",
+                "name": "Sean Skene",
+                "original_name": "Sean Skene",
+                "popularity": 7.188,
+                "profile_path": "/nCpq5xa35rZaqrogZ3kUyMEjsj5.jpg",
+                "credit_id": "5afe6f390e0a26248f004253",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 75832,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Brenda Magalas",
+                "original_name": "Brenda Magalas",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "5afe6cd5c3a368747600363d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 149292,
+                "known_for_department": "Production",
+                "name": "Matthieu Warter",
+                "original_name": "Matthieu Warter",
+                "popularity": 1.326,
+                "profile_path": "/mcJ07UikTIaQROJPeYI0lOicilb.jpg",
+                "credit_id": "5afe6c2a0e0a2624690046ce",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 216128,
+                "known_for_department": "Production",
+                "name": "Scott Kennedy",
+                "original_name": "Scott Kennedy",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "5afe6b5492514178c20045e4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 958156,
+                "known_for_department": "Production",
+                "name": "Jean-Charles Levy",
+                "original_name": "Jean-Charles Levy",
+                "popularity": 1.036,
+                "profile_path": null,
+                "credit_id": "5afe6b670e0a262466004861",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1099130,
+                "known_for_department": "Production",
+                "name": "Carmen Kotyk",
+                "original_name": "Carmen Kotyk",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5afe6c82c3a3687493002cba",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1105728,
+                "known_for_department": "Production",
+                "name": "Cl\u00e9ment Miserez",
+                "original_name": "Cl\u00e9ment Miserez",
+                "popularity": 0.631,
+                "profile_path": "/pqevkVRwNO09PPgRqXFiN2HZ5IJ.jpg",
+                "credit_id": "5afe6b880e0a26247e0040f5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1178912,
+                "known_for_department": "Production",
+                "name": "Nicolas Manuel",
+                "original_name": "Nicolas Manuel",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6b710e0a26248d0048b4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1184361,
+                "known_for_department": "Crew",
+                "name": "Rick Skene",
+                "original_name": "Rick Skene",
+                "popularity": 6.452,
+                "profile_path": "/3OI8cesfWr1X4owPgal4VM5rnTJ.jpg",
+                "credit_id": "5afe6f30c3a368748e002c1d",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1191557,
+                "known_for_department": "Production",
+                "name": "Ian Dimerman",
+                "original_name": "Ian Dimerman",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5afe6b300e0a2624800044e7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1191558,
+                "known_for_department": "Production",
+                "name": "Brendon Sawatzky",
+                "original_name": "Brendon Sawatzky",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6c110e0a26246c004001",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1191563,
+                "known_for_department": "Sound",
+                "name": "Dallas Pomedli",
+                "original_name": "Dallas Pomedli",
+                "popularity": 1.26,
+                "profile_path": null,
+                "credit_id": "5afe6e61925141786d004507",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1221785,
+                "known_for_department": "Production",
+                "name": "Alexis Perrin",
+                "original_name": "Alexis Perrin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6b92c3a368748b006a69",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1320908,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Brenda Shenher",
+                "original_name": "Brenda Shenher",
+                "popularity": 0.753,
+                "profile_path": null,
+                "credit_id": "5afe6c9fc3a36874880050ab",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1329399,
+                "known_for_department": "Editing",
+                "name": "Dev Singh",
+                "original_name": "Dev Singh",
+                "popularity": 2.588,
+                "profile_path": "/srx6P2rp6G4Juk0JD94Jb39TF91.jpg",
+                "credit_id": "5afe6c79c3a368747f0071b7",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1357334,
+                "known_for_department": "Editing",
+                "name": "Trevor Mirosh",
+                "original_name": "Trevor Mirosh",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6f930e0a262466004a7c",
+                "department": "Editing",
+                "job": "Additional Editing"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1423332,
+                "known_for_department": "Production",
+                "name": "Gr\u00e9goire Melin",
+                "original_name": "Gr\u00e9goire Melin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6b7cc3a3687497002f4e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1458584,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Nina McArthur",
+                "original_name": "Nina McArthur",
+                "popularity": 0.73,
+                "profile_path": null,
+                "credit_id": "5afe6f710e0a262466004a71",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1646494,
+                "known_for_department": "Sound",
+                "name": "Steven Ghouti",
+                "original_name": "Steven Ghouti",
+                "popularity": 3.427,
+                "profile_path": "/r79XoDhXwW5IdI6EJodoKClLIKI.jpg",
+                "credit_id": "5afe6d1d925141786200502b",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1646500,
+                "known_for_department": "Sound",
+                "name": "Gr\u00e9gory Vincent",
+                "original_name": "Gr\u00e9gory Vincent",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "5afe6e790e0a2624690048cf",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1661385,
+                "known_for_department": "Crew",
+                "name": "Kristen Sawatzky",
+                "original_name": "Kristen Sawatzky",
+                "popularity": 2.312,
+                "profile_path": "/m4seR2YH0BmJPPzVpe8tqoPmEr7.jpg",
+                "credit_id": "5afe6f2792514178b100413a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1724718,
+                "known_for_department": "Sound",
+                "name": "\u00c9ric Chevallier",
+                "original_name": "\u00c9ric Chevallier",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "5afe6fb0c3a3687493002db4",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1748456,
+                "known_for_department": "Directing",
+                "name": "Myl\u00e8ne Mostini",
+                "original_name": "Myl\u00e8ne Mostini",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6ff4c3a368749a0041bb",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1749050,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Magdalena Shenher",
+                "original_name": "Magdalena Shenher",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "5afe6f79c3a3687493002da5",
+                "department": "Art",
+                "job": "Set Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1749058,
+                "known_for_department": "Crew",
+                "name": "Casey Markus",
+                "original_name": "Casey Markus",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6ee0925141785700472d",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1762378,
+                "known_for_department": "Sound",
+                "name": "Eric Lesachet",
+                "original_name": "Eric Lesachet",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5afe6d3d0e0a26248f004157",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1790535,
+                "known_for_department": "Crew",
+                "name": "Tim Freestone",
+                "original_name": "Tim Freestone",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6ece9251417847004c7e",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1903956,
+                "known_for_department": "Production",
+                "name": "Fr\u00e9d\u00e9ric Fiore",
+                "original_name": "Fr\u00e9d\u00e9ric Fiore",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6b3ac3a3687479006d5e",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1911884,
+                "known_for_department": "Lighting",
+                "name": "Jonathan Kennedy",
+                "original_name": "Jonathan Kennedy",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6f57c3a3687485002366",
+                "department": "Lighting",
+                "job": "Lighting Technician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1954752,
+                "known_for_department": "Sound",
+                "name": "Vincent Mauduit",
+                "original_name": "Vincent Mauduit",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6d47c3a3687488005139",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1956627,
+                "known_for_department": "Sound",
+                "name": "Olivier Ranquet",
+                "original_name": "Olivier Ranquet",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6e6f0e0a2624840049a3",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045123,
+                "known_for_department": "Production",
+                "name": "Sami Tesfazghi",
+                "original_name": "Sami Tesfazghi",
+                "popularity": 0.829,
+                "profile_path": null,
+                "credit_id": "5afe6c1dc3a368749a003fd3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045125,
+                "known_for_department": "Sound",
+                "name": "Georges Boukoff",
+                "original_name": "Georges Boukoff",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6c38925141786d004371",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045125,
+                "known_for_department": "Sound",
+                "name": "Georges Boukoff",
+                "original_name": "Georges Boukoff",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6fa59251417840004fbb",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045126,
+                "known_for_department": "Sound",
+                "name": "Anthony d'Amario",
+                "original_name": "Anthony d'Amario",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6c4ec3a3687485002269",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045126,
+                "known_for_department": "Sound",
+                "name": "Anthony d'Amario",
+                "original_name": "Anthony d'Amario",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6fdc925141786d0045c3",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045126,
+                "known_for_department": "Sound",
+                "name": "Anthony d'Amario",
+                "original_name": "Anthony d'Amario",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6fd5c3a368748b006e5f",
+                "department": "Sound",
+                "job": "Supervising Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2045126,
+                "known_for_department": "Sound",
+                "name": "Anthony d'Amario",
+                "original_name": "Anthony d'Amario",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6fc8c3a368747f007528",
+                "department": "Sound",
+                "job": "Music Arranger"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045128,
+                "known_for_department": "Sound",
+                "name": "Edouard Rigaudi\u00e8re",
+                "original_name": "Edouard Rigaudi\u00e8re",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6c66c3a368748800506d",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045128,
+                "known_for_department": "Sound",
+                "name": "Edouard Rigaudi\u00e8re",
+                "original_name": "Edouard Rigaudi\u00e8re",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6fe80e0a26247e00433a",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045130,
+                "known_for_department": "Art",
+                "name": "Beth Cameron",
+                "original_name": "Beth Cameron",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6cfdc3a36874880050ef",
+                "department": "Art",
+                "job": "Greensman"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045131,
+                "known_for_department": "Art",
+                "name": "Sidney Klassen",
+                "original_name": "Sidney Klassen",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6d090e0a2624800045f9",
+                "department": "Art",
+                "job": "Greensman"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045134,
+                "known_for_department": "Crew",
+                "name": "Alex Ababio",
+                "original_name": "Alex Ababio",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6e8ac3a368748800520e",
+                "department": "Crew",
+                "job": "Special Effects Technician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045135,
+                "known_for_department": "Crew",
+                "name": "Gord Carpenter",
+                "original_name": "Gord Carpenter",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "5afe6ea79251417857004713",
+                "department": "Crew",
+                "job": "Special Effects Technician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045137,
+                "known_for_department": "Visual Effects",
+                "name": "Cl\u00e9ment Germain",
+                "original_name": "Cl\u00e9ment Germain",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6ef6c3a3687479007100",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045138,
+                "known_for_department": "Visual Effects",
+                "name": "Guillaume Marien",
+                "original_name": "Guillaume Marien",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5afe6f02925141784e004a3a",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045139,
+                "known_for_department": "Crew",
+                "name": "Maud Sicre",
+                "original_name": "Maud Sicre",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5afe6f0dc3a368747c00682c",
+                "department": "Crew",
+                "job": "Compositor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2045140,
+                "known_for_department": "Crew",
+                "name": "Shannon Guile",
+                "original_name": "Shannon Guile",
+                "popularity": 1.824,
+                "profile_path": "/5D6Ac1ocggcVFgrx3YWutaHuba0.jpg",
+                "credit_id": "5afe6f1a9251417840004f6a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045143,
+                "known_for_department": "Camera",
+                "name": "Craig Leatherdale",
+                "original_name": "Craig Leatherdale",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5afe6f620e0a262475004857",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2045144,
+                "known_for_department": "Editing",
+                "name": "Esther Lowe",
+                "original_name": "Esther Lowe",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "5afe6f890e0a26247b004d39",
+                "department": "Editing",
+                "job": "Additional Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2141123,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Roberta Gale",
+                "original_name": "Roberta Gale",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "64540f66d48cee0153ed7f38",
+                "department": "Costume & Make-Up",
+                "job": "Hair Department Head"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Official US Trailer",
+                "key": "Q8KqeolPt2w",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2018-06-13T17:17:24.000Z",
+                "id": "5dcd4e6679a1c3001347332a"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/gl3RKxaM65gyrvRoG3MffTYBoo5.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/oFyptNOx02o8sMcSsax4GSCAemg.jpg",
+                "vote_average": 5.326,
+                "vote_count": 7,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/gTO3tFXRjqUJZYQJwYFRvn2LZ8.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/r3nkmHjQEIrbTejcdjPRgEPWbVe.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/hysxflHJmlqY4EMX78bE7iwcazE.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/jQviH7mbCScUm7RB6iHETCVOwcu.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/e6gqTdpTeyPdwlunkeZoqgGqccn.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/zb58s1Q4aiyGxrbZi768MgAsELS.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 900,
+                "iso_639_1": null,
+                "file_path": "/sfqRS6h4Xcva4ItpN9hvqMTT49.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/jTDDY4g5VHZE5tIRizfPTqSF7JR.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/dYjKPMf64eL0xTGXxpglibfYCbK.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/vhAHFoHGvmshiXz7WNLI0daqOfl.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/xZq4nIp6qV392B2H8P8tpHIIiBg.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1281
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/oShWmsPF9WkG2gMdl76d8zYLYvf.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/h9Ru2nbuenYOFU1xE8xVKd6GdoP.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/ciI2I5O7hlidS1Wm5nxB17LAEDM.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/vjwSjPsDt5jcYGfaWYKJtEEDNok.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/lyQSh1HdBpDaPJfOdhiDeAmxKUl.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/2tkJoBxVzJZDWPdHwFfADZPOdqu.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/dUQHMvb5fE1ngoZdg8Vnau628IE.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/xwKHcWLCnKkWSGw6fOINadc6Zdn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/2zSJqAeOWP4u7FPRJeiMErn0YKy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/nGrt4kjEHu7H4hljeawbuCJO89O.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/cdhBnEyce6EJQ47fzJEpWmwJLfO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/3GXrIIiJthWYZbt9T9bsIIl4Xix.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/88DbIKHiEwfiBJ404vLpmss0Woc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/aFV5aJC9R8qFcqb7o37Z65EiGfb.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "pt",
+                "file_path": "/cjiYutizburhb8ynt0Jo2N8HcpB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/wNBZQ8gqJnue5m7Jh5avlobD2MA.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1440,
+                "iso_639_1": null,
+                "file_path": "/sR7jkQTGiymHxXrs5vjAeZo6ZCD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2560
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/zm1o6YLWUrwYKSUQBdZqKPFrIc9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/jP1EOBahHGZ5V3rwAYXJo9UB7Wk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 13.183,
+                "height": 120,
+                "iso_639_1": "en",
+                "file_path": "/oaGrPbwsWnkF8MeX4lTCF9Y7ORt.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1582
+            },
+            {
+                "aspect_ratio": 11.265,
+                "height": 132,
+                "iso_639_1": "en",
+                "file_path": "/fRgTR9qXtyvQVaPIblJG8GEvJbK.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1487
+            },
+            {
+                "aspect_ratio": 4.29,
+                "height": 297,
+                "iso_639_1": "en",
+                "file_path": "/dRbuaboQay6nuWqC94114B7dQvL.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1274
+            },
+            {
+                "aspect_ratio": 6.554,
+                "height": 195,
+                "iso_639_1": "hu",
+                "file_path": "/aA6h7ajAlHw9Ta4YM74SqukZdQt.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1278
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2362,
+                "iso_639_1": "fr",
+                "file_path": "/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg",
+                "vote_average": 5.738,
+                "vote_count": 18,
+                "width": 1575
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/48GWpOhl1s5hUciV7pvVMHkJnvv.jpg",
+                "vote_average": 5.582,
+                "vote_count": 9,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/7HVipt95BsZBncA5XCurKaTOh7w.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/j7p3JKIAwysHpZsmdINLNeVjApg.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/7P80mWnKSQF7J33ckT1shhfzZqr.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "it",
+                "file_path": "/zLUCRc7pKYrHj2JoAnFffEsidjd.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": null,
+                "file_path": "/zSQICP56TtJ7PJyeoc2Imtl3SH0.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/hXT9pRbSeAtx7QoADI9FBHPmEeL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/piSpZcwnFxyjJM2lAkH3GhAUN2i.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2184,
+                "iso_639_1": "ja",
+                "file_path": "/AcZeGqo84K1zgVv0fBKYLMBISGa.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1456
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/1Iwv35WmenS84UE93emWt9dUREl.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/re43KvI3JyN75m4PPR6ZsOdtYWJ.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/rMOEWekwTpsqsdsz1k8HobBNFPq.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "es",
+                "file_path": "/6TU88oDDNRYnuPGvViwPxGZNY1m.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/p6Nr5VfmlcPSm4TeCMisKnPmJIB.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.74,
+                "height": 1200,
+                "iso_639_1": "es",
+                "file_path": "/dxvELFquIXTH9ENXsCWxCXrpkiS.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 888
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/dheVE1P3Heut1AjpW0Kgp6L1F0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/wmxQRiW2KMZZ0OdHVmqRNN1O6my.jpg",
+                "vote_average": 5.238,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/81wFT5z4EhoSMKPBYzua3kqOAk.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1599,
+                "iso_639_1": "fr",
+                "file_path": "/zImKJoNfj1EKtn2tZaVPCD3p0xk.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1066
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/zP5BqXAhL9BTi4Si500qYVdMFy6.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.736,
+                "height": 1362,
+                "iso_639_1": "it",
+                "file_path": "/79IMkop396wDauIJsjc6PLYCiEM.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1003
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1200,
+                "iso_639_1": "ru",
+                "file_path": "/d7aj2A68UGFfQzN3P9hKQo3nyY1.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 840
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1615,
+                "iso_639_1": "uk",
+                "file_path": "/oVKYTqdBLwedMMiNfvMG5DWym73.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1077
+            },
+            {
+                "aspect_ratio": 0.562,
+                "height": 1920,
+                "iso_639_1": "lt",
+                "file_path": "/eJsfmIycj53KKNPnRiFGL7AQzzb.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.658,
+                "height": 760,
+                "iso_639_1": "el",
+                "file_path": "/xK0XiPIjnzO9NqknGSoMvI33uoV.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.711,
+                "height": 1407,
+                "iso_639_1": "cn",
+                "file_path": "/z0tl8O5B5qmjAscqMcgpTixgnpU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1427,
+                "iso_639_1": "zh",
+                "file_path": "/fT4m87ZLdbhcdeCzdNSLn0jORoX.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.562,
+                "height": 960,
+                "iso_639_1": "pt",
+                "file_path": "/f2KZHxK8vg2S7t8nST3rQ9udXGF.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 540
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/4t0A6bRzx0r8w1u18ZdnQK7QHY.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/wXCVQp2ICGqeDGvR5Ti25UdLB18.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2362,
+                "iso_639_1": "fr",
+                "file_path": "/tZUlqvWpLjOaOC74kiWmpupmm6F.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1575
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "fr",
+                "file_path": "/v51SiIMVR8bjfFkDWxicKdeuu0v.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 2048,
+                "iso_639_1": "en",
+                "file_path": "/kTh2aSDvVTbMn1my70LxLqY13VE.jpg",
+                "vote_average": 5.044,
+                "vote_count": 3,
+                "width": 1382
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 2161,
+                "iso_639_1": "sv",
+                "file_path": "/xtnQevusTduiC4ns9G1BNZI7nZD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 1183,
+                "iso_639_1": "de",
+                "file_path": "/1VeZ9G3jPsfukMhiHc4baIQ4lJo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 838
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/leh3NOUwpi3dwT0tYMNSrMye0cB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "zh",
+                "file_path": "/yxvapydJ8h30VBqWjBqEg44u4r4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2829,
+                "iso_639_1": "ko",
+                "file_path": "/pWczUl2IGclaExxJM1WaGvbjmT6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/diTKnQQkioOOlTLUWfzr1td4AnC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/qozR8RnOAqyWnArAx8beOZPIEoi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/rQKzpLfS8HXbOJwvAwH1EMnOmkv.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/gOoDWWD41wtkA6lPD2eFJ4E0OVq.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/rlgS8DRZZioGr1Pl7B8QDE0Evyc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ja",
+                "file_path": "/cZvaF1QhosLprDcnkp15YyGxVd8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "vi",
+                "file_path": "/zM8s001GUcKzFd1pv6ZDNGMiTFl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.703,
+                "height": 1422,
+                "iso_639_1": "th",
+                "file_path": "/bvnDnHJJOCQQxk62yB37acFjvRs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.685,
+                "height": 2920,
+                "iso_639_1": "it",
+                "file_path": "/bJGS3yZzfkFyG1jajMCJtsR2a3i.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.685,
+                "height": 2282,
+                "iso_639_1": "it",
+                "file_path": "/6vdsevoAxvc3BkEqUYOO5dthJZI.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1563
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/by3a2FgNFN6BiUZWvUI2NKYPMwy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/vXShR2BUCXB73iRcABk8SvG6FHJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6255,
+                "name": "insanity"
+            },
+            {
+                "id": 3298,
+                "name": "hallucination"
+            },
+            {
+                "id": 13006,
+                "name": "torture"
+            },
+            {
+                "id": 170351,
+                "name": "reality vs fantasy"
+            }
+        ]
+    },
+    "title_english": "Incident in a Ghostland",
+    "year": "2018",
+    "rated": "Not Rated",
+    "director_list": [
+        "Pascal Laugier"
+    ],
+    "writer_list": [
+        "Pascal Laugier"
+    ],
+    "main_cast": [
+        "Crystal Reed",
+        " Myl\u00e8ne Farmer",
+        " Anastasia Phillips"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "imdb_rating": "6.4",
+    "imdb_votes": "37,782",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghostland",
+    "wikipedia_summary": "Ghostland (also known as Incident in a Ghostland) is a 2018 horror film  written and directed by Pascal Laugier. Ghostland was shown in competition at the Festival international du film fantastique de G\u00e9rardmer, where it won three awards, including the Grand Prize.",
+    "wikipedia_plot": "A woman named Colleen travels with her teenage daughters Beth and Vera to their recently deceased aunt Clarisse's secluded home after they inherited it in her will. Beth reads an article about a string of home invasions where parents are murdered, but daughters are spared. Unbeknownst to the family, they are stalked by someone driving a candy truck.\nShortly after they settle into the house, two intruders break in and attack the mother and daughters. One of them is a large mentally impaired man known as the Fat Man. The other intruder is known as the Candy Truck Woman. Vera is then sexually abused by the Fat Man, while Beth tries to get away but she runs into the Woman. When Beth asks what the Candy Truck Woman wants, she replies, \"We just wanna play with dolls.\" Colleen recovers and kills both intruders.\nSixteen years later, Beth is now a successful horror fiction author living in Chicago with her husband and son. She appears on a talk show to promote her new novel Incident in a Ghostland, based on her experience that night. She receives a frantic phone call from her sister, who has suffered from delusions since the trauma, begging her to return to the house where she still lives with their mother. When Beth arrives, Colleen explains that Vera remains unable to move on and continues reliving that night, locking herself in a padded room in the basement. Beth begins to experience strange dreams, and Vera claims that their tormentors are still trying to get them.\nDuring an episode, Beth finds Vera chained and made up to look like a doll. Colleen calls an ambulance and tells Beth not to listen to Vera. Beth falls asleep and is captured by the Candy Truck Woman. She discovers bruises all over her beaten face and finds Vera also beaten up in the basement. She blames her for the wounds and Vera begs her sister to face the truth. Beth recalls a memory, and it is revealed that the Candy Truck Woman actually killed their mother that night and Beth has been imagining her adult life all this time to dissociate.\nIn reality, she and Vera are still teenagers and the Fat Man and Candy Truck Woman are holding her and Vera captive in Clarisse's home. The Candy Truck Woman dresses Beth like a doll, leaving her in a room littered with dolls. The Fat Man begins molesting and torturing the dolls. When he gets to Beth, she fights back and flees. She frees Vera and they escape the house. They make it to a road where two state troopers help them, reporting the incident to dispatch. However, both are gunned down by the Candy Truck Woman, who recaptures the girls.\nBeth mentally retreats back to her adulthood fantasy. At a cocktail party, she meets her idol, H.P. Lovecraft, who tells Beth that her novel is a masterpiece. Beth sees Vera screaming for help and decides to return to rescue Vera. She escapes from the Fat Man and initiates a violent fight with the Candy Truck Woman. Another state trooper arrives in time to gun down both the Fat Man and the Candy Truck Woman. After authorities arrive, Beth sees a vision of her mother waving at them from the house as the sisters are taken to the hospital.",
+    "wikipedia_plot_html": "<p>A woman named Colleen travels with her teenage daughters Beth and Vera to their recently deceased aunt Clarisse's secluded home after they inherited it in her will. Beth reads an article about a string of home invasions where parents are murdered, but daughters are spared. Unbeknownst to the family, they are stalked by someone driving a candy truck.\n</p><p>Shortly after they settle into the house, two intruders break in and attack the mother and daughters. One of them is a large mentally impaired man known as the Fat Man. The other intruder is known as the Candy Truck Woman. Vera is then sexually abused by the Fat Man, while Beth tries to get away but she runs into the Woman. When Beth asks what the Candy Truck Woman wants, she replies, \"We just wanna play with dolls.\" Colleen recovers and kills both intruders.\n</p><p>Sixteen years later, Beth is now a successful horror fiction author living in Chicago with her husband and son. She appears on a talk show to promote her new novel <i>Incident in a Ghostland</i>, based on her experience that night. She receives a frantic phone call from her sister, who has suffered from delusions since the trauma, begging her to return to the house where she still lives with their mother. When Beth arrives, Colleen explains that Vera remains unable to move on and continues reliving that night, locking herself in a padded room in the basement. Beth begins to experience strange dreams, and Vera claims that their tormentors are still trying to get them.\n</p><p>During an episode, Beth finds Vera chained and made up to look like a doll. Colleen calls an ambulance and tells Beth not to listen to Vera. Beth falls asleep and is captured by the Candy Truck Woman. She discovers bruises all over her beaten face and finds Vera also beaten up in the basement. She blames her for the wounds and Vera begs her sister to face the truth. Beth recalls a memory, and it is revealed that the Candy Truck Woman actually killed their mother that night and Beth has been imagining her adult life all this time to dissociate.\n</p><p>In reality, she and Vera are still teenagers and the Fat Man and Candy Truck Woman are holding her and Vera captive in Clarisse's home. The Candy Truck Woman dresses Beth like a doll, leaving her in a room littered with dolls. The Fat Man begins molesting and torturing the dolls. When he gets to Beth, she fights back and flees. She frees Vera and they escape the house. They make it to a road where two state troopers help them, reporting the incident to dispatch. However, both are gunned down by the Candy Truck Woman, who recaptures the girls.\n</p><p>Beth mentally retreats back to her adulthood fantasy. At a cocktail party, she meets her idol, H.P. Lovecraft, who tells Beth that her novel is a masterpiece. Beth sees Vera screaming for help and decides to return to rescue Vera. She escapes from the Fat Man and initiates a violent fight with the Candy Truck Woman. Another state trooper arrives in time to gun down both the Fat Man and the Candy Truck Woman. After authorities arrive, Beth sees a vision of her mother waving at them from the house as the sisters are taken to the hospital.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>Ghostland</b></i> (also known as <i><b>Incident in a Ghostland</b></i>) is a 2018 horror film  written and directed by Pascal Laugier. <i>Ghostland</i> was shown in competition at the Festival international du film fantastique de G\u00e9rardmer, where it won three awards, including the Grand Prize.\n</p>\n\n<h2>Plot</h2>\n<p>A woman named Colleen travels with her teenage daughters Beth and Vera to their recently deceased aunt Clarisse's secluded home after they inherited it in her will. Beth reads an article about a string of home invasions where parents are murdered, but daughters are spared. Unbeknownst to the family, they are stalked by someone driving a candy truck.\n</p><p>Shortly after they settle into the house, two intruders break in and attack the mother and daughters. One of them is a large mentally impaired man known as the Fat Man. The other intruder is known as the Candy Truck Woman. Vera is then sexually abused by the Fat Man, while Beth tries to get away but she runs into the Woman. When Beth asks what the Candy Truck Woman wants, she replies, \"We just wanna play with dolls.\" Colleen recovers and kills both intruders.\n</p><p>Sixteen years later, Beth is now a successful horror fiction author living in Chicago with her husband and son. She appears on a talk show to promote her new novel <i>Incident in a Ghostland</i>, based on her experience that night. She receives a frantic phone call from her sister, who has suffered from delusions since the trauma, begging her to return to the house where she still lives with their mother. When Beth arrives, Colleen explains that Vera remains unable to move on and continues reliving that night, locking herself in a padded room in the basement. Beth begins to experience strange dreams, and Vera claims that their tormentors are still trying to get them.\n</p><p>During an episode, Beth finds Vera chained and made up to look like a doll. Colleen calls an ambulance and tells Beth not to listen to Vera. Beth falls asleep and is captured by the Candy Truck Woman. She discovers bruises all over her beaten face and finds Vera also beaten up in the basement. She blames her for the wounds and Vera begs her sister to face the truth. Beth recalls a memory, and it is revealed that the Candy Truck Woman actually killed their mother that night and Beth has been imagining her adult life all this time to dissociate.\n</p><p>In reality, she and Vera are still teenagers and the Fat Man and Candy Truck Woman are holding her and Vera captive in Clarisse's home. The Candy Truck Woman dresses Beth like a doll, leaving her in a room littered with dolls. The Fat Man begins molesting and torturing the dolls. When he gets to Beth, she fights back and flees. She frees Vera and they escape the house. They make it to a road where two state troopers help them, reporting the incident to dispatch. However, both are gunned down by the Candy Truck Woman, who recaptures the girls.\n</p><p>Beth mentally retreats back to her adulthood fantasy. At a cocktail party, she meets her idol, H.P. Lovecraft, who tells Beth that her novel is a masterpiece. Beth sees Vera screaming for help and decides to return to rescue Vera. She escapes from the Fat Man and initiates a violent fight with the Candy Truck Woman. Another state trooper arrives in time to gun down both the Fat Man and the Candy Truck Woman. After authorities arrive, Beth sees a vision of her mother waving at them from the house as the sisters are taken to the hospital.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Crystal Reed as Elizabeth \"Beth\" Keller\n<ul><li>Emilia Jones as Young Beth</li></ul></li>\n<li>Anastasia Phillips as Vera\n<ul><li>Taylor Hickson as Young Vera</li></ul></li>\n<li>Myl\u00e8ne Farmer as Colleen</li>\n<li>Kevin Power as Candy Truck Woman</li>\n<li>Rob Archer as Fat Man</li>\n<li>Paul Titley as H.P. Lovecraft</li></ul>\n\n<h2>Production</h2>\n<p><i>Ghostland</i> is a Canadian and French co-production with Canada providing 69.12% of funding and France providing 30.88%. The film was predominantly shot in Canada.</p>\n\n<h3>Accident</h3>\n<p>In December 2016, actress Taylor Hickson was facially disfigured while shooting a scene for the film. She was rushed to the hospital and received 70 stitches, but was permanently scarred. In March 2018, Hickson sued the film's production company Incident Productions over lost work as a result of the incident. Hickson claimed in the lawsuit that \"in the course of shooting the scene, the director Pascal Laugier, consistently told Hickson to pound harder on the glass with her fists\". While filming another take, the lawsuit states:\n</p>\n<blockquote class=\"templatequote\"><p>The glass shattered, causing [her] head and upper body to fall through the door and shards of glass. As a result of the incident, [she] badly cut the left side of her face.</p></blockquote>\n<p>Hickson, in the lawsuit, states that the company failed to take \"any and all reasonable steps to ensure that industry standards and practices were adhered to, including but not limited to the use of safety glass and/or stunt doubles as appropriate.\"</p><p>Independent of the pending lawsuits, the Winnipeg-based film company Incident Productions, Inc. pled guilty for \"failing to ensure the safety and welfare of a worker under the Workplace Safety and Health Act,\" and was fined $40,000 by the province of Manitoba.</p>\n\n<h2>Release</h2>\n<p><i>Ghostland</i> was first shown in competition on 3 February 2018 at the Festival international du film fantastique de G\u00e9rardmer. <i>Ghostland</i> won three film awards at the festival, including the Grand Prize, Audience Award, and the SyFy Award. The SyFy award was chosen by five bloggers at the festival. Fr\u00e9d\u00e9ric Strauss of <i>T\u00e9l\u00e9rama</i> noted that this was the second French co-production in a row that dominated the awards at the festival with the previous years big winner being <i>Raw</i> by Julia Ducournau. The film received a theatrical release in France on 14 March 2018. In some territories, the film was released as <i>Ghostland</i> and in others as <i>Incident in a Ghostland</i>.</p>\n\n<h2>Reception</h2>\n<p>On review aggregator Rotten Tomatoes, the film holds an approval rating of 55%, based on 29 reviews with an average rating of 6/10. The site's critics' consensus reads: \"<i>Incident in a Ghost Land</i> may satisfy horror fans in search of a nasty kick, but it's narratively flawed and decidedly not for the squeamish.\" Metacritic gives the film a weighted average score of 44 out of 100, based on 4 critics, indicating \"mixed or average reviews\".</p><p><i>The Hollywood Reporter</i> declared the film to be a \"taut\u2014if somewhat corny\u2014slasher flick\" and it was \"neither for the faint of heart nor the sharp of mind\". The review noted the dialogue, finding that \"for [the director's] second film in English after 2012\u2019s <i>The Tall Man</i>, he could have brushed up more on his dialogue, which rings awfully flat.\" Dennis Harvey of <i>Variety</i> declared that <i>Ghostland</i> \"all seems slick, intense, and unpleasant in the same hollow way \"Martyrs\" did, because all the cruelty is so meaningless. Replacing that film's empty pseudo-mysticism are villains for whom Laugier doesn't bother providing any motivation or backstory.\" Simon Abrams of <i>The Village Voice</i> wrote that the film was a \"disturbing and effective critique of misogynist torture porn,\" it \"may sometimes play like a mindlessly gory slasher clone, but Laugier\u2019s tormented girls consistently prove to be stronger than their brutalized bodies.\"</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Ghostland</i> at IMDb</li>\n<li><i>Ghostland</i> at Box Office Mojo</li></ul>"
+}

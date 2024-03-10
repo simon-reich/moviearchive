@@ -1,0 +1,547 @@
+{
+    "adult": false,
+    "backdrop_path": "/x3Jxm7fic80rWRrA66aFVx9Y17V.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.amazon.co.uk/gp/video/detail/B06WLQVQ3H",
+    "id": 450530,
+    "imdb_id": "tt6268052",
+    "original_language": "en",
+    "original_title": "Oasis",
+    "overview": "A Scottish chaplain embarks on an epic journey through space. Based on Michel Faber's 'The Book Of Strange New Things'.",
+    "popularity": 7.909,
+    "poster_path": "/z6xugLPukxof4VE7k8J7cQzuER6.jpg",
+    "production_companies": [
+        {
+            "id": 5340,
+            "logo_path": "/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png",
+            "name": "Left Bank Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2017-03-17",
+    "revenue": 0,
+    "runtime": 60,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Oasis",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 19,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 512991,
+                "known_for_department": "Acting",
+                "name": "Richard Madden",
+                "original_name": "Richard Madden",
+                "popularity": 21.911,
+                "profile_path": "/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg",
+                "cast_id": 0,
+                "character": "Peter",
+                "credit_id": "58e38efb92514127e801f836",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1490051,
+                "known_for_department": "Acting",
+                "name": "Flora Spencer-Longhurst",
+                "original_name": "Flora Spencer-Longhurst",
+                "popularity": 6.49,
+                "profile_path": "/3Hv3N1y8uUaefMagHAf0C7pRmDG.jpg",
+                "cast_id": 1,
+                "character": "Bea",
+                "credit_id": "58e38f37c3a368732601d626",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1588665,
+                "known_for_department": "Acting",
+                "name": "Moshidi Motshegwa",
+                "original_name": "Moshidi Motshegwa",
+                "popularity": 1.549,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Lily",
+                "credit_id": "58e38f4392514127f601e9ee",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 934059,
+                "known_for_department": "Acting",
+                "name": "Aisl\u00edn McGuckin",
+                "original_name": "Aisl\u00edn McGuckin",
+                "popularity": 3.808,
+                "profile_path": "/pJsDGZSUgI7172mSG6Rxe4vbzkR.jpg",
+                "cast_id": 3,
+                "character": "Vivian Hades",
+                "credit_id": "58e38f58c3a368732601d63c",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 215460,
+                "known_for_department": "Acting",
+                "name": "Jonjo O'Neill",
+                "original_name": "Jonjo O'Neill",
+                "popularity": 5.417,
+                "profile_path": "/obFPEAqPXCUkfroc2kcxxpfzmUG.jpg",
+                "cast_id": 4,
+                "character": "David Morgan",
+                "credit_id": "58e38f64c3a36872ee01f30a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1496037,
+                "known_for_department": "Acting",
+                "name": "Lemogang Tsipa",
+                "original_name": "Lemogang Tsipa",
+                "popularity": 6.901,
+                "profile_path": "/tQcrjy2PdKYvzPAQEz0eTBgQ5Xi.jpg",
+                "cast_id": 5,
+                "character": "Male Nurse",
+                "credit_id": "58e38f7292514127f601ea0b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9640,
+                "known_for_department": "Acting",
+                "name": "Haley Joel Osment",
+                "original_name": "Haley Joel Osment",
+                "popularity": 27.059,
+                "profile_path": "/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg",
+                "cast_id": 6,
+                "character": "Sy",
+                "credit_id": "58e38f84c3a36872f601dd5d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43202,
+                "known_for_department": "Acting",
+                "name": "Antje Traue",
+                "original_name": "Antje Traue",
+                "popularity": 15.585,
+                "profile_path": "/xEwHBfAtcDCKGvo2lAD9xc55X7O.jpg",
+                "cast_id": 7,
+                "character": "Sara Keller",
+                "credit_id": "58e38f9192514127e801f8a0",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13633,
+                "known_for_department": "Acting",
+                "name": "Mark Addy",
+                "original_name": "Mark Addy",
+                "popularity": 14.056,
+                "profile_path": "/4ao6jitEAxmQDlJheEOKT8lhJI8.jpg",
+                "cast_id": 8,
+                "character": "Halloran",
+                "credit_id": "58e38f9fc3a3684a7901010f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1379821,
+                "known_for_department": "Acting",
+                "name": "Michael James Shaw",
+                "original_name": "Michael James Shaw",
+                "popularity": 9.423,
+                "profile_path": "/djaWcSCBpXBV2wirtH4YX6t0YqT.jpg",
+                "cast_id": 9,
+                "character": "B.G",
+                "credit_id": "58e38faa92514127f601ea2d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72118,
+                "known_for_department": "Acting",
+                "name": "Anil Kapoor",
+                "original_name": "Anil Kapoor",
+                "popularity": 6.337,
+                "profile_path": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg",
+                "cast_id": 10,
+                "character": "Vikram Danesh",
+                "credit_id": "58e38fb8c3a368730201c87e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 979851,
+                "known_for_department": "Acting",
+                "name": "Maureen Sebastian",
+                "original_name": "Maureen Sebastian",
+                "popularity": 1.653,
+                "profile_path": "/sHzTSJIYL000UaWu9zKYLCY7kry.jpg",
+                "cast_id": 11,
+                "character": "Alicia Reyes",
+                "credit_id": "58e38fc892514127e801f8c6",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1563431,
+                "known_for_department": "Acting",
+                "name": "Michael Shaeffer",
+                "original_name": "Michael Shaeffer",
+                "popularity": 2.662,
+                "profile_path": "/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg",
+                "cast_id": 12,
+                "character": "Phelps",
+                "credit_id": "58e38fd5c3a36872af01c20e",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 118034,
+                "known_for_department": "Acting",
+                "name": "Zawe Ashton",
+                "original_name": "Zawe Ashton",
+                "popularity": 14.751,
+                "profile_path": "/zbxVfvhPhCfgpgmWTdtHWurNqYu.jpg",
+                "cast_id": 13,
+                "character": "Severin",
+                "credit_id": "58e38fe0c3a368730201c8aa",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1386160,
+                "known_for_department": "Acting",
+                "name": "Stephen Jennings",
+                "original_name": "Stephen Jennings",
+                "popularity": 3.483,
+                "profile_path": "/4xolbERE7DgX4qQBzryoAs4DAZP.jpg",
+                "cast_id": 14,
+                "character": "Baker",
+                "credit_id": "58e3900e925141281901dc13",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 495,
+                "known_for_department": "Production",
+                "name": "Debra Zane",
+                "original_name": "Debra Zane",
+                "popularity": 1.807,
+                "profile_path": "/wiJJU7vSHNsW5HFkz2WX38Wg5xH.jpg",
+                "credit_id": "58e390abc3a3684a790101f6",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16364,
+                "known_for_department": "Art",
+                "name": "Michael Carlin",
+                "original_name": "Michael Carlin",
+                "popularity": 0.937,
+                "profile_path": null,
+                "credit_id": "58e390d3c3a3684aa400fa07",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17350,
+                "known_for_department": "Directing",
+                "name": "Kevin Macdonald",
+                "original_name": "Kevin Macdonald",
+                "popularity": 3.671,
+                "profile_path": "/oBbbBs0yVcznPB7MkKb5m1h9jRU.jpg",
+                "credit_id": "58e39161c3a36872f601dee8",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 35012,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michael O'Connor",
+                "original_name": "Michael O'Connor",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "58e39129c3a368731a01f938",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 139904,
+                "known_for_department": "Sound",
+                "name": "Martin Phipps",
+                "original_name": "Martin Phipps",
+                "popularity": 2.319,
+                "profile_path": null,
+                "credit_id": "58e3906dc3a36872ee01f3e7",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1147899,
+                "known_for_department": "Camera",
+                "name": "Christopher Ross",
+                "original_name": "Christopher Ross",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6025964cd05a03003bb535d7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1305790,
+                "known_for_department": "Production",
+                "name": "Rob Bullock",
+                "original_name": "Rob Bullock",
+                "popularity": 1.576,
+                "profile_path": null,
+                "credit_id": "58e3903a925141281901dc47",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1323533,
+                "known_for_department": "Writing",
+                "name": "Matt Charman",
+                "original_name": "Matt Charman",
+                "popularity": 3.498,
+                "profile_path": "/ypEg7WnK0vrHp19sHYTGEGrCP3i.jpg",
+                "credit_id": "58e39047c3a36872ee01f3c2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1323533,
+                "known_for_department": "Writing",
+                "name": "Matt Charman",
+                "original_name": "Matt Charman",
+                "popularity": 3.498,
+                "profile_path": "/ypEg7WnK0vrHp19sHYTGEGrCP3i.jpg",
+                "credit_id": "58e39177c3a36872ee01f4e0",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341724,
+                "known_for_department": "Writing",
+                "name": "Michel Faber",
+                "original_name": "Michel Faber",
+                "popularity": 2.09,
+                "profile_path": "/i0GBlKTq6tm8QZr3RXFqH7x1HlB.jpg",
+                "credit_id": "58e39195c3a36872f601df33",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1374167,
+                "known_for_department": "Visual Effects",
+                "name": "Willie Botha",
+                "original_name": "Willie Botha",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "58e390e0925141283501e693",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1486823,
+                "known_for_department": "Art",
+                "name": "Catherine Gaum",
+                "original_name": "Catherine Gaum",
+                "popularity": 0.706,
+                "profile_path": null,
+                "credit_id": "58e390fa92514127f001f689",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1533583,
+                "known_for_department": "Editing",
+                "name": "Yan Miles",
+                "original_name": "Yan Miles",
+                "popularity": 2.633,
+                "profile_path": null,
+                "credit_id": "58e3909592514127ec02016f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1634555,
+                "known_for_department": "Art",
+                "name": "Belinda Cusmano",
+                "original_name": "Belinda Cusmano",
+                "popularity": 0.979,
+                "profile_path": null,
+                "credit_id": "58e390ecc3a368732601d766",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1763942,
+                "known_for_department": "Production",
+                "name": "Lila Rawlings",
+                "original_name": "Lila Rawlings",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "58e3905b92514127f601eab3",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Oasis - VFX Breakdown",
+                "key": "UmMzhwnLrGA",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Behind the Scenes",
+                "official": false,
+                "published_at": "2017-04-05T11:30:26.000Z",
+                "id": "5dd22c4eb39e3500138a067c"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/x3Jxm7fic80rWRrA66aFVx9Y17V.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "en",
+                "file_path": "/z6xugLPukxof4VE7k8J7cQzuER6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9882,
+                "name": "space"
+            },
+            {
+                "id": 10093,
+                "name": "priest"
+            }
+        ]
+    },
+    "title_english": "Oasis",
+    "year": "2017",
+    "rated": "TV-MA",
+    "director_list": [
+        "Kevin Macdonald"
+    ],
+    "writer_list": [
+        "Michel Faber",
+        " Matt Charman"
+    ],
+    "main_cast": [
+        "Richard Madden",
+        " Anil Kapoor",
+        " Antje Traue"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        }
+    ],
+    "imdb_rating": "8.0",
+    "imdb_votes": "5,462",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oasis_(2017_film)",
+    "wikipedia_summary": "Oasis is a pilot episode of an intended 2017 British television drama series, based on Michel Faber's 2014 novel The Book of Strange New Things. It follows the adventures of a Scottish chaplain on an exoplanet colony. Oasis was part of the 2017 pilot season wave 8 by Amazon Video.\nThe series' central character is chaplain Peter Leigh, played by Richard Madden, who is unexpectedly asked to travel to a remote planet, where USIC, a mysterious company, is building the first permanent off-world human colony, as environmental collapse shows Earth's habitability for humans is coming to an end. On arrival at the colony, Leigh discovers there have been a series of accidents, which are being blamed on hallucinations some colonists are experiencing. The method of space travel to the presumed exoplanet is not shown, but it requires a launch from Earth with a traditional rocket. The exoplanet is presented as covered by a desert-like landscape, apparently without vegetation or other forms of life, but having natural underground water resources and a breathable atmosphere.\nIt is unclear how closely a prospective series would follow Faber's plot about a preacher teaching aliens about Christianity. The pilot premiered on Amazon Video on 17 March 2017; future episodes may be ordered depending on the popularity of the pilot. The pilot episode reached an average rating of 4.8/5 by Amazon Video users in December 2017.The pilot was written by Matt Charman (Oscar-nominated for Bridge of Spies) and directed by Kevin Macdonald.",
+    "wikipedia_plot": "In London, in 2032, society and public order have largely collapsed and there is a shortage of food and supplies. After the death of his wife Bea, chaplain Peter Leigh is contacted by USIC executive Vivian Hades and shown a video call by David Morgan, USIC co-owner\nand founder of the colony on the desert-like exoplanet, begging Peter to come to the colony. Peter travels to the colony and is initially received with scepticism by the crew as nobody had expected a chaplain to arrive, and there are doubts how a chaplain could be useful. Peter learns that there have been several lethal accidents that are believed to have been caused by hallucinations the colony members are experiencing, and that David Morgan has not returned from an exploration tour into the desert and is missing for several days. While Sara Keller goes jogging in the desert on one of the following mornings, she has a vision of her daughter (who actually is staying back on Earth) calling out for her mother in the dunes. Following this vision, Sara discovers the rover that had been used by David Morgan on his excursion, half sunk in the sand, with blood-stained wind shield. In the colony, Paul Halloran tells Peter about his racing horse that came to death on Halloran's wrongdoing, which he deeply regrets. Sara Keller insists that a search party should be formed to seek David Morgan, but Danesh, the colony's boss, refuses. The next day, while drilling for underground water, Paul Halloran experiences a vision of his dead horse, and attempting to reach for it, he steps into the operating drilling gear and is fatally wounded. The colony's crew and their leader, Danesh, conclude that the visions are not randomly caused by the environmental conditions but are some form of attack on the crew. Danesh invokes a state of alert and, with David Morgan missing, assumes the controlling position of the colony. Peter discovers a secret message in David Morgan's room and location coordinates. He takes a rover to go into the desert to the coordinate spot. He is stopped by Sara Keller, but she decides, apparently against Danesh's orders, to let Peter go and find out what happened to David Morgan. Peter ends up in a cave where he experiences an appearance of his deceased wife Bea.",
+    "wikipedia_plot_html": "<p>In London, in 2032, society and public order have largely collapsed and there is a shortage of food and supplies. After the death of his wife Bea, chaplain Peter Leigh is contacted by USIC executive Vivian Hades and shown a video call by David Morgan, USIC co-owner\nand founder of the colony on the desert-like exoplanet, begging Peter to come to the colony. Peter travels to the colony and is initially received with scepticism by the crew as nobody had expected a chaplain to arrive, and there are doubts how a chaplain could be useful. Peter learns that there have been several lethal accidents that are believed to have been caused by hallucinations the colony members are experiencing, and that David Morgan has not returned from an exploration tour into the desert and is missing for several days. While Sara Keller goes jogging in the desert on one of the following mornings, she has a vision of her daughter (who actually is staying back on Earth) calling out for her mother in the dunes. Following this vision, Sara discovers the rover that had been used by David Morgan on his excursion, half sunk in the sand, with blood-stained wind shield. In the colony, Paul Halloran tells Peter about his racing horse that came to death on Halloran's wrongdoing, which he deeply regrets. Sara Keller insists that a search party should be formed to seek David Morgan, but Danesh, the colony's boss, refuses. The next day, while drilling for underground water, Paul Halloran experiences a vision of his dead horse, and attempting to reach for it, he steps into the operating drilling gear and is fatally wounded. The colony's crew and their leader, Danesh, conclude that the visions are not randomly caused by the environmental conditions but are some form of attack on the crew. Danesh invokes a state of alert and, with David Morgan missing, assumes the controlling position of the colony. Peter discovers a secret message in David Morgan's room and location coordinates. He takes a rover to go into the desert to the coordinate spot. He is stopped by Sara Keller, but she decides, apparently against Danesh's orders, to let Peter go and find out what happened to David Morgan. Peter ends up in a cave where he experiences an appearance of his deceased wife Bea.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Oasis</b></i> is a pilot episode of an intended 2017 British television drama series, based on Michel Faber's 2014 novel <i>The Book of Strange New Things</i>. It follows the adventures of a Scottish chaplain on an exoplanet colony. <i>Oasis</i> was part of the 2017 pilot season wave 8 by Amazon Video.\n</p><p>The series' central character is chaplain Peter Leigh, played by Richard Madden, who is unexpectedly asked to travel to a remote planet, where USIC, a mysterious company, is building the first permanent off-world human colony, as environmental collapse shows Earth's habitability for humans is coming to an end. On arrival at the colony, Leigh discovers there have been a series of accidents, which are being blamed on hallucinations some colonists are experiencing. The method of space travel to the presumed exoplanet is not shown, but it requires a launch from Earth with a traditional rocket. The exoplanet is presented as covered by a desert-like landscape, apparently without vegetation or other forms of life, but having natural underground water resources and a breathable atmosphere.\n</p><p>It is unclear how closely a prospective series would follow Faber's plot about a preacher teaching aliens about Christianity. The pilot premiered on Amazon Video on 17 March 2017; future episodes may be ordered depending on the popularity of the pilot. The pilot episode reached an average rating of 4.8/5 by Amazon Video users in December 2017.</p><p>The pilot was written by Matt Charman (Oscar-nominated for <i>Bridge of Spies</i>) and directed by Kevin Macdonald.</p>\n\n<h2>Plot</h2>\n<p>In London, in 2032, society and public order have largely collapsed and there is a shortage of food and supplies. After the death of his wife Bea, chaplain Peter Leigh is contacted by USIC executive Vivian Hades and shown a video call by David Morgan, USIC co-owner\nand founder of the colony on the desert-like exoplanet, begging Peter to come to the colony. Peter travels to the colony and is initially received with scepticism by the crew as nobody had expected a chaplain to arrive, and there are doubts how a chaplain could be useful. Peter learns that there have been several lethal accidents that are believed to have been caused by hallucinations the colony members are experiencing, and that David Morgan has not returned from an exploration tour into the desert and is missing for several days. While Sara Keller goes jogging in the desert on one of the following mornings, she has a vision of her daughter (who actually is staying back on Earth) calling out for her mother in the dunes. Following this vision, Sara discovers the rover that had been used by David Morgan on his excursion, half sunk in the sand, with blood-stained wind shield. In the colony, Paul Halloran tells Peter about his racing horse that came to death on Halloran's wrongdoing, which he deeply regrets. Sara Keller insists that a search party should be formed to seek David Morgan, but Danesh, the colony's boss, refuses. The next day, while drilling for underground water, Paul Halloran experiences a vision of his dead horse, and attempting to reach for it, he steps into the operating drilling gear and is fatally wounded. The colony's crew and their leader, Danesh, conclude that the visions are not randomly caused by the environmental conditions but are some form of attack on the crew. Danesh invokes a state of alert and, with David Morgan missing, assumes the controlling position of the colony. Peter discovers a secret message in David Morgan's room and location coordinates. He takes a rover to go into the desert to the coordinate spot. He is stopped by Sara Keller, but she decides, apparently against Danesh's orders, to let Peter go and find out what happened to David Morgan. Peter ends up in a cave where he experiences an appearance of his deceased wife Bea.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Richard Madden as Peter Leigh, a chaplain</li>\n<li>Aisl\u00edn McGuckin as Vivian Hades</li>\n<li>Jonjo O'Neill as David Morgan, the colony's founder</li>\n<li>Anil Kapoor as Vikram Danesh Roy, the colony's chief executive</li>\n<li>Antje Traue as Sara Keller, the colony's security officer</li>\n<li>Michael James Shaw as BG</li>\n<li>Haley Joel Osment as Sy, a botanist</li>\n<li>Mark Addy as Paul Halloran, an engineer</li>\n<li>Zawe Ashton as Severin, the colony's medical doctor</li>\n<li>Maureen Sebastian as Alicia Reyes</li>\n<li>Flora Spencer-Longhurst as Bea, Peter Leigh's wife</li></ul>\n\n<h2>Production</h2>\n<dl><dt>Music</dt></dl><p>The musical score for <i>Oasis</i> was composed by Martin Phipps. The show's theme song, \"Human\", was written by the English singer-songwriter Rag'n'Bone Man. Additional songs used in the show include \"Walkin' After Midnight\" and \"Crazy\" by Patsy Cline, \"Wrong\" by Depeche Mode, and \"Halfway To Paradise\" by Billy Fury.</p>\n\n<h2>Reception</h2>\n<p>The pilot received a positive review from Beth Elderkin in <i>io9</i> who complimented MacDonald's direction and Madden's acting, but criticised that the other characters were poorly developed. Andrew Liptak wrote for <i>The Verge</i> that the show might become \"a compelling, thought-provoking story\" with themes similar to those of Stanis\u0142aw Lem's novel <i>Solaris</i> (wherein a psychologist travels to a space station orbiting an exoplanet as some crew members call out for help after inexplicable events) and the short-lived 2011 BBC drama <i>Outcasts</i> (about strange things happening on a colonized distant planet).</p><p>IndieWire rated the <i>Oasis</i> pilot a B\u2212.</p><p>On Rotten Tomatoes the pilot has an approval rating of 75% based on reviews from 12 critics.</p>\n\n<h2>See also</h2>\n<ul><li><i>The Expanse</i></li>\n<li><i>Dune</i> (sci-fi film set on a desert planet)</li>\n<li>Sci-fi with possible aliens or people posing as hallucinations or ghosts (etc.)\n<ul><li><i>Where No One Has Gone Before</i> (spaceship crew has visions at outer rim)</li>\n<li><i>Extant</i> (2015 TV series, 2 seasons)</li>\n<li><i>Spectral</i> (2016 film about war with apparitions man-made of Bose\u2013Einstein condensate)</li>\n<li><i>Interstellar</i> (2014 sci-fi film)</li>\n<li><i>2010: Odyssey Two</i> (1984 sci-fi film)</li></ul></li>\n<li>List of original programs distributed by Amazon#Pilots</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Oasis</i> at IMDb\u00a0</li></ul>"
+}

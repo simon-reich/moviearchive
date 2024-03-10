@@ -1,0 +1,974 @@
+{
+    "adult": false,
+    "backdrop_path": "/qDKmkuJhxJDLJFuUacWLdmya5TN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "http://www.netemosametemo.jp/",
+    "id": 487850,
+    "imdb_id": "tt7112154",
+    "original_language": "ja",
+    "original_title": "\u5bdd\u3066\u3082\u899a\u3081\u3066\u3082",
+    "overview": "College student Asako falls in love at first sight with Baku after meeting at a photography exhibit. Romance sparks between the two but doesn't last long when Baku suddenly disappears from her life. Two years later, she spots a man that bears a striking resemblance to him. Even though it is only his physical similarities to Baku that attracted her to him, she doesn't say so and starts dating the soft-spoken young man called Ryohei.",
+    "popularity": 11.939,
+    "poster_path": "/o1SyvJ8Nm912bKbo5rcYW8NtTvo.jpg",
+    "production_companies": [
+        {
+            "id": 10764,
+            "logo_path": null,
+            "name": "C&I entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 81418,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "name": "Nagoya Broadcasting Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4667,
+            "logo_path": "/kW2HfJ2R3xBfXRW6jdevcSGavHT.png",
+            "name": "Bitters End",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7003,
+            "logo_path": null,
+            "name": "Comme des Cin\u00e9mas",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2018-09-01",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "\u65e5\u672c\u8a9e"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Asako I & II",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 149,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1822694,
+                "known_for_department": "Acting",
+                "name": "Erika Karata",
+                "original_name": "Erika Karata",
+                "popularity": 9.008,
+                "profile_path": "/h9J86XWiV4XMwjBGlcT7oKyiBLx.jpg",
+                "cast_id": 3,
+                "character": "Asako",
+                "credit_id": "5acf60419251410c4803c2d7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1185386,
+                "known_for_department": "Acting",
+                "name": "Masahiro Higashide",
+                "original_name": "Masahiro Higashide",
+                "popularity": 6.282,
+                "profile_path": "/6YOBIQ22Y7ZCkuk50QRotvUAl7v.jpg",
+                "cast_id": 2,
+                "character": "Baku / Ryohei",
+                "credit_id": "5acf603ac3a3687e2705cb9d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1127076,
+                "known_for_department": "Acting",
+                "name": "Rio Yamashita",
+                "original_name": "Rio Yamashita",
+                "popularity": 13.656,
+                "profile_path": "/qa8zpuVEbGDuCY6oZApWWJY5Gjx.jpg",
+                "cast_id": 7,
+                "character": "Maya",
+                "credit_id": "5acf605c9251410bda0398ae",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1732483,
+                "known_for_department": "Acting",
+                "name": "Sairi Ito",
+                "original_name": "Sairi Ito",
+                "popularity": 6.148,
+                "profile_path": "/5E66xtBsjyL7mgfWxEdNJsDLZnb.jpg",
+                "cast_id": 5,
+                "character": "Haruyo",
+                "credit_id": "5acf604ec3a3687e72058b04",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1112526,
+                "known_for_department": "Acting",
+                "name": "Koji Seto",
+                "original_name": "Koji Seto",
+                "popularity": 4.689,
+                "profile_path": "/hWB2vHeOIZ9Eifp84hXFNLDzbp6.jpg",
+                "cast_id": 4,
+                "character": "Kushihashi",
+                "credit_id": "5acf6048c3a3687e48066d8f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1082696,
+                "known_for_department": "Acting",
+                "name": "Daichi Watanabe",
+                "original_name": "Daichi Watanabe",
+                "popularity": 12.683,
+                "profile_path": "/rdrUVGwoLR34cX6QOVAtNqZjwET.jpg",
+                "cast_id": 8,
+                "character": "Okazaki",
+                "credit_id": "5acf60629251410c06039bdf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1739044,
+                "known_for_department": "Acting",
+                "name": "Koji Nakamoto",
+                "original_name": "Koji Nakamoto",
+                "popularity": 1.105,
+                "profile_path": "/6jTvzl6HtYdPCqphvsTlHfVR9Mi.jpg",
+                "cast_id": 9,
+                "character": "Hirakawa",
+                "credit_id": "5acf606a0e0a267f97045fc5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1237839,
+                "known_for_department": "Acting",
+                "name": "Misako Tanaka",
+                "original_name": "Misako Tanaka",
+                "popularity": 7.71,
+                "profile_path": "/b9eCtwWzrVPOLvt4o6ljtIvBzPx.jpg",
+                "cast_id": 6,
+                "character": "Eiko",
+                "credit_id": "5acf60559251415a6d026c11",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1981149,
+                "known_for_department": "Acting",
+                "name": "Takeshi \u014cnishi",
+                "original_name": "Takeshi \u014cnishi",
+                "popularity": 1.535,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "",
+                "credit_id": "5c34cc6cc3a36828e765aa02",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1905332,
+                "known_for_department": "Acting",
+                "name": "Ariei Umefune",
+                "original_name": "Ariei Umefune",
+                "popularity": 0.766,
+                "profile_path": "/juSUACtFm8egUbr5VAfR8TAgB3L.jpg",
+                "cast_id": 20,
+                "character": "Art Exhibition Employee",
+                "credit_id": "5c34cc7ec3a36828e165bf2c",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1057923,
+                "known_for_department": "Acting",
+                "name": "Nao Okabe",
+                "original_name": "Nao Okabe",
+                "popularity": 3.571,
+                "profile_path": "/ddJLKFKGFIk6LpPaFZ8ExoelHY2.jpg",
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "5c34cc86c3a36828d665b051",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 224409,
+                "known_for_department": "Directing",
+                "name": "Atsushi Kaneshige",
+                "original_name": "Atsushi Kaneshige",
+                "popularity": 2.211,
+                "profile_path": "/jqMb5a1SwHltEcLTpNnhH8ydyIP.jpg",
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "5c34cca10e0a2654b8d8baa5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2211256,
+                "known_for_department": "Acting",
+                "name": "Takao Kin",
+                "original_name": "Takao Kin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "5c34ccdd0e0a2654b5d8c6c0",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2059039,
+                "known_for_department": "Acting",
+                "name": "Maki Nishiyama",
+                "original_name": "Maki Nishiyama",
+                "popularity": 1.62,
+                "profile_path": "/vJrqvzP4NldHdlT5pKfuR58v5T5.jpg",
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "610b449dd4d50900471abae4",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2211258,
+                "known_for_department": "Acting",
+                "name": "Atsushi Honma",
+                "original_name": "Atsushi Honma",
+                "popularity": 0.6,
+                "profile_path": "/y1Vs81AW5vScUMtCVouijfJhHja.jpg",
+                "cast_id": 25,
+                "character": "Ryohei's Colleague",
+                "credit_id": "5c34cd11c3a36828e165c633",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1496598,
+                "known_for_department": "Directing",
+                "name": "Tatsuo Kobayashi",
+                "original_name": "Tatsuo Kobayashi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Theater Employee",
+                "credit_id": "5ea83d6d07291c0025eb00fa",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1830998,
+                "known_for_department": "Acting",
+                "name": "Ryotaro Yonemura",
+                "original_name": "Ryotaro Yonemura",
+                "popularity": 2.28,
+                "profile_path": "/wg2sT0Hw8vltgUDhRQUxGasHoX9.jpg",
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "5c34cd6ac3a36828e165c66b",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1185435,
+                "known_for_department": "Acting",
+                "name": "Fusako Urabe",
+                "original_name": "Fusako Urabe",
+                "popularity": 2.787,
+                "profile_path": "/rmXUTHT22lJ5D6pNIqZS6EaX4Ti.jpg",
+                "cast_id": 28,
+                "character": "Cry Woman",
+                "credit_id": "5c34cd7dc3a36828ed659bb1",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 85003,
+                "known_for_department": "Writing",
+                "name": "Sachiko Tanaka",
+                "original_name": "Sachiko Tanaka",
+                "popularity": 1.378,
+                "profile_path": null,
+                "credit_id": "5b0256f1c3a3686c7100cded",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1487492,
+                "known_for_department": "Directing",
+                "name": "Ryusuke Hamaguchi",
+                "original_name": "Ryusuke Hamaguchi",
+                "popularity": 2.678,
+                "profile_path": "/dwvo9EKhFlIXoe8d7u9LtF0XnNR.jpg",
+                "credit_id": "5b0256e7c3a3686c8c0198ba",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1487492,
+                "known_for_department": "Directing",
+                "name": "Ryusuke Hamaguchi",
+                "original_name": "Ryusuke Hamaguchi",
+                "popularity": 2.678,
+                "profile_path": "/dwvo9EKhFlIXoe8d7u9LtF0XnNR.jpg",
+                "credit_id": "5a109eb992514138ed037abd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1565093,
+                "known_for_department": "Production",
+                "name": "Akihisa Yamamoto",
+                "original_name": "Akihisa Yamamoto",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5c34cdbcc3a36828d665b1a4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1634160,
+                "known_for_department": "Production",
+                "name": "Y\u00fbji Sadai",
+                "original_name": "Y\u00fbji Sadai",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b0257a60e0a2623c5011ccf",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1669908,
+                "known_for_department": "Camera",
+                "name": "Yasuyuki Sasaki",
+                "original_name": "Yasuyuki Sasaki",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "5b0257cec3a3686c6b00d3ea",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1838638,
+                "known_for_department": "Editing",
+                "name": "Azusa Yamazaki",
+                "original_name": "Azusa Yamazaki",
+                "popularity": 0.655,
+                "profile_path": null,
+                "credit_id": "5b02578d0e0a2623c901284e",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2021558,
+                "known_for_department": "Writing",
+                "name": "Tomoka Shibasaki",
+                "original_name": "Tomoka Shibasaki",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5acf602c0e0a267f97045f87",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2047033,
+                "known_for_department": "Sound",
+                "name": "tofubeats",
+                "original_name": "tofubeats",
+                "popularity": 0.714,
+                "profile_path": "/e470SX6dvxt1RnV9gJB7E6ZCFsA.jpg",
+                "credit_id": "5b0256fac3a3686c9200c4c4",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2047033,
+                "known_for_department": "Sound",
+                "name": "tofubeats",
+                "original_name": "tofubeats",
+                "popularity": 0.714,
+                "profile_path": "/e470SX6dvxt1RnV9gJB7E6ZCFsA.jpg",
+                "credit_id": "642740eb01b1ca0113cb4bf9",
+                "department": "Sound",
+                "job": "Theme Song Performance"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2047034,
+                "known_for_department": "Production",
+                "name": "Teruhisa Yamamoto",
+                "original_name": "Teruhisa Yamamoto",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "5b0257b1c3a3686c8f00f601",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2047035,
+                "known_for_department": "Production",
+                "name": "Yasuhiko Hattori",
+                "original_name": "Yasuhiko Hattori",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b0257bcc3a3686c8f00f621",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2161750,
+                "known_for_department": "Production",
+                "name": "Antoine Jouve",
+                "original_name": "Antoine Jouve",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "642740cdc04429026b12d324",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3988366,
+                "known_for_department": "Directing",
+                "name": "Yu Koreyasu",
+                "original_name": "Yu Koreyasu",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "64274122c044290213054848",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Asako I & II | Official Trailer",
+                "key": "Qct17KcHlx8",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2019-02-14T17:13:12.000Z",
+                "id": "5d9a433592e55b002348bd31"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "ASAKO I & II Clip | TIFF 2018",
+                "key": "1OYoAoJWZqI",
+                "published_at": "2018-08-14T14:00:00.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": false,
+                "id": "5bda75360e0a2603b600673e"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Asoko I and II: Netemo Sametemo new clip official from Cannes - 1/2",
+                "key": "7dZIy-0o9ZQ",
+                "published_at": "2018-05-14T10:09:23.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Clip",
+                "official": false,
+                "id": "5bda75b90e0a2603b1006601"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/qDKmkuJhxJDLJFuUacWLdmya5TN.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/2dLwoceqSdEQ2hr5EzYoTGaUrZZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/n1OtYFjY0AVRCh617JN36Guvp0W.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "ja",
+                "file_path": "/72WXhWskda2QHSZUjbpJl7P3S4A.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "sv",
+                "file_path": "/1yWWd651i9LadkPdzzLoCmdBu4N.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2048,
+                "iso_639_1": "ja",
+                "file_path": "/mlMMDuPIC5y4mtzIvwtjjLKcFKD.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1366
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2048,
+                "iso_639_1": "ja",
+                "file_path": "/7ZBCdGRlL2MNlC17duqc7g7iDLG.jpg",
+                "vote_average": 5.394,
+                "vote_count": 10,
+                "width": 1366
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2048,
+                "iso_639_1": "ja",
+                "file_path": "/yoHpzozV0xgTPPxoQ71OHnl8fMx.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1366
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/80tJPThtAfv2seFK0ZeDr4Cyj6J.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ko",
+                "file_path": "/tDuXhTiEyjt721MDYQ2Km5G0Uej.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/o1SyvJ8Nm912bKbo5rcYW8NtTvo.jpg",
+                "vote_average": 5.264,
+                "vote_count": 8,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/lPzKGThvahw76shQA0LiTySRsR0.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1978
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "ja",
+                "file_path": "/oaKJys1ATT8GTphkX4WlUhi2pNB.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/gDutuqbwVSF4NkxJLeAMCoERSTY.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1978
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1772,
+                "iso_639_1": "en",
+                "file_path": "/aOxfXSpWrTSszS3vGVMqMHZ7SeC.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1772,
+                "iso_639_1": "en",
+                "file_path": "/hAyBwJWLE6Geh3WoBF7gzQn7cnt.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.735,
+                "height": 800,
+                "iso_639_1": "fr",
+                "file_path": "/e5I89OB22L7kRJWEdJpW5yhVEfN.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 588
+            },
+            {
+                "aspect_ratio": 0.734,
+                "height": 1244,
+                "iso_639_1": "fr",
+                "file_path": "/xSuk1v5smBRV9ahzxLbqWdhBxwA.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 913
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.708,
+                "height": 2048,
+                "iso_639_1": "ja",
+                "file_path": "/zGtgU2zK7ncJa2TyzNaf55r64Tw.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1450
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1772,
+                "iso_639_1": "en",
+                "file_path": "/ktXRH4abKGBktp3JavifH3aRTha.jpg",
+                "vote_average": 5.1,
+                "vote_count": 13,
+                "width": 1182
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 800,
+                "iso_639_1": "en",
+                "file_path": "/ze8HHKzvXRNqaC6GSI6ZhdcCKIt.jpg",
+                "vote_average": 5.08,
+                "vote_count": 9,
+                "width": 533
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/3j9wXz4jWOT8Ac0Vse6qxr1zEvF.jpg",
+                "vote_average": 5.068,
+                "vote_count": 7,
+                "width": 667
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/d5ZuEP7lYl4SUkd2krpys1pIUjZ.jpg",
+                "vote_average": 5.022,
+                "vote_count": 10,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2880,
+                "iso_639_1": "en",
+                "file_path": "/xXcBAhfbQwNf0zamOsNngUedkXS.jpg",
+                "vote_average": 4.968,
+                "vote_count": 11,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 0.677,
+                "height": 1772,
+                "iso_639_1": "en",
+                "file_path": "/gmgyBkqTXAINADrEP6DAbL8e05y.jpg",
+                "vote_average": 4.968,
+                "vote_count": 11,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.749,
+                "height": 1276,
+                "iso_639_1": "en",
+                "file_path": "/oy01VWqEvCkhXiUsosXtS8Ve1D0.jpg",
+                "vote_average": 4.866,
+                "vote_count": 6,
+                "width": 956
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2268,
+                "iso_639_1": "ko",
+                "file_path": "/wy4JSkmnjPH6z1P7iASFN5kJoI7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1583
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/xsqnzhNY3i1MBqtqyCPIPa5DvcL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1978
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/taTM8aWeGYiJgSRBqJrKjZPZ9ko.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1978
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/3kQyzD9VpX7NVy7FguQOL5UDfdu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1978
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pl",
+                "file_path": "/wM23OIftvb94q7fVEYdIj6EOo1L.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.698,
+                "height": 2835,
+                "iso_639_1": "ko",
+                "file_path": "/e4llaXtClc1cMyAWNBKSr1VfJPo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1978
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1932,
+                "iso_639_1": "pt",
+                "file_path": "/ndANz61q28Flwj7zS2R6bpTlw93.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1354
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1080,
+                "iso_639_1": "sv",
+                "file_path": "/dbrPX9ssXxQWgazBYpgFq9rDj4p.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 720
+            },
+            {
+                "aspect_ratio": 0.715,
+                "height": 800,
+                "iso_639_1": "zh",
+                "file_path": "/8gavwMFbDHwszLOM3RnftSF4OzF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 572
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 2175,
+                "iso_639_1": null,
+                "file_path": "/psMWVBryvYxcgk0wToN1JJQvMAk.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1537
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2305,
+                "iso_639_1": "ja",
+                "file_path": "/iRM1UoqZHIIe0NH1FsJF9sz7rQo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1537
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2262,
+                "iso_639_1": "ja",
+                "file_path": "/kIgprcuOxKZIMUnbTjShUZ31NET.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1508
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1932,
+                "iso_639_1": "pt",
+                "file_path": "/wbp7fmb9Z9qrpipksC1XywIvMqr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1288
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "zh",
+                "file_path": "/vpDoM0nSpu7SzijiurXAHcJa96V.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "title_english": "Asako I & II",
+    "year": "2018",
+    "rated": "Not Rated",
+    "director_list": [
+        "Ry\u00fbsuke Hamaguchi"
+    ],
+    "writer_list": [
+        "Tomoka Shibasaki",
+        " Sachiko Tanaka",
+        " Ry\u00fbsuke Hamaguchi"
+    ],
+    "main_cast": [
+        "Masahiro Higashide",
+        " Erika Karata",
+        " Sairi It\u00f4"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "imdb_rating": "7.0",
+    "imdb_votes": "5,036",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asako_I_%26_II",
+    "wikipedia_summary": "Asako I & II (\u5bdd\u3066\u3082\u899a\u3081\u3066\u3082, Netemo Sametemo, \"whether asleep or awake\") is a 2018 Japanese romance drama film directed by Ry\u016bsuke Hamaguchi, starring Masahiro Higashide and Erika Karata. It was selected to compete for the Palme d'Or at the 2018 Cannes Film Festival. It is based on a 2010 novel by Tomoka Shibasaki about a woman who falls in love with two men who look the same but act completely differently.",
+    "wikipedia_plot": "Asako, a young woman who lives in Osaka, experiences love at first sight when she encounters Baku. The two begin a whirlwind relationship against the advice from Asako's friend, who only believes Baku will hurt her. After spending the night at Baku's place, Asako awakens to find him missing. It's explained that Baku suddenly disappears from time to time and it's been that way since his father died. Baku returns to Asako's avail, and they embrace. Baku tells Asako that he will always return to her. A voice-over explains that Baku suddenly disappears once again, and they lose touch with each other.\nTwo years later, Asako is living in Tokyo and works at a coffee shop. She encounters a businessman named Ryohei, who works at a nearby Japanese sake company. He is nearly identical to Baku in physical appearance, and Asako believes it is him at first and even verbally greets him with Baku's name. Only after some tentative verbal exchange does Asako accept that it is not Baku but another young man. Ryohei doesn't understand why Asako treats him oddly and with tentativeness. It isn't until one night when he unexpectedly helps her friend get into an art show, that he begins to learn more about Asako.\nAs they stop for coffee after the show, Asako excuses herself suddenly to depart, and her friend then suggests that he invite one of his friends to come visit for dinner and to bring a blind date for her, so that Ryohei can meet with Asako again. Ryohei is sufficiently taken with Asako that he finds a friend to invite for the dinner and discovers that Asako's friend is currently playing a part in Chekhov's The Sea Gull. Ryohei's friend and Asako's friend seem to quarrel about the best way to act the parts in Chekhov's play, though they eventually stop quarrelling and the four have dinner together. After the evening is over, Ryohei continues to try to win Asako over and eventually succeeds.\nFive years later, Asako and Ryohei are living together happily. One day, Asako learns that Baku has become a famous actor and model. She musters the courage to tell Ryohei about how her initial romantic interest in him was due to his resemblance to Baku, and he gracefully accepts her confession, allowing her to find closure. However, Baku suddenly shows up at her apartment and announces his return the next day. On the same evening, Baku appears at a restaurant where Asako and Ryohei's friends are celebrating their engagement and asks Asako to leave Ryohei in the middle of dinner. Asako discovers that her feelings to Baku are still unresolved and starkly leaves with him, upsetting Ryohei. They travel north together to stay at Baku's parents' home which is currently uninhabited for the season, but, during the trip, Asako realizes she was superficial for choosing him over Ryohei. In the end, Asako returns to Ryohei, but he rejects her company. Both of them come to the conclusion that Asako has hurt Ryohei to the point that he may never be able to trust her again, and she accepts this as a consequence to their relationship.",
+    "wikipedia_plot_html": "<p>Asako, a young woman who lives in Osaka, experiences love at first sight when she encounters Baku. The two begin a whirlwind relationship against the advice from Asako's friend, who only believes Baku will hurt her. After spending the night at Baku's place, Asako awakens to find him missing. It's explained that Baku suddenly disappears from time to time and it's been that way since his father died. Baku returns to Asako's avail, and they embrace. Baku tells Asako that he will always return to her. A voice-over explains that Baku suddenly disappears once again, and they lose touch with each other.\n</p><p>Two years later, Asako is living in Tokyo and works at a coffee shop. She encounters a businessman named Ryohei, who works at a nearby Japanese sake company. He is nearly identical to Baku in physical appearance, and Asako believes it is him at first and even verbally greets him with Baku's name. Only after some tentative verbal exchange does Asako accept that it is not Baku but another young man. Ryohei doesn't understand why Asako treats him oddly and with tentativeness. It isn't until one night when he unexpectedly helps her friend get into an art show, that he begins to learn more about Asako.\n</p><p>As they stop for coffee after the show, Asako excuses herself suddenly to depart, and her friend then suggests that he invite one of his friends to come visit for dinner and to bring a blind date for her, so that Ryohei can meet with Asako again. Ryohei is sufficiently taken with Asako that he finds a friend to invite for the dinner and discovers that Asako's friend is currently playing a part in Chekhov's <i>The Sea Gull</i>. Ryohei's friend and Asako's friend seem to quarrel about the best way to act the parts in Chekhov's play, though they eventually stop quarrelling and the four have dinner together. After the evening is over, Ryohei continues to try to win Asako over and eventually succeeds.\n</p><p>Five years later, Asako and Ryohei are living together happily. One day, Asako learns that Baku has become a famous actor and model. She musters the courage to tell Ryohei about how her initial romantic interest in him was due to his resemblance to Baku, and he gracefully accepts her confession, allowing her to find closure. However, Baku suddenly shows up at her apartment and announces his return the next day. On the same evening, Baku appears at a restaurant where Asako and Ryohei's friends are celebrating their engagement and asks Asako to leave Ryohei in the middle of dinner. Asako discovers that her feelings to Baku are still unresolved and starkly leaves with him, upsetting Ryohei. They travel north together to stay at Baku's parents' home which is currently uninhabited for the season, but, during the trip, Asako realizes she was superficial for choosing him over Ryohei. In the end, Asako returns to Ryohei, but he rejects her company. Both of them come to the conclusion that Asako has hurt Ryohei to the point that he may never be able to trust her again, and she accepts this as a consequence to their relationship.\n</p>",
+    "wikipedia_critics": "On review aggregator website Rotten Tomatoes, the film holds an approval rating of 78% based on 49 reviews, and an average rating of 7.3/10. The website's critical consensus reads, \"Asako I & II's high-concept premise is anchored by thought-provoking themes and confident, compelling work from director Ryusuke Hamaguchi.\" On Metacritic, the film has a weighted average score of 68 out of 100, based on 20 critics, indicating \"generally favorable reviews\".Peter Bradshaw of The Guardian called the film \"an amusing essay in amorous delusion.\" Yannick Vely, writing for Paris Match, praised Hamaguchi's sympathetic portrayal of characters but suggested that some plot twists might appear forced to Western viewers. Eric Kohn of IndieWire wrote: \"It's refreshing to see a high-concept movie that doesn't assume every love story has to reach a tidy conclusion, and implies that some happy endings are best left open-ended.\"",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Asako I &amp; II</b></i><span> (<span title=\"Japanese-language text\"><span lang=\"ja\">\u5bdd\u3066\u3082\u899a\u3081\u3066\u3082</span></span>, <span title=\"Hepburn transliteration\"><i lang=\"ja-Latn\">Netemo Sametemo</i></span>, \"whether asleep or awake\")</span> is a 2018 Japanese romance drama film directed by Ry\u016bsuke Hamaguchi, starring Masahiro Higashide and Erika Karata. It was selected to compete for the Palme d'Or at the 2018 Cannes Film Festival. It is based on a 2010 novel by Tomoka Shibasaki about a woman who falls in love with two men who look the same but act completely differently.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Asako, a young woman who lives in Osaka, experiences love at first sight when she encounters Baku. The two begin a whirlwind relationship against the advice from Asako's friend, who only believes Baku will hurt her. After spending the night at Baku's place, Asako awakens to find him missing. It's explained that Baku suddenly disappears from time to time and it's been that way since his father died. Baku returns to Asako's avail, and they embrace. Baku tells Asako that he will always return to her. A voice-over explains that Baku suddenly disappears once again, and they lose touch with each other.\n</p><p>Two years later, Asako is living in Tokyo and works at a coffee shop. She encounters a businessman named Ryohei, who works at a nearby Japanese sake company. He is nearly identical to Baku in physical appearance, and Asako believes it is him at first and even verbally greets him with Baku's name. Only after some tentative verbal exchange does Asako accept that it is not Baku but another young man. Ryohei doesn't understand why Asako treats him oddly and with tentativeness. It isn't until one night when he unexpectedly helps her friend get into an art show, that he begins to learn more about Asako.\n</p><p>As they stop for coffee after the show, Asako excuses herself suddenly to depart, and her friend then suggests that he invite one of his friends to come visit for dinner and to bring a blind date for her, so that Ryohei can meet with Asako again. Ryohei is sufficiently taken with Asako that he finds a friend to invite for the dinner and discovers that Asako's friend is currently playing a part in Chekhov's <i>The Sea Gull</i>. Ryohei's friend and Asako's friend seem to quarrel about the best way to act the parts in Chekhov's play, though they eventually stop quarrelling and the four have dinner together. After the evening is over, Ryohei continues to try to win Asako over and eventually succeeds.\n</p><p>Five years later, Asako and Ryohei are living together happily. One day, Asako learns that Baku has become a famous actor and model. She musters the courage to tell Ryohei about how her initial romantic interest in him was due to his resemblance to Baku, and he gracefully accepts her confession, allowing her to find closure. However, Baku suddenly shows up at her apartment and announces his return the next day. On the same evening, Baku appears at a restaurant where Asako and Ryohei's friends are celebrating their engagement and asks Asako to leave Ryohei in the middle of dinner. Asako discovers that her feelings to Baku are still unresolved and starkly leaves with him, upsetting Ryohei. They travel north together to stay at Baku's parents' home which is currently uninhabited for the season, but, during the trip, Asako realizes she was superficial for choosing him over Ryohei. In the end, Asako returns to Ryohei, but he rejects her company. Both of them come to the conclusion that Asako has hurt Ryohei to the point that he may never be able to trust her again, and she accepts this as a consequence to their relationship.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Masahiro Higashide as Ryohei Maruko / Baku Torii</li>\n<li>Erika Karata as Asako Izumiya</li>\n<li>K\u014dji Seto as Kosuke Kushihashi</li>\n<li>Rio Yamashita as Maya Suzuki</li>\n<li>Sairi Ito as Haruyo Shima</li>\n<li>Daichi Watanabe as Nobuyuki Okazaki</li>\n<li>K\u014dji Nakamoto as Hirakawa</li>\n<li>Misako Tanaka as Eiko Okazaki</li></ul>\n\n<h2>Release</h2>\n<p>The film was screened at the 2018 Cannes Film Festival in competition on 14 May 2018. It was released in Japan on 1 September 2018, and in the United States by Grasshopper Film.\n</p>\n\n<h2>Critical response</h2>\n<p>On review aggregator website Rotten Tomatoes, the film holds an approval rating of 78% based on 49 reviews, and an average rating of 7.3/10. The website's critical consensus reads, \"<i>Asako I &amp; II</i><span>'</span>s high-concept premise is anchored by thought-provoking themes and confident, compelling work from director Ryusuke Hamaguchi.\" On Metacritic, the film has a weighted average score of 68 out of 100, based on 20 critics, indicating \"generally favorable reviews\".</p><p>Peter Bradshaw of <i>The Guardian</i> called the film \"an amusing essay in amorous delusion.\" Yannick Vely, writing for <i>Paris Match</i>, praised Hamaguchi's sympathetic portrayal of characters but suggested that some plot twists might appear forced to Western viewers. Eric Kohn of <i>IndieWire</i> wrote: \"It's refreshing to see a high-concept movie that doesn't assume every love story has to reach a tidy conclusion, and implies that some happy endings are best left open-ended.\"</p>\n\n<h2>Accolades</h2>\n<h2>References</h2>\n<h2>Further reading</h2>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFCronk2018\" class=\"citation web cs1\">Cronk, Jordan (23 May 2018). \"Cannes Interview: Ryusuke Hamaguchi\". <i>Film Comment</i>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Film+Comment&amp;rft.atitle=Cannes+Interview%3A+Ryusuke+Hamaguchi&amp;rft.date=2018-05-23&amp;rft.aulast=Cronk&amp;rft.aufirst=Jordan&amp;rft_id=https%3A%2F%2Fwww.filmcomment.com%2Fblog%2Finterview-ryusuke-hamaguchi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsako+I+%26+II\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFSchilling2018\" class=\"citation web cs1\">Schilling, Mark (5 September 2018). \"Ryusuke Hamaguchi's Cannes submission tackles the difficulties of relationships\". <i>The Japan Times</i>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Japan+Times&amp;rft.atitle=Ryusuke+Hamaguchi%27s+Cannes+submission+tackles+the+difficulties+of+relationships&amp;rft.date=2018-09-05&amp;rft.aulast=Schilling&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fwww.japantimes.co.jp%2Fculture%2F2018%2F09%2F05%2Ffilms%2Fryusuke-hamaguchis-cannes-submission-tackles-difficulties-relationships%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsako+I+%26+II\"></span></li></ul>\n\n<h2>External links</h2>\n<ul><li><span><span>Official website</span></span> <span>(in Japanese)</span></li>\n<li><i>Asako I &amp; II</i> at IMDb</li></ul>\n\n<!-- \nNewPP limit report\nParsed by mw1423\nCached time: 20231202172739\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.473 seconds\nReal time usage: 0.625 seconds\nPreprocessor visited node count: 2468/1000000\nPost\u2010expand include size: 63576/2097152 bytes\nTemplate argument size: 4394/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 2/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 63357/5000000 bytes\nLua time usage: 0.311/10.000 seconds\nLua memory usage: 22915389/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  563.693      1 -total\n 24.54%  138.327      1 Template:Reflist\n 21.11%  119.000     15 Template:Cite_web\n 19.71%  111.110      1 Template:Nihongo\n 13.60%   76.661      1 Template:Infobox_film\n 11.97%   67.476      2 Template:Navbox\n 11.78%   66.390      1 Template:Ryusuke_Hamaguchi\n 11.53%   64.985      1 Template:Infobox\n  9.67%   54.521      1 Template:Short_description\n  7.29%   41.088      1 Template:IMDb_title\n-->"
+}

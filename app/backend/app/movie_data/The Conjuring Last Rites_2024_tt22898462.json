@@ -1,0 +1,289 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+        "id": 313086,
+        "name": "The Conjuring Collection",
+        "poster_path": "/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
+        "backdrop_path": "/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 1038392,
+    "imdb_id": "tt22898462",
+    "original_language": "en",
+    "original_title": "The Conjuring: Last Rites",
+    "overview": "The next chapter in the story of Ed and Lorraine Warren.",
+    "popularity": 15.892,
+    "poster_path": "/9a58oKKJejkohIXO6wGRb45A3ui.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 76907,
+            "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+            "name": "Atomic Monster",
+            "origin_country": "US"
+        },
+        {
+            "id": 11565,
+            "logo_path": "/pIjpmnlA2lpppuoGlKFJ2kKdPbK.png",
+            "name": "The Safran Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "The Conjuring: Last Rites",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17178,
+                "known_for_department": "Acting",
+                "name": "Patrick Wilson",
+                "original_name": "Patrick Wilson",
+                "popularity": 60.676,
+                "profile_path": "/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg",
+                "cast_id": 4,
+                "character": "Ed Warren",
+                "credit_id": "63532efc9369a2007c2c2605",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21657,
+                "known_for_department": "Acting",
+                "name": "Vera Farmiga",
+                "original_name": "Vera Farmiga",
+                "popularity": 65.997,
+                "profile_path": "/zpdjQwP68TCVjg4eumyPSi3Z13p.jpg",
+                "cast_id": 5,
+                "character": "Lorraine Warren",
+                "credit_id": "63532f0f9590e3007afb754b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 527313,
+                "known_for_department": "Acting",
+                "name": "Taissa Farmiga",
+                "original_name": "Taissa Farmiga",
+                "popularity": 29.554,
+                "profile_path": "/kC2Movbs6uEF8DdDhvyHizQHuru.jpg",
+                "cast_id": 8,
+                "character": "Sister Irene",
+                "credit_id": "645f5c9ee3fa2f0166207333",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80619,
+                "known_for_department": "Acting",
+                "name": "Steve Coulter",
+                "original_name": "Steve Coulter",
+                "popularity": 13.677,
+                "profile_path": "/5bK6a5Cfy5DxVoNpzt4nbhUUW85.jpg",
+                "cast_id": 9,
+                "character": "Father Gordon",
+                "credit_id": "651bbcbc93bd690138ff0bf2",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 566080,
+                "known_for_department": "Acting",
+                "name": "Jonas Bloquet",
+                "original_name": "Jonas Bloquet",
+                "popularity": 23.203,
+                "profile_path": "/pzQAv6ghx5hc4gSpxHII0oUzqkL.jpg",
+                "cast_id": 10,
+                "character": "Maurice Theriault",
+                "credit_id": "651bbd5393bd6900fe4a9ce5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 87287,
+                "known_for_department": "Acting",
+                "name": "Bonnie Aarons",
+                "original_name": "Bonnie Aarons",
+                "popularity": 26.248,
+                "profile_path": "/iEtWuoXKx4ZKbIWwJp1V76Heavy.jpg",
+                "cast_id": 11,
+                "character": "The Nun / Valak",
+                "credit_id": "651bbd8d93bd6900fe4a9d09",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2127,
+                "known_for_department": "Directing",
+                "name": "James Wan",
+                "original_name": "James Wan",
+                "popularity": 24.128,
+                "profile_path": "/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg",
+                "credit_id": "63532f965f4b73007b85397e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52259,
+                "known_for_department": "Production",
+                "name": "Peter Safran",
+                "original_name": "Peter Safran",
+                "popularity": 7.489,
+                "profile_path": "/fi7kdDDUdNrn5K6vmLkLrLarQQs.jpg",
+                "credit_id": "63532fa2880c92007e6fd269",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142686,
+                "known_for_department": "Writing",
+                "name": "David Leslie Johnson-McGoldrick",
+                "original_name": "David Leslie Johnson-McGoldrick",
+                "popularity": 11.181,
+                "profile_path": "/4asz1xDkGKMferQ2L9Gexd9CPvs.jpg",
+                "credit_id": "63532ea7c99826008297f0f7",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "videos": {
+        "results": []
+    },
+    "images": {
+        "backdrops": [],
+        "logos": [
+            {
+                "aspect_ratio": 3.279,
+                "height": 915,
+                "iso_639_1": "en",
+                "file_path": "/45eUDVX0gsUJuUTudCfxPicyuiI.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/9a58oKKJejkohIXO6wGRb45A3ui.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/p3UxJt1AOfsGKvpAHCpnNqabPvs.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/g0BnAsPFvuoO4sHI4e0Aoq0FLkO.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1200
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9663,
+                "name": "sequel"
+            },
+            {
+                "id": 323566,
+                "name": "the conjuring universe"
+            }
+        ]
+    },
+    "title_english": "The Conjuring: Last Rites",
+    "year": "2024",
+    "rated": "N/A",
+    "director_list": [
+        "N/A"
+    ],
+    "writer_list": [
+        "David Leslie Johnson-McGoldrick"
+    ],
+    "main_cast": [
+        "Vera Farmiga",
+        " Patrick Wilson"
+    ],
+    "ratings": [],
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Conjuring_Universe",
+    "wikipedia_summary": "The Conjuring Universe is an American horror franchise and shared universe centered on a series of supernatural horror films. The franchise is produced by New Line Cinema, the Safran Company, and Atomic Monster, and distributed by Warner Bros. Pictures. The films present a dramatization of the supposed real-life adventures of Ed and Lorraine Warren, paranormal investigators and authors associated with prominent yet controversial cases of haunting. The main series follows their attempts to assist people who find themselves harassed by spirits, while the spin-off films focus on the origins of some of the entities the Warrens have encountered.\nThe franchise has been commercially successful, having grossed a combined $2.1 billion against a combined budget of $208 million, becoming the highest-grossing horror franchise to date. The franchise has received mixed reviews.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\"> \n</p><p class=\"mw-empty-elt\">\n</p>\n<p><b><i>The Conjuring</i> Universe</b> is an American horror franchise and shared universe centered on a series of supernatural horror films. The franchise is produced by New Line Cinema, the Safran Company, and Atomic Monster, and distributed by Warner Bros. Pictures. The films present a dramatization of the supposed real-life adventures of Ed and Lorraine Warren, paranormal investigators and authors associated with prominent yet controversial cases of haunting. The main series follows their attempts to assist people who find themselves harassed by spirits, while the spin-off films focus on the origins of some of the entities the Warrens have encountered.\n</p><p>The franchise has been commercially successful, having grossed a combined $2.1<span>\u00a0</span>billion against a combined budget of $208<span>\u00a0</span>million, becoming the highest-grossing horror franchise to date. The franchise has received mixed reviews.\n</p>\n\n<h2>Overview</h2>\n<p>The franchise consists of three films in the main series: <i>The Conjuring</i> (2013), <i>The Conjuring 2</i> (2016), and <i>The Conjuring: The Devil Made Me Do It</i> (2021). The first two films were directed by James Wan, while the third film was directed by Michael Chaves. The first two installments revolve around two of the many famous paranormal cases of which the Warrens have been a part, with the first film depicting the case of the Perron family, who are experiencing disturbing events in their newly acquired house in Rhode Island. The second entry focused on the controversial case of the Enfield poltergeist while briefly referring to the events that inspired <i>The Amityville Horror</i>. A sequel to the two films and the third entry in the main series, <i>The Conjuring: The Devil Made Me Do It</i>, was released on June 4, 2021, and revolves around the trial of Arne Cheyenne Johnson, a murder that took place in 1981 in Connecticut.</p><p>The franchise also includes <i>Annabelle</i> (2014), a prequel directed by <i>The Conjuring</i> cinematographer John R. Leonetti and produced by Peter Safran and Wan, which revealed the events of the doll of the same name before the Warrens came into contact with it at the start of the first film. A prequel, <i>Annabelle: Creation</i> (2017), directed by David F. Sandberg shows the events of the origins of the demon-manipulated doll. A third <i>Annabelle</i> film, <i>Annabelle Comes Home</i>, was released on June 26, 2019, with franchise writer Gary Dauberman making his directorial debut from a script he wrote. Producer Wan has likened the story to <i>Night at the Museum</i>, where Annabelle activates the haunted objects in the Warrens' artifact room.</p><p><i>The Nun</i>, a spiritual prequel based on a character introduced in <i>The Conjuring 2</i>, was released in 2018. The plot focused on the origins of the demonic nun Valak before coming in contact with the Warrens. A sequel, <i>The Nun II</i>, was released on September 8, 2023, with Michael Chaves directing and Ian Goldberg, Richard Naing, and Akela Cooper serving as writers for the film.</p><p>Wan stated that they sought accuracy to real life in making the main films, while the spin-offs allowed them to \"just explore different sub-genres in the horror genre\".</p><p>The first two <i>Conjuring</i> films were met with generally positive reviews by both critics and horror fans, earning praise for Wan's directing and main cast performances, particularly Patrick Wilson and Vera Farmiga's on-screen chemistry as Ed and Lorraine. Critics also acknowledged the effect the films have had on popular culture as well as in the production of modern horror films. The third entry received mixed reviews from critics, who praised the performances of Wilson and Farmiga but noted it as weaker than the previous <i>Conjuring</i> installments. The first entry in the <i>Annabelle</i> film series received more mixed to negative reviews, considered an inferior film to its forerunner. <i>Annabelle: Creation</i> was met with generally positive reviews. <i>Annabelle Comes Home</i> and <i>The Nun II</i> received mixed reviews. <i>The Nun</i>, on the other hand, received generally mixed to negative reviews. The three main films and its five spin-offs have proven themselves to be successful at the box office, having combined earnings of over $2.1<span>\u00a0</span>billion worldwide, against a combined budget of $208<span>\u00a0</span>million, making <i>The Conjuring</i> Universe the highest-grossing horror franchise in history and one of the most critically acclaimed.\n</p>\n\n<h2>Development</h2>\n<p>Development began over 20 years before the first film's debut, when Ed Warren played a tape of Lorraine Warren's original interview with Carolyn Perron for producer Tony DeRosa-Grund. DeRosa-Grund made a recording of Warren playing back the tape and of their subsequent discussion. At the end of the tape, Warren said to DeRosa-Grund: \"If we can't make this into a film I don't know what we can\". DeRosa-Grund then described his vision of the film for Ed.</p><p>DeRosa-Grund wrote the original treatment and titled the project <i>The Conjuring</i>. For nearly 14 years, he tried to get the film made without any success. He originally landed a deal to make the film at Gold Circle Films, the production company behind <i>The Haunting in Connecticut</i>, but a contract could not be finalized and the deal was dropped.</p><p>DeRosa-Grund allied with producer Peter Safran, and sibling writers Chad and Carey W. Hayes were brought on board to refine the script. Using DeRosa-Grund's treatment and the Ed Warren tape, the Hayes brothers changed the story's point of view from the Perron family to that of the Warrens. The brothers interviewed Lorraine many times over the phone to clarify details. By mid-2009, the property became the subject of a six-studio bidding war that landed the film at Summit Entertainment; however, DeRosa-Grund and Summit could not conclude the transaction and the film went into turnaround. DeRosa-Grund reconnected with New Line Cinema, who had lost in the original bidding war, and the studio ultimately picked up the film. The same year on November 11, a deal was made between New Line and DeRosa-Grund's Evergreen Media Group.</p>\n\n<h2>Films</h2>\n<h3>Released</h3>\n<h4><i>The Conjuring</i> (2013)</h4>\n<p>The first installment of the series (originally entitled <i>The Warren Files</i>, later retitled <i>The Conjuring</i>) centers on the real-life exploits of Ed and Lorraine Warren, a married couple who investigated paranormal events. Patrick Wilson starred alongside Vera Farmiga in the main roles of Ed and Lorraine. The film focused on the Warrens' 1971 case in which they investigated a witch's curse at a farmhouse in Harrisville, Rhode Island. <i>The Conjuring</i> was released on July 19, 2013, to positive reviews. It earned $320<span>\u00a0</span>million worldwide against a budget of $20<span>\u00a0</span>million, becoming one of the most profitable horror films in history.\n</p>\n\n<h4><i>Annabelle</i> (2014)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>A spin-off film, focusing on the origins of the Annabelle doll that was introduced in <i>The Conjuring</i>, was announced shortly after the release of its forerunner, mainly due to the film's worldwide box office success, and positive reception towards the character. The plot focused on John and Mia Form, a married couple expecting a child, whose vintage doll, Annabelle, becomes possessed by a vengeful spirit after two devil worshippers break into their home and are killed. The film was directed by <i>The Conjuring</i> cinematographer John R. Leonetti and produced by Safran and Wan, with Gary Dauberman behind the script. The film was released worldwide on October 3, 2014, to major commercial success, becoming the 14th most profitable horror film in North America. Many critics found <i>Annabelle</i> to be an inferior film compared to <i>The Conjuring</i>.</p>\n\n<h4><i>The Conjuring 2</i> (2016)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>A sequel, <i>The Conjuring 2</i>, was commissioned after the success of the original film and was also directed by Wan, with both Farmiga and Wilson reprising their roles. The film focused on the Enfield poltergeist case in London in 1977, while briefly referring to the events that inspired <i>The Amityville Horror</i>. It was released on June 10, 2016, to positive reviews from both critics and audiences; some agreed that the film was vastly superior to other horror sequels, while others debated whether the film had surpassed its predecessor in quality. Proving to be similarly successful to the first entry in the series, the film became another profitable addition to the franchise, having earned $320.3<span>\u00a0</span>million worldwide from a budget of $40<span>\u00a0</span>million, and becoming the second highest-grossing horror film of all time, after <i>The Exorcist</i>, until <i>It</i> was released in 2017.\n</p>\n\n<h4><i>Annabelle: Creation</i> (2017)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>An <i>Annabelle</i> sequel was in development, eventually revealed to be a prequel to the original film. The plot of the film centers on a dollmaker and his wife, whose daughter tragically died twelve years earlier, as they decide to open their home to a nun and several girls from a shuttered orphanage; the dollmaker's possessed creation Annabelle sets her sights on the children and turns their shelter into a storm of ultimate evil. <i>Lights Out</i> director David F. Sandberg replaced Leonetti as director, with Dauberman returning to write the script and Safran and Wan returning to produce. The film was released worldwide on August 11, 2017, to critical and commercial success, with many critics stating <i>Annabelle: Creation</i> was a vast improvement over its predecessor.</p>\n\n<h4><i>The Nun</i> (2018)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>A spin-off film titled <i>The Nun</i>, featuring the \"Demon Nun\" character Valak from <i>The Conjuring 2</i>, was directed by Corin Hardy, with <i>The Conjuring 2</i> co-scribe David Leslie Johnson initially announced as the writer before being replaced by Gary Dauberman and Wan, who also produced with Safran. Demi\u00e1n Bichir and Taissa Farmiga starred in the lead roles, while Bonnie Aarons reprised her role as Valak in the film. The plot of the film follows a priest and a novitiate as they investigate an unholy secret and confront a malevolent force in the form of a demonic nun (Valak). The film was released on September 7, 2018, and grossed $365.6<span>\u00a0</span>million on a budget of $22<span>\u00a0</span>million, becoming the highest-grossing film in the franchise.</p>\n\n<h4><i>Annabelle Comes Home</i> (2019)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The third installment in the <i>Annabelle</i> series, <i>Annabelle Comes Home</i>, featured Gary Dauberman as a writer and the director in his directorial debut. It was based on a story treatment written by Dauberman and Wan. Wan and Peter Safran co-produced the project.</p><p><i>Annabelle Comes Home</i> takes place after <i>Annabelle</i> and <i>The Conjuring</i> and focuses on the doll after she was kept in the glass box in the Warrens' museum. Wilson and Farmiga reprised their roles as Ed and Lorraine Warren, alongside Mckenna Grace as Judy Warren and Madison Iseman as Judy's teenage babysitter. The film was released on June 26, 2019.\n</p>\n\n<h4><i>The Conjuring: The Devil Made Me Do It</i> (2021)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>After <i>The Conjuring 2</i> was released, Wan revealed he would not return to direct another installment in the series, due to scheduling conflicts, but expressed interest in seeing other filmmakers direct more \"Conjuring\" films. Wan said that the next film in the series would take place during the 1980s and spoke of ideas for the films to explore lycanthropy, citing <i>An American Werewolf in London</i> and <i>The Hound of the Baskervilles</i> as inspiration. Safran stated that the next film would not be a haunted house movie. David Leslie Johnson-McGoldrick was hired to write the screenplay.</p><p><i>The Conjuring: The Devil Made Me Do It</i> was directed by Michael Chaves, after previously directing <i>The Curse of La Llorona</i>, with James Wan in producer's role. Wilson and Farmiga reprised their roles as Ed and Lorraine Warren, with the plot revolving around the real-life \"Devil Made Me Do It\" case, a legal trial where the defendant claimed to have been possessed during the crimes of which he is accused. The film was initially scheduled for a September 11, 2020, release, before being pushed to June 4, 2021, due to the COVID-19 pandemic. The movie was, however, released by Warner Bros. Pictures and New Line Cinema in the United Kingdom on May 26, 2021, followed by United States on June 4, where it also had a month-long simultaneous release on the HBO Max streaming service.\n</p>\n\n<h4><i>The Nun II</i> (2023)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Prior to the release of <i>The Nun</i>, Wan discussed the possibility of a sequel and what its storyline may be: \"I do know where potentially, if <i>The Nun</i> works out, where <i>The Nun 2</i> could lead to and how that ties to Lorraine's story that we've set up with the first two <i>Conjuring</i>s and make it all come full circle\".</p><p>In April 2019, Safran said that a sequel was in development, stating that there was a \"really fun\" storyline planned for the film. Later that month, Akela Cooper signed onto the project as writer for the film while Safran and Wan were set as producers. Bonnie Aarons expressed interest in reprising her role as the titular demon in the sequel. In February 2022, Taissa Farmiga stated that she has had discussions with Warner Bros. Pictures regarding reprising her role from the first film while stating that the restrictions on the film industry as a result of COVID-19 had delayed the project. Warner Bros. officially announced the film in April as part of its upcoming slate at the 2022 CinemaCon. Michael Chaves was confirmed as director. Initial photography began on April 29, 2022, with Bonnie Aarons reprising her role as Valak. In September 2022, it was revealed that Ian Goldberg and Richard Naing had contributed to the scipt as co-authors of the most recent draft. Storm Reid had joined the cast in a lead role for the film, principal photography began on October 6, 2022, and concluded later that year. Taissa Farmiga and Jonas Bloquet are reprising their roles as Sister Irene and Maurice \"Frenchie\" Theriault, with Anna Popplewell and Katelyn Rose Downey joining the cast.</p><p><i>The Nun II</i> was released on September 8, 2023.\n</p>\n\n<h3>Future</h3>\n<h4><i>The Conjuring: Last Rites</i> (TBA)<span id=\"The_Conjuring_4\"></span><span id=\"The_Conjuring:_Last_Rites\"></span></h4>\n<p>In October 2022, a sequel to <i>The Conjuring: The Devil Made Me Do It</i> was revealed to be in development. David Leslie Johnson-McGoldrick would write the script while James Wan and Peter Safran would return as producers. Wan later confirmed that Wilson and Farmiga would reprise their respective roles. In April 2023, during CinemaCon, the film's title was revealed. In September 2023, Michael Chaves stated that work on the script was continuing, stating that the project was intended to be seen as a \"finale\" of the stories in the franchise that had come before.</p>\n\n<h3>Other potential projects</h3>\n<p>In June 2017, producer Peter Safran stated that while the studio will not incorporate characters from other standalone original works, there are various projects in development. He later reiterated that future projects will only be made that have a direct connection to the Warrens and the other released films in the franchise; stating that they will continue to be made \"as long as [we] keep having original stories to tell\". By May 2021, he said that there were multiple future projects in various stages of development, with Patrick Wilson and Vera Farmiga intended to reprise their roles. Safran stated: \"[They] are such unique actors and they portray Ed and Lorraine so beautifully that we'd love to keep making these movies with them. Ed and Lorraine investigated cases for 50 years, so we have another 40 years with Patrick and Vera before we run out\".</p><p>Following the release of <i>Annabelle Comes Home</i> in June 2019, Gary Dauberman acknowledged the possibility of a fourth <i>Annabelle</i> film, while stating that there's potential for a number of spin-off films centered around the other cursed artifacts and their entities, as well. The filmmaker revealed that specific entities received detailed backstories that he wrote during the production for <i>Annabelle Comes Home</i>. Developed with Wan, he stated that the future of the franchise will explore different sub-genres of horror; stating that a psychological horror film centered around The Bride, and a slasher horror film centered around The Samurai, were examples of options that were discussed for development.</p><p>In June 2021, after the release of <i>The Conjuring: The Devil Made Me Do It</i>, Michael Chaves revealed that the movie was originally intended to directly tie into the next spin-off film. Centered around a demonic character that was cut from the third <i>Conjuring</i> referred to as the Lost Demon, Chaves stated that this entity would be notable because it was entirely based on descriptions from true account witnesses. Though the full character reveal was removed from the final cut, as well as a subplot where Isla the occultist was working with the demon, the filmmaker noted that it is the same entity that torments David in the waterbed and ultimately enters his body. He expressed hope that one day the project would be green-lit. Chaves commented that James Wan has several Warren \"cases up his sleeve\", with \"a lot of things<span>\u00a0</span>... to explore\". The filmmaker acknowledged that he knew various projects that were being developed, while expressing his excitement as a fan to see what would be released first.</p><p>In August 2023, the filmmaker said there is potential for additional projects featuring the Nun, to explore the timeframe between the 1950s to the 1960s. In September of the same year, he stated that as a fan of the series, he would like to see a project where various demonic entities from each of the installments antagonize the Warrens.</p>\n\n<h4>Cancelled <i>The Crooked Man</i> spin-off film</h4>\n<p>In May 2017, Safran said that the Crooked Man character from <i>The Conjuring 2</i> was being considered by the studio for a feature film. By June of the same year, a spin-off film titled <i>The Crooked Man</i> was officially in development with Mike Van Waes serving as screenwriter, based on an original story by Wan; Wan and Safran were set to produce the project. Though in its early stages of development, the filmmaker stated that the sub-genre of horror would be a \"dark fairytale\". By September 2018, Safran stated that work on the script was ongoing, and that the studio wants to wait until they have a draft that they like before further production will commence. The producer reiterated what Wan had stated, reaffirming that the intention is for each installment in the franchise to have its own style. He later stated that while <i>The Crooked Man</i> was intended to be the next movie following <i>The Conjuring 2</i>, the project had been delayed in favor of fast-tracking production on <i>The Nun</i> due to the audience response to the character. In November 2022, Wan announced that, outside of his control, the project was not moving forward at that time while expressing hope for a potential future release.</p>\n\n<h3>Related films</h3>\n<h4><i>Wolves at the Door</i> (2016)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In May 2015, John R. Leonetti, was announced as the director of <i>Wolves at the Door</i> for New Line Cinema, with Gary Dauberman as screenwriter and Peter Safran as producer. Although the film is not an installment in <i>The Conjuring</i> Universe, it stars Eric Ladin, who reprises his role as Detective Clarkin from Leonetti's 2014 film, <i>Annabelle</i>. <i>Wolves at the Door</i> is loosely based on the Manson Family murders in 1969.</p>\n\n<h4><i>The Curse of La Llorona</i> (2019)</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>In October 2017, Wan served as a producer of a horror film directed by Michael Chaves and starring Linda Cardellini, which was then titled <i>The Children</i>. The film was later retitled <i>The Curse of La Llorona</i> (also known as <i>The Curse of the Weeping Woman</i> in some international markets). Although the film is not an installment in <i>The Conjuring</i> Universe, it stars Tony Amendola, who reprises his role from <i>Annabelle</i> as Father Perez. The character gives direction to the family being tormented by the titular spirit, and relates the haunting to his experiences with the demonic entity attached to the doll.</p>\n\n<h2>Television</h2>\n<p>In May 2021, Peter Safran said that there were ongoing developments for a television series set within <i>The Conjuring</i> Universe. The producer stated that while they did not want to take away from the film installments, there were \"some more long-form stories that would be better told over eight episodes or eight hours as opposed to just a two-hour movie\". Safran acknowledged that an expansion of the franchise into television shows has been in discussion for some time, with the launch of HBO Max providing Warner Bros. Entertainment with a distributor for any potential series.</p><p>In April 2023, an untitled television series in the franchise was announced as being in development. The show would take place chronologically after the events of the films, with James Wan and Peter Safran serving as executive producers. The project was set to be a joint-venture production between New Line Television, Warner Bros. Television Studios, Atomic Monster, the Safran Company, and Max Originals, and was being developed for release via streaming exclusively on Warner Bros. Discovery's Max.</p>\n\n<h2>Recurring cast and characters</h2>\n<p>This table lists the main characters who appear in <i>The Conjuring</i> Universe, in alphabetical order by the character's last name.\n</p>\n\n<h2>Additional crew and production details</h2>\n<h2>Reception</h2>\n<h3>Box office performance</h3>\n<p>The franchise has been notable for its profit, with <i>The Conjuring</i> and its follow-up having earned a combined profit of $260<span>\u00a0</span>million, according to <i>Deadline</i>, while <i>Annabelle</i> managed to make 40 times its $6.5<span>\u00a0</span>million budget. Film critic and box office expert Scott Mendelson of <i>Forbes</i> has called the franchise the \"first successful post\u2013Marvel cinematic universe\".</p>\n\n<h3>Critical and public response</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n\n<h2>Comic books</h2>\n<p>In April 2021, DC Comics formed a new horror imprint called DC Horror. The first of a series of comics set within <i>The Conjuring</i> Universe was released on June 1 the same year. <i>The Conjuring: The Lover</i> is a 5-issue limited series that serves as a prequel to <i>The Conjuring: The Devil Made Me Do It</i>. The story involves a college student named Jessica. She struggles with college life and her discovery that something sinister is targeting her. Each issue includes backup stories, which explore the cursed artifacts in the Warren's basement museum. The limited series is co-written by David Leslie Johnson-McGoldrick and Rex Ogle, with artwork by Garry Brown and cover art by Bill Sienkiewicz. The backup stories featuring the occult items from the Warrens' artifact room were written by various writers: the first by Scott Snyder, with Denys Cowan serving as artist, the second from writer Che Grayson and artist Juan Ferreyra, the third from writer Tim Seeley and artist Kelley Jones, followed by the fourth from writer Ray Fawkes and artist Christopher Mitten, and by the fifth from writer and artist Dominike \"Domo\" Stanton. In March 2022, a trade hardcover collecting the issues was released.</p>\n\n<h2>Tie-in media</h2>\n<p>In July 2013, prior to the theatrical release of <i>The Conjuring</i>, Vice Media alongside Warner Bros. Entertainment and New Line Cinema (under the banner of <i>The Conjuring</i>) presented a series of anthology horror short-films, titled <i>The 3:07 A.M. Project</i>. In the series of shorts, the witching hour of 3:07 A.M. is the only recurring theme within each short. The shorts were presented as a marketing device that drew attention to the first installment of <i>The Conjuring</i> Universe, leading up to its release date. The short films were met with mixed reception, while each filmmaker would later find success in other noteworthy horror franchises. While the series does not connect directly to the franchise, it serves as the first attempt at expanding the franchise, while this specific time was referenced in the first movie of the franchise.</p>\n\n<h2>Home media</h2>\n<h2>Lawsuits</h2>\n<p>Norma Sutcliffe and Gerald Helfrich, previous owners of the house on which <i>The Conjuring</i> was based, have sued Wan, Warner Bros. and other producers in 2015 because their property was being constantly vandalized as a consequence of the film. <i>Entertainment Weekly</i> obtained documents in which the owners affirm various invasions and ratify that they have found numerous objects affiliated with satanic cults. The lawsuit also reveals that the previous owners bought the house in 1987 and lived \"in peace\" until 2013. Both owners had been seeking unspecified damages. When questioned, a spokesperson for Warner Bros. declined to comment on the issue.</p><p>Gerald Brittle, author of a book about the Warrens called <i>The Demonologist</i>, filed a $900<span>\u00a0</span>million lawsuit on March 29, 2017, against Warner Bros., New Line Cinema, Wan and others, claiming that he had the exclusive rights to the Warrens' story and that it had been stolen by the studios and producers. The case was scheduled to go to trial on April 16, 2018, with a Warner Bros. spokesperson commenting: \"We're pleased the Court significantly narrowed the case and look forward to addressing the remaining claims at summary judgment. Mr. Brittle's claims are not only without merit, but contradict Mr. Brittle's prior admissions in other failed lawsuits concerning <i>The Conjuring</i> movies\". However, on December 13, 2017, Warner Bros. settled the lawsuit, revealing that Tony DeRosa-Grund, the producer of the original film, was the \"mastermind\" behind the lawsuit, without Brittle ever having been involved. A spokesperson commented: \"New Line has contended all along that DeRosa-Grund was the mastermind behind the lawsuit, was controlling and directing the lawsuit, and had attempted to enter into secret side deals with Brittle\". Brittle himself commented that \"Mr. DeRosa-Grund has been controlling this litigation from the start. [...] Based on a review of text messages between Mr. DeRosa-Grund and my attorney, I understand that he even threatened my attorneys that if they sent information from me without him seeing it first they would be fired\". Brittle went into further detail in the settlement. This follows repeated failed lawsuits by DeRosa-Grund to Warner Bros. for claims of owed millions of dollars from the franchise to the point where he was getting into trouble with the courts and settled with Warner Bros. to never sue them again for anything related to the franchise.</p>\n\n<h2>References</h2>\n<h2>External links</h2>\n\n<ul><li><i>The Conjuring</i> at IMDb\u00a0</li>\n<li><i>The Conjuring 2</i> at IMDb\u00a0</li>\n<li><i>Annabelle</i> at IMDb\u00a0</li>\n<li><i>Annabelle: Creation</i> at IMDb\u00a0</li>\n<li><i>The Nun</i> at IMDb\u00a0</li>\n<li><i>Annabelle Comes Home</i> at IMDb\u00a0</li>\n<li><i>The Conjuring: The Devil Made Me Do It</i> at IMDb\u00a0</li>\n<li>The Conjuring <i>Universe</i> on Rotten Tomatoes</li>\n<li><i>The Conjuring</i> on Metacritic</li>\n<li><i>The Conjuring 2</i> on Metacritic</li>\n<li><i>Annabelle</i> on Metacritic</li>\n<li><i>Annabelle: Creation</i> on Metacritic</li>\n<li><i>The Nun</i> on Metacritic</li>\n<li><i>Annabelle Comes Home</i> on Metacritic</li>\n<li><i>The Conjuring: The Devil Made Me Do It</i> on Metacritic</li></ul>"
+}

@@ -1,0 +1,378 @@
+{
+    "adult": false,
+    "backdrop_path": "/AcLGQQjkAGCc08EIPwsyqLooCgs.jpg",
+    "belongs_to_collection": null,
+    "budget": 17000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "http://www.coatwolf.com/",
+    "id": 58699,
+    "imdb_id": "tt1242599",
+    "original_language": "en",
+    "original_title": "Bellflower",
+    "overview": "Two friends spend all their free time building flame-throwers and weapons of mass destruction in hopes that a global apocalypse will occur and clear the runway for their imaginary gang \"Mother Medusa\".",
+    "popularity": 7.504,
+    "poster_path": "/4bGB2k4JngWLVABKIw1S7cnlh5h.jpg",
+    "production_companies": [
+        {
+            "id": 7313,
+            "logo_path": null,
+            "name": "Coatwolf Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 4748,
+            "logo_path": "/bTMeosrSiKaTPmZiTYnSDZlin5d.png",
+            "name": "Oscilloscope",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-04-16",
+    "revenue": 101236,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A love story with apocalyptic stakes.",
+    "title": "Bellflower",
+    "video": false,
+    "vote_average": 5.974,
+    "vote_count": 135,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228274,
+                "known_for_department": "Acting",
+                "name": "Evan Glodell",
+                "original_name": "Evan Glodell",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 1002,
+                "character": "Woodrow",
+                "credit_id": "52fe4970c3a36847f819a215",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 228276,
+                "known_for_department": "Acting",
+                "name": "Jessie Wiseman",
+                "original_name": "Jessie Wiseman",
+                "popularity": 0.899,
+                "profile_path": null,
+                "cast_id": 1003,
+                "character": "Milly",
+                "credit_id": "52fe4970c3a36847f819a219",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228277,
+                "known_for_department": "Acting",
+                "name": "Tyler Dawson",
+                "original_name": "Tyler Dawson",
+                "popularity": 1.109,
+                "profile_path": null,
+                "cast_id": 1004,
+                "character": "Aiden",
+                "credit_id": "52fe4970c3a36847f819a21d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 113001,
+                "known_for_department": "Acting",
+                "name": "Rebekah Brandes",
+                "original_name": "Rebekah Brandes",
+                "popularity": 1.975,
+                "profile_path": "/8ZhT3B9Ojv9gor71uiQ8sISvfjD.jpg",
+                "cast_id": 1005,
+                "character": "Courtney",
+                "credit_id": "52fe4970c3a36847f819a221",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1033719,
+                "known_for_department": "Directing",
+                "name": "Vincent Grashaw",
+                "original_name": "Vincent Grashaw",
+                "popularity": 1.981,
+                "profile_path": "/tG3KpIujg8T40EjZJzBkgXg8HmR.jpg",
+                "cast_id": 1009,
+                "character": "Mike",
+                "credit_id": "52fe4970c3a36847f819a237",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1041543,
+                "known_for_department": "Acting",
+                "name": "Zack Kraus",
+                "original_name": "Zack Kraus",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 1010,
+                "character": "Elliot",
+                "credit_id": "52fe4970c3a36847f819a23b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1041544,
+                "known_for_department": "Acting",
+                "name": "Keghan Hurst",
+                "original_name": "Keghan Hurst",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 1011,
+                "character": "Sarah",
+                "credit_id": "52fe4970c3a36847f819a23f",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228274,
+                "known_for_department": "Acting",
+                "name": "Evan Glodell",
+                "original_name": "Evan Glodell",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "52fe4970c3a36847f819a227",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228274,
+                "known_for_department": "Acting",
+                "name": "Evan Glodell",
+                "original_name": "Evan Glodell",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "52fe4970c3a36847f819a211",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1033715,
+                "known_for_department": "Camera",
+                "name": "Joel Hodge",
+                "original_name": "Joel Hodge",
+                "popularity": 1.566,
+                "profile_path": null,
+                "credit_id": "52fe4970c3a36847f819a22d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1033716,
+                "known_for_department": "Sound",
+                "name": "Jonathan Keevil",
+                "original_name": "Jonathan Keevil",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4970c3a36847f819a233",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1033719,
+                "known_for_department": "Directing",
+                "name": "Vincent Grashaw",
+                "original_name": "Vincent Grashaw",
+                "popularity": 1.981,
+                "profile_path": "/tG3KpIujg8T40EjZJzBkgXg8HmR.jpg",
+                "credit_id": "5ea2d3cfbdc34c002624d4b0",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1033719,
+                "known_for_department": "Directing",
+                "name": "Vincent Grashaw",
+                "original_name": "Vincent Grashaw",
+                "popularity": 1.981,
+                "profile_path": "/tG3KpIujg8T40EjZJzBkgXg8HmR.jpg",
+                "credit_id": "5ea2d3bc3faba0002544d251",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Bellflower Movie (2011) Trailer",
+                "key": "IY3FRWcK_LI",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2011-06-14T21:56:21.000Z",
+                "id": "64faf85baf58cb0a645bfee3"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 856,
+                "iso_639_1": null,
+                "file_path": "/AcLGQQjkAGCc08EIPwsyqLooCgs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1522
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/j53wu8Dm6zdJd2YQIuy41lgNtJo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/4bGB2k4JngWLVABKIw1S7cnlh5h.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/wjCkuyNvdozHp2qqtA8v3lb1jWZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1204,
+                "iso_639_1": "en",
+                "file_path": "/iD4IWlV7Br7gqnwItWIcpfZRUFo.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 803
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 331,
+                "name": "tattoo"
+            },
+            {
+                "id": 10863,
+                "name": "medusa"
+            },
+            {
+                "id": 10726,
+                "name": "gang"
+            },
+            {
+                "id": 12332,
+                "name": "apocalypse"
+            },
+            {
+                "id": 171993,
+                "name": "mumblecore"
+            },
+            {
+                "id": 179431,
+                "name": "duringcreditsstinger"
+            }
+        ]
+    },
+    "title_english": "Bellflower",
+    "year": "2011",
+    "rated": "R",
+    "director_list": [
+        "Evan Glodell"
+    ],
+    "writer_list": [
+        "Evan Glodell"
+    ],
+    "main_cast": [
+        "Evan Glodell",
+        " Tyler Dawson",
+        " Jessie Wiseman"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "imdb_rating": "6.3",
+    "imdb_votes": "8,048",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bellflower_(film)",
+    "wikipedia_summary": "Bellflower is a 2011 American film written and directed by Evan Glodell. It was produced on a shoestring budget in Ventura, California, and premiered in January 2011 at the Sundance Film Festival.  The film was nominated for the Independent Spirit John Cassavetes Award for best feature film made for under\n$500,000.",
+    "wikipedia_plot": "Woodrow and Aiden migrate to Los Angeles from Wisconsin, constructing weapons and testing them out in empty lots. At a bar that hosts live acts, Woodrow volunteers to enter a cricket eating contest and meets Milly, who beats him in the contest. They exchange phone numbers, while Aiden talks to Milly's friend, Courtney.\nWoodrow and Milly decide they'll drive to Texas to eat at the scariest place Woodrow can think of. Woodrow gets in a fight with a local who disrespects Milly, is made sick by the day-old meatloaf, and trades his car for a motorcycle. Returning to California, Woodrow and Milly begin dating each other, despite Milly's ambiguously hostile roommate Mike.\nWoodrow finds Aiden has completed the flamethrower, and they successfully test it out. Aiden is impressed with the motorcycle, which is the second part of their three pronged plan to create a Medusa Gang which will reign over their imagined vision of an apocalyptic future, and now they only lack a flame blowing muscle car. Tensions between friends rise, when Woodrow and Milly spend more time together than they do with their best friends.\nWoodrow becomes more controlling and jealous of Milly, who is annoyed by his behavior. He returns home early to find Milly having sex with Mike. Woodrow and Mike scuffle, then Woodrow drives away on his motorcycle and is hit by a car, leaving him with serious injuries. When Aiden picks him up from the hospital, he's utterly despondent and blames Milly. Woodrow lies in bed for days and when Courtney drops in, they have sex despite that Aiden is interested in Courtney.\nAiden purchases a 1972 Buick Skylark and works on turning it into the fire blowing Medusa, while Woodrow continues to have sex with Courtney. Mike comes to Woodrow's to retrieve Milly's personal items, but Aiden intercepts him and tells him not to come around again or he'll kill him. Woodrow takes Milly's personal items, puts them in a box, walks them over to her apartment court with his flame thrower strapped to his back, and lights them on fire in front of her door. This inspires Mike to seek revenge, and he finds the Medusa muscle car in front of Woodrow's house and breaks a window with a baseball bat. Aiden stops him from creating further damage by wrestling the bat from him, and when Mike tries to get the bat back Aiden strikes him in the head. When Mike stops moving, Aiden runs. Milly finds out what's happened and ambushes Woodrow, knocking him unconscious, and she and an unknown man tattoo Woodrow's cheeks, chin and upper-lip.\nCourtney confronts Milly about what she did to Woodrow and they fight, with Milly pulling a knife on her former best friend and forcing her to leave.\nWhen Woodrow wakes up and sees himself in the mirror he flies into a rage, tracks Milly down and has a screaming confrontation with her. When he tells her that he's been thinking of doing some \"sick shit\" to her all morning, she replies that she doesn't care and submits to his anger. This results in sex that turns increasingly violent, ending with Milly screaming out in pain.\nAs Woodrow leaves Milly's house his shirt and hands are covered in blood, and he encounters Courtney in the street. She has a pistol and shoots herself in the head when he won't talk to her.\nThe film then back-tracks to when Woodrow has put Milly's things in a box, and gives an alternate series of events, much less apocalyptic, where Woodrow and Aiden light Milly's things on fire at the beach and then leave town. The film flashes forward again to Woodrow in the street, where Milly has caught up with him and they hold each other as credits roll.",
+    "wikipedia_plot_html": "<p>Woodrow and Aiden migrate to Los Angeles from Wisconsin, constructing weapons and testing them out in empty lots. At a bar that hosts live acts, Woodrow volunteers to enter a cricket eating contest and meets Milly, who beats him in the contest. They exchange phone numbers, while Aiden talks to Milly's friend, Courtney.\n</p><p>Woodrow and Milly decide they'll drive to Texas to eat at the scariest place Woodrow can think of. Woodrow gets in a fight with a local who disrespects Milly, is made sick by the day-old meatloaf, and trades his car for a motorcycle. Returning to California, Woodrow and Milly begin dating each other, despite Milly's ambiguously hostile roommate Mike.\n</p><p>Woodrow finds Aiden has completed the flamethrower, and they successfully test it out. Aiden is impressed with the motorcycle, which is the second part of their three pronged plan to create a Medusa Gang which will reign over their imagined vision of an apocalyptic future, and now they only lack a flame blowing muscle car. Tensions between friends rise, when Woodrow and Milly spend more time together than they do with their best friends.\n</p><p>Woodrow becomes more controlling and jealous of Milly, who is annoyed by his behavior. He returns home early to find Milly having sex with Mike. Woodrow and Mike scuffle, then Woodrow drives away on his motorcycle and is hit by a car, leaving him with serious injuries. When Aiden picks him up from the hospital, he's utterly despondent and blames Milly. Woodrow lies in bed for days and when Courtney drops in, they have sex despite that Aiden is interested in Courtney.\n</p><p>Aiden purchases a 1972 Buick Skylark and works on turning it into the fire blowing Medusa, while Woodrow continues to have sex with Courtney. Mike comes to Woodrow's to retrieve Milly's personal items, but Aiden intercepts him and tells him not to come around again or he'll kill him. Woodrow takes Milly's personal items, puts them in a box, walks them over to her apartment court with his flame thrower strapped to his back, and lights them on fire in front of her door. This inspires Mike to seek revenge, and he finds the Medusa muscle car in front of Woodrow's house and breaks a window with a baseball bat. Aiden stops him from creating further damage by wrestling the bat from him, and when Mike tries to get the bat back Aiden strikes him in the head. When Mike stops moving, Aiden runs. Milly finds out what's happened and ambushes Woodrow, knocking him unconscious, and she and an unknown man tattoo Woodrow's cheeks, chin and upper-lip.\n</p><p>Courtney confronts Milly about what she did to Woodrow and they fight, with Milly pulling a knife on her former best friend and forcing her to leave.\n</p><p>When Woodrow wakes up and sees himself in the mirror he flies into a rage, tracks Milly down and has a screaming confrontation with her. When he tells her that he's been thinking of doing some \"sick shit\" to her all morning, she replies that she doesn't care and submits to his anger. This results in sex that turns increasingly violent, ending with Milly screaming out in pain.\n</p><p>As Woodrow leaves Milly's house his shirt and hands are covered in blood, and he encounters Courtney in the street. She has a pistol and shoots herself in the head when he won't talk to her.\n</p><p>The film then back-tracks to when Woodrow has put Milly's things in a box, and gives an alternate series of events, much less apocalyptic, where Woodrow and Aiden light Milly's things on fire at the beach and then leave town. The film flashes forward again to Woodrow in the street, where Milly has caught up with him and they hold each other as credits roll.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n</p>\n<p><i><b>Bellflower</b></i> is a 2011 American film written and directed by Evan Glodell. It was produced on a shoestring budget in Ventura, California, and premiered in January 2011 at the Sundance Film Festival.  The film was nominated for the Independent Spirit John Cassavetes Award for best feature film made for under\n$500,000.</p>\n\n<h2>Plot</h2>\n<p>Woodrow and Aiden migrate to Los Angeles from Wisconsin, constructing weapons and testing them out in empty lots. At a bar that hosts live acts, Woodrow volunteers to enter a cricket eating contest and meets Milly, who beats him in the contest. They exchange phone numbers, while Aiden talks to Milly's friend, Courtney.\n</p><p>Woodrow and Milly decide they'll drive to Texas to eat at the scariest place Woodrow can think of. Woodrow gets in a fight with a local who disrespects Milly, is made sick by the day-old meatloaf, and trades his car for a motorcycle. Returning to California, Woodrow and Milly begin dating each other, despite Milly's ambiguously hostile roommate Mike.\n</p><p>Woodrow finds Aiden has completed the flamethrower, and they successfully test it out. Aiden is impressed with the motorcycle, which is the second part of their three pronged plan to create a Medusa Gang which will reign over their imagined vision of an apocalyptic future, and now they only lack a flame blowing muscle car. Tensions between friends rise, when Woodrow and Milly spend more time together than they do with their best friends.\n</p><p>Woodrow becomes more controlling and jealous of Milly, who is annoyed by his behavior. He returns home early to find Milly having sex with Mike. Woodrow and Mike scuffle, then Woodrow drives away on his motorcycle and is hit by a car, leaving him with serious injuries. When Aiden picks him up from the hospital, he's utterly despondent and blames Milly. Woodrow lies in bed for days and when Courtney drops in, they have sex despite that Aiden is interested in Courtney.\n</p><p>Aiden purchases a 1972 Buick Skylark and works on turning it into the fire blowing Medusa, while Woodrow continues to have sex with Courtney. Mike comes to Woodrow's to retrieve Milly's personal items, but Aiden intercepts him and tells him not to come around again or he'll kill him. Woodrow takes Milly's personal items, puts them in a box, walks them over to her apartment court with his flame thrower strapped to his back, and lights them on fire in front of her door. This inspires Mike to seek revenge, and he finds the Medusa muscle car in front of Woodrow's house and breaks a window with a baseball bat. Aiden stops him from creating further damage by wrestling the bat from him, and when Mike tries to get the bat back Aiden strikes him in the head. When Mike stops moving, Aiden runs. Milly finds out what's happened and ambushes Woodrow, knocking him unconscious, and she and an unknown man tattoo Woodrow's cheeks, chin and upper-lip.\n</p><p>Courtney confronts Milly about what she did to Woodrow and they fight, with Milly pulling a knife on her former best friend and forcing her to leave.\n</p><p>When Woodrow wakes up and sees himself in the mirror he flies into a rage, tracks Milly down and has a screaming confrontation with her. When he tells her that he's been thinking of doing some \"sick shit\" to her all morning, she replies that she doesn't care and submits to his anger. This results in sex that turns increasingly violent, ending with Milly screaming out in pain.\n</p><p>As Woodrow leaves Milly's house his shirt and hands are covered in blood, and he encounters Courtney in the street. She has a pistol and shoots herself in the head when he won't talk to her.\n</p><p>The film then back-tracks to when Woodrow has put Milly's things in a box, and gives an alternate series of events, much less apocalyptic, where Woodrow and Aiden light Milly's things on fire at the beach and then leave town. The film flashes forward again to Woodrow in the street, where Milly has caught up with him and they hold each other as credits roll.\n</p>\n\n<h2>Production</h2>\n<h3>Cinematography</h3>\n<p>Reviewers noted the film's distinctive look, giving credit to cinematographer Joel Hodge's shooting style and the one-of-a-kind camera designed and built by Evan Glodell, who combined vintage camera parts, bellows and Russian lenses, around a Silicon Imaging SI-2K Mini Digital Cinema camera.</p><p>Hodge was nominated for the 2012 Independent Spirit Award for Best Cinematography, losing to the significantly bigger budget <i>The Artist</i>. The award was announced the day before <i>The Artist</i> won the Academy Award for Best Picture.  Eric Kohn of IndieWire criticized the inclusion of <i>The Artist</i> into awards that should recognize lesser known films, itemizing \"innovative cinematographer\" Hodge as one of the people harmed by the decision.  Screen Junkies also included both cinematographers among three it named Best Cinematographers for 2012.</p>\n\n<h3>Effects</h3>\n<p>Glodell and crew were also inventive in the effects they used in the filming.  Glodell constructed the flame thrower central to the theme, and modified the Medusa car.  To get a propane tank explosion, live bullets were fired into the tank, narrowly missing engineer/editor Jon Keevil's head.  It has been called one of the most dangerous film shoots in history.</p>\n\n<h2>Distribution</h2>\n<p>On January 27, 2011, six days after the premiere at Sundance, Oscilloscope Laboratories announced it had acquired English-language territory rights to the film. <i>Bellflower</i> was released in theaters August 5, 2011.</p><p>In non-English-speaking territories, Visit Films is the international sales agent and distributor.</p>\n\n<h2>Cast</h2>\n<ul><li>Evan Glodell as Woodrow</li>\n<li>Jessie Wiseman as Milly</li>\n<li>Tyler Dawson as Aiden</li>\n<li>Rebekah Brandes as Courtney</li>\n<li>Vincent Grashaw as Mike</li>\n<li>Zack Kraus as Elliot</li>\n<li>Keghan Hurst as Sarah</li>\n<li>Alexandra Boylan as Caitlin</li>\n<li>Jon Huck as himself</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>Bellflower</i> Official Website</li>\n<li><i>Bellflower</i> Trailers</li>\n<li><i>Bellflower</i> at IMDb</li>\n<li><i>Bellflower</i> at Rotten Tomatoes</li>\n<li><i>Bellflower</i> at SXSW: \"Bellflower and The Art of Promotion\" Yahoo! Movies </li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite class=\"citation web cs1\">\"Silicon Imaging SI-2K Mini\". Silicon Imaging<span>. Retrieved <span>March 20,</span> 2012</span>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Silicon+Imaging+SI-2K+Mini&amp;rft.pub=Silicon+Imaging&amp;rft_id=http%3A%2F%2Fwww.siliconimaging.com%2FDigitalCinema%2Fproducts.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABellflower+%28film%29\"></span></li></ul>"
+}

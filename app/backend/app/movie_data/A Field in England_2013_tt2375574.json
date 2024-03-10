@@ -1,0 +1,833 @@
+{
+    "adult": false,
+    "backdrop_path": "/euBvKWkvYD38O7dMMvw3GvrkZoa.jpg",
+    "belongs_to_collection": null,
+    "budget": 300000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 179111,
+    "imdb_id": "tt2375574",
+    "original_language": "en",
+    "original_title": "A Field in England",
+    "overview": "During the Civil War in 17th-Century England, a small group of deserters flee from a raging battle through an overgrown field. They are captured by an alchemist, who forces the group to aid him in his search to find a hidden treasure that he believes is buried in the field. Crossing a vast mushroom circle, which provides their first meal, the group quickly descend into a chaos of arguments, fighting and paranoia, and, as it becomes clear that the treasure might be something other than gold, they slowly become victim to the terrifying energies trapped inside the field.",
+    "popularity": 9.071,
+    "poster_path": "/dKhMJr8yoHVyvxyUiAeIn2hKVdL.jpg",
+    "production_companies": [
+        {
+            "id": 16853,
+            "logo_path": "/ihiEwwDAc8ghtdNxpMp0T34OhIi.png",
+            "name": "Rook Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 6705,
+            "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+            "name": "Film4 Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2013-07-05",
+    "revenue": 600000,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Open Up And Let The Devil In",
+    "title": "A Field in England",
+    "video": false,
+    "vote_average": 6.215,
+    "vote_count": 230,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34551,
+                "known_for_department": "Acting",
+                "name": "Reece Shearsmith",
+                "original_name": "Reece Shearsmith",
+                "popularity": 10.489,
+                "profile_path": "/fEpejkayrwRoFYcRd1xamhivxnq.jpg",
+                "cast_id": 6,
+                "character": "Whitehead",
+                "credit_id": "52fe4da2c3a36847f826bb19",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17078,
+                "known_for_department": "Acting",
+                "name": "Michael Smiley",
+                "original_name": "Michael Smiley",
+                "popularity": 9.264,
+                "profile_path": "/eWfpVJs6nnvWlzz85LRDEXHsyOJ.jpg",
+                "cast_id": 5,
+                "character": "O'Neil",
+                "credit_id": "52fe4da2c3a36847f826bb15",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98104,
+                "known_for_department": "Acting",
+                "name": "Julian Barratt",
+                "original_name": "Julian Barratt",
+                "popularity": 5.825,
+                "profile_path": "/ltwOEsHkes9oCgy9Dl95q8nMyUT.jpg",
+                "cast_id": 4,
+                "character": "Trower",
+                "credit_id": "52fe4da2c3a36847f826bb11",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 193020,
+                "known_for_department": "Acting",
+                "name": "Richard Glover",
+                "original_name": "Richard Glover",
+                "popularity": 2.944,
+                "profile_path": "/iaGTaqXVZcc1JVvUOjfflL8vvvh.jpg",
+                "cast_id": 9,
+                "character": "Friend",
+                "credit_id": "52fe4da2c3a36847f826bb25",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1176107,
+                "known_for_department": "Acting",
+                "name": "Ryan Pope",
+                "original_name": "Ryan Pope",
+                "popularity": 3.43,
+                "profile_path": "/wK9BhIYWrspsJPZEGhTiuv7Zht7.jpg",
+                "cast_id": 8,
+                "character": "Cutler",
+                "credit_id": "52fe4da2c3a36847f826bb21",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109833,
+                "known_for_department": "Acting",
+                "name": "Peter Ferdinando",
+                "original_name": "Peter Ferdinando",
+                "popularity": 4.875,
+                "profile_path": "/guAO6rcuSCahk4v3I6Y9uqSwumj.jpg",
+                "cast_id": 7,
+                "character": "Jacob",
+                "credit_id": "52fe4da2c3a36847f826bb1d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 28483,
+                "known_for_department": "Acting",
+                "name": "Sara Dee",
+                "original_name": "Sara Dee",
+                "popularity": 2.939,
+                "profile_path": "/b5YW2CBc4dvdKmVmJPCI0zYX1V2.jpg",
+                "cast_id": 34,
+                "character": "The Field (voice)",
+                "credit_id": "59fc2f7b925141137f02764e",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2659133,
+                "known_for_department": "Acting",
+                "name": "Laura Obiols",
+                "original_name": "Laura Obiols",
+                "popularity": 1.927,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Anastasia",
+                "credit_id": "5ff43e8941ad8d003e298027",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 43394,
+                "known_for_department": "Production",
+                "name": "Andrew Starke",
+                "original_name": "Andrew Starke",
+                "popularity": 0.8,
+                "profile_path": null,
+                "credit_id": "52fe4da2c3a36847f826bb3d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101909,
+                "known_for_department": "Camera",
+                "name": "Laurie Rose",
+                "original_name": "Laurie Rose",
+                "popularity": 2.153,
+                "profile_path": "/dvzyVVXFKH1BPxUvS7GilJPJl8j.jpg",
+                "credit_id": "52fe4da2c3a36847f826bb49",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 137467,
+                "known_for_department": "Directing",
+                "name": "Ben Wheatley",
+                "original_name": "Ben Wheatley",
+                "popularity": 7.742,
+                "profile_path": "/d9MEfHUzizFSB5IdrsGxG8vYBLK.jpg",
+                "credit_id": "52fe4da2c3a36847f826bb01",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 137467,
+                "known_for_department": "Directing",
+                "name": "Ben Wheatley",
+                "original_name": "Ben Wheatley",
+                "popularity": 7.742,
+                "profile_path": "/d9MEfHUzizFSB5IdrsGxG8vYBLK.jpg",
+                "credit_id": "52fe4da2c3a36847f826bb55",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 137467,
+                "known_for_department": "Directing",
+                "name": "Ben Wheatley",
+                "original_name": "Ben Wheatley",
+                "popularity": 7.742,
+                "profile_path": "/d9MEfHUzizFSB5IdrsGxG8vYBLK.jpg",
+                "credit_id": "52fe4da2c3a36847f826bb0d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 146113,
+                "known_for_department": "Production",
+                "name": "Claire Jones",
+                "original_name": "Claire Jones",
+                "popularity": 0.659,
+                "profile_path": null,
+                "credit_id": "52fe4da2c3a36847f826bb37",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150547,
+                "known_for_department": "Sound",
+                "name": "Jim Williams",
+                "original_name": "Jim Williams",
+                "popularity": 1.286,
+                "profile_path": null,
+                "credit_id": "594bb1b8c3a3683279010109",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 524112,
+                "known_for_department": "Writing",
+                "name": "Amy Jump",
+                "original_name": "Amy Jump",
+                "popularity": 2.683,
+                "profile_path": "/sRmqrnDHNl6oVl9FsundWrR70do.jpg",
+                "credit_id": "52fe4da2c3a36847f826bb4f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 524112,
+                "known_for_department": "Writing",
+                "name": "Amy Jump",
+                "original_name": "Amy Jump",
+                "popularity": 2.683,
+                "profile_path": "/sRmqrnDHNl6oVl9FsundWrR70do.jpg",
+                "credit_id": "52fe4da2c3a36847f826bb07",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1025713,
+                "known_for_department": "Sound",
+                "name": "Rob Entwistle",
+                "original_name": "Rob Entwistle",
+                "popularity": 0.932,
+                "profile_path": null,
+                "credit_id": "594bb2299251413108010487",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1203784,
+                "known_for_department": "Art",
+                "name": "Andy Kelly",
+                "original_name": "Andy Kelly",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4da2c3a36847f826bb2b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1207432,
+                "known_for_department": "Production",
+                "name": "Anna Higgs",
+                "original_name": "Anna Higgs",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "52fe4da2c3a36847f826bb31",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1273064,
+                "known_for_department": "Crew",
+                "name": "Dan Martin",
+                "original_name": "Dan Martin",
+                "popularity": 1.134,
+                "profile_path": null,
+                "credit_id": "6459223b156cc7013ff19aec",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetic Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1281408,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Candy Alderson",
+                "original_name": "Candy Alderson",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "594bb4609251413111010780",
+                "department": "Costume & Make-Up",
+                "job": "Hair Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1281408,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Candy Alderson",
+                "original_name": "Candy Alderson",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "594bb447925141310c010a55",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1282557,
+                "known_for_department": "Directing",
+                "name": "Cyriak",
+                "original_name": "Cyriak",
+                "popularity": 0.84,
+                "profile_path": "/trESa6dJxMd0Kx77jYlyAe1U4mO.jpg",
+                "credit_id": "54dfd9d2c3a3684541004a41",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1340728,
+                "known_for_department": "Crew",
+                "name": "Glenn Marks",
+                "original_name": "Glenn Marks",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb8329251413111010ab5",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1405199,
+                "known_for_department": "Directing",
+                "name": "Carole Salisbury",
+                "original_name": "Carole Salisbury",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb4a3925141314b0104ac",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1423393,
+                "known_for_department": "Sound",
+                "name": "Martin Pavey",
+                "original_name": "Martin Pavey",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb1039251413155010af9",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1463145,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Emma Fryer",
+                "original_name": "Emma Fryer",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "594bb4229251413108010634",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1521909,
+                "known_for_department": "Camera",
+                "name": "Nick Gillespie",
+                "original_name": "Nick Gillespie",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb27ec3a368328b00f034",
+                "department": "Camera",
+                "job": "Additional Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1521909,
+                "known_for_department": "Camera",
+                "name": "Nick Gillespie",
+                "original_name": "Nick Gillespie",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb2599251413127010247",
+                "department": "Camera",
+                "job": "First Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1762191,
+                "known_for_department": "Directing",
+                "name": "Anita Christy",
+                "original_name": "Anita Christy",
+                "popularity": 2.391,
+                "profile_path": null,
+                "credit_id": "594bb483c3a36832ad0100f1",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1828252,
+                "known_for_department": "Directing",
+                "name": "James Sharpe",
+                "original_name": "James Sharpe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb206925141311f01079c",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837402,
+                "known_for_department": "Production",
+                "name": "Philiy Page",
+                "original_name": "Philiy Page",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb507c3a36832ca0103ee",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837403,
+                "known_for_department": "Production",
+                "name": "Gareth Jones",
+                "original_name": "Gareth Jones",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb7799251413111010a17",
+                "department": "Production",
+                "job": "Production Accountant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837404,
+                "known_for_department": "Production",
+                "name": "Jacques Groenewald",
+                "original_name": "Jacques Groenewald",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "594bb7ff9251413111010a82",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Ben Wheatley on A Field In England | Film4 Interview Special",
+                "key": "bgwnlM4qpEU",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2013-07-24T12:58:36.000Z",
+                "id": "635d3588e18e3f007c1c55ba"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "A Field in England - Official UK Trailer",
+                "key": "cRRvzjkzu2U",
+                "published_at": "2013-05-21T10:24:46.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "id": "533ec707c3a368544800a447"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/euBvKWkvYD38O7dMMvw3GvrkZoa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1464,
+                "iso_639_1": "en",
+                "file_path": "/Au4NX4447STvElC3p9ejfDsSqAB.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2603
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1400,
+                "iso_639_1": "en",
+                "file_path": "/k9lttNHcHbqhChsLyT2WaXYCjyH.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2490
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1370,
+                "iso_639_1": "en",
+                "file_path": "/vq9j33zmEu5yDMNzgJfAgouhANz.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2437
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1326,
+                "iso_639_1": "en",
+                "file_path": "/bDdNwN5vDSmBc6Vu8ozs5LIpWkF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2359
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/dKhMJr8yoHVyvxyUiAeIn2hKVdL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/3PrR2nXRrpWVgJDvO6fK3k3yEGy.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/sZvMlf6KlnnUQnkHzlE5Io8nLWH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/hpHPlZFeFabYcTEgrAbLzsXRwqA.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2064,
+                "iso_639_1": "en",
+                "file_path": "/sxRpl5ESQaYsOuuFyw9kO58KOUT.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1376
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/2MVMORiOmRcEtHR0oVCyAEfNyEJ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/cB1VanPFde4RUpRlkb0lz1dMoDu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1067
+            },
+            {
+                "aspect_ratio": 0.751,
+                "height": 1000,
+                "iso_639_1": "it",
+                "file_path": "/o4IVoDGJlPKFbhz4cZvxrkJf4e7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 751
+            },
+            {
+                "aspect_ratio": 0.674,
+                "height": 755,
+                "iso_639_1": "en",
+                "file_path": "/tvl7OwiBm4lJnonXhbIjEgPXXhU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 509
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1860,
+                "iso_639_1": "en",
+                "file_path": "/dV8cK1WQPjsxVY2b81qGuHihmiX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1240
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/cVa4KXrdK9bbOhUtYvnvBZuNJBi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6054,
+                "name": "friendship"
+            },
+            {
+                "id": 4630,
+                "name": "chaos"
+            },
+            {
+                "id": 3298,
+                "name": "hallucination"
+            },
+            {
+                "id": 3307,
+                "name": "surreal"
+            },
+            {
+                "id": 6410,
+                "name": "hallucinogen"
+            },
+            {
+                "id": 5083,
+                "name": "hysteria"
+            },
+            {
+                "id": 10706,
+                "name": "spirituality"
+            },
+            {
+                "id": 9696,
+                "name": "magic mushroom"
+            },
+            {
+                "id": 11483,
+                "name": "drug trip"
+            },
+            {
+                "id": 10419,
+                "name": "enlightenment"
+            },
+            {
+                "id": 41410,
+                "name": "madness"
+            },
+            {
+                "id": 157908,
+                "name": "psychedelics"
+            },
+            {
+                "id": 161395,
+                "name": "alchemy"
+            },
+            {
+                "id": 162846,
+                "name": "ghost"
+            },
+            {
+                "id": 182649,
+                "name": "spiritual journey"
+            },
+            {
+                "id": 188591,
+                "name": "english civil war"
+            },
+            {
+                "id": 207941,
+                "name": "17th century"
+            },
+            {
+                "id": 209568,
+                "name": "folk horror"
+            }
+        ]
+    },
+    "title_english": "A Field in England",
+    "year": "2013",
+    "rated": "Not Rated",
+    "director_list": [
+        "Ben Wheatley"
+    ],
+    "writer_list": [
+        "Amy Jump",
+        " Ben Wheatley"
+    ],
+    "main_cast": [
+        "Julian Barratt",
+        " Peter Ferdinando",
+        " Richard Glover"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "imdb_rating": "6.2",
+    "imdb_votes": "13,708",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Field_in_England",
+    "wikipedia_summary": "A Field in England is a 2013 British historical psychological horror film directed by Ben Wheatley. The film, shot in black-and-white, is set during the mid-17th-century English Civil War. The film was released on 5 July 2013 on multiple platforms simultaneously, including cinemas, home media and video on demand. It was also broadcast on Film4 on the day of its release.",
+    "wikipedia_plot": "During a battle of the English Civil War, an alchemist's assistant named Whitehead flees from the strict Commander Trower. Whitehead is saved by a rough soldier named Cutler, who kills Trower before he can apprehend Whitehead. Whitehead then meets two army deserters, the gruff veteran Jacob and the witless Friend. The four leave the battleground in search of an ale house that Cutler claims is nearby. Cutler instead leads them to a field with many mushrooms growing in it, where he cooks a meal with some mushrooms and encourages the others to eat, which they share\u2014save for Whitehead who is fasting. Following their meal they haul an Irishman, the Wizard O'Neill, seemingly out of the ground using a rope wrapped around a strangely carved wooden post buried in the ground. O'Neill is a rival alchemist for whom Cutler works; and who had stolen documents from Whitehead's master, which Whitehead is trying to recover. O'Neill quickly asserts authority over the group and tells them of a treasure hidden somewhere in the field.The group goes to O'Neill's camp, where O'Neill tortures Whitehead into subservience to use him as a human divining rod. After using Whitehead to locate the treasure, which it turns out is near the camp, O'Neill orders Jacob and Friend to dig for it while he leaves Cutler to supervise, and goes to sleep in a tent. Jacob soon succumbs to the influence of the hallucinogenic mushrooms, and after several hours of digging he attacks Friend. Cutler laughs and urinates on them, and when Jacob attempts to attack him, Cutler accidentally shoots Friend. Whitehead is unable to save him, and Friend dies, telling Jacob to deliver a message to his wife, telling her that he hates her. Cutler is forced to finish digging by himself, while Jacob lies down in the undergrowth, and Whitehead deposits Friend's corpse in a thicket.\nCutler eventually nears reaching the treasure, attracting the attention of O'Neill, who discovers Jacob and Whitehead gone. Reaching where Friend's corpse is, O'Neill pursues Whitehead, who ingests a considerable quantity of mushrooms, heightening his awareness but suffering a hallucinatory experience, wherein he conjures a violent wind to blow away the camp's tent. Cutler discovers that the \"treasure\" is just a skull, which he shoots in anger. Jacob comes back to join Whitehead in escaping from O'Neill.\nCutler angrily berates O'Neill, blaming him for trusting Whitehead and lying to him about the alehouse\u2014which was simply a ploy to entice Jacob and Friend\u2014and abuses him. O'Neill promptly kills Cutler and then pursues Whitehead and Jacob, who scavenge Cutler's weapons and return to the overturned camp. As they are preparing for an attack, Friend appears alive and reveals their location to O'Neill. As Jacob throws Friend to the ground to stop him, O'Neill shoots Jacob in the gut, but Jacob returns fire breaking O'Neill's leg. Jacob dies from his injuries, after he and Whitehead surmise that the treasure was the friendship they shared. Friend brandishes Cutler's pike and charges O'Neill, but O'Neill kills him with his last shot. Whitehead takes advantage of the situation to finally kill O'Neill by shooting him in the back of the head.\nWhitehead buries his friends' corpses in the hole and leaves the field. Wearing O'Neill's clothes, he gathers his master's stolen documents and returns to the hedgerow where he first met Cutler, Jacob and Friend, from which battle sounds are rising. After he wades through the hedge, he sees Friend, Jacob and himself standing together.",
+    "wikipedia_plot_html": "<p>During a battle of the English Civil War, an alchemist's assistant named Whitehead flees from the strict Commander Trower. Whitehead is saved by a rough soldier named Cutler, who kills Trower before he can apprehend Whitehead. Whitehead then meets two army deserters, the gruff veteran Jacob and the witless Friend. The four leave the battleground in search of an ale house that Cutler claims is nearby. Cutler instead leads them to a field with many mushrooms growing in it, where he cooks a meal with some mushrooms and encourages the others to eat, which they share\u2014save for Whitehead who is fasting. Following their meal they haul an Irishman, the Wizard O'Neill, seemingly out of the ground using a rope wrapped around a strangely carved wooden post buried in the ground. O'Neill is a rival alchemist for whom Cutler works; and who had stolen documents from Whitehead's master, which Whitehead is trying to recover. O'Neill quickly asserts authority over the group and tells them of a treasure hidden somewhere in the field.</p><p>The group goes to O'Neill's camp, where O'Neill tortures Whitehead into subservience to use him as a human divining rod. After using Whitehead to locate the treasure, which it turns out is near the camp, O'Neill orders Jacob and Friend to dig for it while he leaves Cutler to supervise, and goes to sleep in a tent. Jacob soon succumbs to the influence of the hallucinogenic mushrooms, and after several hours of digging he attacks Friend. Cutler laughs and urinates on them, and when Jacob attempts to attack him, Cutler accidentally shoots Friend. Whitehead is unable to save him, and Friend dies, telling Jacob to deliver a message to his wife, telling her that he hates her. Cutler is forced to finish digging by himself, while Jacob lies down in the undergrowth, and Whitehead deposits Friend's corpse in a thicket.\n</p><p>Cutler eventually nears reaching the treasure, attracting the attention of O'Neill, who discovers Jacob and Whitehead gone. Reaching where Friend's corpse is, O'Neill pursues Whitehead, who ingests a considerable quantity of mushrooms, heightening his awareness but suffering a hallucinatory experience, wherein he conjures a violent wind to blow away the camp's tent. Cutler discovers that the \"treasure\" is just a skull, which he shoots in anger. Jacob comes back to join Whitehead in escaping from O'Neill.\n</p><p>Cutler angrily berates O'Neill, blaming him for trusting Whitehead and lying to him about the alehouse\u2014which was simply a ploy to entice Jacob and Friend\u2014and abuses him. O'Neill promptly kills Cutler and then pursues Whitehead and Jacob, who scavenge Cutler's weapons and return to the overturned camp. As they are preparing for an attack, Friend appears alive and reveals their location to O'Neill. As Jacob throws Friend to the ground to stop him, O'Neill shoots Jacob in the gut, but Jacob returns fire breaking O'Neill's leg. Jacob dies from his injuries, after he and Whitehead surmise that the treasure was the friendship they shared. Friend brandishes Cutler's pike and charges O'Neill, but O'Neill kills him with his last shot. Whitehead takes advantage of the situation to finally kill O'Neill by shooting him in the back of the head.\n</p><p>Whitehead buries his friends' corpses in the hole and leaves the field. Wearing O'Neill's clothes, he gathers his master's stolen documents and returns to the hedgerow where he first met Cutler, Jacob and Friend, from which battle sounds are rising. After he wades through the hedge, he sees Friend, Jacob and himself standing together.\n</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>A Field in England</b></i> is a 2013 British historical psychological horror film directed by Ben Wheatley. The film, shot in black-and-white, is set during the mid-17th-century English Civil War. The film was released on <span>5 July</span> 2013 on multiple platforms simultaneously, including cinemas, home media and video on demand. It was also broadcast on Film4 on the day of its release.</p>\n\n<h2>Plot</h2>\n<p>During a battle of the English Civil War, an alchemist's assistant named Whitehead flees from the strict Commander Trower. Whitehead is saved by a rough soldier named Cutler, who kills Trower before he can apprehend Whitehead. Whitehead then meets two army deserters, the gruff veteran Jacob and the witless Friend. The four leave the battleground in search of an ale house that Cutler claims is nearby. Cutler instead leads them to a field with many mushrooms growing in it, where he cooks a meal with some mushrooms and encourages the others to eat, which they share\u2014save for Whitehead who is fasting. Following their meal they haul an Irishman, the Wizard O'Neill, seemingly out of the ground using a rope wrapped around a strangely carved wooden post buried in the ground. O'Neill is a rival alchemist for whom Cutler works; and who had stolen documents from Whitehead's master, which Whitehead is trying to recover. O'Neill quickly asserts authority over the group and tells them of a treasure hidden somewhere in the field.</p><p>The group goes to O'Neill's camp, where O'Neill tortures Whitehead into subservience to use him as a human divining rod. After using Whitehead to locate the treasure, which it turns out is near the camp, O'Neill orders Jacob and Friend to dig for it while he leaves Cutler to supervise, and goes to sleep in a tent. Jacob soon succumbs to the influence of the hallucinogenic mushrooms, and after several hours of digging he attacks Friend. Cutler laughs and urinates on them, and when Jacob attempts to attack him, Cutler accidentally shoots Friend. Whitehead is unable to save him, and Friend dies, telling Jacob to deliver a message to his wife, telling her that he hates her. Cutler is forced to finish digging by himself, while Jacob lies down in the undergrowth, and Whitehead deposits Friend's corpse in a thicket.\n</p><p>Cutler eventually nears reaching the treasure, attracting the attention of O'Neill, who discovers Jacob and Whitehead gone. Reaching where Friend's corpse is, O'Neill pursues Whitehead, who ingests a considerable quantity of mushrooms, heightening his awareness but suffering a hallucinatory experience, wherein he conjures a violent wind to blow away the camp's tent. Cutler discovers that the \"treasure\" is just a skull, which he shoots in anger. Jacob comes back to join Whitehead in escaping from O'Neill.\n</p><p>Cutler angrily berates O'Neill, blaming him for trusting Whitehead and lying to him about the alehouse\u2014which was simply a ploy to entice Jacob and Friend\u2014and abuses him. O'Neill promptly kills Cutler and then pursues Whitehead and Jacob, who scavenge Cutler's weapons and return to the overturned camp. As they are preparing for an attack, Friend appears alive and reveals their location to O'Neill. As Jacob throws Friend to the ground to stop him, O'Neill shoots Jacob in the gut, but Jacob returns fire breaking O'Neill's leg. Jacob dies from his injuries, after he and Whitehead surmise that the treasure was the friendship they shared. Friend brandishes Cutler's pike and charges O'Neill, but O'Neill kills him with his last shot. Whitehead takes advantage of the situation to finally kill O'Neill by shooting him in the back of the head.\n</p><p>Whitehead buries his friends' corpses in the hole and leaves the field. Wearing O'Neill's clothes, he gathers his master's stolen documents and returns to the hedgerow where he first met Cutler, Jacob and Friend, from which battle sounds are rising. After he wades through the hedge, he sees Friend, Jacob and himself standing together.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<p><i>A Field in England</i> is directed by Ben Wheatley and based on a screenplay by Amy Jump. Wheatley became interested in the film's historical setting of the English Civil War when he filmed a documentary about the Sealed Knot, a historical reenactment society. In his research, Wheatley also learned about the use of hallucinogens during the 17th century. He said, \"People were grinding mushrooms into dust and blowing it into people's faces and then doing magic tricks.\" Wheatley sought funding to produce the film, which he had planned for years. The film was ultimately developed and financed by Film4.0, a division of Film4 that serves as an innovation hub. <i>Variety</i> reported that the film was described as \"a psychedelic trip into magic and madness\". Wheatley said <i>A Field in England</i> combines \"the more psychedelic elements\" from his previous films <i>Kill List</i> and <i>Sightseers</i> and \"weaves in our take on historical drama\" with the English Civil War.</p><p>The film was shot in black-and-white. <i>The Observer</i> said the style was part of a resurgence with films like <i>The Artist</i>, <i>Much Ado About Nothing</i>, <i>Frances Ha</i> and <i>Nebraska</i>. Wheatley said he and cinematographer Laurie Rose made a spontaneous decision to film in black-and-white. Wheatley and Rose watched <i>Culloden</i> and other films by Peter Watkins, as well as arthouse films from the 1960s and 1970s, to explore the style. The pair experimented with camera tests before filming <i>A Field in England</i> and committed to the \"unfussy\" style. With a production budget of \u00a3300,000, filming began in late September 2012. It took place in the countryside outside Guildford in Surrey. Filming lasted for <span>12 days</span>.</p>\n\n<h2>Release</h2>\n<p><i>A Field in England</i> screened in competition at the 48th Karlovy Vary International Film Festival on <span>4 July</span> 2013, where it won the Special Jury Prize. It was released in the United Kingdom on <span>5 July</span> 2013 through several platforms simultaneously. <i>The Hollywood Reporter</i> said, \"<i>A Field in England</i> will mark the first time a homegrown title has been released simultaneously in theaters, on DVD, free TV and video-on-demand.\" The film had received funding from the BFI Distribution Fund New Models strand, \"which supports experimental release models\". Film4 and its arms 4DVD and Film4 Channel collaborated with distributor Picturehouse Entertainment and with the BFI Distribution Fund for the rollout. Wheatley compared the multi-platform release to how the band Radiohead released its album <i>In Rainbows</i> for free.</p><p>Drafthouse Films acquired the rights to distribute the film in North America. It partnered with Cinedigm in September 2013, and they released the film on 6 February 2014 on various platforms and formats.</p><p>For the cinema release of <i>A Field in England</i> in the UK, Weltons Brewery brewed a limited-edition ale to give to cinema-goers. The beer had the tagline \"Open Up and Let the Devil In\" to tie into the use of hallucinogens in the film. The ale was bottled with yeast, which required a slow pour to ensure \"continuous secondary fermentation\" for the beer to be fresh.</p>\n\n<h2>Reception</h2>\n<p>The film received positive reviews. On film aggregation website Rotten Tomatoes, it has a \"Certified Fresh\" 86% rating, with an average score of 7.2/10, based on reviews from 67 critics. The site's consensus reads, \"Recklessly assembled and occasionally compelling in spite of itself, <i>A Field In England</i> showcases a singularly brilliant voice in British cinema\". It has a score of 73/100 (indicating \"generally favorable reviews\") on Metacritic, based on reviews from 19 critics. Peter Bradshaw of <i>The Guardian</i> wrote that <i>A Field in England</i> was a \"grisly and visceral\" film that was \"exposed to the elements, shivering with fever and discomfort\". Bradshaw said that Wheatley has \"cleverly alighted on the one period that suits his stripped-down visuals and subversive instincts perfectly\". Jonathan Romney of <i>The Independent</i> wrote that the film was Wheatley's \"most unclassifiable yet, blending historical drama, 1960s psychedelia and formal experimentation\". He said, \"Flawed as it is, <i>A Field in England</i> is some achievement, drumming up an earthly inferno out of next to nothing\u2014dirt and wind, a patch of land, some blokes with scraggy beards. The result, in a minor-key fashion, is a blast\u2014<i>Apocalypse Now</i> among the hedgerows.\"</p><p>Stephen Dalton, reviewing for <i>The Hollywood Reporter</i>, said, \"A strikingly original historical thriller spiced with occult mysticism and mind-warping hallucinations, British director Ben Wheatley's fourth feature has all the midnight-movie intensity of a future cult classic.\" Dalton noted flaws in the film but said that beside them, <i>A Field in England</i> is a rich, strange, hauntingly intense work from a highly original writer-director team.\" Peter Debruge of <i>Variety</i> called <i>A Field in England</i> \"a defiantly unclassifiable cross-genre experiment\u00a0... that simultaneously reinvents and regurgitates low-budget British cinema as it goes\". Debruge said of the director's approach, \"Clearly, Wheatley is bored with the paint-by-numbers approach of his horror contemporaries, but has swung so far in the opposite direction here, the result feels almost amateurishly avant garde at times, guilty of the sort of indulgences one barely tolerates in student films.\"</p>\n\n<h3>Writing</h3>\n<p><i>The Guardian</i><span>'</span>s Peter Bradshaw said <i>A Field in England</i> had \"a more literary screenplay\" than \"the improv feel\" of Wheatley's previous films. Bradshaw compared the writing to that of Dennis Potter and Edward Bond. He also found the British tone similar to the films <i>Straw Dogs</i> and <i>Withnail and I</i>. <i>The Independent</i><span>'</span>s Romney said, \"The screenplay contains much juicy period dialogue, although the gist is often lost amid hectic cuts, drunken camera moves and the men's habit of grabbing each other by the throat.\" For Romney, \"the sharpest moments of clarity\" in the narrative came in the dialogue. <i>The Hollywood Reporter</i><span>'</span>s Dalton wrote, \"One of the film's pleasures is its rich dialogue\u2014a ripe blend of Shakespearean finery, salty swearing and lowbrow toilet humor.\" The trade paper noted, \"Jump sets up some interesting tensions between Christian faith and Pagan witchcraft, science and sorcery, soldiers and scholars.\"</p>\n\n<h3>Cinematography</h3>\n<p><i>The Guardian</i> wrote that \"the monochrome images\" were similar to those of the 1975 film <i>Winstanley</i>. <i>The Independent</i> said the photography had \"furious visual panache and\u00a0... ominous, often abstract beauty\". <i>The Hollywood Reporter</i> commended the \"terrific\" cinematography of \"ravishing monochrome vistas punctuated by extreme close-ups of plants, animals, insects and tormented human faces\". <i>Variety</i> wrote, \"The commitment to monochrome brings out a beauty largely absent in previous collaborations with d.p. Laurie Rose, though his handheld style and axis-breaking setups often disorient\u2014and not necessarily in ways that help the psychic imbalance the pic means to achieve.\"</p>\n\n<h3>Cast and characters</h3>\n<p><i>The Guardian</i> wrote, \"Smiley is a great O'Neil, scary and commanding, while Shearsmith's Whitehead is hilariously submissive.\" It added about Shearsmith's role, \"His performance here is equal to and better than the 'gothic' characters he has created on television.\" <i>Variety</i> also commended Shearsmith's performance as leaving \"the strongest impression\". The trade paper expressed disappointment at a general lack of character development, \"Although Wheatley and Jump have gotten away with eliminating exposition and traditional character detail in the past, it's frustratingly difficult to follow what this motley group is searching for, much less to distinguish between the various personalities.\"</p>\n\n<h3>Editing</h3>\n<p>Ben Wheatley and Amy Jump edited the film together. <i>Variety</i> said the editors \"hypnotize the audience by cutting back and forth between shots of the various characters, folding and mirroring the images into disconcerting hallucinations\". <i>The Independent</i> wrote that the editors' \"big firework display\" was that of a psychedelic experience, which was \"a stroboscopic pandemonium of mirror images, flash cuts, bursts of light\".</p>\n\n<h3>Music and sound</h3>\n<p><i>The Hollywood Reporter</i> said, \"Sound designer Martin Pavey and composer Jim Williams also deserve special mention for underpinning these ostensibly calm pastoral scenes with a constant undertow of clanging, churning menace.\" <i>The Independent</i> commended Pavey's work, \"Everything floats unmoored, dialogue has the same sonic status as the wind or the eerie music.\"</p>\n\n<h2>See also</h2>\n<ul><li>List of films featuring hallucinogens</li>\n<li>List of black-and-white films produced since 1966</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><span><span><i>A Field in England</i></span></span> \u2013 official site</li>\n<li><i>A Field in England</i> at IMDb</li>\n<li><i>A Field in England</i> at Rotten Tomatoes</li></ul>"
+}

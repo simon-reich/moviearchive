@@ -1,0 +1,862 @@
+{
+    "adult": false,
+    "backdrop_path": "/mN8L1gYgbLZW88jwj3ok2WO4UvE.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.kiterunnermovie.com/",
+    "id": 7979,
+    "imdb_id": "tt0419887",
+    "original_language": "en",
+    "original_title": "The Kite Runner",
+    "overview": "After spending years in California, Amir returns to his homeland in Afghanistan to help his old friend Hassan, whose son is in trouble.",
+    "popularity": 20.171,
+    "poster_path": "/dom2esWWW8C9jS2v7dOhW48LwHh.jpg",
+    "production_companies": [
+        {
+            "id": 2299,
+            "logo_path": null,
+            "name": "Wonderland Films",
+            "origin_country": ""
+        },
+        {
+            "id": 737,
+            "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+            "name": "Sidney Kimmel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 6735,
+            "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+            "name": "Participant",
+            "origin_country": "US"
+        },
+        {
+            "id": 384,
+            "logo_path": null,
+            "name": "MacDonald/Parkes Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 2269,
+            "logo_path": null,
+            "name": "China Film Co-Production Corporation",
+            "origin_country": "CN"
+        },
+        {
+            "id": 11553,
+            "logo_path": null,
+            "name": "Beijing Happy Pictures Cultural Communications Co.",
+            "origin_country": ""
+        },
+        {
+            "id": 29031,
+            "logo_path": null,
+            "name": "Kite Runner Holdings",
+            "origin_country": ""
+        },
+        {
+            "id": 11392,
+            "logo_path": null,
+            "name": "Ebeling Group",
+            "origin_country": ""
+        },
+        {
+            "id": 1522,
+            "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+            "name": "Neal Street Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7,
+            "logo_path": "/1kqoutvio9eDaQpp0l4gQoEF4Yf.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 838,
+            "logo_path": "/tcW3UqV46Mdq6GyaS1ydEDocEDF.png",
+            "name": "Paramount Vantage",
+            "origin_country": "US"
+        },
+        {
+            "id": 181992,
+            "logo_path": null,
+            "name": "Mandate International",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-12-14",
+    "revenue": 73276047,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Pushto",
+            "iso_639_1": "ps",
+            "name": "\u067e\u069a\u062a\u0648"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Portugu\u00eas"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+        },
+        {
+            "english_name": "Urdu",
+            "iso_639_1": "ur",
+            "name": "\u0627\u0631\u062f\u0648"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There is a way to be good again.",
+    "title": "The Kite Runner",
+    "video": false,
+    "vote_average": 7.315,
+    "vote_count": 1072,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53483,
+                "known_for_department": "Acting",
+                "name": "Ahmad Khan Mahmoodzada",
+                "original_name": "Ahmad Khan Mahmoodzada",
+                "popularity": 1.495,
+                "profile_path": "/86famKyP0NkhxpkCtgEGcxiZmwT.jpg",
+                "cast_id": 9,
+                "character": "Young Hassan",
+                "credit_id": "52fe448bc3a36847f809bdf5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53481,
+                "known_for_department": "Acting",
+                "name": "Atossa Leoni",
+                "original_name": "Atossa Leoni",
+                "popularity": 1.399,
+                "profile_path": "/jM6zviUAKx1Bk2Y88l6NFZ4C6B7.jpg",
+                "cast_id": 6,
+                "character": "Soraya",
+                "credit_id": "52fe448bc3a36847f809bde9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53480,
+                "known_for_department": "Acting",
+                "name": "Khalid Abdalla",
+                "original_name": "Khalid Abdalla",
+                "popularity": 3.161,
+                "profile_path": "/iYRhheaol1T19Qy8a8pTIPk9COK.jpg",
+                "cast_id": 5,
+                "character": "Amir",
+                "credit_id": "52fe448bc3a36847f809bde5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1010819,
+                "known_for_department": "Acting",
+                "name": "Elham Ehsas",
+                "original_name": "Elham Ehsas",
+                "popularity": 4.906,
+                "profile_path": "/mlOS34qKEVApg5VVLTBUzY8cftN.jpg",
+                "cast_id": 12,
+                "character": "Young Assef",
+                "credit_id": "52fe448bc3a36847f809be01",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 117528,
+                "known_for_department": "Acting",
+                "name": "Homayoun Ershadi",
+                "original_name": "Homayoun Ershadi",
+                "popularity": 2.902,
+                "profile_path": "/gBoWtYN8Z8UunnCKVQmebWA0Qv4.jpg",
+                "cast_id": 14,
+                "character": "Baba",
+                "credit_id": "53de6ea9c3a3686c51001534",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5419,
+                "known_for_department": "Acting",
+                "name": "Sa\u00efd Taghmaoui",
+                "original_name": "Sa\u00efd Taghmaoui",
+                "popularity": 8.791,
+                "profile_path": "/kuxI08YpwQFGweIXK7TELknwexr.jpg",
+                "cast_id": 34,
+                "character": "Farid",
+                "credit_id": "593b817e925141058f007f04",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349338,
+                "known_for_department": "Acting",
+                "name": "Mustafa Haidari",
+                "original_name": "Mustafa Haidari",
+                "popularity": 4.117,
+                "profile_path": "/ya9C139lPT5rOBLWSi1PVa9Ian3.jpg",
+                "cast_id": 20,
+                "character": "Party Worker",
+                "credit_id": "53de6f21c3a3686c6000147c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17857,
+                "known_for_department": "Acting",
+                "name": "Shaun Toub",
+                "original_name": "Shaun Toub",
+                "popularity": 10.911,
+                "profile_path": "/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg",
+                "cast_id": 7,
+                "character": "Rahim Kahn",
+                "credit_id": "52fe448bc3a36847f809bded",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53482,
+                "known_for_department": "Acting",
+                "name": "Zekeria Ebrahimi",
+                "original_name": "Zekeria Ebrahimi",
+                "popularity": 1.614,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Young Amir",
+                "credit_id": "52fe448bc3a36847f809bdf1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1121950,
+                "known_for_department": "Acting",
+                "name": "Ali Danish Bakhty Ari",
+                "original_name": "Ali Danish Bakhty Ari",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Sohrab",
+                "credit_id": "52fe448bc3a36847f809bdfd",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349329,
+                "known_for_department": "Acting",
+                "name": "Nabi Tanha",
+                "original_name": "Nabi Tanha",
+                "popularity": 0.84,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Ali",
+                "credit_id": "53de6ebdc3a3686c6000146f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349331,
+                "known_for_department": "Acting",
+                "name": "Bahram Ehsas",
+                "original_name": "Bahram Ehsas",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Wali",
+                "credit_id": "53de6ed5c3a3686c4d001629",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349333,
+                "known_for_department": "Acting",
+                "name": "Tamim Nawabi",
+                "original_name": "Tamim Nawabi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Kamal",
+                "credit_id": "53de6ee6c3a3686c60001477",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349335,
+                "known_for_department": "Acting",
+                "name": "Mohamad Nabi Attai",
+                "original_name": "Mohamad Nabi Attai",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Uncle Saifo the Kite Seller",
+                "credit_id": "53de6effc3a3686c4500154d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349327,
+                "known_for_department": "Acting",
+                "name": "Mir Mahmood Shah Hashimi",
+                "original_name": "Mir Mahmood Shah Hashimi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Business Man in Baba's Study",
+                "credit_id": "53de6e96c3a3686c560014a1",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1349337,
+                "known_for_department": "Acting",
+                "name": "Mohamad Nadir Sarwari",
+                "original_name": "Mohamad Nadir Sarwari",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Spice Merchant",
+                "credit_id": "53de6f11c3a3686c4d001631",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1465480,
+                "known_for_department": "Acting",
+                "name": "Kenny Santiago Marrero",
+                "original_name": "Kenny Santiago Marrero",
+                "popularity": 1.865,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Russian Solider (uncredited)",
+                "credit_id": "619b547851e6ab008c37e721",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39,
+                "known_for_department": "Directing",
+                "name": "Sam Mendes",
+                "original_name": "Sam Mendes",
+                "popularity": 11.357,
+                "profile_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+                "credit_id": "55183918c3a3686302004356",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 405,
+                "known_for_department": "Sound",
+                "name": "Alberto Iglesias",
+                "original_name": "Alberto Iglesias",
+                "popularity": 0.996,
+                "profile_path": "/rCmxMuBdpvQttspXRlSHZbDNDn0.jpg",
+                "credit_id": "5d8b68156c1e040029ae3bf3",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9813,
+                "known_for_department": "Writing",
+                "name": "David Benioff",
+                "original_name": "David Benioff",
+                "popularity": 8.867,
+                "profile_path": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg",
+                "credit_id": "52fe448ac3a36847f809bddb",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12995,
+                "known_for_department": "Directing",
+                "name": "Marc Forster",
+                "original_name": "Marc Forster",
+                "popularity": 10.547,
+                "profile_path": "/m3WEGG6czBjgFULVyVQy6EJvUsZ.jpg",
+                "credit_id": "52fe448ac3a36847f809bdcf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13000,
+                "known_for_department": "Camera",
+                "name": "Roberto Schaefer",
+                "original_name": "Roberto Schaefer",
+                "popularity": 0.956,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a36847f809bdd5",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13005,
+                "known_for_department": "Editing",
+                "name": "Matt Chesse",
+                "original_name": "Matt Chesse",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "55a393cfc3a368181100035c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15906,
+                "known_for_department": "Production",
+                "name": "William Horberg",
+                "original_name": "William Horberg",
+                "popularity": 5.953,
+                "profile_path": "/jG8rBdoOSO6HyEjMmJb1prmpgBF.jpg",
+                "credit_id": "55a39377c3a3681cf50052e0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53346,
+                "known_for_department": "Production",
+                "name": "Kate Dowd",
+                "original_name": "Kate Dowd",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "55a393e7c3a3681ce3005570",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 53479,
+                "known_for_department": "Writing",
+                "name": "Khaled Hosseini",
+                "original_name": "Khaled Hosseini",
+                "popularity": 1.052,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a36847f809bde1",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54252,
+                "known_for_department": "Production",
+                "name": "E. Bennett Walsh",
+                "original_name": "E. Bennett Walsh",
+                "popularity": 2.152,
+                "profile_path": null,
+                "credit_id": "55a393939251412979004c56",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1404750,
+                "known_for_department": "Editing",
+                "name": "Linda Williams",
+                "original_name": "Linda Williams",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "55a394a9925141297d00544a",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1434549,
+                "known_for_department": "Production",
+                "name": "Rebecca Yeldham",
+                "original_name": "Rebecca Yeldham",
+                "popularity": 1.284,
+                "profile_path": null,
+                "credit_id": "55a393ae9251412974005335",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1445974,
+                "known_for_department": "Production",
+                "name": "Eriko Miyagawa",
+                "original_name": "Eriko Miyagawa",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "55a39412925141296e0053d5",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1460672,
+                "known_for_department": "Crew",
+                "name": "Jake Rice",
+                "original_name": "Jake Rice",
+                "popularity": 3.497,
+                "profile_path": null,
+                "credit_id": "55a3943c9251412974005345",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1486847,
+                "known_for_department": "Editing",
+                "name": "Nancy Fuller",
+                "original_name": "Nancy Fuller",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "55a3946ec3a3681cde004ec6",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1486848,
+                "known_for_department": "Editing",
+                "name": "Mike Brosius",
+                "original_name": "Mike Brosius",
+                "popularity": 0.656,
+                "profile_path": null,
+                "credit_id": "55a39487c3a3681cfa004b28",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1486851,
+                "known_for_department": "Editing",
+                "name": "Alex Olivares",
+                "original_name": "Alex Olivares",
+                "popularity": 2.304,
+                "profile_path": null,
+                "credit_id": "55a394c492514129770050d9",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "sLtavGjAOJY",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": true,
+                "published_at": "2012-05-14T20:41:33.000Z",
+                "id": "6331f24cfa78cd007a0d0def"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/mN8L1gYgbLZW88jwj3ok2WO4UvE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.777,
+                "height": 1688,
+                "iso_639_1": null,
+                "file_path": "/CAC2F6C6R8hZ3AoByDX6Jj2VOw.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3000
+            }
+        ],
+        "logos": [],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/dom2esWWW8C9jS2v7dOhW48LwHh.jpg",
+                "vote_average": 5.934,
+                "vote_count": 13,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ru",
+                "file_path": "/l4rdRdi0NIVQdbx43xNTGSYDd07.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "de",
+                "file_path": "/z583izHa6nJLpHyOlEdFreTdXXD.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "pt",
+                "file_path": "/5fvAaNAGh2nKDNJIKDJlplp1xty.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "uk",
+                "file_path": "/3G3JLme4QvgVlBx5IBtzNERSBHH.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 850,
+                "iso_639_1": null,
+                "file_path": "/t1w98L3qkNHxZYDH4wVQoowHvls.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.713,
+                "height": 750,
+                "iso_639_1": "bg",
+                "file_path": "/7YOTTCoz4Z7PAbIvcKSz57biHy5.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 535
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "it",
+                "file_path": "/qdnewIesfXg9WJA0YqWg0VE0FQy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.702,
+                "height": 997,
+                "iso_639_1": "ko",
+                "file_path": "/1RTlZOJo4HxabOfRiyPjEZvi7wW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "de",
+                "file_path": "/sWoNnJ8zf2pgMVkQ3L9hwMhTN28.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 850,
+                "iso_639_1": "es",
+                "file_path": "/y0ySv3DJZsZ41RCEGY9XPb0BPDs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1710,
+                "iso_639_1": "hu",
+                "file_path": "/y6kKIdPSnGiYTozU5b2k4Ypxnxl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1198
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/fi20vR5jmyEcntdfQxmw64o2X0F.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "tr",
+                "file_path": "/cNmUl6k6lDVlQhiGts8ZLdsptIp.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1200,
+                "iso_639_1": "sv",
+                "file_path": "/k2hHOkBL26ek0GAlE3PjV6Y8zFF.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 799
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1228,
+                "name": "1970s"
+            },
+            {
+                "id": 3541,
+                "name": "afghanistan"
+            },
+            {
+                "id": 7956,
+                "name": "cowardice"
+            },
+            {
+                "id": 6650,
+                "name": "hang gliding"
+            },
+            {
+                "id": 7158,
+                "name": "afghanistan war (2001- )"
+            },
+            {
+                "id": 7955,
+                "name": "taliban"
+            },
+            {
+                "id": 12392,
+                "name": "best friend"
+            },
+            {
+                "id": 13001,
+                "name": "cowardliness"
+            },
+            {
+                "id": 208349,
+                "name": "child"
+            }
+        ]
+    },
+    "title_english": "The Kite Runner",
+    "year": "2007",
+    "rated": "PG-13",
+    "director_list": [
+        "Marc Forster"
+    ],
+    "writer_list": [
+        "David Benioff",
+        " Khaled Hosseini"
+    ],
+    "main_cast": [
+        "Khalid Abdalla",
+        " Ahmad Khan Mahmoodzada",
+        " Atossa Leoni"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "imdb_rating": "7.6",
+    "imdb_votes": "82,001",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Kite_Runner",
+    "wikipedia_summary": "The Kite Runner is the first novel by Afghan-American author Khaled Hosseini. Published in 2003 by Riverhead Books, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul. The story is set against a backdrop of tumultuous events, from the fall of Afghanistan's monarchy through the Soviet invasion, the exodus of refugees to Pakistan and the United States, and the rise of the Taliban regime.\nHosseini has commented that he considers The Kite Runner to be a father-son relationship story, emphasizing the familial aspects of the narrative, an element that he continued to use in his later works. Themes of guilt and redemption feature prominently in the novel, with a pivotal scene depicting an act of sexual assault inflicted upon Amir's friend Hassan, which Amir fails to prevent, and which ends their friendship. The latter half of the book centers on Amir's attempts to atone for this transgression by rescuing Hassan's son two decades later.\nThe Kite Runner became a bestseller after being printed in paperback and was popularized in book clubs. It appeared on the New York Times bestseller list for over two years, with over seven million copies sold in the United States. Reviews were generally positive, though parts of the plot drew significant controversy in Afghanistan. A number of adaptations were created following publication, including a 2007 film of the same name, several stage performances, and a graphic novel.  The novel is also available in a multi-CD audiobook read by the author.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><i><b>The Kite Runner</b></i> is the first novel by Afghan-American author Khaled Hosseini. Published in 2003 by Riverhead Books, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul. The story is set against a backdrop of tumultuous events, from the fall of Afghanistan's monarchy through the Soviet invasion, the exodus of refugees to Pakistan and the United States, and the rise of the Taliban regime.\n</p><p>Hosseini has commented that he considers <i>The Kite Runner</i> to be a father-son relationship story, emphasizing the familial aspects of the narrative, an element that he continued to use in his later works. Themes of guilt and redemption feature prominently in the novel, with a pivotal scene depicting an act of sexual assault inflicted upon Amir's friend Hassan, which Amir fails to prevent, and which ends their friendship. The latter half of the book centers on Amir's attempts to atone for this transgression by rescuing Hassan's son two decades later.\n</p><p><i>The Kite Runner</i> became a bestseller after being printed in paperback and was popularized in book clubs. It appeared on the <i>New York Times</i> bestseller list for over two years, with over seven million copies sold in the United States. Reviews were generally positive, though parts of the plot drew significant controversy in Afghanistan. A number of adaptations were created following publication, including a 2007 film of the same name, several stage performances, and a graphic novel.  The novel is also available in a multi-CD audiobook read by the author.\n</p>\n\n<h2>Composition and publication</h2>\n<p>Khaled Hosseini lived and worked as a medical internist at Kaiser Hospital in Mountain View, California for several years before publishing <i>The Kite Runner</i>.  In 1999, Hosseini learned through a news report that the Taliban had banned kite flying in Afghanistan, a restriction he found particularly cruel. The news \"struck a personal chord\" for him, as he had grown up with the sport while living in Afghanistan. He was motivated to write a 25-page short story about two boys who fly kites in Kabul. Hosseini submitted copies to <i>Esquire</i> and <i>The New Yorker</i>, both of which rejected it. He rediscovered the manuscript in his garage in March 2001 and began to expand it to novel format at the suggestion of a friend. According to Hosseini, the narrative became \"much darker\" than he originally intended. His editor, Cindy Spiegel, \"helped him rework the last third of his manuscript\", something she describes as relatively common for a first novel.</p><p>As with Hosseini's subsequent novels, <i>The Kite Runner</i> covers a multigenerational period and focuses on the relationship between parents and their children. The latter was unintentional; Hosseini developed an interest in the theme while in the process of writing. He later divulged that he frequently came up with pieces of the plot by drawing pictures of it. For example, he did not decide to make Amir and Hassan brothers until after he had \"doodled it\".</p><p>Like Amir, the protagonist of the novel, Hosseini was born in Afghanistan and left the country as a youth, not returning until 2003. Thus, he was frequently questioned about the extent of the autobiographical aspects of the book. In response, he said, \"When I say some of it is me, then people look unsatisfied. The parallels are pretty obvious, but\u00a0... I left a few things ambiguous because I wanted to drive the book clubs crazy.\" Having left the country around the time of the Soviet invasion, he felt a certain amount of survivor's guilt: \"Whenever I read stories about Afghanistan my reaction was always tinged with guilt. A lot of my childhood friends had a very hard time. Some of our cousins died. One died in a fuel truck trying to escape Afghanistan [an incident that Hosseini fictionalizes in <i>The Kite Runner</i>]. Talk about guilt. He was one of the kids I grew up with flying kites. His father was shot.\" Regardless, he maintains that the plot is fictional. Later, when writing his second novel, <i>A Thousand Splendid Suns</i> (then titled <i>Dreaming in Titanic City</i>), Hosseini remarked that he was happy that the main characters were women as it \"should put the end to the autobiographical question once and for all.\"</p><p>Riverhead Books published <i>The Kite Runner</i>, ordering an initial printing of 50,000 copies in hardback. It was released on May 29, 2003, and the paperback edition was released a year later. Hosseini took a year-long absence from practicing medicine to promote the book, signing copies, speaking at various events, and raising funds for Afghan causes. Originally published in English, <i>The Kite Runner</i> was later translated into 42 languages for publication in 38 countries. In 2013, Riverhead released the 10th anniversary edition with a new gold-rimmed cover and a foreword by Hosseini. That same year, on May 21, Khaled Hosseini published another book called <i>And the Mountains Echoed</i>.\n</p>\n\n<h2>Plot summary</h2>\n<h3>Part I</h3>\n<p>Amir, a well-to-do Pashtun boy, and Hassan, a Hazara boy who is the son of Ali, Amir's father's servant, spend their days kite fighting in the hitherto peaceful city of Kabul. Flying kites was a way to escape the horrific reality the two boys were living in. Hassan is a successful \"kite runner\" for Amir; he knows where the kite will land without watching it. Both boys are motherless: Amir's mother died in childbirth, while Hassan's mother, Sanaubar, simply abandoned him and Ali. Amir's father, a wealthy merchant Amir affectionately refers to as <i>Baba,</i> loves both boys. He makes a point of buying Hassan exactly the same things as Amir, to Amir's annoyance. He even pays to have Hassan's cleft lip surgically corrected. On the other hand, Baba is often critical of Amir, considering him weak and lacking in courage, even threatening to physically punish him when he complains about Hassan. Amir finds a kinder fatherly figure in Rahim Khan, Baba's closest friend, who understands him and supports his interest in writing, whereas Baba considers that interest to be worthy only of females. In a rare moment, when Amir is sitting on Baba's lap rather than being shooed away as a bother, he asks why his father drinks alcohol, which is forbidden by Islam. Baba tells him that the Mullahs are hypocrites and the only real sin is theft which takes many forms, the worst being having an affair.\n</p><p>Assef, an older boy with a sadistic taste for violence, regularly mocks Amir for socializing with a Hazara, whose members, according to him, belong only in Hazarajat. Assef is himself only half Pashtun, having a German mother. One day, he prepares to attack Amir with brass knuckles, but Hassan defends Amir, threatening to shoot out Assef's eye with his slingshot. Assef backs off but swears to take revenge one day.\n</p><p>One triumphant day, Amir wins the local kite-fighting tournament and finally earns Baba's praise. Hassan runs for the last cut kite, a great trophy, saying to Amir, \"For you a thousand times over!\" However, after finding the kite, Hassan encounters Assef in an alleyway. Hassan refuses to give up the kite, and Assef humiliates him by assaulting him both physically and sexually. Amir witnesses the act but is too scared to intervene. He knows that if he fails to bring home the kite, Baba would be less proud of him, so he runs away. Amir feels incredibly guilty but knows his cowardice would destroy any hopes for Baba's affections, so he keeps quiet about the incident. Afterwards, Amir keeps distant from Hassan; his feelings of guilt prevent him from interacting with the boy. Hassan's mental and physical well-being begin to deteriorate as a result, but he still tries to interact with Amir.\n</p><p>Amir begins to believe that life would be easier if Hassan were not around, so he plants his watch and some birthday money under Hassan's mattress in the hope that Baba will make him leave; Hassan falsely confesses when confronted by Baba. Although Baba believes \"there is no act more wretched than stealing\", he forgives him. To Baba's sorrow, Hassan and Ali leave anyway, because Hassan has told Ali what happened to him. Amir is freed of the daily reminder of his cowardice and betrayal, but he still lives in their shadow.\n</p>\n\n<h3>Part II</h3>\n<p>In 1979, five years later, the Soviet Union militarily intervened in Afghanistan. Baba and Amir escape to Peshawar, Pakistan, and then to Fremont, California, where they settle in a run-down apartment. Baba begins work at a gas station due to his low social status in America. After graduating from high school, Amir takes classes at San Jose State University to develop his writing skills. Every Sunday, Baba and Amir make extra money selling used goods at a flea market in San Jose. There, Amir meets fellow refugee Soraya Taheri and her family. Baba is diagnosed with terminal cancer but is still capable of granting Amir one last favor: he asks Soraya's father's permission for Amir to marry her. He agrees and the two marry. Shortly after, Baba dies peacefully. Amir and Soraya settle down in a happy marriage, but to their sorrow, they learn that they cannot have children.\n</p><p>Amir embarks on a successful career as a novelist. Fifteen years after his wedding, Amir receives a call from Rahim Khan. Rahim Khan, who is dying, asks Amir to visit him in Peshawar. He enigmatically tells Amir, \"There is a way to be good again.\"\n</p>\n\n<h3>Part III</h3>\n<p>From Rahim Khan, Amir learns that Hassan and Ali are both dead. Ali was killed by a land mine, and Hassan was murdered (along with his wife Farzana) after he refused to allow the Taliban to confiscate Baba and Amir's house in Kabul. Rahim Khan further reveals that Ali was sterile and was not Hassan's biological father. Hassan was actually the son of Sanaubar and Baba, making him Amir's half brother. Finally, Rahim Khan tells Amir that the reason he has called Amir to Pakistan is to ask him to find and rescue Hassan's son, Sohrab, from an orphanage in Kabul.\n</p><p>Amir searches for Sohrab, accompanied by Farid, an Afghan taxi driver and veteran of the war with the Soviets. They go to a rundown orphanage where Rahim Khan said Sohrab might be but they learn from the orphanage director that a Taliban official comes to the orphanage often, brings cash, and usually takes a girl away with him. Occasionally he chooses a boy, recently Sohrab. The orphanage director tells Amir how to find the official, and Farid secures an appointment at his home by claiming to have \"personal business\" with him.\n</p><p>Amir meets the Taliban leader, who reveals himself as Assef. Sohrab is being kept at Assef's house as a dancing boy. Assef agrees to relinquish him if Amir can escape the room alive. Assef then badly beats Amir with his brass knuckles, breaking several bones and splitting his lip, until Sohrab uses a slingshot to fire a brass ball into Assef's left eye, saving Amir and carrying out Hassan's threat from long ago. Sohrab helps Amir out of the house, where he passes out and wakes up in a hospital.\n</p><p>Amir tells Sohrab of his plans to take him back to America and possibly adopt him. However, American authorities demand evidence of Sohrab's orphan status. Amir tells Sohrab that he may have to go back to an orphanage for a little while as they have encountered a problem in the adoption process, and Sohrab, terrified about returning to an orphanage, attempts suicide via cutting his wrists. Amir eventually manages to take him back to the United States with the help of Soraya. After his adoption, Sohrab refuses to interact with Amir or Soraya until Amir reminisces about Hassan and kites and shows off some of Hassan's tricks one day. After Amir helps Sohrab win his first kite fight, Sohrab only gives a lopsided smile, but Amir takes it with all his heart as he runs the kite for Sohrab, saying, \"For you, a thousand times over\" like Hassan did many years ago.\n</p>\n\n<h2>Characters</h2>\n<h3>Protagonist</h3>\n<p><b>Amir</b> (named <b>Amir Qadiri</b> in 2007 film adaptation, surname is not given in book) is the protagonist and narrator of the novel. Khaled Hosseini acknowledged that the character is \"an unlikable coward who failed to come to the aid of his best friend\" for much of the duration of the story; consequently, Hosseini chose to create sympathy for Amir through circumstances rather than the personality he was given until the last third of the book. Born into a Pashtun family in 1963, his mother died while giving birth to him. As a child, he enjoys storytelling and is encouraged by Rahim Khan to become a well-known writer. At age 18, he and his father flee to America following the Soviet Military invasion of Afghanistan, where he pursues his dream of being a writer.</p>\n\n<h3>Main characters</h3>\n<ul><li><b>Hassan</b> is Amir's closest childhood friend. Khaled Hosseini regards him as a flat character in terms of development; he is \"a lovely guy and you root for him and you love him but he's not complicated\". After Assef assaults him, this causes Hassan and Amir's relationship to deteriorate, culminating with Hassan leaving. Hassan later is murdered by the Taliban, but not before having a son, Sohrab.</li>\n<li><b>Baba</b> is Amir's father and a wealthy businessman who aids the community by establishing businesses for others and building a new orphanage. He is the biological father of Hassan, a fact he hides from both of his children, and seems to favor him over Amir. Baba does not endorse the extremist religious views of the clerics at Amir's school. After fleeing to America, he works at a gas station due to his low social status there. He dies from cancer in 1987, shortly after Amir and Soraya's wedding.</li>\n<li><b>Ali</b> is Baba's servant, a Hazara believed to be Hassan's father. He was adopted as a child by Baba's father after his parents were killed by a drunk driver. Before the events of the novel, Ali had been struck with polio, rendering his right leg useless. Because of this, Ali is constantly tormented by children in the town. He is later killed by a land mine in Hazarajat, after he and Hassan leave Amir and Baba.</li>\n<li><b>Rahim Khan</b> is Baba's loyal friend and business partner. He understands Amir and supports his interest in writing. Later on, he calls Amir to give him the task of rescuing Sohrab, before dying of a terminal illness.</li>\n<li><b>Soraya</b> is a young Afghan woman whom Amir meets and marries in the United States. Hosseini originally scripted the character as an American woman, but he later agreed to rewrite her as an Afghan immigrant after his editor did not find her background believable for her role in the story. The change resulted in an extensive revision of Part III. In the final draft, Soraya lives with her parents, Afghan general Taheri and his wife Jamila, and wants to become an English teacher. Before meeting Amir, she ran away with an Afghan boyfriend in Virginia, which, according to Afghan culture, made her unsuitable for marriage. Because Amir is unwilling to confront his own past actions, he admires Soraya for her courage in admitting to, and moving beyond, her past mistakes.</li>\n<li><b>Sohrab</b> is the son of Hassan, who is captured by Assef after Hassan and his wife are murdered by the Taliban. Sohrab is eventually rescued by Amir and taken to live in America as Amir and Soraya's adopted son.</li></ul>\n\n<h3>Antagonists</h3>\n<p><b>Assef</b> is the main antagonist of the novel. He is the son of a Pashtun father and a German mother, and believes that Pashtuns are superior to Hazaras, although he himself is not a full Pashtun. He is described as a \"sociopath\" by Amir.\n</p>\n<ul><li><b>Wali</b> and <b>Kamal</b> are Assef's goons who join him in tormenting Amir and Hassan, although Kamal is later preyed upon by a Russian soldier and killed from gas inhalation.</li></ul>\n\n<h3>Secondary characters</h3>\n<ul><li><b>Sanaubar</b> is Ali's wife and the mother of Hassan. Shortly after Hassan's birth, she runs away from home and joins a group of traveling dancers. She later returns to Hassan in his adulthood. To make up for her neglect, she provides a grandmother figure for Sohrab, Hassan's son, for four years before her death.</li>\n<li><b>Farid</b> is a taxi driver who is initially abrasive toward Amir, but later befriends him. Two of Farid's seven children were killed by a land mine, a disaster which mutilated three fingers on his left hand and also took some of his toes. After spending a night with Farid's brother's impoverished family, Amir hides a bundle of money under the mattress to help them.</li>\n<li><b>General Taheri</b> is the father of Soraya, a former military general in the Afghan Army. He has a very traditionalistic view on life, despite being well meaning, and is obsessed with honor and society's impression on him and his family, which causes minor conflicts between him and Soraya, and later, to some extent Amir. However these are very minor conflicts, and all is made up later.</li>\n<li><b>Khala Jamila Taheri</b> is Soraya's mother, who dotes on Amir after Amir marries Soraya.</li>\n<li><b>Farzana</b> is Hassan's wife. She was murdered by the Taliban alongside Hassan.</li>\n<li><b>Sofia Akrami</b> is Amir's mother. Although she dies in childbirth, Amir gains information regarding her from a beggar once he revisits Afghanistan.</li>\n<li><b>Karim</b> is a smuggler who helps smuggle Amir and Baba out of Afghanistan during the war.</li>\n<li><b>Wahid</b> is Farid's brother, who lets Amir and Farid stay at his house while they are traveling to Kabul.</li>\n<li><b>Zaman</b> is the director of an orphanage in Kabul. He is occasionally visited by Assef, who forces him to sell him a child in exchange for money for the orphanage.</li>\n<li><b>Raymond Andrews</b> is an adoption official in the American embassy in Pakistan, who discourages Amir from trying to adopt Sohrab, but it is later revealed that his daughter committed suicide.</li>\n<li><b>Omar Faisal</b> is a lawyer who tries to help Amir adopt Sohrab.</li></ul>\n\n<h2>Themes</h2>\n<blockquote class=\"templatequote\"><p>Because its themes of friendship, betrayal, guilt, redemption and the uneasy love between fathers and sons are universal, and not specifically Afghan, the book has been able to reach across cultural, racial, religious and gender gaps to resonate with readers of varying backgrounds.</p></blockquote>\n<p>Khaled Hosseini identifies a number of themes that appear in <i>The Kite Runner</i>, but reviewers have focused on guilt and redemption. As a child, Amir fails to save Hassan in an act of cowardice and afterwards suffers from an all-consuming guilt. Even after leaving the country, moving to America, marrying, and becoming a successful writer, he is unable to forget the incident. Hassan is \"the all-sacrificing Christ-figure, the one who, even in death, calls Amir to redemption\". Following Hassan's death at the hands of the Taliban, Amir begins to redeem himself through the rescue of Hassan's son, Sohrab. Hosseini draws parallels during the search for Sohrab to create an impression of poetic justice; for example, Amir sustains a split lip after being severely beaten, similar to Hassan's harelip. Despite this, some critics questioned whether the protagonist had fully redeemed himself.</p><p>Amir's motivation for the childhood betrayal is rooted in his insecurities regarding his relationship with his father. The relationship between parents and their children features prominently in the novel, and in an interview, Hosseini elaborated:\n</p>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r996844942\"><blockquote class=\"templatequote\"><p>Both [<i>The Kite Runner</i> and <i>A Thousand Splendid Suns</i>] are multigenerational, and so the relationship between parent and child, with all of its manifest complexities and contradictions, is a prominent theme. I did not intend this, but I am keenly interested, it appears, in the way parents and children love, disappoint, and in the end honor each other. In one way, the two novels are corollaries: <i>The Kite Runner</i> was a father-son story, and <i>A Thousand Splendid Suns</i> can be seen as a mother-daughter story.</p></blockquote>\n<p>When adapting <i>The Kite Runner</i> for the theatre, Director Eric Rose stated that he was drawn into the narrative by the \"themes of betraying your best friend for the love of your father\", which he compared to Shakespearean literature. Throughout the story, Amir craves his father's affection; his father, in turn, loves Amir but favors Hassan, going as far as to pay for plastic surgery to repair the latter's cleft lip.</p>\n\n<h2>Critical reception</h2>\n<p>In the first two years following its publication, over 70,000 hardback copies of <i>The Kite Runner</i> were sold along with 1,250,000 paperback copies. Though the book sold well in hardback, \"<i>Kite Runner's</i> popularity didn't really begin to soar until [2004] when the paperback edition came out, which is when book clubs began picking it up.\" It started appearing on best seller lists in September 2004 and became a <i>New York Times</i> bestseller in March 2005, maintaining its place on the list for two years. By the publication of Khaled Hosseini's third novel in 2013, over seven million copies had been sold in the United States. The book received the South African Boeke Prize in 2004. It was voted the Reading Group Book of the Year for 2006 and 2007 and headed a list of 60 titles submitted by entrants to the Penguin/Orange Reading Group prize (UK).</p><p>Critically, the book was well-received, albeit controversial. Erika Milvy from <i>Salon</i> praised it as \"beautifully written, startling and heart wrenching\". Tony Sims from <i>Wired Magazine</i> wrote that the book \"reveals the beauty and agony of a tormented nation as it tells the story of an improbable friendship between two boys from opposite ends of society, and of the troubled but enduring relationship between a father and a son\". Amelia Hill of <i>The Observer</i> opined, \"<i>The Kite Runner</i> is the shattering first novel by Khaled Hosseini\" that \"is simultaneously devastating and inspiring.\" A similarly favourable review was printed in <i>Publishers Weekly</i>. Marketing director Melissa Mytinger remarked, \"It's simply an excellent story. Much of it based in a world we don't know, a world we're barely beginning to know. Well-written, published at the 'right time' by an author who is both charming and thoughtful in his personal appearances for the book.\" Indian-American actor Aasif Mandvi agreed that the book was \"amazing storytelling.\u00a0... It's about human beings. It's about redemption, and redemption is a powerful theme.\" First Lady Laura Bush commended the story as \"really great\". Said Tayeb Jawad, the 19th Afghan ambassador to the United States, publicly endorsed <i>The Kite Runner</i>, saying that the book would help the American public to better understand Afghan society and culture.</p><p>Edward Hower from <i>The New York Times</i> analyzed the portrayal of Afghanistan before and after the Taliban:\n</p>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r996844942\"><blockquote class=\"templatequote\"><p>Hosseini's depiction of pre-revolutionary Afghanistan is rich in warmth and humour but also tense with the friction between the nation's different ethnic groups. Amir's father, or Baba, personifies all that is reckless, courageous and arrogant in his dominant Pashtun tribe\u00a0... The novel's canvas turns dark when Hosseini describes the suffering of his country under the tyranny of the Taliban, whom Amir encounters when he finally returns home, hoping to help Hassan and his family. The final third of the book is full of haunting images: a man, desperate to feed his children, trying to sell his artificial leg in the market; an adulterous couple stoned to death in a stadium during the halftime of a football match; a rouged young boy forced into prostitution, dancing the sort of steps once performed by an organ grinder's monkey.</p></blockquote>\n<p>Meghan O'Rouke, <i>Slate Magazine'</i>s culture critic and advisory editor, ultimately found <i>The Kite Runner</i> mediocre, writing that \"this is a novel simultaneously striving to deliver a large-scale informative portrait and to stage a small-scale redemptive drama, but its therapeutic allegory of recovery can only undermine its realist ambitions. People experience their lives against the backdrop of their culture, and while Hosseini wisely steers clear of merely exoticizing Afghanistan as a monolithically foreign place, he does so much work to make his novel emotionally accessible to the American reader that there is almost no room, in the end, for us to consider for long what might differentiate Afghans and Americans.\" Sarah Smith from <i>The Guardian</i> thought the novel started out well but began to falter towards the end. She felt that Hosseini was too focused on fully redeeming the protagonist in Part III and in doing so created too many unrealistic coincidences that allowed Amir the opportunity to undo his past wrongs.</p>\n\n<h3>Controversy in the United States</h3>\n<p>The American Library Association reported that <i>The Kite Runner</i> was one of its most-challenged books of 2008, with multiple attempts to remove it from libraries due to its \"offensive language, sexually explicit [content], and unsuit[ability for] age group.\" Afghan American readers were particularly critical towards the depiction of Pashtuns as oppressors and Hazaras as the oppressed. Hosseini responded in an interview, \"They never say I am speaking about things that are untrue. Their beef is, 'Why do you have to talk about these things and embarrass us? Don't you love your country?'\" Afghan-Austrian journalist Emran Feroz, however, criticized the novel for oversimplifying ethnic relations in Afghanistan and portraying Pashtuns in general in an overly negative light. Feroz further expressed concern that works by Hosseini, who was raised in a culturally Tajik context rather than Pashtun, would prevent western readers from developing a more nuanced view of Afghanistan.</p>\n\n<h3>Film controversy in Afghanistan</h3>\n<p>The film generated more controversy through the 30-second rape scene, with threats made against the child actors, who originated from Afghanistan. Zekeria Ebrahimi, the 12-year-old actor who portrayed Amir, had to be removed from school after his Hazara classmates threatened to kill him, and Paramount Pictures was eventually forced to relocate three of the children to the United Arab Emirates. Afghanistan's Ministry of Culture banned the film from distribution in cinemas or DVD stores, citing the possibility that the movie's ethnically charged rape scene could incite racial violence within Afghanistan.</p>\n\n<h2>Adaptations</h2>\n<h3>Film</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>Four years after its publication, <i>The Kite Runner</i> was adapted as a motion picture starring Khalid Abdalla as Amir, Homayoun Ershadi as Baba, and Ahmad Khan Mahmoodzada as Hassan. It was initially scheduled to premiere in November 2007, but the release date was pushed back six weeks to evacuate the Afghan child stars from the country after they received death threats. Directed by Marc Forster and with a screenplay by David Benioff, the movie won numerous awards and was nominated for an Academy Award, the BAFTA Film Award, and the Critics Choice Award in 2008. While reviews were generally positive, with <i>Entertainment Weekly</i> deeming the final product \"pretty good\", the depiction of ethnic tensions and the controversial rape scene drew outrage in Afghanistan. Hangama Anwari, the child rights commissioner for the Afghanistan Independent Human Rights Commission, commented, \"They should not play around with the lives and security of people. The Hazara people will take it as an insult.\"</p><p>Hosseini was surprised by the extent of the controversy caused by the rape scene and said that Afghan actors would not have been cast had studios known that their lives would be threatened. He believed that the scene was necessary to \"maintain the integrity\" of the story, as a physical assault by itself would not have affected the audience as much.</p>\n\n<h3>Other</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The novel was first adapted to the stage in March 2007 by Bay Area playwright Matthew Spangler where it was performed at San Jose State University. Two years later, David Ira Goldstein, artistic director of Arizona Theater Company, organized for it to be performed at San Jose Repertory Theatre. The play was produced at Arizona Theatre Company in 2009, Actor's Theatre of Louisville and Cleveland Play House in 2010, and The New Repertory Theatre of Watertown, Massachusetts in 2012. The theatre adaption premiered in Canada as a co-production between Theatre Calgary and the Citadel Theatre in January 2013. In April 2013, the play premiered in Europe at the Nottingham Playhouse, with Ben Turner acting in the lead role.</p><p>Hosseini was approached by Piemme, his Italian publisher, about adapting <i>The Kite Runner</i> to a graphic novel in 2011. Having been \"a fan of comic books since childhood\", he was open to the idea, believing that <i>The Kite Runner</i> was a good candidate to be presented in a visual format. Fabio Celoni provided the illustrations for the project and regularly updated Hosseini on his progress before its release in September of that year. The latter was pleased with the final product and said, \"I believe Fabio Celoni's work vividly brings to life not only the mountains, the bazaars, the city of Kabul and its kite-dotted skies, but also the many struggles, conflicts, and emotional highs and lows of Amir's journey.\"</p>\n\n<h2>See also</h2>\n<ul><li><i>16 Days in Afghanistan</i> listed as a reference film in Kite Runner's Study guide</li>\n<li><i>A Thousand Splendid Suns</i> (Hosseini's second novel)</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n\n<ul><li>Official website of author Khaled Hosseini</li>\n<li>Khaled Hosseini discusses <i>The Kite Runner</i> on the BBC <i>World Book Club</i></li>\n<li>Article on the novel at <i>Let's Talk about Bollywood</i></li>\n<li>Excerpts: Excerpt at ereader.com Excerpt at litstudies.org Excerpt at today.com</li>\n<li>Book Drum illustrated profile of <i>The Kite Runner</i> Archived 2017-09-05 at the Wayback Machine</li></ul><p class=\"mw-empty-elt\">\n</p>"
+}

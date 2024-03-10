@@ -1,0 +1,940 @@
+{
+    "adult": false,
+    "backdrop_path": "/5blB7Dhk5AGCah0JhFw3SLjGz7c.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.curzonartificialeye.com/the-banishment/",
+    "id": 25142,
+    "imdb_id": "tt0488905",
+    "original_language": "ru",
+    "original_title": "\u0418\u0437\u0433\u043d\u0430\u043d\u0438\u0435",
+    "overview": "While vacationing in the countryside at his childhood home, a woman suddenly reveals to her husband that she is expecting a child \u2013 but not his.",
+    "popularity": 8.932,
+    "poster_path": "/hD5Dg3VztZbvk2aqQsHh1e5jUP4.jpg",
+    "production_companies": [
+        {
+            "id": 81997,
+            "logo_path": "/otfBTkUJTyZnn82pvq6kxJNdQEk.png",
+            "name": "REN TV",
+            "origin_country": "RU"
+        },
+        {
+            "id": 12557,
+            "logo_path": "/fUB3QSaha2RDP2EyYNKMmwpRJAY.png",
+            "name": "H\u00e9licotronc",
+            "origin_country": "BE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+        }
+    ],
+    "release_date": "2008-03-27",
+    "revenue": 0,
+    "runtime": 158,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+        }
+    ],
+    "status": "Released",
+    "tagline": "If you want to kill, kill. If you want to forgive, forgive.",
+    "title": "The Banishment",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 130,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68517,
+                "known_for_department": "Acting",
+                "name": "Konstantin Lavronenko",
+                "original_name": "Konstantin Lavronenko",
+                "popularity": 6.5,
+                "profile_path": "/hKmuAKgNVpHkns7RYQik5Y8EFpa.jpg",
+                "cast_id": 2,
+                "character": "Alex",
+                "credit_id": "52fe44b9c3a368484e0337c7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93225,
+                "known_for_department": "Acting",
+                "name": "Aleksandr Baluev",
+                "original_name": "Aleksandr Baluev",
+                "popularity": 3.322,
+                "profile_path": "/ovroDQro4zq2cAgdMSAjdPvDZSy.jpg",
+                "cast_id": 3,
+                "character": "Mark",
+                "credit_id": "52fe44b9c3a368484e0337cb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97032,
+                "known_for_department": "Acting",
+                "name": "Maria Bonnevie",
+                "original_name": "Maria Bonnevie",
+                "popularity": 9.308,
+                "profile_path": "/9BQAQNRsoN8Aderfp6QBwMp02JE.jpg",
+                "cast_id": 4,
+                "character": "Vera",
+                "credit_id": "52fe44b9c3a368484e0337cf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94065,
+                "known_for_department": "Acting",
+                "name": "Dmitri Ulyanov",
+                "original_name": "Dmitri Ulyanov",
+                "popularity": 2.155,
+                "profile_path": "/aeq0cpulQIiNEXpnK6fUuwSuPiE.jpg",
+                "cast_id": 5,
+                "character": "Robert",
+                "credit_id": "52fe44b9c3a368484e0337d3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587623,
+                "known_for_department": "Acting",
+                "name": "Vitaly Kishchenko",
+                "original_name": "Vitaly Kishchenko",
+                "popularity": 5.25,
+                "profile_path": "/2gQk7GAxRKeEfNrqJMZNDBDQKsT.jpg",
+                "cast_id": 15,
+                "character": "German",
+                "credit_id": "57f0724292514159250082f1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 583292,
+                "known_for_department": "Acting",
+                "name": "Maksim Shibayev",
+                "original_name": "Maksim Shibayev",
+                "popularity": 0.694,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Kir",
+                "credit_id": "5abd2a1e0e0a2609e402bd30",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548846,
+                "known_for_department": "Acting",
+                "name": "Aleksey Vertkov",
+                "original_name": "Aleksey Vertkov",
+                "popularity": 4.399,
+                "profile_path": "/cFEdcdOlj2IvusTtNMLIaTnqPiG.jpg",
+                "cast_id": 18,
+                "character": "Max",
+                "credit_id": "5abd2a6a9251411ea7029052",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 143674,
+                "known_for_department": "Acting",
+                "name": "Igor Sergeev",
+                "original_name": "Igor Sergeev",
+                "popularity": 2.305,
+                "profile_path": "/cEppnsO8FnZYR33k3o62GfYUD1F.jpg",
+                "cast_id": 19,
+                "character": "Viktor",
+                "credit_id": "5abd2accc3a368435f028c40",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2010649,
+                "known_for_department": "Acting",
+                "name": "Yekaterina Kulkina",
+                "original_name": "Yekaterina Kulkina",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Eva",
+                "credit_id": "5abd2a42c3a368439602d55b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2010653,
+                "known_for_department": "Acting",
+                "name": "Ira Gonto",
+                "original_name": "Ira Gonto",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Liza",
+                "credit_id": "5abd2b090e0a2609e402bf0e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2010654,
+                "known_for_department": "Acting",
+                "name": "Svetlana Kashelkina",
+                "original_name": "Svetlana Kashelkina",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Faina",
+                "credit_id": "5abd2b29c3a368439602d708",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 581166,
+                "known_for_department": "Acting",
+                "name": "Yaroslava Nikolaeva",
+                "original_name": "Yaroslava Nikolaeva",
+                "popularity": 0.6,
+                "profile_path": "/qqey4WSH7xEzmOokewBLh0IGwDw.jpg",
+                "cast_id": 22,
+                "character": "Frida",
+                "credit_id": "5abd2b5e9251411ea002a67d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2010659,
+                "known_for_department": "Acting",
+                "name": "Elizabet Dantsinger",
+                "original_name": "Elizabet Dantsinger",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Flora",
+                "credit_id": "5abd2b7d0e0a2609e402bfde",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 584045,
+                "known_for_department": "Acting",
+                "name": "Olga Lapshina",
+                "original_name": "Olga Lapshina",
+                "popularity": 1.799,
+                "profile_path": "/pBM0PGwWOVBecT4Kh0uIPGojGE.jpg",
+                "cast_id": 28,
+                "character": "Peasant Woman",
+                "credit_id": "6223432af48e0d001b6a82c8",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106595,
+                "known_for_department": "Acting",
+                "name": "Maksim Drozd",
+                "original_name": "Maksim Drozd",
+                "popularity": 2.094,
+                "profile_path": "/cH35zFpDBZXsKMiryBl8bZudBrK.jpg",
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "62234334c15f89006d0a6dff",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3384247,
+                "known_for_department": "Acting",
+                "name": "Vyacheslav Butenko",
+                "original_name": "Vyacheslav Butenko",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "6223434485702e001a41b101",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2607350,
+                "known_for_department": "Acting",
+                "name": "Anatoly Gorgul",
+                "original_name": "Anatoly Gorgul",
+                "popularity": 0.6,
+                "profile_path": "/uikU5cEU10pFtN59zliXEqAjLty.jpg",
+                "cast_id": 31,
+                "character": "Georgy",
+                "credit_id": "6223435de9da69001bf324de",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1787158,
+                "known_for_department": "Acting",
+                "name": "Igor Ogurtsov",
+                "original_name": "Igor Ogurtsov",
+                "popularity": 2.269,
+                "profile_path": "/5W2xJmwiKs0SH2cpyxBye94kqRs.jpg",
+                "cast_id": 32,
+                "character": "Young Igor",
+                "credit_id": "6223437585702e006bb147aa",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 223528,
+                "known_for_department": "Acting",
+                "name": "Igor Savochkin",
+                "original_name": "Igor Savochkin",
+                "popularity": 7.447,
+                "profile_path": "/wWS0kDNnlBwTETbdTVaVeNVNJBh.jpg",
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "62f89151a313b8009c859834",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1414822,
+                "known_for_department": "Art",
+                "name": "Andrey Ponkratov",
+                "original_name": "Andrey Ponkratov",
+                "popularity": 0.98,
+                "profile_path": "/5aKyDQ2x5SRwMJsoNiZaDn3Md8D.jpg",
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "62f89166596a91009b0d6507",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20230,
+                "known_for_department": "Sound",
+                "name": "Arvo P\u00e4rt",
+                "original_name": "Arvo P\u00e4rt",
+                "popularity": 1.96,
+                "profile_path": "/bq7OliFL8gf9ERIck9jhPivfv7z.jpg",
+                "credit_id": "57f071ad9251415a3b007c97",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20230,
+                "known_for_department": "Sound",
+                "name": "Arvo P\u00e4rt",
+                "original_name": "Arvo P\u00e4rt",
+                "popularity": 1.96,
+                "profile_path": "/bq7OliFL8gf9ERIck9jhPivfv7z.jpg",
+                "credit_id": "641c855424b33300f614507f",
+                "department": "Sound",
+                "job": "Additional Soundtrack"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68519,
+                "known_for_department": "Directing",
+                "name": "Andrey Zvyagintsev",
+                "original_name": "Andrey Zvyagintsev",
+                "popularity": 5.344,
+                "profile_path": "/56yI1A4ZlrgQP2TdlH0tHhGEqO4.jpg",
+                "credit_id": "52fe44b9c3a368484e0337c3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68524,
+                "known_for_department": "Sound",
+                "name": "Andrey Dergachev",
+                "original_name": "Andrey Dergachev",
+                "popularity": 2.188,
+                "profile_path": "/biMBQ01hBe1wYNXYTYyPcXRRIFW.jpg",
+                "credit_id": "57f071a6c3a3683c0c0072bf",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68524,
+                "known_for_department": "Sound",
+                "name": "Andrey Dergachev",
+                "original_name": "Andrey Dergachev",
+                "popularity": 2.188,
+                "profile_path": "/biMBQ01hBe1wYNXYTYyPcXRRIFW.jpg",
+                "credit_id": "643c16938ec4ab0470af036c",
+                "department": "Sound",
+                "job": "Sound Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68525,
+                "known_for_department": "Camera",
+                "name": "Mikhail Krichman",
+                "original_name": "Mikhail Krichman",
+                "popularity": 0.611,
+                "profile_path": "/xSuzkVhzGaaovs3xYHgnHXur2rK.jpg",
+                "credit_id": "57f071c4c3a3683c3e0075cf",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 125896,
+                "known_for_department": "Sound",
+                "name": "Alexander Volodin",
+                "original_name": "Alexander Volodin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5409a2ca0e0a263a1e0018cc",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 522463,
+                "known_for_department": "Writing",
+                "name": "William Saroyan",
+                "original_name": "William Saroyan",
+                "popularity": 3.215,
+                "profile_path": null,
+                "credit_id": "5abd2c1d9251411e9a029be9",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1063375,
+                "known_for_department": "Writing",
+                "name": "Oleg Negin",
+                "original_name": "Oleg Negin",
+                "popularity": 1.96,
+                "profile_path": "/kEBOaq4qSg6HbMXOIT12YQKplFe.jpg",
+                "credit_id": "5abd2c680e0a2609ce02d67a",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1114559,
+                "known_for_department": "Acting",
+                "name": "Vladimir Mishukov",
+                "original_name": "Vladimir Mishukov",
+                "popularity": 1.417,
+                "profile_path": "/7dMKnoXH7g0xni2YdTdZJ4nw27W.jpg",
+                "credit_id": "643c173b37806204bc160ce7",
+                "department": "Camera",
+                "job": "Additional Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1264276,
+                "known_for_department": "Production",
+                "name": "Dmitriy Lesnevskiy",
+                "original_name": "Dmitriy Lesnevskiy",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "57f071b6c3a3683f20006ec0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1377267,
+                "known_for_department": "Visual Effects",
+                "name": "Dmitriy Tokoyakov",
+                "original_name": "Dmitriy Tokoyakov",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643c17868ec4ab049aaf0020",
+                "department": "Visual Effects",
+                "job": "VFX Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1414822,
+                "known_for_department": "Art",
+                "name": "Andrey Ponkratov",
+                "original_name": "Andrey Ponkratov",
+                "popularity": 0.98,
+                "profile_path": "/5aKyDQ2x5SRwMJsoNiZaDn3Md8D.jpg",
+                "credit_id": "5afd249f9251412652000a75",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1584733,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anna Bartuli",
+                "original_name": "Anna Bartuli",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643c1651a0f1a204bbd616a5",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1642499,
+                "known_for_department": "Editing",
+                "name": "Anna Mass",
+                "original_name": "Anna Mass",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "57f071cb92514141ee00c5ea",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1687797,
+                "known_for_department": "Production",
+                "name": "Yelena Loginova",
+                "original_name": "Yelena Loginova",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "57f071bec3a3683f720071d0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2074382,
+                "known_for_department": "Writing",
+                "name": "Artyom Melkumyan",
+                "original_name": "Artyom Melkumyan",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5b357fbf9251413c70026f4e",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2561563,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Galya Ponomaryova",
+                "original_name": "Galya Ponomaryova",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643c1666a0f1a20467d616dd",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3094423,
+                "known_for_department": "Camera",
+                "name": "Eugeny Mayorov",
+                "original_name": "Eugeny Mayorov",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643c172746aed404c84fad16",
+                "department": "Camera",
+                "job": "Additional Director of Photography"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer - Banishment",
+                "key": "1MC84Ox34EA",
+                "published_at": "2012-05-31T23:51:25.000Z",
+                "site": "YouTube",
+                "size": 480,
+                "type": "Trailer",
+                "official": true,
+                "id": "5b3100db0e0a26400d002707"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "The Banishment trailer",
+                "key": "U6s8azVXdQM",
+                "published_at": "2008-08-11T16:03:29.000Z",
+                "site": "YouTube",
+                "size": 480,
+                "type": "Trailer",
+                "official": true,
+                "id": "5b3592709251413c89022d44"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/5blB7Dhk5AGCah0JhFw3SLjGz7c.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/xIkwhelGu51tl3Z3sl1U5k1Ru9N.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/wiUJmoTut7x7FdWB9s0kapnVXjQ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eAEaTDhuix0OdXtm1dMjFbOqd2L.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/xWbyvOjPIVffDQLCRQfY2XK9a36.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/9CRacwMUrHEyKStXbETHnKGZPYp.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/sYBwLqxGoDaGtsdZj8fWPjhqjnj.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/kjLjDEf6WaZgQKdGk7wX6TfwQIJ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/79MCXIwsjhWZMfKn5EvjH7U24Xz.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/vCk5YAQMH8f0m5ZhJu7h2tTzJ3R.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/v5o727JDjBGaADhzMocWoojwKmg.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/qZLDLYm9QBw5VOiZM6sAeLzRsVI.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/h7HkPrY4I2HJxFoAR4zhylurdE6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/62HjqCNaien769zB5P9nvXsqghG.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1125,
+                "iso_639_1": "ru",
+                "file_path": "/wsIe35xkwz7VpUreUtPOXV4oolh.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "ru",
+                "file_path": "/6Rj5JokTd4ocnKg4qXh9nstsbFO.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.908,
+                "height": 98,
+                "iso_639_1": null,
+                "file_path": "/dIqpU3Fzl1iqvb2tvz6hHqkIQnv.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 383
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/hD5Dg3VztZbvk2aqQsHh1e5jUP4.jpg",
+                "vote_average": 5.456,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "fr",
+                "file_path": "/aOeCrDxmTozdqbysDUIW9ElHXcE.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "sv",
+                "file_path": "/5jfBkiHt8TKE4ksS0EA7ry0PePt.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "ru",
+                "file_path": "/kCqZnLWldG2Qj2zClP3vCWMCu41.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/qg5DgAcD3DuIMfAnrtQlG8rcTpa.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "ru",
+                "file_path": "/4b41ed0x9lMzOJ1Z91MP6hfAqB3.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "ru",
+                "file_path": "/6hX92v4nFXNGBuEniUw6rZgxiQu.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "ru",
+                "file_path": "/dcLiPMIzvrxAf93JM99ZyD2mtAe.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/tWFBdq5SXp01pOZciD8k1MhJzmQ.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/dcRYWtyjbMhXqRLMyInn5rYoWs1.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/uKTy8sn0pQpO7W8s1D8Xq4gFk2q.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1000,
+                "iso_639_1": "en",
+                "file_path": "/qrSVNRwVAmeatZEGjHL1dPiGwwo.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 667
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 11001,
+                "name": "religion"
+            },
+            {
+                "id": 18035,
+                "name": "family"
+            }
+        ]
+    },
+    "title_english": "The Banishment",
+    "year": "2007",
+    "rated": "N/A",
+    "director_list": [
+        "Andrey Zvyagintsev"
+    ],
+    "writer_list": [
+        "William Saroyan",
+        " Artyom Melkumyan",
+        " Oleg Negin"
+    ],
+    "main_cast": [
+        "Konstantin Lavronenko",
+        " Maria Bonnevie",
+        " Aleksandr Baluev"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "imdb_rating": "7.5",
+    "imdb_votes": "8,780",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Banishment",
+    "wikipedia_summary": "The Banishment (Russian: \u0418\u0437\u0433\u043d\u0430\u043d\u0438\u0435, Izgnanie) is a 2007 Russian psychological drama film directed by Andrey Zvyagintsev. The film is a loose adaptation of The Laughing Matter, a 1953 novel by Armenian-American writer William Saroyan. It stars Konstantin Lavronenko and Maria Bonnevie.\nThe film premiered at the 2007 Cannes Film Festival and was nominated for the Palme d'Or. Lavronenko won the Best Actor award at the festival. It was released in Russian cinemas on 2 October 2007. The film received mixed reviews from critics.",
+    "wikipedia_plot": "In the film's opening scene, Mark comes to Alex's house for help removing a bullet from his arm. Mark is concerned about the dangers of going to a hospital because of his criminal affiliations and the police inquiries which would result from going to a public hospital. Mark recovers and in the following days, Alex brings his wife Vera and two children for a trip to his childhood home in the countryside. The tranquility of the countryside is broken when Vera tells Alex that she is pregnant, but that this baby is not his. The rift between the couple grows but the two try to keep up appearances in the presence of their children and the old friends that visit them.\nAlex is unsure about what to do and turns to his brother Mark for advice. On the way to meet Mark at the train station, Alex's son Kir reveals that Alex's young friend Robert was at their house one day while Alex was away for work. Alex concludes that Robert is the baby's father. Vera feels estranged from her husband, and fears that Kir will follow in Alex and Mark's criminal footsteps.\nIn the end, Alex forces Vera to have an abortion hoping they will be able to re-build their relationship and save their marriage once this unborn baby is out of the way. While their children are at a friend's house, he gets Mark to use his criminal connections to find a doctor to perform the procedure in their own house. After the abortion Vera commits suicide by overdosing on pain relieving medication. Alex and Mark rush the funeral formalities as gossip spreads quickly in the countryside. After returning home from the funeral parlour, Mark has a serious heart attack. Against the advice of the doctor, he attends Vera's funeral but dies before he and his brother return home.\nAlex returns to the city alone and goes to Robert's house with the intention of killing him. Alex falls asleep in his car outside the house and is awoken by Robert who invites him in. As he retrieves the gun from the glove box, he discovers an envelope containing the results of Vera's pregnancy test and a letter written by Vera on the back. The film cuts to a flashback of the time Robert came to Alex's home while he was away. It is revealed that the day before, Vera attempted to commit suicide by overdosing on pills but is saved by Robert. The next day, Vera finds out she is pregnant and confides with Robert, revealing that she never had an affair and that the baby was in fact Alex's, even though she says it felt like it wasn't his as they hardly ever talk. She expressed concerns about having another baby in this relationship that was lacking communication.",
+    "wikipedia_plot_html": "<p>In the film's opening scene, Mark comes to Alex's house for help removing a bullet from his arm. Mark is concerned about the dangers of going to a hospital because of his criminal affiliations and the police inquiries which would result from going to a public hospital. Mark recovers and in the following days, Alex brings his wife Vera and two children for a trip to his childhood home in the countryside. The tranquility of the countryside is broken when Vera tells Alex that she is pregnant, but that this baby is not his. The rift between the couple grows but the two try to keep up appearances in the presence of their children and the old friends that visit them.\n</p><p>Alex is unsure about what to do and turns to his brother Mark for advice. On the way to meet Mark at the train station, Alex's son Kir reveals that Alex's young friend Robert was at their house one day while Alex was away for work. Alex concludes that Robert is the baby's father. Vera feels estranged from her husband, and fears that Kir will follow in Alex and Mark's criminal footsteps.\n</p><p>In the end, Alex forces Vera to have an abortion hoping they will be able to re-build their relationship and save their marriage once this unborn baby is out of the way. While their children are at a friend's house, he gets Mark to use his criminal connections to find a doctor to perform the procedure in their own house. After the abortion Vera commits suicide by overdosing on pain relieving medication. Alex and Mark rush the funeral formalities as gossip spreads quickly in the countryside. After returning home from the funeral parlour, Mark has a serious heart attack. Against the advice of the doctor, he attends Vera's funeral but dies before he and his brother return home.\n</p><p>Alex returns to the city alone and goes to Robert's house with the intention of killing him. Alex falls asleep in his car outside the house and is awoken by Robert who invites him in. As he retrieves the gun from the glove box, he discovers an envelope containing the results of Vera's pregnancy test and a letter written by Vera on the back. The film cuts to a flashback of the time Robert came to Alex's home while he was away. It is revealed that the day before, Vera attempted to commit suicide by overdosing on pills but is saved by Robert. The next day, Vera finds out she is pregnant and confides with Robert, revealing that she never had an affair and that the baby was in fact Alex's, even though she says it felt like it wasn't his as they hardly ever talk. She expressed concerns about having another baby in this relationship that was lacking communication.\n</p>",
+    "wikipedia_critics": "The film received mixed reviews from critics. Based on 20 reviews collected by Rotten Tomatoes, The Banishment has an overall approval rating from critics of 65%, with an average score of 5.1/10. The website's critical consensus states, \"Beautifully shot, but ultimately disappointing, lumbering sophomore effort from Russian potential great Andrey Zvyagintsev\". On Metacritic, the film has a weighted average score of 59 out of 100, based on 8 critics, indicating \"mixed or average reviews\"David Gritten of The Daily Telegraph called the film \"a mythic masterpiece\" and that \"The Banishment confirms Zvyagintsev as a director of world stature.\" Film critic Patrick Z. McGavin said \"the movie requires extraordinary patience, and those inclined to surrender to the film's heavy mood and elusive rhythm are bound to experience a significant revelation.\" The film's narrative has been described as \"frustrating\" and \"suffers from structural problems.\" Sight & Sound said \"the film's dramatic narrative twist is clumsily rendered. Intended to disorientate, it comes over as contrived.\" The Guardian's Peter Bradshaw criticized the film's open-ended nature and how it left questions unanswered saying, \"there is an outstanding film somewhere inside this sprawling mass of ideas, which might have been shaped more exactingly in the edit.\"The cinematography by Mikhail Krichman received great praise from most critics. Its slow pace and long running time divided critics, having been described as \"at times a painfully slow film\" and \"it slips gently by, holding the attention in an iron grip.\" Anton Bitel said \"the viewer's patience is rewarded with exquisite painterly images, some unexpectedly rapid developments and a truly bleak vision of human error and its consequences.\"The film drew frequent comparisons to the works of Andrei Tarkovsky, as well as visually referencing Ingmar Bergman, Robert Bresson, and Michelangelo Antonioni. Birgit Beumers of KinoKultura criticized this aspect of the film, stating \"these quotations are obtrusive and too obvious\" while Neil Young's Film Lounge concurred, stating \"Zvyagintsev has ended up merely aping the cinematic giants who have come before him.\" Empire's David Parkinson said the film \"feels more like a cin\u00e9 dissertation designed to showcase Zvyagintsev's appreciation of the medium than an original piece of cinema.\"",
+    "wikipedia_full_html": "<p><i><b>The Banishment</b></i> (Russian: <span lang=\"ru\">\u0418\u0437\u0433\u043d\u0430\u043d\u0438\u0435</span>, <i>Izgnanie</i>) is a 2007 Russian psychological drama film directed by Andrey Zvyagintsev. The film is a loose adaptation of <i>The Laughing Matter</i>, a 1953 novel by Armenian-American writer William Saroyan. It stars Konstantin Lavronenko and Maria Bonnevie.\n</p><p>The film premiered at the 2007 Cannes Film Festival and was nominated for the Palme d'Or. Lavronenko won the Best Actor award at the festival. It was released in Russian cinemas on 2 October 2007. The film received mixed reviews from critics.\n</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>In the film's opening scene, Mark comes to Alex's house for help removing a bullet from his arm. Mark is concerned about the dangers of going to a hospital because of his criminal affiliations and the police inquiries which would result from going to a public hospital. Mark recovers and in the following days, Alex brings his wife Vera and two children for a trip to his childhood home in the countryside. The tranquility of the countryside is broken when Vera tells Alex that she is pregnant, but that this baby is not his. The rift between the couple grows but the two try to keep up appearances in the presence of their children and the old friends that visit them.\n</p><p>Alex is unsure about what to do and turns to his brother Mark for advice. On the way to meet Mark at the train station, Alex's son Kir reveals that Alex's young friend Robert was at their house one day while Alex was away for work. Alex concludes that Robert is the baby's father. Vera feels estranged from her husband, and fears that Kir will follow in Alex and Mark's criminal footsteps.\n</p><p>In the end, Alex forces Vera to have an abortion hoping they will be able to re-build their relationship and save their marriage once this unborn baby is out of the way. While their children are at a friend's house, he gets Mark to use his criminal connections to find a doctor to perform the procedure in their own house. After the abortion Vera commits suicide by overdosing on pain relieving medication. Alex and Mark rush the funeral formalities as gossip spreads quickly in the countryside. After returning home from the funeral parlour, Mark has a serious heart attack. Against the advice of the doctor, he attends Vera's funeral but dies before he and his brother return home.\n</p><p>Alex returns to the city alone and goes to Robert's house with the intention of killing him. Alex falls asleep in his car outside the house and is awoken by Robert who invites him in. As he retrieves the gun from the glove box, he discovers an envelope containing the results of Vera's pregnancy test and a letter written by Vera on the back. The film cuts to a flashback of the time Robert came to Alex's home while he was away. It is revealed that the day before, Vera attempted to commit suicide by overdosing on pills but is saved by Robert. The next day, Vera finds out she is pregnant and confides with Robert, revealing that she never had an affair and that the baby was in fact Alex's, even though she says it felt like it wasn't his as they hardly ever talk. She expressed concerns about having another baby in this relationship that was lacking communication.\n</p>\n\n<h2>Cast</h2>\n<ul><li>Konstantin Lavronenko as Alex, Vera's husband</li>\n<li>Maria Bonnevie as Vera, Alex's wife</li>\n<li>Aleksandr Baluev as Mark, Alex's brother</li>\n<li>Maksim Shibayev as Kir, Alex's and Vera's son</li>\n<li>Katya Kulkina as Eva, Alex's and Vera's daughter</li>\n<li>Dmitri Ulyanov as Robert, Alex's friend and co-worker</li>\n<li>Vitali Kishchenko as German</li></ul>\n\n<h2>Production</h2>\n<p>Director Andrey Zvyagintsev said the project took him nearly three years to complete, starting from when he first thought about the plot. The film's screenplay was presented to Zvyagintsev by Artyom Melkumian, an Armenian friend of his who worked as a television cameraman. Melkumian loved William Saroyan's <i>The Laughing Matter</i> and spent ten years adapting the novel. Originally, the script had a lot of dialogue but Zvyagintsev said that when he started testing it with actors \"it was a disaster\" and had to remorselessly cut the dialogue. \"The long dialogue would be impossible to film in a satisfying way. It would be very difficult for the actors to hold the viewers' attention for that long,\" said Zvyagintsev.</p><p>Zvyagintsev said \"The entire success of the film depends on the cast. So I spend a long time finding exactly the right people. I always have an image of a particular character in mind, and then audition many actors and keep comparing the essence of the character with the essence of the people I meet. When the virtual and the real characters almost coincide, I know I've found my actor.\" Zvyagintsev tried to avoid casting Konstantin Lavronenko who played a lead role in his previous film, <i>The Return</i>, but said \"In the end I couldn't find anyone else who could be his equal.\" Zvyagintsev postponed filming and waited twelve months for actress Maria Bonnevie who had a year-long contract with the Royal Dramatic Theatre in Stockholm.</p><p>The film had 103 shooting days in four different countries\u2014France, Belgium, Moldova and Russia. The city exterior scenes were filmed in historically industrial towns of Belgium and northern France: Charleroi, Roubaix and Tourcoing. The house, the railway station, the church, the cemetery and the wooden bridge next to the house were purposefully built on location near Cahul, Moldova. A shot involving a donkey which only lasts several seconds on screen took the crew half a day to film and used three cans of film. Zvyagintsev joked, \"Now I say will never work with animals again.\" Zvyagintsev intentionally removed cultural references to the time and setting of the film. Special attention was paid to architecture, signs and the vehicles. Finnish bank notes were altered to make them look more abstract and a French sign was digitally removed in post-production.</p>\n\n<h2>Reception</h2>\n<h3>Critical response</h3>\n<p>The film received mixed reviews from critics. Based on 20 reviews collected by Rotten Tomatoes, <i>The Banishment</i> has an overall approval rating from critics of 65%, with an average score of 5.1/10. The website's critical consensus states, \"Beautifully shot, but ultimately disappointing, lumbering sophomore effort from Russian potential great Andrey Zvyagintsev\". On Metacritic, the film has a weighted average score of 59 out of 100, based on 8 critics, indicating \"mixed or average reviews\"</p><p>David Gritten of <i>The Daily Telegraph</i> called the film \"a mythic masterpiece\" and that \"<i>The Banishment</i> confirms Zvyagintsev as a director of world stature.\" Film critic Patrick Z. McGavin said \"the movie requires extraordinary patience, and those inclined to surrender to the film's heavy mood and elusive rhythm are bound to experience a significant revelation.\" The film's narrative has been described as \"frustrating\" and \"suffers from structural problems.\" <i>Sight &amp; Sound</i> said \"the film's dramatic narrative twist is clumsily rendered. Intended to disorientate, it comes over as contrived.\" <i>The Guardian'</i>s Peter Bradshaw criticized the film's open-ended nature and how it left questions unanswered saying, \"there is an outstanding film somewhere inside this sprawling mass of ideas, which might have been shaped more exactingly in the edit.\"</p><p>The cinematography by Mikhail Krichman received great praise from most critics. Its slow pace and long running time divided critics, having been described as \"at times a painfully slow film\" and \"it slips gently by, holding the attention in an iron grip.\" Anton Bitel said \"the viewer's patience is rewarded with exquisite painterly images, some unexpectedly rapid developments and a truly bleak vision of human error and its consequences.\"</p><p>The film drew frequent comparisons to the works of Andrei Tarkovsky, as well as visually referencing Ingmar Bergman, Robert Bresson, and Michelangelo Antonioni. Birgit Beumers of KinoKultura criticized this aspect of the film, stating \"these quotations are obtrusive and too obvious\" while Neil Young's Film Lounge concurred, stating \"Zvyagintsev has ended up merely aping the cinematic giants who have come before him.\" <i>Empire'</i>s David Parkinson said the film \"feels more like a cin\u00e9 dissertation designed to showcase Zvyagintsev's appreciation of the medium than an original piece of cinema.\"</p>\n\n<h3>Awards</h3>\n<p>Konstantin Lavronenko won the Best Actor award at the 2007 Cannes Film Festival for his performance in the film.</p>\n\n<h2>See also</h2>\n<ul><li>2007 in film</li>\n<li>Cinema of Russia</li>\n<li>Russian films of 2007</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n<ul><li><i>The Banishment</i> at IMDb</li>\n<li><i>The Banishment</i> at AllMovie</li>\n<li><i>The Banishment</i> at <i>Sight &amp; Sound</i></li></ul>\n<!-- \nNewPP limit report\nParsed by mw1394\nCached time: 20231202234713\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 0.699 seconds\nReal time usage: 0.838 seconds\nPreprocessor visited node count: 3388/1000000\nPost\u2010expand include size: 62775/2097152 bytes\nTemplate argument size: 7734/2097152 bytes\nHighest expansion depth: 33/100\nExpensive parser function count: 3/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 69009/5000000 bytes\nLua time usage: 0.508/10.000 seconds\nLua memory usage: 17956590/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  789.424      1 -total\n 37.35%  294.889      1 Template:Infobox_film\n 32.36%  255.467     13 Template:Main_other\n 30.62%  241.756      1 Template:Infobox_film/short_description\n 28.38%  224.039      1 Template:Short_description\n 22.50%  177.589      1 Template:Reflist\n 21.12%  166.735      2 Template:Country2nationality\n 20.16%  159.161      4 Template:ISO_3166_code\n 12.13%   95.784      6 Template:Cite_news\n 12.10%   95.492      1 Template:Lang-ru\n-->"
+}

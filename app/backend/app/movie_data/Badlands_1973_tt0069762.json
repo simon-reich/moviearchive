@@ -1,0 +1,1250 @@
+{
+    "adult": false,
+    "backdrop_path": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+    "belongs_to_collection": null,
+    "budget": 300000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 3133,
+    "imdb_id": "tt0069762",
+    "original_language": "en",
+    "original_title": "Badlands",
+    "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+    "popularity": 20.216,
+    "poster_path": "/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+    "production_companies": [
+        {
+            "id": 1461,
+            "logo_path": null,
+            "name": "Pressman-Williams",
+            "origin_country": ""
+        },
+        {
+            "id": 11535,
+            "logo_path": null,
+            "name": "Jill Jakes Production",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1974-01-05",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Fran\u00e7ais"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Burning Love on the Great Plains in 1959!",
+    "title": "Badlands",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 1076,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8349,
+                "known_for_department": "Acting",
+                "name": "Martin Sheen",
+                "original_name": "Martin Sheen",
+                "popularity": 16.887,
+                "profile_path": "/5W4OuI6evOYyPc3pUnKAEnpLtX3.jpg",
+                "cast_id": 3,
+                "character": "Kit Carruthers",
+                "credit_id": "52fe438ac3a36847f805bdb3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5606,
+                "known_for_department": "Acting",
+                "name": "Sissy Spacek",
+                "original_name": "Sissy Spacek",
+                "popularity": 24.625,
+                "profile_path": "/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg",
+                "cast_id": 10,
+                "character": "Holly Sargis",
+                "credit_id": "52fe438ac3a36847f805bdd5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8255,
+                "known_for_department": "Acting",
+                "name": "Warren Oates",
+                "original_name": "Warren Oates",
+                "popularity": 10.911,
+                "profile_path": "/qgelB9xOkMDLf2sDQH5XfVPh29K.jpg",
+                "cast_id": 11,
+                "character": "Holly's Father",
+                "credit_id": "52fe438ac3a36847f805bdd9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33060,
+                "known_for_department": "Acting",
+                "name": "Ramon Bieri",
+                "original_name": "Ramon Bieri",
+                "popularity": 3.571,
+                "profile_path": "/s4gD9yWOYLNyyFQAuoDuXqcpgrA.jpg",
+                "cast_id": 14,
+                "character": "Cato",
+                "credit_id": "52fe438ac3a36847f805bde5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33059,
+                "known_for_department": "Acting",
+                "name": "Alan Vint",
+                "original_name": "Alan Vint",
+                "popularity": 6.717,
+                "profile_path": "/Ajnc4z6T8GL3PDML9SVUZYnLTvz.jpg",
+                "cast_id": 13,
+                "character": "Deputy",
+                "credit_id": "52fe438ac3a36847f805bde1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33058,
+                "known_for_department": "Acting",
+                "name": "Gary Littlejohn",
+                "original_name": "Gary Littlejohn",
+                "popularity": 5.331,
+                "profile_path": "/912cR3a9VyTViaGFp6ABEWdHtHs.jpg",
+                "cast_id": 12,
+                "character": "Sheriff",
+                "credit_id": "52fe438ac3a36847f805bddd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60196,
+                "known_for_department": "Acting",
+                "name": "John Carter",
+                "original_name": "John Carter",
+                "popularity": 2.761,
+                "profile_path": "/iv47IhfbAmGtXNqbE0ulBLBAOec.jpg",
+                "cast_id": 28,
+                "character": "Rich Man",
+                "credit_id": "58811d3b925141303a0017e7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 193567,
+                "known_for_department": "Acting",
+                "name": "Bryan Montgomery",
+                "original_name": "Bryan Montgomery",
+                "popularity": 0.779,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Boy",
+                "credit_id": "52fe438ac3a36847f805be17",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1048162,
+                "known_for_department": "Acting",
+                "name": "Gail Threlkeld",
+                "original_name": "Gail Threlkeld",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Girl",
+                "credit_id": "52fe438ac3a36847f805be1b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1002845,
+                "known_for_department": "Acting",
+                "name": "Charles Fitzpatrick",
+                "original_name": "Charles Fitzpatrick",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Clerk",
+                "credit_id": "52fe438ac3a36847f805be1f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 33061,
+                "known_for_department": "Acting",
+                "name": "John Womack Jr.",
+                "original_name": "John Womack Jr.",
+                "popularity": 1.024,
+                "profile_path": "/t8hQAUZLVk8aVG0icIcrijhpefP.jpg",
+                "cast_id": 15,
+                "character": "Trooper",
+                "credit_id": "52fe438ac3a36847f805bde9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2963406,
+                "known_for_department": "Acting",
+                "name": "Howard Ragsdale",
+                "original_name": "Howard Ragsdale",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Boss",
+                "credit_id": "601ab687fb3f61003fcb59f5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1974133,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Dona Baldwin",
+                "original_name": "Dona Baldwin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Maid",
+                "credit_id": "601ab6a7aafebd003ee06bb0",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2963408,
+                "known_for_department": "Acting",
+                "name": "Ben Bravo",
+                "original_name": "Ben Bravo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Gas Attendant",
+                "credit_id": "601ab6bcd96c3c004114ccdd",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30715,
+                "known_for_department": "Directing",
+                "name": "Terrence Malick",
+                "original_name": "Terrence Malick",
+                "popularity": 6.525,
+                "profile_path": "/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg",
+                "cast_id": 27,
+                "character": "Caller at Rich Man's House (uncredited)",
+                "credit_id": "52fe438ac3a36847f805be23",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3851220,
+                "known_for_department": "Acting",
+                "name": "Li Po Lung",
+                "original_name": "Li Po Lung",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Chinese Kid (uncredited)",
+                "credit_id": "63b2650a57530e0085022213",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6952,
+                "known_for_department": "Acting",
+                "name": "Charlie Sheen",
+                "original_name": "Charlie Sheen",
+                "popularity": 19.254,
+                "profile_path": "/qgqHqsmiZVW3suEVONpofJNhOJk.jpg",
+                "cast_id": 23,
+                "character": "Boy Under Lamppost (uncredited)",
+                "credit_id": "52fe438ac3a36847f805be13",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2880,
+                "known_for_department": "Acting",
+                "name": "Emilio Estevez",
+                "original_name": "Emilio Estevez",
+                "popularity": 12.41,
+                "profile_path": "/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg",
+                "cast_id": 22,
+                "character": "Boy Under Lamppost (uncredited)",
+                "credit_id": "52fe438ac3a36847f805be0f",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 909,
+                "known_for_department": "Editing",
+                "name": "Billy Weber",
+                "original_name": "Billy Weber",
+                "popularity": 2.07,
+                "profile_path": null,
+                "credit_id": "5a7ad9cf9251411c550062ff",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13589,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rosanna Norton",
+                "original_name": "Rosanna Norton",
+                "popularity": 1.672,
+                "profile_path": "/mfiXzHEDQrKvFJIjayyEhlFuk5R.jpg",
+                "credit_id": "5a7ad9ee9251411c6400641a",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1221,
+                "known_for_department": "Production",
+                "name": "Dianne Crittenden",
+                "original_name": "Dianne Crittenden",
+                "popularity": 2.639,
+                "profile_path": null,
+                "credit_id": "52fe438ac3a36847f805be07",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16300,
+                "known_for_department": "Camera",
+                "name": "Tak Fujimoto",
+                "original_name": "Tak Fujimoto",
+                "popularity": 2.224,
+                "profile_path": "/xXuDkPrRjxdJao0QgXkb9DI9N7h.jpg",
+                "credit_id": "52fe438ac3a36847f805bdc5",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4141,
+                "known_for_department": "Editing",
+                "name": "Robert Estrin",
+                "original_name": "Robert Estrin",
+                "popularity": 0.607,
+                "profile_path": null,
+                "credit_id": "52fe438ac3a36847f805bdbf",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5632,
+                "known_for_department": "Art",
+                "name": "Jack Fisk",
+                "original_name": "Jack Fisk",
+                "popularity": 5.014,
+                "profile_path": "/oMavtJiW91SGAhtHNUPpFYo1h0p.jpg",
+                "credit_id": "5a7ad9e10e0a26020c0069d7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14842,
+                "known_for_department": "Sound",
+                "name": "James Nelson",
+                "original_name": "James Nelson",
+                "popularity": 1.15,
+                "profile_path": null,
+                "credit_id": "5a7ada340e0a260216006901",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32035,
+                "known_for_department": "Production",
+                "name": "Edward R. Pressman",
+                "original_name": "Edward R. Pressman",
+                "popularity": 1.502,
+                "profile_path": "/ik9ZfMpDb3cHpUW3SXCLYDeu6Yf.jpg",
+                "credit_id": "52fe438ac3a36847f805bdfb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30573,
+                "known_for_department": "Camera",
+                "name": "Brian Probyn",
+                "original_name": "Brian Probyn",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "52fe438ac3a36847f805bdd1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30715,
+                "known_for_department": "Directing",
+                "name": "Terrence Malick",
+                "original_name": "Terrence Malick",
+                "popularity": 6.525,
+                "profile_path": "/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg",
+                "credit_id": "52fe438ac3a36847f805bda9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30715,
+                "known_for_department": "Directing",
+                "name": "Terrence Malick",
+                "original_name": "Terrence Malick",
+                "popularity": 6.525,
+                "profile_path": "/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg",
+                "credit_id": "52fe438ac3a36847f805bdb9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30715,
+                "known_for_department": "Directing",
+                "name": "Terrence Malick",
+                "original_name": "Terrence Malick",
+                "popularity": 6.525,
+                "profile_path": "/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg",
+                "credit_id": "63b264020d417e00cf28dd32",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33057,
+                "known_for_department": "Camera",
+                "name": "Stevan Larner",
+                "original_name": "Stevan Larner",
+                "popularity": 2.651,
+                "profile_path": "/y2CHjvMA6iFBLrhFbe2gsdx9m0L.jpg",
+                "credit_id": "52fe438ac3a36847f805bdcb",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 57652,
+                "known_for_department": "Production",
+                "name": "Louis A. Stroller",
+                "original_name": "Louis A. Stroller",
+                "popularity": 3.69,
+                "profile_path": null,
+                "credit_id": "611569d9a097dc00716ff0c7",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1120513,
+                "known_for_department": "Sound",
+                "name": "George Aliceson Tipton",
+                "original_name": "George Aliceson Tipton",
+                "popularity": 1.284,
+                "profile_path": null,
+                "credit_id": "52fe438ac3a36847f805be01",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1219779,
+                "known_for_department": "Directing",
+                "name": "Sharron Miller",
+                "original_name": "Sharron Miller",
+                "popularity": 1.016,
+                "profile_path": null,
+                "credit_id": "5a7ada269251411c670061a1",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1274141,
+                "known_for_department": "Sound",
+                "name": "Erma E. Levin",
+                "original_name": "Erma E. Levin",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "61156a2e350398005ce77612",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1281624,
+                "known_for_department": "Lighting",
+                "name": "Jack English",
+                "original_name": "Jack English",
+                "popularity": 2.145,
+                "profile_path": null,
+                "credit_id": "61156a7087f3f2002c27644a",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1355891,
+                "known_for_department": "Editing",
+                "name": "Marion Segal",
+                "original_name": "Marion Segal",
+                "popularity": 0.84,
+                "profile_path": "/yfhcImeyir3FFTH7gbu6jF747HN.jpg",
+                "credit_id": "63b264515ad76b007dc84d10",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1680739,
+                "known_for_department": "Crew",
+                "name": "George Fisher",
+                "original_name": "George Fisher",
+                "popularity": 5.456,
+                "profile_path": "/mJ7uhFsgfZtZ58MU11mlPnUZWWy.jpg",
+                "credit_id": "58b3d28892514177b401484e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1710243,
+                "known_for_department": "Sound",
+                "name": "John Wilkinson",
+                "original_name": "John Wilkinson",
+                "popularity": 0.988,
+                "profile_path": null,
+                "credit_id": "5a7ada0d0e0a260210006ba4",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1974133,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Dona Baldwin",
+                "original_name": "Dona Baldwin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5a7ad9fa9251411c5b0061fa",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Three Reasons: Badlands",
+                "key": "9msWCguDtiE",
+                "published_at": "2013-03-27T14:48:34.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Featurette",
+                "official": true,
+                "id": "533ec65dc3a3685448000d80"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Badlands and the Art of the Voiceover",
+                "key": "dESZfFZ1ELg",
+                "published_at": "2013-03-19T22:10:52.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Featurette",
+                "official": true,
+                "id": "533ec65dc3a3685448000d81"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Badlands - Original Trailer",
+                "key": "qKykxE7CBbc",
+                "published_at": "2013-03-18T17:17:52.000Z",
+                "site": "YouTube",
+                "size": 720,
+                "type": "Trailer",
+                "official": true,
+                "id": "533ec65dc3a3685448000d7f"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1808,
+                "iso_639_1": null,
+                "file_path": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3214
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/jW8cU20SiYBTfqXajKbvBQHTMMl.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hEaSujLp9jzqAfonXnhnTwbZ0yK.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bBYxR18p2a2D2LTtOPAqhKmOY6Z.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/kQhaMYglOQZq1JHJVM7lwY4Wa6l.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1032,
+                "iso_639_1": null,
+                "file_path": "/oUbZqxRLzKGRvGWXFMe63azYxYR.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1835
+            },
+            {
+                "aspect_ratio": 1.779,
+                "height": 1039,
+                "iso_639_1": null,
+                "file_path": "/hzOgsh4cBzQ1q6nHsRo2VcBZy1G.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1848
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/ycAEWKifBotJahJBmMrf2lxIMwU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/r1bv4OhWFdOfVkqmQVp7lRLLhn0.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/E6R7WmR5shAhilzzzpTTnox1nF.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/1OrxzevTcts1GrGGokF06mtbLXk.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/yacwNeS3eA6NJhPQPXFL0Ed7lVm.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.781,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/rWks1GeTemf6TY3Vvko1SYphDD4.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1282
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 3.257,
+                "height": 241,
+                "iso_639_1": "en",
+                "file_path": "/yPv5ae9HLMjlVjrnTpAXbCoiebn.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 785
+            },
+            {
+                "aspect_ratio": 3.126,
+                "height": 1294,
+                "iso_639_1": "en",
+                "file_path": "/wU8nozB4D3r3iULumQufQJdQ7Ur.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 4045
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "pt",
+                "file_path": "/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/z81rBzHNgiNLean2JTGHgxjJ8nq.jpg",
+                "vote_average": 5.33,
+                "vote_count": 9,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/aLdGkOYzmck0KZ1Wz5Myni50sqd.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/lblphnTffIyRT6WuvEKSNfNidEn.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/vr34xB0G8aZRMhTTcsVFV8DBjif.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "hu",
+                "file_path": "/xLErFSPdBQtrN4R1NVjAXuG7n92.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "es",
+                "file_path": "/kzsNBEiSN9tciZCTNMeS91s2Gdv.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/d2ejE6qna725lLfi0h1a1saET4v.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "de",
+                "file_path": "/8H1ZmqyIvtgeiv97G3GBAmJZdR7.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1875,
+                "iso_639_1": "en",
+                "file_path": "/5YFpI0eJlbMKOtuhrft4fyllyJV.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1250
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1875,
+                "iso_639_1": "en",
+                "file_path": "/yJZTLWuUFHibEofGekD9V4wxrs3.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1250
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/fxmbcS1WRElvcv6F2xLohJNwYKm.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1024,
+                "iso_639_1": "en",
+                "file_path": "/lNfC1SsvFpsAKktjV8s0TD8C4Ga.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 683
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "hr",
+                "file_path": "/iKchjVu6ba1uOeATRPDEVCjDMW4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/5EPLeKxFSPaJnoiOlhW6mc0VDtJ.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "fr",
+                "file_path": "/heJ6AABqkrRwf2jUy4jeHFjbwfP.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "en",
+                "file_path": "/inar6Mf55MW7kqnc5BPXzhHDD70.jpg",
+                "vote_average": 5.198,
+                "vote_count": 7,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/9K5JdJDq8YA5SkDxxzsZ5bLDh52.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/1Drwk9C0aAMpAMa1dWsBzMjh7DM.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/sW6Ymg7qU1uBxQeS757ca9sCAM3.jpg",
+                "vote_average": 5.128,
+                "vote_count": 6,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/jjADC7nEK6ezgSrLLFttiszPXo7.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/4kwW4ABllKu4xGlq664HdKtGZ6A.jpg",
+                "vote_average": 5.068,
+                "vote_count": 7,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/pBNDKBn9snUfbTZaPQ5jFqkfJ0z.jpg",
+                "vote_average": 5.056,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/xHGP07qqdbpkixWbRMVOGq15sHm.jpg",
+                "vote_average": 5.022,
+                "vote_count": 10,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/2Tiw9vIJxRgY669P6c7k0MMmnvw.jpg",
+                "vote_average": 4.922,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "es",
+                "file_path": "/4gAcejC48miwuICPYzNftTFRFT6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1521,
+                "iso_639_1": "it",
+                "file_path": "/lgIHTPySGYLaVwVm7AN4timWod6.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1014
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "it",
+                "file_path": "/od4odSz4CLolBlzcchYNwsDC3zY.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2250,
+                "iso_639_1": null,
+                "file_path": "/upf6jr7JwEf9giVEnCdKqIsK5QD.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/2vSEmzpfvS6hnm9K6W6nVAhwwpU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 768,
+                "iso_639_1": "fi",
+                "file_path": "/ld2mnovK3x5Is07nEYWkeXKBvQu.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 512
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2895,
+                "iso_639_1": null,
+                "file_path": "/3MsMMM1wgsr1vxqesSYLe6YETfN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1930
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/7CIWNqCTWGkjrX8RFQMgVQi9TBn.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": null,
+                "file_path": "/8CSOQrffNIEPuR6v3vkxSdBrHf8.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/eawrlx9L41VFVquVTTOQNNVZ7pc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1772,
+                "iso_639_1": "is",
+                "file_path": "/yZul392Wtkhk1MKrlDIq4LHev8u.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1241
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1478,
+                "iso_639_1": "en",
+                "file_path": "/ixF469JwRKZuY7G12XvkK8TxV9D.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 986
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1478,
+                "iso_639_1": "en",
+                "file_path": "/zZDfUrxySwS0Wf7ACvtVPkK7M1Q.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 986
+            },
+            {
+                "aspect_ratio": 0.67,
+                "height": 1235,
+                "iso_639_1": "en",
+                "file_path": "/fRi8ZTEIK17N2RszEyu69Esyz6Y.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 828
+            },
+            {
+                "aspect_ratio": 0.668,
+                "height": 1240,
+                "iso_639_1": "en",
+                "file_path": "/i2nb0GT3sDi6OM9rCDpXqYU3wer.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 828
+            },
+            {
+                "aspect_ratio": 0.736,
+                "height": 998,
+                "iso_639_1": null,
+                "file_path": "/gWR8LVDIUJ8NfG8MpcOqmhMM6mV.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 735
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1583,
+                "name": "mass murder"
+            },
+            {
+                "id": 10718,
+                "name": "fugitive"
+            },
+            {
+                "id": 10562,
+                "name": "on the run"
+            },
+            {
+                "id": 15291,
+                "name": "on the road"
+            },
+            {
+                "id": 17987,
+                "name": "killing spree"
+            },
+            {
+                "id": 185456,
+                "name": "south dakota"
+            },
+            {
+                "id": 185457,
+                "name": "badlands"
+            },
+            {
+                "id": 239841,
+                "name": "runaway couple"
+            },
+            {
+                "id": 320537,
+                "name": "fugitive lovers"
+            }
+        ]
+    },
+    "title_english": "Badlands",
+    "year": "1973",
+    "rated": "PG",
+    "director_list": [
+        "Terrence Malick"
+    ],
+    "writer_list": [
+        "Terrence Malick"
+    ],
+    "main_cast": [
+        "Martin Sheen",
+        " Sissy Spacek",
+        " Warren Oates"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "93/100"
+        }
+    ],
+    "imdb_rating": "7.7",
+    "imdb_votes": "76,995",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Badlands",
+    "wikipedia_summary": "Badlands are a type of dry terrain where softer sedimentary rocks and clay-rich soils have been extensively eroded. They are characterized by steep slopes, minimal vegetation, lack of a substantial regolith, and high drainage density.  Ravines, gullies, buttes, hoodoos and other such geologic forms are common in badlands.\nBadlands are found on every continent except Antarctica, being most common where there are unconsolidated sediments. They are often difficult to navigate by foot, and are unsuitable for agriculture. Most are a result of natural processes, but destruction of vegetation by overgrazing or pollution can produce anthropogenic badlands.",
+    "wikipedia_plot": null,
+    "wikipedia_plot_html": null,
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p><b>Badlands</b> are a type of dry terrain where softer sedimentary rocks and clay-rich soils have been extensively eroded. They are characterized by steep slopes, minimal vegetation, lack of a substantial regolith, and high drainage density.  Ravines, gullies, buttes, hoodoos and other such geologic forms are common in badlands.\n</p><p>Badlands are found on every continent except Antarctica, being most common where there are unconsolidated sediments. They are often difficult to navigate by foot, and are unsuitable for agriculture. Most are a result of natural processes, but destruction of vegetation by overgrazing or pollution can produce anthropogenic badlands.\n</p>\n\n<h2>Badlands topography</h2>\n<p>Badlands are characterized by a distinctive <b>badlands topography</b>.  This is terrain in which water erosion has cut a very large number of deep drainage channels, separated by short, steep ridges (<i>interfluves</i>). Such a drainage system is said to have a very fine drainage texture, as measured by its <i>drainage density</i>. Drainage density is defined as the total length of drainage channels per unit area of land surface. Badlands have a very high drainage density of 77 to 747 miles per square mile (48 to 464 kilometers per square kilometer). The numerous deep drainage channels and high interfluves creates a stark landscape of hills, gullies, and ravines.</p><p>In addition to a dense system of drainages and interfluves, badlands often contain buttes and hoodoos (\"mushroom rocks\"). These are formed by resistant beds of sandstone, which form the caprock of the buttes and hoodoos.</p>\n\n<h2>Origin</h2>\n<p>Badlands arise from a combination of an impermeable but easily eroded ground surface, sparse vegetation, and infrequent but heavy rainfall. The surface bedrock is typically mudrock, sometimes with evaporites, with only occasional beds of more resistant sandstone. Infrequent heavy rains lead to heavy erosional dissection. Where sudden precipitation cannot penetrate impermeable clays, it is channeled into a very dense system of streamlets that erode a dense system of ever-enlarging, coalescing gulleys and ravines. Erosion is enhanced by pelting raindrops that dislodge soft sediments. The presence of bentonite clay further increases erodability, as can rejuvenation of the drainage system from regional uplift, as occurred at Badlands National Park.</p><p>In addition to surface erosion, badlands sometimes have well-developed <i>piping</i>, which is a system of pipes, joints, caverns, and other connected void spaces in the subsurface through which water can drain. However, this is not a universal feature of badlands. For example, the Henry Mountains badlands show very little piping.</p><p>The precise processes by which the erosion responses take place vary depending on the precise interbedding of the sedimentary material. However, it has been estimated that the badlands of Badlands National Park erode at the relatively high rate of about one inch or 25 millimetres per year. The White River draining Badlands National Park was so named for its heavy load of bentonite clay eroded from the badlands.</p>\n\n<h3>Regolith</h3>\n<p>Badlands are partially characterized by their thin to nonexistent regolith layers. The regolith profiles of badlands in arid climates are likely to resemble one another.  In these regions, the upper layer (~1\u20135\u00a0cm or 0.4\u20132.0\u00a0in) is typically composed of silt, shale, and sand (a byproduct of the weathered shale). This layer can form either a compact crust or a looser, more irregular aggregation of \"popcorn\" fragments. Located beneath  the top layer is a sublayer (~5\u201310\u00a0cm or 2.0\u20133.9\u00a0in), below which can be found a transitional shard layer (~10\u201340\u00a0cm or 3.9\u201315.7\u00a0in), formed largely of loose disaggregated shale chips, which in turn eventually gives way to a layer of unweathered shale. Badlands such as those found in the Mancos Shale, the Brule Formation, the Chadron Formation, and the Dinosaur Provincial Park can be generally said to fit this profile.</p><p>In less arid regions, the regolith profile can vary considerably. Some badlands have no regolith layer whatsoever, capping instead in bare rock such as sandstone. Others have a regolith with a clay veneer, and still others have a biological crust of algae or lichens.</p><p>In addition to lacking significant regolith, they also lack much vegetation. The lack of vegetation could very well be a result of the lack of a substantial regolith.</p>\n\n<h3>Anthropogenic badlands</h3>\n<p>Although most badland topography is natural, badlands have been produced artificially by destruction of vegetation cover, through overgrazing, acid rain, or acid mine drainage. An example of badlands created by mining is the Roman gold mine of Las M\u00e9dulas in northern Spain. The Cheltenham Badlands in Caledon, Ontario, is an example of badlands produced by poor farming practices.</p>\n\n<h2>Etymology</h2>\n<p>The word <i>badlands</i> is a calque from the Canadian French phrase <span title=\"French-language text\"><i lang=\"fr-CA\">les mauvaises terres</i></span>, as the early French fur traders called the White River badlands <span title=\"French-language text\"><i lang=\"fr-CA\">les mauvaises terres \u00e0 traverser</i></span> or 'bad lands to traverse', perhaps influenced by the Lakota people who moved there in the late 1700s and who referred to the terrain as <span title=\"Lakota-language text\"><i lang=\"lkt\">mako sica</i></span>, meaning 'bad land' or 'eroded land'.</p><p>The term <i>malpa\u00eds</i> means 'badlands' in Spanish, but refers to a terrain of lava flows that is unlike the eroded badlands of the White River.</p>\n\n<h2>Human impact</h2>\n<p>Badlands are generally unsuitable for agriculture, but attempts have been made to remediate badlands. For example, reforestation is being attempted in the Garhbeta, Eastern India, badlands Revegetation and reforestation have been studied in the black marl badlands of the French Alps. Austrian black pine can become established and then be gradually replaced by native deciduous species. However, the time scale for this process is many decades.</p>\n\n<h2>Locations</h2>\n<p>Badlands are found on all the continents except Antarctica. The presence of unconsolidated sediments is a strong control on their locations.</p>\n\n<h3>Argentina</h3>\n<p>The Valle de la Luna (\"Valley of the Moon\") is one of many examples of badland formations in midwestern Argentina.</p>\n\n<h3>Canada</h3>\n<p>The Cheltenham Badlands are in Caledon, Ontario, not far from the largest city Toronto.</p><p>The Big Muddy Badlands in Saskatchewan gained notoriety as a hideout for outlaws.</p><p>There is a large badland area in Alberta, particularly in the valley of the Red Deer River, where Dinosaur Provincial Park is located, as well as in Drumheller, where the Royal Tyrrell Museum of Palaeontology is located.</p>\n\n<h3>India</h3>\n<p>Garhbeta, Eastern India is a badlands located in a monsoon  climate. Chambal spread across northern parts of Madhya Pradesh, southeastern Rajasthan and southern parts of Uttar Pradesh known for its lawlessness and dacoity is another example of badlands. A small strip of badlands is also found in western Uttar Pradesh and Haryana.\n</p>\n\n<h3>Italy</h3>\n<p>In Italy, badlands are called \"calanchi\". Some examples are Aliano (Basilicata), Crete Senesi (Tuscany) and Civita di Bagnoregio (Lazio).\n</p>\n\n<h3>New Zealand</h3>\n<p>A well-known badlands formation in New Zealand \u2013 the Putangirua Pinnacles, formed by the erosion of the conglomerate of an old alluvial fan \u2013 is located at the head of a small valley near the southern tip of the North Island.</p>\n\n<h3>Spain</h3>\n<p>The Bardenas Reales near Tudela, Navarre, the Tabernas Desert in Tabernas, Almer\u00eda, parts of the Granada Altiplano near Guadix and possibly Los Monegros in Aragon are examples of Spanish badlands.\n</p>\n\n<h3>Turkey</h3>\n<p>Turkey has extensive badlands, including G\u00f6reme National Park.</p>\n\n<h3>United States</h3>\n<p>In the U.S., Makoshika State Park in Montana and Badlands National Park in South Dakota are examples of extensive badland formations. Also located in this region is Theodore Roosevelt National Park, a United States National Park composed of three geographically separated areas of badlands in western North Dakota named after former U.S. President Theodore Roosevelt. Petrified Forest National Park in Arizona which is part of Navajo County encompasses numerous badlands that also abuts the Navajo Indian Reservation and is directly north of Joseph City, Arizona. Many dinosaurs are believed to be buried in the immediate area and exploration has been ongoing since the early 20th century.</p><p>Among the Henry Mountains area in Utah, about 4,900\u00a0ft (1,500\u00a0m) above sea level, Cretaceous- and Jurassic-aged shales are exposed. Another popular area of badland formations is Toadstool Geologic Park in the Oglala National Grassland located in northwestern Nebraska. Dinosaur National Monument in Colorado and Utah are also badlands settings, along with several other areas in southern Utah, such as the Chinle Badlands in Grand Staircase\u2013Escalante National Monument. A small badland called Hell's Half-Acre is present in Natrona County, Wyoming. Additional badlands also exist in various places throughout southwest Wyoming, such as near Pinedale and in the Bridger Valley near the towns of Lyman and Mountain View, near the high Uintah Mountains. Pinnacles National Park in California also has areas of badlands, as does the Mojave Desert in eastern California.\n</p>\n\n<h2>Culture and media</h2>\n<p>Badlands have become a popular trope inside various different media, particularly westerns.</p>\n\n<h2>Image gallery</h2>\n<ul class=\"gallery mw-gallery-packed\"><li class=\"gallerybox\" style=\"width: 212px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 162px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 162px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 182.66666666667px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 182px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 183.33333333333px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 162px\">\n\t\t\t\n\t\t\t\n\t\t</li>\n</ul>\n\n<h2>See also</h2>\n<ul><li>Earth forest</li>\n<li>Tsingy de Bemaraha Strict Nature Reserve</li>\n<li>Calanque\u00a0\u2013 Narrow, steep-walled inlet on the Mediterranean coast</li>\n<li>Death Valley\u00a0\u2013 Valley in the Mojave Desert, Eastern California</li></ul>\n\n<h2>References</h2>\n<h2>External links</h2>\n\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1134653256\">\n<ul><li>Badlands National Park (U.S. National Park Service)</li>\n<li>The Badlands: Nature's Time Capsule \u2013 Documentary about the badlands of South Dakota.</li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite class=\"citation encyclopaedia cs1\"><span title=\"s:The New International Encyclop\u00e6dia/Bad Lands\">\"Bad Lands\"\u00a0</span>. <i>New International Encyclopedia</i>. 1905.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Bad+Lands&amp;rft.btitle=New+International+Encyclopedia&amp;rft.date=1905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABadlands\"></span></li></ul>"
+}

@@ -1,0 +1,2213 @@
+{
+    "adult": false,
+    "backdrop_path": "/vmryZ1Bkko8P2utNaJeO2Yo2Bx4.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "",
+    "id": 335,
+    "imdb_id": "tt0064116",
+    "original_language": "it",
+    "original_title": "C'era una volta il West",
+    "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+    "popularity": 47.651,
+    "poster_path": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 218,
+            "logo_path": null,
+            "name": "Rafran Cinematografica",
+            "origin_country": "IT"
+        },
+        {
+            "id": 25287,
+            "logo_path": null,
+            "name": "San Marco",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1968-12-21",
+    "revenue": 5380118,
+    "runtime": 166,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There were three men in her life. One to take her\u2026 one to love her \u2014and one to kill her.",
+    "title": "Once Upon a Time in the West",
+    "video": false,
+    "vote_average": 8.287,
+    "vote_count": 3980,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4959,
+                "known_for_department": "Acting",
+                "name": "Claudia Cardinale",
+                "original_name": "Claudia Cardinale",
+                "popularity": 32.382,
+                "profile_path": "/eSNCcnxtBJf0AIAB4k7jpFJNwcD.jpg",
+                "cast_id": 168,
+                "character": "Jill",
+                "credit_id": "5eebc1c6c5ada50032d53b1b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4958,
+                "known_for_department": "Acting",
+                "name": "Henry Fonda",
+                "original_name": "Henry Fonda",
+                "popularity": 18.467,
+                "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+                "cast_id": 169,
+                "character": "Frank",
+                "credit_id": "5eebc1e8dd926a0035a0a5cb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4765,
+                "known_for_department": "Acting",
+                "name": "Jason Robards",
+                "original_name": "Jason Robards",
+                "popularity": 13.396,
+                "profile_path": "/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg",
+                "cast_id": 170,
+                "character": "'Cheyenne'",
+                "credit_id": "5eebc211db4ed60036cabbf8",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4960,
+                "known_for_department": "Acting",
+                "name": "Charles Bronson",
+                "original_name": "Charles Bronson",
+                "popularity": 33.401,
+                "profile_path": "/w0C2Xa6PCQX83Iu2TxPjOCv8ufm.jpg",
+                "cast_id": 171,
+                "character": "'Harmonica'",
+                "credit_id": "5eebc230b84cdd00342bd57e",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4961,
+                "known_for_department": "Acting",
+                "name": "Gabriele Ferzetti",
+                "original_name": "Gabriele Ferzetti",
+                "popularity": 11.602,
+                "profile_path": "/pcMZHk3qfgBB26Ih9yBeMDCUUt3.jpg",
+                "cast_id": 172,
+                "character": "Morton",
+                "credit_id": "5eebc258b84cdd00342bd591",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4962,
+                "known_for_department": "Acting",
+                "name": "Paolo Stoppa",
+                "original_name": "Paolo Stoppa",
+                "popularity": 7.496,
+                "profile_path": "/dBobmd9tG5s3LEJZus8wLokDlOQ.jpg",
+                "cast_id": 173,
+                "character": "Sam",
+                "credit_id": "5eebc28cc5ada50031d545e7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4963,
+                "known_for_department": "Acting",
+                "name": "Woody Strode",
+                "original_name": "Woody Strode",
+                "popularity": 7.085,
+                "profile_path": "/bQODvxboGerJXrl7ypgM5UqjhZt.jpg",
+                "cast_id": 174,
+                "character": "Frank's Gunman",
+                "credit_id": "5eebc2a99661fc00385ce192",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4965,
+                "known_for_department": "Acting",
+                "name": "Jack Elam",
+                "original_name": "Jack Elam",
+                "popularity": 19.127,
+                "profile_path": "/zPYth6Al1H9DeBmkU0BPIb2o5Pn.jpg",
+                "cast_id": 175,
+                "character": "Frank's Gunman",
+                "credit_id": "5eebc2cbdb4ed60037cb2d29",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4966,
+                "known_for_department": "Acting",
+                "name": "Keenan Wynn",
+                "original_name": "Keenan Wynn",
+                "popularity": 12.946,
+                "profile_path": "/bO88300vMddcIXuRZvMm5QLXdr.jpg",
+                "cast_id": 176,
+                "character": "Sheriff",
+                "credit_id": "5eebc2f89661fc00365e238f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4968,
+                "known_for_department": "Acting",
+                "name": "Frank Wolff",
+                "original_name": "Frank Wolff",
+                "popularity": 8.396,
+                "profile_path": "/xRbJq4GwVl5w3pRmWzQP9SehKE1.jpg",
+                "cast_id": 177,
+                "character": "Brett McBain",
+                "credit_id": "5eebc343b04605003308a55e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4969,
+                "known_for_department": "Acting",
+                "name": "Lionel Stander",
+                "original_name": "Lionel Stander",
+                "popularity": 11.767,
+                "profile_path": "/akNZTDzipk9oYOJ1AEpmJhPJF0w.jpg",
+                "cast_id": 178,
+                "character": "Innkeeper",
+                "credit_id": "5eebc36a6dea3a0032be2378",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72888,
+                "known_for_department": "Acting",
+                "name": "Frank Bra\u00f1a",
+                "original_name": "Frank Bra\u00f1a",
+                "popularity": 8.047,
+                "profile_path": "/pm3atvF3WIxv1RsVSLeie5YSKjy.jpg",
+                "cast_id": 183,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "5eebc434db4ed60035cc4061",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2508179,
+                "known_for_department": "Acting",
+                "name": "Stefano Imparato",
+                "original_name": "Stefano Imparato",
+                "popularity": 1.021,
+                "profile_path": null,
+                "cast_id": 232,
+                "character": "Patrick McBain (uncredited)",
+                "credit_id": "60628dea8f26bc0055a22410",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4669,
+                "known_for_department": "Production",
+                "name": "Claudio Mancini",
+                "original_name": "Claudio Mancini",
+                "popularity": 6.374,
+                "profile_path": "/rmgSYnvUlW4XBeWHBI5CjjONJZQ.jpg",
+                "cast_id": 228,
+                "character": "Hanged Man (uncredited)",
+                "credit_id": "606286fee0ca7f0029c916d2",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129314,
+                "known_for_department": "Acting",
+                "name": "Al Mulock",
+                "original_name": "Al Mulock",
+                "popularity": 8.222,
+                "profile_path": "/kpKA0KjiyQMdXaT7syWfYg7MDVS.jpg",
+                "cast_id": 226,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "606281c00b5fd60056cbfa1c",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1910461,
+                "known_for_department": "Acting",
+                "name": "Antonio Palombi",
+                "original_name": "Antonio Palombi",
+                "popularity": 8.437,
+                "profile_path": null,
+                "cast_id": 208,
+                "character": "Station Agent (uncredited)",
+                "credit_id": "5eebc90c81da3900344fecbd",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1074055,
+                "known_for_department": "Acting",
+                "name": "Renato Pinciroli",
+                "original_name": "Renato Pinciroli",
+                "popularity": 2.411,
+                "profile_path": "/rZ6npedUgxMc1unmTzE4keEiJxd.jpg",
+                "cast_id": 209,
+                "character": "Bidder (uncredited)",
+                "credit_id": "5eebc92c0f1e580037b550d2",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49895,
+                "known_for_department": "Acting",
+                "name": "Aldo Sambrell",
+                "original_name": "Aldo Sambrell",
+                "popularity": 7.074,
+                "profile_path": "/lJsoZtOeNaer5jZSydSjONL32xp.jpg",
+                "cast_id": 212,
+                "character": "Cheyenne's Gunman (uncredited)",
+                "credit_id": "5eebc9de0f1e580037b5513f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98756,
+                "known_for_department": "Acting",
+                "name": "Conrado San Mart\u00edn",
+                "original_name": "Conrado San Mart\u00edn",
+                "popularity": 6.615,
+                "profile_path": "/m4Oc1WjpBi5oSQ4jVBcykPF6aUk.jpg",
+                "cast_id": 213,
+                "character": "McBain's Neighbor (uncredited)",
+                "credit_id": "5eebc9fcdd926a0033a238d6",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68331,
+                "known_for_department": "Acting",
+                "name": "Enzo Santaniello",
+                "original_name": "Enzo Santaniello",
+                "popularity": 2.157,
+                "profile_path": null,
+                "cast_id": 231,
+                "character": "Timmy McBain (uncredited)",
+                "credit_id": "60628dc2a39d0b003d438644",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1910451,
+                "known_for_department": "Acting",
+                "name": "Simonetta Santaniello",
+                "original_name": "Simonetta Santaniello",
+                "popularity": 1.96,
+                "profile_path": null,
+                "cast_id": 230,
+                "character": "Maureen McBain (uncredited)",
+                "credit_id": "60628d7cf056d5007353be96",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2508190,
+                "known_for_department": "Acting",
+                "name": "Luana Strode",
+                "original_name": "Luana Strode",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 227,
+                "character": "Cattle Corner Woman (uncredited)",
+                "credit_id": "60628620151c5c002890d8e8",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21181,
+                "known_for_department": "Acting",
+                "name": "Fabio Testi",
+                "original_name": "Fabio Testi",
+                "popularity": 5.76,
+                "profile_path": "/qKZisM9TgkqQwepffcUayQkzFOy.jpg",
+                "cast_id": 229,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "60628a13a39d0b003d437e15",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1035009,
+                "known_for_department": "Acting",
+                "name": "Marco Zuanelli",
+                "original_name": "Marco Zuanelli",
+                "popularity": 3.813,
+                "profile_path": "/6bL640akAd6HgGkGH5bezehIqTx.jpg",
+                "cast_id": 223,
+                "character": "'Wobbles' (uncredited)",
+                "credit_id": "5eebcbd2db4ed60034cbb4b6",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102096,
+                "known_for_department": "Acting",
+                "name": "Antonio Molino Rojo",
+                "original_name": "Antonio Molino Rojo",
+                "popularity": 6.735,
+                "profile_path": "/1J1l8QvjfjhjKhZnq1zqWOUuQr3.jpg",
+                "cast_id": 233,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "644fa6f723a31403027ba29b",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 589876,
+                "known_for_department": "Acting",
+                "name": "Rom\u00e1n Ariznavarreta",
+                "original_name": "Rom\u00e1n Ariznavarreta",
+                "popularity": 3.842,
+                "profile_path": "/djT0FucpJlNvdzXET5Z1mhkY4Wv.jpg",
+                "cast_id": 234,
+                "character": "Logan (uncredited)",
+                "credit_id": "644fa72b23a31402f57bf9c6",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 163326,
+                "known_for_department": "Acting",
+                "name": "John Frederick",
+                "original_name": "John Frederick",
+                "popularity": 1.4,
+                "profile_path": "/hWEfekPYhpIJNmRZEmgZXDUieaw.jpg",
+                "cast_id": 235,
+                "character": "Jim (uncredited)",
+                "credit_id": "644fa7372fccee0302ce2b52",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 557108,
+                "known_for_department": "Acting",
+                "name": "Aldo Berti",
+                "original_name": "Aldo Berti",
+                "popularity": 4.36,
+                "profile_path": "/nvkkID9FmnBDKUsKZFjLnl9npai.jpg",
+                "cast_id": 236,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "644fa74823a31402e57c2a61",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1076582,
+                "known_for_department": "Acting",
+                "name": "Spartaco Conversi",
+                "original_name": "Spartaco Conversi",
+                "popularity": 2.254,
+                "profile_path": "/hdc5Z0g0IPF8hL4xpoKxPeFVGHa.jpg",
+                "cast_id": 237,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "644fa795c0a30802e570b1d1",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1063555,
+                "known_for_department": "Acting",
+                "name": "Saturno Cerra",
+                "original_name": "Saturno Cerra",
+                "popularity": 2.971,
+                "profile_path": null,
+                "cast_id": 238,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "644fa7a1c0a30802dd70d016",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1121926,
+                "known_for_department": "Acting",
+                "name": "Paolo Figlia",
+                "original_name": "Paolo Figlia",
+                "popularity": 2.159,
+                "profile_path": "/5LmwVfdZLZQvFLzSMm0SQQHFJ1g.jpg",
+                "cast_id": 239,
+                "character": "Frank's Gunman (uncredited)",
+                "credit_id": "644fa7ab35039802e7d55d63",
+                "order": 30
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1259,
+                "known_for_department": "Sound",
+                "name": "Ennio Morricone",
+                "original_name": "Ennio Morricone",
+                "popularity": 5.157,
+                "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+                "credit_id": "5eebbef7b04605003308a321",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1259,
+                "known_for_department": "Sound",
+                "name": "Ennio Morricone",
+                "original_name": "Ennio Morricone",
+                "popularity": 5.157,
+                "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+                "credit_id": "5eebb832b84cdd00332bee22",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2361,
+                "known_for_department": "Camera",
+                "name": "Tonino Delli Colli",
+                "original_name": "Tonino Delli Colli",
+                "popularity": 5.098,
+                "profile_path": "/sgr90whx93wMsLqRTFUzETI3Z8U.jpg",
+                "credit_id": "5eebbec5bd990c0036fbf906",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4610,
+                "known_for_department": "Directing",
+                "name": "John Landis",
+                "original_name": "John Landis",
+                "popularity": 14.822,
+                "profile_path": "/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg",
+                "credit_id": "5eebb9920f1e580035b519a5",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4385,
+                "known_for_department": "Directing",
+                "name": "Sergio Leone",
+                "original_name": "Sergio Leone",
+                "popularity": 14.718,
+                "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+                "credit_id": "5eebbff3dd926a0035a0a50f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4385,
+                "known_for_department": "Directing",
+                "name": "Sergio Leone",
+                "original_name": "Sergio Leone",
+                "popularity": 14.718,
+                "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+                "credit_id": "5eebc05b81da3900344fe392",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4385,
+                "known_for_department": "Directing",
+                "name": "Sergio Leone",
+                "original_name": "Sergio Leone",
+                "popularity": 14.718,
+                "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+                "credit_id": "5eebbf65db4ed60037cb2ad3",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4655,
+                "known_for_department": "Art",
+                "name": "Carlo Simi",
+                "original_name": "Carlo Simi",
+                "popularity": 2.535,
+                "profile_path": null,
+                "credit_id": "60627213d7a70a007431909a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4655,
+                "known_for_department": "Art",
+                "name": "Carlo Simi",
+                "original_name": "Carlo Simi",
+                "popularity": 2.535,
+                "profile_path": null,
+                "credit_id": "5eebbdae81da3900364ea4dd",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4669,
+                "known_for_department": "Production",
+                "name": "Claudio Mancini",
+                "original_name": "Claudio Mancini",
+                "popularity": 6.374,
+                "profile_path": "/rmgSYnvUlW4XBeWHBI5CjjONJZQ.jpg",
+                "credit_id": "5eebbcc39661fc00375b3573",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4670,
+                "known_for_department": "Editing",
+                "name": "Nino Baragli",
+                "original_name": "Nino Baragli",
+                "popularity": 4.189,
+                "profile_path": "/2iWNZkKmuo17q4QCI8TMhGPD7PA.jpg",
+                "credit_id": "5eebbea4b84cdd00332bf614",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4954,
+                "known_for_department": "Production",
+                "name": "Bino Cicogna",
+                "original_name": "Bino Cicogna",
+                "popularity": 3.044,
+                "profile_path": null,
+                "credit_id": "5eebbf360f1e580034b4eb68",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4955,
+                "known_for_department": "Directing",
+                "name": "Dario Argento",
+                "original_name": "Dario Argento",
+                "popularity": 13.03,
+                "profile_path": "/2WjQlcLxhvmO9NtCfNh2npMVYqp.jpg",
+                "credit_id": "5eebbfc1bd990c0034fbfa29",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4956,
+                "known_for_department": "Directing",
+                "name": "Bernardo Bertolucci",
+                "original_name": "Bernardo Bertolucci",
+                "popularity": 8.107,
+                "profile_path": "/b0W7CtXxbo24sX8TPnDlLTYfc2E.jpg",
+                "credit_id": "5eebbf9e0f1e580035b51fc0",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4985,
+                "known_for_department": "Crew",
+                "name": "Eros Bacciucchi",
+                "original_name": "Eros Bacciucchi",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5eebb9e90f1e580037b53eaa",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4986,
+                "known_for_department": "Production",
+                "name": "Fulvio Morsella",
+                "original_name": "Fulvio Morsella",
+                "popularity": 2.651,
+                "profile_path": null,
+                "credit_id": "5eebbf1cc5ada50032d539e3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5555,
+                "known_for_department": "Writing",
+                "name": "Sergio Donati",
+                "original_name": "Sergio Donati",
+                "popularity": 7.213,
+                "profile_path": "/feFhEMfI6bRHa48vlgO3uS8KS5k.jpg",
+                "credit_id": "5eebc03a9661fc00365e1f93",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16597,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giannetto De Rossi",
+                "original_name": "Giannetto De Rossi",
+                "popularity": 5.319,
+                "profile_path": "/unjx1w1E6rsHajAXgZm7IfTtQ1Y.jpg",
+                "credit_id": "5eebbd15b04605003409afae",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 25806,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Alberto De Rossi",
+                "original_name": "Alberto De Rossi",
+                "popularity": 2.317,
+                "profile_path": null,
+                "credit_id": "5eebbd54b84cdd00332bf4dd",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 27187,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Grazia De Rossi",
+                "original_name": "Grazia De Rossi",
+                "popularity": 3.953,
+                "profile_path": null,
+                "credit_id": "5eebbcec81da3900344fdc38",
+                "department": "Costume & Make-Up",
+                "job": "Hairdresser"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46418,
+                "known_for_department": "Acting",
+                "name": "Mickey Knox",
+                "original_name": "Mickey Knox",
+                "popularity": 4.047,
+                "profile_path": "/s5cRx4lsSlpvBW7U2sybfHqf5HZ.jpg",
+                "credit_id": "606273f4e0ca7f0054aa0d1a",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 53195,
+                "known_for_department": "Production",
+                "name": "Ugo Tucci",
+                "original_name": "Ugo Tucci",
+                "popularity": 2.315,
+                "profile_path": null,
+                "credit_id": "5eebbc86b04605003308a1f9",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 233354,
+                "known_for_department": "Directing",
+                "name": "Giancarlo Santi",
+                "original_name": "Giancarlo Santi",
+                "popularity": 2.351,
+                "profile_path": "/jggEeSOuH6FI8jy5GTERyF9KYi3.jpg",
+                "credit_id": "5eebbc20db4ed60037cb293a",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1397066,
+                "known_for_department": "Sound",
+                "name": "Italo Cameracanna",
+                "original_name": "Italo Cameracanna",
+                "popularity": 1.632,
+                "profile_path": null,
+                "credit_id": "5eebba5bb04605003308a0d4",
+                "department": "Sound",
+                "job": "Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1537175,
+                "known_for_department": "Sound",
+                "name": "Elio Pacella",
+                "original_name": "Elio Pacella",
+                "popularity": 2.331,
+                "profile_path": null,
+                "credit_id": "5eebba19c5ada50032d536f6",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1625594,
+                "known_for_department": "Sound",
+                "name": "Luciano Anzellotti",
+                "original_name": "Luciano Anzellotti",
+                "popularity": 1.848,
+                "profile_path": null,
+                "credit_id": "5eebbacddd926a0036a12ba7",
+                "department": "Sound",
+                "job": "Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1626009,
+                "known_for_department": "Sound",
+                "name": "Claudio Maielli",
+                "original_name": "Claudio Maielli",
+                "popularity": 2.069,
+                "profile_path": null,
+                "credit_id": "5eebba35c5ada50032d53751",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1661161,
+                "known_for_department": "Sound",
+                "name": "Fausto Ancillai",
+                "original_name": "Fausto Ancillai",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "5eebbb249661fc00365e18d5",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1984230,
+                "known_for_department": "Sound",
+                "name": "Roberto Arcangeli",
+                "original_name": "Roberto Arcangeli",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5eebba76b04605003308a0d9",
+                "department": "Sound",
+                "job": "Sound Effects"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Trailer",
+                "key": "Yw-Av9BpC-w",
+                "published_at": "2014-08-09T09:49:26.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "id": "58b9f576c3a368663000e579"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "John Landis on Once Upon a Time in the West",
+                "key": "Ar3sHQB_rbU",
+                "published_at": "2014-02-13T23:27:10.000Z",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": false,
+                "id": "533ec653c3a36854480002b1"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/vmryZ1Bkko8P2utNaJeO2Yo2Bx4.jpg",
+                "vote_average": 5.456,
+                "vote_count": 7,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": null,
+                "file_path": "/26SUDI2iKhZTIKcU4ZzezTH1G15.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+                "vote_average": 5.338,
+                "vote_count": 13,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/aKZ9hDmLJTaGSxWdhxqMTcvXmk4.jpg",
+                "vote_average": 5.326,
+                "vote_count": 7,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/u5IhDThM1SClL4pkCUp8hOmsDQJ.jpg",
+                "vote_average": 5.326,
+                "vote_count": 7,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/7pdti0w7LRbz6nsn5mpXpiUDTwH.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "de",
+                "file_path": "/tymNLaSDvFurGKJrQUzjU2PvotX.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "de",
+                "file_path": "/99xsnqVHku02vfGMBc3l2T8ivqE.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "it",
+                "file_path": "/k3mgAVF1XB6jPrln0YG73o82ObE.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/jRFtAM4OddPxDhslvn4NnpCRPrX.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "en",
+                "file_path": "/yXSmCMy1ndvYrPO8EiljxjHAo86.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/fccEQecqrOxrczFnq35OxGQfCXi.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/1B44i8YVIEJWiWvOyCTqcE30iyJ.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/p1OFxsff2t8bxQC45TPfyo0ZBfU.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 816,
+                "iso_639_1": null,
+                "file_path": "/lNtvtDoRLdirOWwo3o5sV97LJQ8.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1451
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/r6fiZ2diPreUIdn8kSqeQmTG9Iz.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.782,
+                "height": 816,
+                "iso_639_1": null,
+                "file_path": "/wOqFe9hkLi5CXh28sNy6NKbrxA2.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1454
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/cyX87ricTWxt8uouTL0yF3d1M1O.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eFDm2PndOvgGkKcPvIDid0uwAiU.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bGpMJ3tXcn1W2BoN3nftR4Ra9BQ.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/z7pRj9nUIIWMTfF8bkbJSLxAnSs.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 2160,
+                "iso_639_1": "fr",
+                "file_path": "/vvDZrxaOY2duf8HyNZ6XVSlUjnf.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 3840
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "es",
+                "file_path": "/eG1IJHGuFWpU3cqyY8JiIY0Tsw7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 7.027,
+                "height": 111,
+                "iso_639_1": "fi",
+                "file_path": "/zHaOEBVlqFlo6n4yTaBIiFSIQI0.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 780
+            },
+            {
+                "aspect_ratio": 0.985,
+                "height": 536,
+                "iso_639_1": "pl",
+                "file_path": "/op2pucWniN81PKtTFzvVmqPuShr.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 528
+            },
+            {
+                "aspect_ratio": 2.353,
+                "height": 544,
+                "iso_639_1": "th",
+                "file_path": "/sN5u4cIpDwFlIFfVkdDTg3JVxUd.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.788,
+                "height": 538,
+                "iso_639_1": "en",
+                "file_path": "/aDHWkiBsd6VvV68sAdUSsbWS0H8.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 424
+            },
+            {
+                "aspect_ratio": 1.307,
+                "height": 540,
+                "iso_639_1": "hu",
+                "file_path": "/hUW5D7pEvbPjIR2eVseeAnj9IpT.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 706
+            },
+            {
+                "aspect_ratio": 2.596,
+                "height": 500,
+                "iso_639_1": "uk",
+                "file_path": "/2fld533OJ3TCijlgwhzybDDH50Z.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1298
+            },
+            {
+                "aspect_ratio": 9.745,
+                "height": 153,
+                "iso_639_1": "es",
+                "file_path": "/8bi78Y5k2PUbbONdJHLRU7qIgJK.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1491
+            },
+            {
+                "aspect_ratio": 9.677,
+                "height": 155,
+                "iso_639_1": "es",
+                "file_path": "/sDu4IiH7C9MF2hAWwMKKVZ9zW19.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 9.745,
+                "height": 153,
+                "iso_639_1": "es",
+                "file_path": "/z36uG8NHTB4MRqR0512BcmYlm1P.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1491
+            },
+            {
+                "aspect_ratio": 4.8,
+                "height": 1222,
+                "iso_639_1": "zh",
+                "file_path": "/nLNrYei0BIwPwWz2ppvre3TH4kR.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 5866
+            },
+            {
+                "aspect_ratio": 4.866,
+                "height": 1203,
+                "iso_639_1": null,
+                "file_path": "/7WfJHKW8AyyOaVFTDIGxDsVrzUq.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 5854
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "bg",
+                "file_path": "/laeXTxhWhqgHxmjr9te7X7n91Mm.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+                "vote_average": 4.75,
+                "vote_count": 20,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/3RymloPYcEPx30T1vTrz2cXaVnh.jpg",
+                "vote_average": 6.534,
+                "vote_count": 34,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2850,
+                "iso_639_1": "en",
+                "file_path": "/48f4aDspBlyjQhclW7X56UvqCy3.jpg",
+                "vote_average": 5.52,
+                "vote_count": 8,
+                "width": 1900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/upiek8u4rHTrOJW9B0woXe4A4h7.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/6ldVV8isyLQcFy6VHK8jeGgvepF.jpg",
+                "vote_average": 5.456,
+                "vote_count": 5,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "de",
+                "file_path": "/BwLUQDesx6GW6FtUrQGUPQtzcg.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "pt",
+                "file_path": "/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "hu",
+                "file_path": "/slOWPumZYAxC4vX8ahKt5fDnyMj.jpg",
+                "vote_average": 5.454,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/xjXKy5b2M3fDelAQItIswcDNvwm.jpg",
+                "vote_average": 5.39,
+                "vote_count": 6,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/3MPqF2iK6ZBoagnB5H1pjImHpHc.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "fr",
+                "file_path": "/4Eorgeo09rBNizXWO4W59o6ETQm.jpg",
+                "vote_average": 5.388,
+                "vote_count": 4,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "de",
+                "file_path": "/pKnIH2WrHszeOX07qCjkU0C96ot.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "de",
+                "file_path": "/rCD1oysW2EswIsReqVV07OEApwz.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "cs",
+                "file_path": "/xgNlGSTN3CTRriDI8h6jD25al2A.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "sv",
+                "file_path": "/pKqmxfAyRQmyjHbq5tjbm7K3fiR.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/bhh1axAgaGOB5CZSdX98yegWdZF.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "it",
+                "file_path": "/p5fpmMMcgNfu5PAqiwLIQ0mkzyW.jpg",
+                "vote_average": 5.322,
+                "vote_count": 5,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/wSfrAb963oP50rQIstt8PZSjUBs.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1290,
+                "iso_639_1": "pl",
+                "file_path": "/aUpAMrW9kIQsehXiPdd3QKtGVTh.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 860
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1050,
+                "iso_639_1": "it",
+                "file_path": "/ydkVNq8qjFQPPYtsW9cXyqc0nsX.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/8c1tvFWuvvZ9h8DWg6bRSxzXYfA.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "cs",
+                "file_path": "/9RS8aWI7UX90SBRA8n0AxVJ2OyQ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2144,
+                "iso_639_1": "cs",
+                "file_path": "/3VxdWrRxRfC5WsIGW67Jd3lXO2h.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1429
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "pt",
+                "file_path": "/mbVIy6eLJkZnrGr4ffLcOSDJoZG.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/msRBwHrxNcUicrzCUyTdm6tylbj.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/jvH7Oe37pcPuHOpwCMtbiz6ZrSw.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1950,
+                "iso_639_1": "ja",
+                "file_path": "/bqtwvlIPkybc19dWKzCZdQ4HaXq.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1300
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1050,
+                "iso_639_1": "ja",
+                "file_path": "/gLqeTpBf8HQlBMEXEN8RbMFO5o6.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 825,
+                "iso_639_1": "ja",
+                "file_path": "/8dLlYGv3rngdlBq1yenVWL0CG67.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "da",
+                "file_path": "/wYTnRbQrjXROwzhwTtaD1Hk1JYn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "bg",
+                "file_path": "/nme5xyg9VUEqQM0873ZJS4NKnbI.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fi",
+                "file_path": "/2zyXsIP1Wc3ZKAeJv2E4EHw0qLH.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2295,
+                "iso_639_1": "hu",
+                "file_path": "/kf94WzxzCnPW88Oz7KPTUHukY4o.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1530
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2160,
+                "iso_639_1": "hu",
+                "file_path": "/99e6YvKIj7ScesAcztUor0XJ7ui.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1440
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "it",
+                "file_path": "/ruhbbnqCjX4sEIJWSAAuz1CWHko.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "it",
+                "file_path": "/mVH6wBNdqYCBlmOWuy5fe7BSE7l.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 999,
+                "iso_639_1": "ru",
+                "file_path": "/jbori5fJDJBnRwknQRoLvpOa7Y5.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 666
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1230,
+                "iso_639_1": "es",
+                "file_path": "/tBDDmzk6DEfmmiQNzQ1N6gc4E4M.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 820
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "sv",
+                "file_path": "/8RWlp6sQvt6TqSRWo706orfojSE.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "ro",
+                "file_path": "/hlTG09LlBKqv4L6Jg6D8VQS9QGY.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 900,
+                "iso_639_1": "sv",
+                "file_path": "/hEUTiQwd832g7Vdb5lOkISgdmuR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 1345,
+                "iso_639_1": "de",
+                "file_path": "/khKFgWXEQaOiJ3oOUrzwuG0sU0I.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "ru",
+                "file_path": "/dypuWUbqjBT926tZSE8QzeThe59.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "tr",
+                "file_path": "/aAHsxZ4WcGObGTpraVCM95xew9J.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.76,
+                "height": 2630,
+                "iso_639_1": "fr",
+                "file_path": "/jwGOkLxBPAdkpMBUDFz6WksYEsR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "pl",
+                "file_path": "/1UJi76RRavosnXjLzZqItsIgcsi.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "hu",
+                "file_path": "/w45KmOpSfujzUKBO3GheOMzkXXx.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/aoXh9iKhbRYS4ZnmDPjyPWZknUL.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/tVUdYokBxvUKM9JZCRyt6KmOJgB.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.709,
+                "height": 1482,
+                "iso_639_1": "en",
+                "file_path": "/ofDm8eaPC2zCt6e3datTjdOaD8K.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1051
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2796,
+                "iso_639_1": "it",
+                "file_path": "/wmjvyQdFXtC64pPSaBg5bGDZUOn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1864
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/aUzo2noB7J4bRFnVgoDMhqnJGIZ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "fr",
+                "file_path": "/scR2unsNmxO58SLtjLHDZyUegfe.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.676,
+                "height": 2835,
+                "iso_639_1": "en",
+                "file_path": "/atHagXNJYB44SSbxls7ZcS4QLfq.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1916
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/lE0UkjjFf49FTVrL8Rr2UQgI8Zq.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1067,
+                "iso_639_1": "uk",
+                "file_path": "/2HNM4KQp5Zy9u8aX0XG1KgYirLM.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 712
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1028,
+                "iso_639_1": "en",
+                "file_path": "/pTjMDieQTuq9NEDnG1O3PIu9ZWC.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 685
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 990,
+                "iso_639_1": "en",
+                "file_path": "/cKG9kouhax69bzww4307C82nPnF.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 660
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1440,
+                "iso_639_1": "es",
+                "file_path": "/pFRMQiFEZq4h4wxRwfJ31x7yY90.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 960
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2850,
+                "iso_639_1": "en",
+                "file_path": "/7eGJPzGvaHDWO20cD4bPCTwHJ2b.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1900
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/15olQ5WzKNhDF66CZaT5MntLywh.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 2283,
+                "iso_639_1": "fr",
+                "file_path": "/8OJnmZhClKdhyuplstGcoub7pJC.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1601
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/b1lveOV94Tbr5UVodPejrgvx7bB.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.712,
+                "height": 900,
+                "iso_639_1": "en",
+                "file_path": "/rPzpoOUWaLyDJPwVXVAUCgmT3KY.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 641
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 1151,
+                "iso_639_1": "en",
+                "file_path": "/aUP7z8VkgzLg3NxtMDgXNtQJzng.jpg",
+                "vote_average": 5.238,
+                "vote_count": 0,
+                "width": 767
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/bw3EUY5wr5QUKrw7p0Ys9Nb1O9X.jpg",
+                "vote_average": 5.206,
+                "vote_count": 9,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1425,
+                "iso_639_1": "en",
+                "file_path": "/I5lr1HSqopGFxfpxFe40DvuXft.jpg",
+                "vote_average": 5.19,
+                "vote_count": 5,
+                "width": 950
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/9WKciokDH27hweuLmOP4F196NLx.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.675,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/aS5B8CWmsoJKixOdTgKlC6kJIVR.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1296
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/tj31O1L5hwjubLRC0KuNSn8WWta.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 960,
+                "iso_639_1": "en",
+                "file_path": "/bCGBVLK1kY5yb2ZtXtb6A6jw0zz.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 640
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 900,
+                "iso_639_1": "en",
+                "file_path": "/tTS4iYNCkRrergoXTpIvZlvJcH.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 643
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/eI6RwKyWY0vHfyRxQjJi4Ki9RbC.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 900,
+                "iso_639_1": "en",
+                "file_path": "/jZQJIgteLoDvCB3XnN9HcH79ohT.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 643
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/bTZ74QzXisr1sW5OtVB6QExTwLe.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.684,
+                "height": 2340,
+                "iso_639_1": "en",
+                "file_path": "/3IREG1CMZWeAwNLjgJg23bdxLLn.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1601
+            },
+            {
+                "aspect_ratio": 0.664,
+                "height": 1350,
+                "iso_639_1": "en",
+                "file_path": "/snzQgmaP7konSOFKMuD2Nf6F4KJ.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 897
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "en",
+                "file_path": "/h497LsdCfzWS9CE87iQXSUJRtAU.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1425,
+                "iso_639_1": "en",
+                "file_path": "/i3qdP0IteysjAmupNqwM34jkM31.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 950
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/sZq0DR5d8f3jldGE3oqHZhBuYAK.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "it",
+                "file_path": "/8thApVdXPmMPWH5OLchZnxGzHuE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1800,
+                "iso_639_1": "it",
+                "file_path": "/dvNUip3XVsC5LsZYwDdFLHvd5fx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1200
+            },
+            {
+                "aspect_ratio": 0.707,
+                "height": 1684,
+                "iso_639_1": "fr",
+                "file_path": "/fXvTDVsBS0mGVL0m51POTFcK8Mi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1191
+            },
+            {
+                "aspect_ratio": 0.714,
+                "height": 2100,
+                "iso_639_1": "pl",
+                "file_path": "/nBH9kWfPyLA6FSvp05XctDDEjlE.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2295,
+                "iso_639_1": "en",
+                "file_path": "/wg5MfjX6ucCwtqZrxze9yQvB660.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1531
+            },
+            {
+                "aspect_ratio": 0.66,
+                "height": 1938,
+                "iso_639_1": "it",
+                "file_path": "/cOyC5PMYhDKNURztmDTIyePnzZy.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 750,
+                "iso_639_1": "it",
+                "file_path": "/yEzphU25c1XmdH5kWNXDisDqa95.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 500
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "uk",
+                "file_path": "/mH1r5Xx2EOtT9JDrnhsFAVoDXCX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2400,
+                "iso_639_1": "en",
+                "file_path": "/19ePqp7p2Ab2UwEniIm0V2Dyocc.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2475,
+                "iso_639_1": "en",
+                "file_path": "/13OYWKksK0uO25xcYILPCh3mH0d.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1650
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 921,
+                "iso_639_1": "en",
+                "file_path": "/6uxltQV4hMuERG00kyL2br9ZgmQ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 614
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "hu",
+                "file_path": "/kHQmOcg9x7RyGD0Eljc7LNzxFgl.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.663,
+                "height": 1056,
+                "iso_639_1": "en",
+                "file_path": "/zM9rcZWihJ4DD8GC8HBmF4XU0pa.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 700
+            },
+            {
+                "aspect_ratio": 0.701,
+                "height": 1426,
+                "iso_639_1": "fi",
+                "file_path": "/chL1dh8ajajTjRVk7kYSuhcE3p2.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.666,
+                "height": 3000,
+                "iso_639_1": "en",
+                "file_path": "/wfsG4FLUVsJu5ArkbAgAO2MyPiX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.721,
+                "height": 2773,
+                "iso_639_1": "zh",
+                "file_path": "/uGK74oQxmy2kfc4fJILvF8GyhoX.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1999
+            },
+            {
+                "aspect_ratio": 0.706,
+                "height": 1042,
+                "iso_639_1": null,
+                "file_path": "/gcw2nddu1TyHgUZlQpKYbYqN1gr.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 736
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1415,
+                "name": "small town"
+            },
+            {
+                "id": 697,
+                "name": "loss of loved one"
+            },
+            {
+                "id": 2089,
+                "name": "harmonica"
+            },
+            {
+                "id": 10955,
+                "name": "wedding party"
+            },
+            {
+                "id": 156212,
+                "name": "spaghetti western"
+            },
+            {
+                "id": 180257,
+                "name": "arizona territory"
+            },
+            {
+                "id": 187312,
+                "name": "intercontintental railroad"
+            },
+            {
+                "id": 188924,
+                "name": "outlaw gang"
+            },
+            {
+                "id": 196584,
+                "name": "water pump"
+            },
+            {
+                "id": 207110,
+                "name": "mysterious character"
+            },
+            {
+                "id": 235181,
+                "name": "boom town"
+            },
+            {
+                "id": 247133,
+                "name": "railroad company"
+            },
+            {
+                "id": 258409,
+                "name": "hope for a new life"
+            },
+            {
+                "id": 275787,
+                "name": "railroad construction"
+            },
+            {
+                "id": 309397,
+                "name": "preserved film"
+            }
+        ]
+    },
+    "title_english": "Once Upon a Time in the West",
+    "year": "1968",
+    "rated": "PG-13",
+    "director_list": [
+        "Sergio Leone"
+    ],
+    "writer_list": [
+        "Sergio Donati",
+        " Sergio Leone",
+        " Dario Argento"
+    ],
+    "main_cast": [
+        "Henry Fonda",
+        " Charles Bronson",
+        " Claudia Cardinale"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "imdb_rating": "8.5",
+    "imdb_votes": "343,202",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West",
+    "wikipedia_summary": "Once Upon a Time in the West (Italian: C'era una volta il West, \"Once upon a time (there was) the West\") is a 1968 epic spaghetti Western film directed by Sergio Leone, who co-wrote it with Sergio Donati based on a story by Dario Argento, Bernardo Bertolucci and Leone. It stars Henry Fonda, cast against type as the villain, Charles Bronson as his nemesis, Jason Robards as a bandit and Claudia Cardinale as a newly widowed homesteader. The widescreen cinematography was by Tonino Delli Colli and the acclaimed film score was by Ennio Morricone.\nAfter directing The Good, the Bad and the Ugly, Leone decided to retire from Westerns and aimed to produce his film based on the novel The Hoods, which eventually became Once Upon a Time in America. However, Leone accepted an offer from Paramount Pictures providing Henry Fonda and a budget to produce another Western. He recruited Bertolucci and Argento to devise the plot of the film in 1966, researching other Western films in the process. After Clint Eastwood turned down an offer to play the movie's protagonist, Bronson was offered the role. During production, Leone recruited Donati to rewrite the script due to concerns over time limitations.\nThe original version by the director was 166 minutes  when it was first released on 21 December 1968. This version was shown in European cinemas, and was a box-office success. For the US release on 28 May 1969, Once Upon a Time in the West was edited down to 145 minutes  by Paramount and was a financial flop. \nThe film is the first installment in Leone's Once Upon a Time trilogy, followed by Duck, You Sucker! and Once Upon a Time in America, though the films do not share any characters in common.In 2009, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\". The film is regarded as one of the greatest Westerns of all time and one of the greatest films of all time.",
+    "wikipedia_plot": "A train arrives at the Old West town of \"Flagstone\". A man with a harmonica on a thong about his neck alights and faces three gunfighters who are waiting for him, killing all three. Their leader, an outlaw called Frank, is working as a hired gunman for the railroad tycoon Morton, who is trying to acquire land owned by Brett McBain's family. \nThe dusters worn by the three outlaws lead Harmonica to believe they are a rival outlaw, Cheyenne's men. Meanwhile, Frank and his henchmen kill McBain and his three children at their \"Sweetwater\" ranch and leave behind evidence to frame Cheyenne for the murders.\nA woman named Jill arrives in Flagstone, supposedly to marry McBain at Sweetwater. In fact, she is a former New Orleans prostitute who married McBain a month earlier, so she is the sole heir to Sweetwater. As it will emerge, McBain knew the railroad would pass through Sweetwater one day and planned to build a watering station there, subject to a reverter that he would forfeit Sweetwater if the station was not built by the time the railroad reached it. Morton told Frank to only intimidate McBain, and the murder has put them at odds. Morton wants to make a deal with Jill, but Frank wants the land for himself.\nCheyenne denies that it was his men who tried to ambush Harmonica and murder the McBains. Harmonica saves Jill from two of Frank's men and spies out the railway carriage to which Morton is confined on crutches, owing to his spinal tuberculosis. Harmonica discovers the connection between Frank and Morton but is seen and captured. When Frank asks for Harmonica's name, he replies with names of men that Frank has killed in the past. Frank is called away and Cheyenne rescues Harmonica. The two collaborate to help Jill save Sweetwater, using stockpiled materials to start building a station.\nAfter a threatening sexual encounter with Frank, Jill is forced to auction the land while Frank's henchmen intimidate the bidders in order to keep the purchase price low. Suddenly, Harmonica appears with Cheyenne in tow and bids $5,000, which is the price on Cheyenne's head as a wanted fugitive, and gets the property himself. Meanwhile, Morton has bribed Frank's own men to kill him, but Harmonica intervenes to save Frank from being ambushed in the street. When Jill condemns Harmonica for saving Frank's life, he replies \"I didn't let them (Frank's men) kill him and that's not the same thing\". \nCheyenne soon escapes custody and he and his gang engage Frank's remaining men in a gunfight on Morton's train. Except for Cheyenne, who heads to Sweetwater, everyone is killed, including Morton. When Frank sees the aftermath of the fight, he rides to Sweetwater too, where he finds Harmonica waiting. Cheyenne has arrived earlier, but he remains in the ranch house with Jill. Outside, Harmonica and Frank engage in a showdown; through a flashback, it is revealed that Frank had once hanged Harmonica's older brother, forcing the younger brother to support him on his shoulders. Just before the panting boy collapsed under the weight, Frank had forced a harmonica into his mouth, telling him to \"keep your lovin' brother happy\". \nHarmonica beats Frank to the draw. As he lies dying, Frank again asks Harmonica's identity and Harmonica places the instrument in Frank's mouth. Frank remembers, nods his head, and dies.   \nJill hopes he will stay with her but, as Cheyenne has already told her, that won't happen. Jill asks Harmonica to come back and he says: \"Some day\". Harmonica and Cheyenne leave Sweetwater together, but Cheyenne collapses and dies from a gut wound he received in the gunfight with Morton. As Harmonica departs carrying Cheyenne's body on a horse, Jill serves water to the railroad workers.",
+    "wikipedia_plot_html": "<p>A train arrives at the Old West town of \"Flagstone\". A man with a harmonica on a thong about his neck alights and faces three gunfighters who are waiting for him, killing all three. Their leader, an outlaw called Frank, is working as a hired gunman for the railroad tycoon Morton, who is trying to acquire land owned by Brett McBain's family. \n</p><p>The dusters worn by the three outlaws lead Harmonica to believe they are a rival outlaw, Cheyenne's men. Meanwhile, Frank and his henchmen kill McBain and his three children at their \"Sweetwater\" ranch and leave behind evidence to frame Cheyenne for the murders.\n</p><p>A woman named Jill arrives in Flagstone, supposedly to marry McBain at Sweetwater. In fact, she is a former New Orleans prostitute who married McBain a month earlier, so she is the sole heir to Sweetwater. As it will emerge, McBain knew the railroad would pass through Sweetwater one day and planned to build a watering station there, subject to a reverter that he would forfeit Sweetwater if the station was not built by the time the railroad reached it. Morton told Frank to only intimidate McBain, and the murder has put them at odds. Morton wants to make a deal with Jill, but Frank wants the land for himself.\n</p><p>Cheyenne denies that it was his men who tried to ambush Harmonica and murder the McBains. Harmonica saves Jill from two of Frank's men and spies out the railway carriage to which Morton is confined on crutches, owing to his spinal tuberculosis. Harmonica discovers the connection between Frank and Morton but is seen and captured. When Frank asks for Harmonica's name, he replies with names of men that Frank has killed in the past. Frank is called away and Cheyenne rescues Harmonica. The two collaborate to help Jill save Sweetwater, using stockpiled materials to start building a station.\n</p><p>After a threatening sexual encounter with Frank, Jill is forced to auction the land while Frank's henchmen intimidate the bidders in order to keep the purchase price low. Suddenly, Harmonica appears with Cheyenne in tow and bids $5,000, which is the price on Cheyenne's head as a wanted fugitive, and gets the property himself. Meanwhile, Morton has bribed Frank's own men to kill him, but Harmonica intervenes to save Frank from being ambushed in the street. When Jill condemns Harmonica for saving Frank's life, he replies \"I didn't let them (Frank's men) kill him and that's not the same thing\". \n</p><p>Cheyenne soon escapes custody and he and his gang engage Frank's remaining men in a gunfight on Morton's train. Except for Cheyenne, who heads to Sweetwater, everyone is killed, including Morton. When Frank sees the aftermath of the fight, he rides to Sweetwater too, where he finds Harmonica waiting. Cheyenne has arrived earlier, but he remains in the ranch house with Jill. Outside, Harmonica and Frank engage in a showdown; through a flashback, it is revealed that Frank had once hanged Harmonica's older brother, forcing the younger brother to support him on his shoulders. Just before the panting boy collapsed under the weight, Frank had forced a harmonica into his mouth, telling him to \"keep your lovin' brother happy\". \n</p><p>Harmonica beats Frank to the draw. As he lies dying, Frank again asks Harmonica's identity and Harmonica places the instrument in Frank's mouth. Frank remembers, nods his head, and dies.   \n</p><p>Jill hopes he will stay with her but, as Cheyenne has already told her, that won't happen. Jill asks Harmonica to come back and he says: \"Some day\". Harmonica and Cheyenne leave Sweetwater together, but Cheyenne collapses and dies from a gut wound he received in the gunfight with Morton. As Harmonica departs carrying Cheyenne's body on a horse, Jill serves water to the railroad workers.\n</p>",
+    "wikipedia_critics": "Once Upon a Time in the West was reviewed in 1969 in the Chicago Sun-Times by Roger Ebert, who gave it two and a half stars out of four. He found the film \"good fun\" and \"a painstaking distillation\" of Leone's famous style, with intriguing performances by actors cast against their type and a richness of detail projecting \"a sense of life of the West\" made possible by Paramount's larger budget for this Leone film. Ebert complained, however, of the film's length and convoluted plot, which he said only becomes clear by the second hour. While viewing Cardinale as a good casting choice, he said she lacked the \"blood-and-thunder abandon\" of her performance in Cartouche (1962), blaming Leone for directing her \"too passively\".In subsequent years, the film developed a greater standing among critics, as well as a cult following. Directors such as Martin Scorsese, George Lucas, Quentin Tarantino, and Vince Gilligan have cited the film as an influence on their work. It has also appeared on prominent all-time critics lists, including Time's 100 greatest films of the 20th century and Empire's 500 greatest movies of all time, where it was the list's highest-ranking Western at number 14. Popular culture scholar Christopher Frayling regarded it as \"one of the greatest films ever made\".Review aggregation website Rotten Tomatoes reports a 95% approval rating based on 66 reviews, with an average score of 9.20/10. The critical consensus reads: \"A landmark Sergio Leone spaghetti Western masterpiece featuring a classic Morricone score\". Metacritic gives the film a weighted average score of 82 out of 100 based on reviews from 9 critics, indicating \"universal acclaim\".",
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Once Upon a Time in the West</b></i> (<span>Italian: <i lang=\"it\">C'era una volta il West</i></span>, \"Once upon a time (there was) the West\") is a 1968 epic spaghetti Western film directed by Sergio Leone, who co-wrote it with Sergio Donati based on a story by Dario Argento, Bernardo Bertolucci and Leone. It stars Henry Fonda, cast against type as the villain, Charles Bronson as his nemesis, Jason Robards as a bandit and Claudia Cardinale as a newly widowed homesteader. The widescreen cinematography was by Tonino Delli Colli and the acclaimed film score was by Ennio Morricone.\n</p><p>After directing <i>The Good, the Bad and the Ugly</i>, Leone decided to retire from Westerns and aimed to produce his film based on the novel <i>The Hoods</i>, which eventually became <i>Once Upon a Time in America</i>. However, Leone accepted an offer from Paramount Pictures providing Henry Fonda and a budget to produce another Western. He recruited Bertolucci and Argento to devise the plot of the film in 1966, researching other Western films in the process. After Clint Eastwood turned down an offer to play the movie's protagonist, Bronson was offered the role. During production, Leone recruited Donati to rewrite the script due to concerns over time limitations.\n</p><p>The original version by the director was 166 minutes  when it was first released on 21 December 1968. This version was shown in European cinemas, and was a box-office success. For the US release on 28 May 1969, <i>Once Upon a Time in the West</i> was edited down to 145 minutes  by Paramount and was a financial flop. \n</p><p>The film is the first installment in Leone's <i>Once Upon a Time</i> trilogy, followed by <i>Duck, You Sucker!</i> and <i>Once Upon a Time in America</i>, though the films do not share any characters in common.</p><p>In 2009, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\". The film is regarded as one of the greatest Westerns of all time and one of the greatest films of all time.</p>\n\n<h2>Plot</h2>\n<p>A train arrives at the Old West town of \"Flagstone\". A man with a harmonica on a thong about his neck alights and faces three gunfighters who are waiting for him, killing all three. Their leader, an outlaw called Frank, is working as a hired gunman for the railroad tycoon Morton, who is trying to acquire land owned by Brett McBain's family. \n</p><p>The dusters worn by the three outlaws lead Harmonica to believe they are a rival outlaw, Cheyenne's men. Meanwhile, Frank and his henchmen kill McBain and his three children at their \"Sweetwater\" ranch and leave behind evidence to frame Cheyenne for the murders.\n</p><p>A woman named Jill arrives in Flagstone, supposedly to marry McBain at Sweetwater. In fact, she is a former New Orleans prostitute who married McBain a month earlier, so she is the sole heir to Sweetwater. As it will emerge, McBain knew the railroad would pass through Sweetwater one day and planned to build a watering station there, subject to a reverter that he would forfeit Sweetwater if the station was not built by the time the railroad reached it. Morton told Frank to only intimidate McBain, and the murder has put them at odds. Morton wants to make a deal with Jill, but Frank wants the land for himself.\n</p><p>Cheyenne denies that it was his men who tried to ambush Harmonica and murder the McBains. Harmonica saves Jill from two of Frank's men and spies out the railway carriage to which Morton is confined on crutches, owing to his spinal tuberculosis. Harmonica discovers the connection between Frank and Morton but is seen and captured. When Frank asks for Harmonica's name, he replies with names of men that Frank has killed in the past. Frank is called away and Cheyenne rescues Harmonica. The two collaborate to help Jill save Sweetwater, using stockpiled materials to start building a station.\n</p><p>After a threatening sexual encounter with Frank, Jill is forced to auction the land while Frank's henchmen intimidate the bidders in order to keep the purchase price low. Suddenly, Harmonica appears with Cheyenne in tow and bids $5,000, which is the price on Cheyenne's head as a wanted fugitive, and gets the property himself. Meanwhile, Morton has bribed Frank's own men to kill him, but Harmonica intervenes to save Frank from being ambushed in the street. When Jill condemns Harmonica for saving Frank's life, he replies \"I didn't let them (Frank's men) kill him and that's not the same thing\". \n</p><p>Cheyenne soon escapes custody and he and his gang engage Frank's remaining men in a gunfight on Morton's train. Except for Cheyenne, who heads to Sweetwater, everyone is killed, including Morton. When Frank sees the aftermath of the fight, he rides to Sweetwater too, where he finds Harmonica waiting. Cheyenne has arrived earlier, but he remains in the ranch house with Jill. Outside, Harmonica and Frank engage in a showdown; through a flashback, it is revealed that Frank had once hanged Harmonica's older brother, forcing the younger brother to support him on his shoulders. Just before the panting boy collapsed under the weight, Frank had forced a harmonica into his mouth, telling him to \"keep your lovin' brother happy\". \n</p><p>Harmonica beats Frank to the draw. As he lies dying, Frank again asks Harmonica's identity and Harmonica places the instrument in Frank's mouth. Frank remembers, nods his head, and dies.   \n</p><p>Jill hopes he will stay with her but, as Cheyenne has already told her, that won't happen. Jill asks Harmonica to come back and he says: \"Some day\". Harmonica and Cheyenne leave Sweetwater together, but Cheyenne collapses and dies from a gut wound he received in the gunfight with Morton. As Harmonica departs carrying Cheyenne's body on a horse, Jill serves water to the railroad workers.\n</p>\n\n<h2>Cast</h2>\n<h2>Production</h2>\n<h3>Origins</h3>\n<p>After making his American Civil War epic <i>The Good, the Bad and the Ugly</i>, Leone had intended to make no more Westerns, believing he had said all he wanted to say. He had come across the novel <i>The Hoods</i> by the pseudonymous \"Harry Grey\", a fictionalized book based on the author's own experiences as a Jewish hood during Prohibition, and planned to adapt it into a film (17 years later, it would become his final film, <i>Once Upon a Time in America</i>). Leone, though, was offered only Westerns by the Hollywood studios. United Artists (which had produced the <i>Dollars Trilogy</i>) offered him the opportunity to make a film starring Charlton Heston, Kirk Douglas and Rock Hudson, but Leone refused. When Paramount offered Leone a generous budget along with access to Henry Fonda\u2014his favorite actor, and one with whom he had wanted to work for virtually all of his career\u2014Leone accepted the offer.</p><p>Leone commissioned Bernardo Bertolucci and Dario Argento to help him devise a film treatment in late 1966. The men spent much of the following year watching and discussing numerous classic Westerns, such as <i>High Noon</i>, <i>The Iron Horse</i>, <i>The Comancheros</i> and <i>The Searchers</i> at Leone's house, and constructed a story made up almost entirely of references to American Westerns.</p><p>Beginning with <i>The Good, the Bad and the Ugly</i>, which originally ran for three hours, Leone's films had usually been cut (often quite considerably) for box-office release. Leone was very conscious of the length of <i>Once Upon a Time in the West</i> during filming and subsequently commissioned Sergio Donati, who had worked on several of Leone's other films, to help him refine the screenplay, largely to curb the length of the film toward the end of production.</p>\n\n<h3>Style and pacing</h3>\n<p>For <i>Once Upon a Time in the West</i>, Leone changed his approach over his earlier Westerns. Whereas the \"<i>Dollars</i>\" films were quirky and up-tempo, a celebratory yet tongue-in-cheek parody of the icons of the Wild West, this film is much slower in pace and somber in theme. Leone's distinctive style, which is very different from, but very much influenced by, Akira Kurosawa's <i>Sanshiro Sugata</i> (1943), is still present, but has been modified for the beginning of Leone's second trilogy, the so-called <i>Once Upon a Time</i> trilogy. The characters in this film are also beginning to change markedly over their predecessors in the <i>Dollars</i> trilogy. They are not quite as defined and, unusual for Leone characters up to this point, they begin to change (or at least attempt to) over the course of the story. This signals the start of the second phase of Leone's style, which was further developed in <i>Duck, You Sucker!</i> and <i>Once Upon a Time in America</i>.\n</p><p>The film features long, slow scenes with very little dialogue and little happening, broken by brief and sudden violence. Leone was far more interested in the rituals preceding violence than in the violence itself. The tone of the film is consistent with the arid semidesert in which the story unfolds, and imbues it with a feeling of realism that contrasts with the elaborately choreographed gunplay.\n</p><p>Leone liked to tell the story of a cinema in Paris where the film ran uninterrupted for two years. When he visited this theater, he was surrounded by fans who wanted his autograph, as well as the projectionist, who was less than enthusiastic. Leone claimed the projectionist told him, \"I kill you! The same movie over and over again for two years! And it's so SLOW!\"</p>\n\n<h3>Locations</h3>\n<p>Interiors for the film were shot in Cinecitt\u00e0 studios, Rome.\nThe opening sequence with the three gunmen meeting the train was one of the sequences filmed in Spain. Shooting for scenes at Cattle Corner Station, as the location was called in the story, was scheduled for four days and was filmed at the \"ghost\" railway station in the municipality of La Calahorra, near Guadix, in the Province of Granada, Spain, as were the scenes of Flagstone. Shooting for the scenes in the middle of the railway were filmed along the Guadix\u2013Hern\u00e1n-Valle railway line. Scenes at the Sweetwater Ranch were filmed in the Tabernas Desert, Spain; the ranch is still located at what is now called Western Leone. The brick arch, where Bronson's character flashes back to his youth and the original lynching incident, was built near a small airport 15 miles north of Monument Valley, in Utah, and two miles from U.S. Route 163 (which links Gouldings Lodge and Mexican Hat). Monument Valley itself is used extensively for the route Jill travels towards her new family in Sweetwater.</p>\n\n<h3>Casting</h3>\n<p>Henry Fonda did not accept Leone's first offer to play Frank, so Leone flew to New York to convince him, telling him: \"Picture this: the camera shows a gunman from the waist down pulling his gun and shooting a running child. The camera tilts up to the gunman's face and\u2026 it's Henry Fonda\". After meeting with Leone, Fonda called his friend Eli Wallach, who had co-starred in <i>The Good, the Bad and the Ugly</i>. Wallach advised Fonda to do the film, telling him \"You will have the time of your life.\"</p><p>When he accepted the role, Fonda came to the set with brown contact lenses and a handlebar mustache. Fonda felt having dark eyes and facial hair would blend well with his character's evil, and also help the audience to accept this \"new\" Fonda as the bad guy, but Leone immediately told him to remove the contacts and facial hair, saying he did not want Fonda to look like a cliche villain.</p><p>Leone said he cast Claudia Cardinale in part because she was an Italian national and, as such, they could get a tax break.</p><p>Leone wanted the three men who ambush Harmonica and are subsequently killed to be played by Clint Eastwood, Lee Van Cleef, and Eli Wallach in a symbolic killing of the <i>Dollars Trilogy</i> which Leone wanted to put behind him. However, though Wallach was willing, Van Cleef was unavailable and Eastwood was not interested in the role.</p>\n\n<h3>Localization</h3>\n<p>Following the film's completion, <i>Once Upon a Time in the West</i> was dubbed into several languages, including Italian, French, German, Spanish, and English. The film's dialogue was translated into English by expatriate American actor Mickey Knox. For the English dub, the voices of many of the American cast, including Fonda, Bronson, Robards, Wynn, Wolff, and Lionel Stander, were used. However, the rest of the cast had to be dubbed by other actors \u2013 including Claudia Cardinale, who was dubbed by actress Joyce Gordon, Gabriele Ferzetti, who was voiced by Gordon's husband, Bernard Grant, and Jack Elam.</p>\n\n<h2>Music</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>The music was written by composer Ennio Morricone, Leone's regular collaborator, who wrote the score under Leone's direction before filming began. As in <i>The Good, the Bad and the Ugly</i>, the haunting music contributes to the film's grandeur and, like the music for <i>The Good, the Bad and the Ugly</i>, is considered one of Morricone's greatest compositions.\n</p><p>The film features leitmotifs that relate to each of the main characters (with their own theme music), as well as to the spirit of the American West. Especially compelling are the wordless vocals by Italian singer Edda Dell'Orso during the theme music for Jill McBain. Leone's desire was to have the music available and played during filming. Leone had Morricone compose the score before shooting started and played the music in the background for the actors on set.</p><p>Except for about a minute of the \"Judgment\" motif, before Harmonica kills the three outlaws, no soundtrack music is played until the end of the second scene, when Fonda makes his first entry. During the beginning of the film, Leone instead uses a number of <i>natural sounds</i>, for instance, a turning wheel in the wind, sound of a train, grasshoppers, shotguns while hunting, wings of pigeons, etc., in addition to the diegetic sound of the harmonica.</p>\n\n<h2>Release</h2>\n<h3>European release</h3>\n<p>The film was a massive hit in France, and was easily the most successful film released there in 1969, with 14.8 million admissions, ranking seventh of all time.\nIt sparked a brief fashion trend for duster coats, which took such proportions that Parisian department stores such as Au Printemps had to affix signs on escalators warning patrons to keep their \"maxis\", as they were called, clear from the edges of moving steps to prevent jamming.\n</p><p>It was also the most popular film in Germany with admissions of 13 million, ranking third of all time.</p>\n\n<h3>American release</h3>\n<p>In the US, Paramount edited the film to about 145 minutes for the wide release, but the film underperformed at the box office, earning $2.1M in rentals in North America.</p><p>These scenes were cut for the American release:\n</p>\n<ul><li>The entire scene at Lionel Stander's trading post. Cheyenne (Robards) was not introduced in the American release until his arrival at the McBain ranch later in the film. Stander remained in the credits, though he did not appear in this version at all.</li>\n<li>The scene in which Morton and Frank discuss what to do with Jill at the Navajo Cliffs.</li>\n<li>Morton's death scene was reduced considerably.</li>\n<li>Cheyenne's death scene was completely excised.</li></ul><p>Otherwise, one scene was slightly longer in the US version than in the international film release:<br>\nFollowing the opening duel (where all four gunmen fire and fall), Charles Bronson's character stands up again, showing that he had only been shot in the arm. This part of the scene had been originally cut by director Sergio Leone for the worldwide theatrical release. It was added again for the U.S. market, because the American distributors feared American viewers would not understand the story otherwise, especially since Harmonica's arm wound is originally shown for the first time in the scene at the trading post, which was cut for the shorter U.S. version.\n</p><p>The English-language version was restored to around 165 minutes for a re-release in 1984, and for its video release the following year.\n</p>\n\n<h3>Director's cut</h3>\n<p>In Italy, a 175-minute director's cut features a yellow tint filter, and several scenes were augmented with additional material. This director's cut was available on home video until the early 2000s, and still airs on TV, but more recent home-video releases have used the international cut.\n</p>\n\n<h3>Home media</h3>\n<p><span id=\"Home_media\"></span>\nAfter years of public requests, Paramount released a two-disc \"Special Collector's Edition\" of <i>Once Upon a Time in the West</i> on 18 November 2003, with a running time of 165 minutes (158 minutes in some regions). This release is the color 2.35:1 aspect ratio version in anamorphic widescreen, closed captioned, and Dolby. Commentary is also provided by film experts and historians, including John Carpenter, John Milius, Alex Cox, film historian and Leone biographer Sir Christopher Frayling, Dr. Sheldon Hall, and actors Claudia Cardinale and Gabriele Ferzetti, and director Bernardo Bertolucci, a co-writer of the film.\n</p><p>The second disc has special features, including three recent documentaries on several aspects of the film:\n</p>\n<ul><li><i>An Opera of Violence</i></li>\n<li><i>The Wages of Sin</i></li>\n<li><i>Something to Do with Death</i></li></ul><p>The film was released on Blu-ray on 31 May 2011.\n</p>\n\n<h3>Restored version</h3>\n<p>A restored 4K version was published by Cineteca Bologna in 2018, with improved colors and image quality.</p>\n\n<h2>Reception</h2>\n<h3>Box office</h3>\n<p>In Italy, the film sold 8,870,732 tickets. In the United States, it grossed $5,321,508, from <span>3.7 million</span> ticket sales. It sold a further 14,873,804 admissions in France and 13,018,414 admissions in Germany, for a total of 40,462,950 tickets sold worldwide.\n</p>\n\n<h3>Critical response</h3>\n<p><i>Once Upon a Time in the West</i> was reviewed in 1969 in the <i>Chicago Sun-Times</i> by Roger Ebert, who gave it two and a half stars out of four. He found the film \"good fun\" and \"a painstaking distillation\" of Leone's famous style, with intriguing performances by actors cast against their type and a richness of detail projecting \"a sense of life of the West\" made possible by Paramount's larger budget for this Leone film. Ebert complained, however, of the film's length and convoluted plot, which he said only becomes clear by the second hour. While viewing Cardinale as a good casting choice, he said she lacked the \"blood-and-thunder abandon\" of her performance in <i>Cartouche</i> (1962), blaming Leone for directing her \"too passively\".</p><p>In subsequent years, the film developed a greater standing among critics, as well as a cult following. Directors such as Martin Scorsese, George Lucas, Quentin Tarantino, and Vince Gilligan have cited the film as an influence on their work. It has also appeared on prominent all-time critics lists, including <i>Time</i><span>'</span>s 100 greatest films of the 20th century and <i>Empire</i><span>'</span>s 500 greatest movies of all time, where it was the list's highest-ranking Western at number 14. Popular culture scholar Christopher Frayling regarded it as \"one of the greatest films ever made\".</p><p>Review aggregation website Rotten Tomatoes reports a 95% approval rating based on 66 reviews, with an average score of 9.20/10. The critical consensus reads: \"A landmark Sergio Leone spaghetti Western masterpiece featuring a classic Morricone score\". Metacritic gives the film a weighted average score of 82 out of 100 based on reviews from 9 critics, indicating \"universal acclaim\".</p>\n\n<h3>Accolades</h3>\n<p><span id=\"Awards\"></span><span id=\"Accolades\"></span>\n</p>\n<ul><li><i>Time</i> named <i>Once Upon a Time in the West</i> as one of the 100 greatest films of all time.</li>\n<li>In <i>They Shoot Pictures, Don't They'</i>s list of the 1000 Greatest Films, <i>Once Upon a Time in the West</i> is placed at number 62.</li>\n<li><i>Total Film</i> placed <i>Once Upon a Time in the West</i> in their special edition issue of the 100 Greatest Movies.</li>\n<li>In 2008, <i>Empire</i> held a poll of \"the 500 Greatest Movies of All Time\", taking votes from 10,000 readers, 150 filmmakers, and 50 film critics. \"Once Upon a Time in the West\" was voted in at number 14, the highest Western on the list. In 2017, it was then ranked at number 52 on <i>Empire'</i>s poll for \"The 100 Greatest Movies\" (the second-highest Western on the list).</li>\n<li>In 2009, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically or aesthetically significant\".</li>\n<li>In 2010, <i>The Guardian</i> ranked it third in its \"The 25 Best Action and War Films of All Time\" list; and in 2013 the paper ranked it first in its \"Top 10 Movie Westerns\" list.</li>\n<li>In the 2012 <i>Sight &amp; Sound</i> polls, it was ranked the 78th-greatest film ever made in the critics' poll and 44th in the directors' poll.</li>\n<li>In 2014, <i>Time Out</i> polled several film critics, directors, actors, and stunt actors to list their top action films. <i>Once Upon A Time In The West</i> placed 30th on their list.</li></ul>\n\n<h3>Year-end lists</h3>\n<p>The film is recognized by American Film Institute in these lists:\n</p>\n<ul><li>2003: AFI's 100 Years...100 Heroes &amp; Villains:\n<ul><li>Frank \u2013 Nominated Villain</li></ul></li>\n<li>2005: AFI's 100 Years of Film Scores \u2013 Nominated</li></ul>\n\n<h2>Film references</h2>\n<p>Leone's intent was to take the stock conventions of the American Westerns of John Ford, Howard Hawks, and others, and rework them in an ironic fashion, essentially reversing their intended meaning in their original sources to create a darker connotation. The most obvious example of this is the casting of veteran film good guy Henry Fonda as the villainous Frank, but many other, more subtle reversals occur throughout the film. According to film critic and historian Christopher Frayling, the film quotes from as many as 30 classic American Westerns.\n</p><p>The major films referenced include:\n</p>\n<ul><li><i>The Comancheros</i> (1961): The names \"McBain\" and \"Sweetwater\" may come from this film. Contrary to popular belief, the name of the town \"Sweetwater\" was not taken from Victor Sj\u00f6str\u00f6m's silent epic drama <i>The Wind</i>. Bernardo Bertolucci has stated that he looked at a map of the Southwestern United States, found the name of the town in Arizona, and decided to incorporate it into the film. However, both \"Sweetwater\" and a character named \"McBain\" appeared in <i>The Comancheros</i>, which Leone admired.</li>\n<li><i>Johnny Guitar</i> (1954): Jill and Vienna have similar backstories (both are former prostitutes who become saloonkeepers), and both own land where a train station will be built because of access to water. Also, Harmonica, like Sterling Hayden's title character, is a mysterious, gunslinging outsider known by his musical nickname. Some of <i>West'</i>s central plot (Western settlers vs. the railroad company) may be recycled from Nicholas Ray's film. </li>\n<li><i>The Iron Horse</i> (1924): <i>West</i> may contain several subtle references to this film, including a low-angle shot of a shrieking train rushing towards the screen in the opening scene, and the shot of the train pulling into the Sweetwater station at the end.</li>\n<li><i>Shane</i> (1953): The massacre scene in <i>West</i> features young Timmy McBain out hunting with his father, just as Joey does in this movie. The funeral of the McBains is borrowed almost shot-for-shot from <i>Shane</i>.</li>\n<li><i>The Searchers</i> (1956): Leone admitted that the rustling bushes, the silencing of insect sounds, and the fluttering grouse that suggests menace is approaching the farmhouse when the McBain family is massacred were all taken from <i>The Searchers</i>. The ending of the film\u2014where Western nomads Harmonica and Cheyenne move on rather than join modern society\u2014also echoes the famous ending of Ford's film.</li>\n<li><i>Winchester '73</i> (1950): The scenes in <i>West</i> at the trading post are claimed to be based on those in <i>Winchester '73</i>, but the resemblance is slight.</li>\n<li><i>The Man Who Shot Liberty Valance</i> (1962): The dusters (long coats) worn by Cheyenne and his gang (and by Frank and his men while impersonating them) resemble those worn by Liberty Valance (Lee Marvin) and his henchmen when they are introduced in this film. In addition, the auction scene in <i>West</i> was intended to recall the election scene in <i>Liberty Valance</i>.</li>\n<li><i>The Last Sunset</i> (1961): The final duel between Frank and Harmonica is shot almost identically to the duel between Kirk Douglas and Rock Hudson in this film.</li>\n<li><i>Duel in the Sun</i> (1946): The character of Morton, the crippled railroad baron in <i>West</i>, was based on the character played by Lionel Barrymore in this film.</li></ul>\n\n<h2>See also</h2>\n<ul><li>List of Italian films of 1968</li>\n<li>List of highest-grossing films in France</li>\n<li>List of highest-grossing films in Germany</li></ul>\n\n<h2>Notes</h2>\n<h2>References</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1011085734\">\n\n<h2>Further reading</h2>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFFawell2005\" class=\"citation book cs1\">Fawell, John (2005). <i>The Art of Sergio Leone's Once Upon a Time in the West: A Critical Appreciation</i>. Jefferson, N.C.: McFarland. ISBN\u00a0<bdi>0-7864-2092-8</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Art+of+Sergio+Leone%27s+Once+Upon+a+Time+in+the+West%3A+A+Critical+Appreciation&amp;rft.place=Jefferson%2C+N.C.&amp;rft.pub=McFarland&amp;rft.date=2005&amp;rft.isbn=0-7864-2092-8&amp;rft.aulast=Fawell&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOnce+Upon+a+Time+in+the+West\"></span></li></ul>\n\n<h2>External links</h2>\n\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1134653256\">\n<ul><li><i>Once Upon a Time in the West</i> at IMDb</li>\n<li><i>Once Upon a Time in the West</i> at the TCM Movie Database</li>\n<li><i>Once Upon a Time in the West</i> at AllMovie</li>\n<li><i>Once Upon a Time in the West</i> at the <em>American Film Institute Catalog</em></li>\n<li><i>Once Upon a Time in the West</i> at Rotten Tomatoes</li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFWessels\" class=\"citation web cs1\">Wessels, Chelsea. \"Once Upon a Time in the West\" <span>(PDF)</span>. <i>Essay</i>. National Film Registry.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Essay&amp;rft.atitle=Once+Upon+a+Time+in+the+West&amp;rft.aulast=Wessels&amp;rft.aufirst=Chelsea&amp;rft_id=https%3A%2F%2Fwww.loc.gov%2Fstatic%2Fprograms%2Fnational-film-preservation-board%2Fdocuments%2Fonce_time_west.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOnce+Upon+a+Time+in+the+West\"></span></li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFEagan2011\" class=\"citation book cs1\">Eagan, Daniel (2011). \"Once Upon a Time in the West\". <i>America's Film Legacy, 2009-2010: A Viewer's Guide To The 50 Landmark Movies Added To The National Film Registry In 2009-10</i>. Bloomsbury Publishing. pp.\u00a0119\u2013123. ISBN\u00a0<bdi>978-1441120021</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Once+Upon+a+Time+in+the+West&amp;rft.btitle=America%27s+Film+Legacy%2C+2009-2010%3A+A+Viewer%27s+Guide+To+The+50+Landmark+Movies+Added+To+The+National+Film+Registry+In+2009-10&amp;rft.pages=119-123&amp;rft.pub=Bloomsbury+Publishing&amp;rft.date=2011&amp;rft.isbn=978-1441120021&amp;rft.aulast=Eagan&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4GNRD_icEmkC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOnce+Upon+a+Time+in+the+West\"></span> <span><code class=\"cs1-code\">{{cite book}}</code>: </span><span><code class=\"cs1-code\">|work=</code> ignored (help)</span></li></ul>"
+}

@@ -1,0 +1,1837 @@
+{
+    "adult": false,
+    "backdrop_path": "/bSkJttePygyoEzUlKqKbpIokmJC.jpg",
+    "belongs_to_collection": null,
+    "budget": 4000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 583,
+    "imdb_id": "tt0079470",
+    "original_language": "en",
+    "original_title": "Life of Brian",
+    "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+    "popularity": 27.322,
+    "poster_path": "/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+    "production_companies": [
+        {
+            "id": 20076,
+            "logo_path": "/i9qXGJIP9fGN22PP5jXUVENbyHi.png",
+            "name": "HandMade Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 416,
+            "logo_path": null,
+            "name": "Python (Monty) Pictures Limited",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1979-08-17",
+    "revenue": 20745728,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He wasn't the messiah. He was a very naughty boy.",
+    "title": "Life of Brian",
+    "video": false,
+    "vote_average": 7.758,
+    "vote_count": 4050,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10722,
+                "known_for_department": "Acting",
+                "name": "Graham Chapman",
+                "original_name": "Graham Chapman",
+                "popularity": 5.104,
+                "profile_path": "/qmTXDGNxuuwQ4IGNHwxmCdjuTGk.jpg",
+                "cast_id": 13,
+                "character": "Wise Man #2 / Brian Cohen / Biggus Dickus",
+                "credit_id": "52fe4256c3a36847f80164eb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8930,
+                "known_for_department": "Acting",
+                "name": "John Cleese",
+                "original_name": "John Cleese",
+                "popularity": 15.222,
+                "profile_path": "/3FTNRUqZBUfQL0Hg2lW8g9jTKt0.jpg",
+                "cast_id": 14,
+                "character": "Wise Man #1 / Reg / Jewish Official / First Centurion / Deadly Dirk / Arthur",
+                "credit_id": "52fe4256c3a36847f80164ef",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 280,
+                "known_for_department": "Directing",
+                "name": "Terry Gilliam",
+                "original_name": "Terry Gilliam",
+                "popularity": 6.73,
+                "profile_path": "/kODccJVnrt4ioPbJVEnkkKPHbG7.jpg",
+                "cast_id": 15,
+                "character": "Man Even Further Forward / Revolutionary / Jailer / Blood and Thunder Prophet / Frank / Audience Member / Crucifee",
+                "credit_id": "52fe4256c3a36847f80164f3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10713,
+                "known_for_department": "Acting",
+                "name": "Eric Idle",
+                "original_name": "Eric Idle",
+                "popularity": 10.699,
+                "profile_path": "/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg",
+                "cast_id": 16,
+                "character": "Mr. Cheeky / Stan 'Loretta' / Harry the Haggler / Culprit Woman / Warris / Intensely Dull Youth / Jailer's Assistant / Otto / Lead Singer Crucifee",
+                "credit_id": "52fe4256c3a36847f80164f7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10707,
+                "known_for_department": "Acting",
+                "name": "Terry Jones",
+                "original_name": "Terry Jones",
+                "popularity": 5.211,
+                "profile_path": "/keJpqxK8gykrrK2W6yeSeDUbYDK.jpg",
+                "cast_id": 17,
+                "character": "Mandy Cohen / Colin / Simon the Holy Man / Bob Hoskins / Saintly Passer-by / Alarmed Crucifixion Assistant",
+                "credit_id": "52fe4256c3a36847f80164fb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 383,
+                "known_for_department": "Acting",
+                "name": "Michael Palin",
+                "original_name": "Michael Palin",
+                "popularity": 10.667,
+                "profile_path": "/7qCp6M2NxMWpUmO2t6IqHGNlBjz.jpg",
+                "cast_id": 18,
+                "character": "Wise Man #3 / Mr. Big Nose / Francis / Mrs. A / Ex-Leper / Announcer / Ben / Pontius Pilate / Boring Prophet / Eddie / Shoe Follower / Nisus Wettus",
+                "credit_id": "52fe4256c3a36847f80164ff",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10732,
+                "known_for_department": "Acting",
+                "name": "Terence Bayler",
+                "original_name": "Terence Bayler",
+                "popularity": 2.001,
+                "profile_path": "/ui0sfTzTnum4IkFVrLdpOsUbJDL.jpg",
+                "cast_id": 19,
+                "character": "Gregory",
+                "credit_id": "52fe4256c3a36847f8016503",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10733,
+                "known_for_department": "Acting",
+                "name": "Carol Cleveland",
+                "original_name": "Carol Cleveland",
+                "popularity": 5.657,
+                "profile_path": "/woaXQdK0DZpWSxvRBCpmWZn7ZAn.jpg",
+                "cast_id": 20,
+                "character": "Mrs. Gregory",
+                "credit_id": "52fe4256c3a36847f8016507",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10734,
+                "known_for_department": "Acting",
+                "name": "Kenneth Colley",
+                "original_name": "Kenneth Colley",
+                "popularity": 6.623,
+                "profile_path": "/5eH380TIBWnjyCDCq3o7DUeZOsX.jpg",
+                "cast_id": 21,
+                "character": "Jesus",
+                "credit_id": "52fe4256c3a36847f801650b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70624,
+                "known_for_department": "Acting",
+                "name": "Neil Innes",
+                "original_name": "Neil Innes",
+                "popularity": 1.911,
+                "profile_path": "/xKAs77iIppfUMfW6HhGT6YVfon4.jpg",
+                "cast_id": 31,
+                "character": "A Weedy Samaritan",
+                "credit_id": "53c82c1b0e0a267ff1004c64",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 374,
+                "known_for_department": "Acting",
+                "name": "Charles McKeown",
+                "original_name": "Charles McKeown",
+                "popularity": 1.9,
+                "profile_path": "/b6EAxzD1slnRTU7ccUW9QZC17lK.jpg",
+                "cast_id": 32,
+                "character": "False Prophet / Blind Man / Giggling Guard / Stig",
+                "credit_id": "53c82c520e0a267ff1004c6b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 179028,
+                "known_for_department": "Acting",
+                "name": "John Young",
+                "original_name": "John Young",
+                "popularity": 1.96,
+                "profile_path": "/gz9wbxh0QOF7sHdABcEij1nm8zE.jpg",
+                "cast_id": 33,
+                "character": "Matthias, Son of Deuteronomy of Gath",
+                "credit_id": "53c82c670e0a267fed004eee",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10735,
+                "known_for_department": "Acting",
+                "name": "Gwen Taylor",
+                "original_name": "Gwen Taylor",
+                "popularity": 6.767,
+                "profile_path": "/jFn4ehkvGhwUH9f8YtXQVXnUpaF.jpg",
+                "cast_id": 22,
+                "character": "Mrs. Big Nose",
+                "credit_id": "52fe4256c3a36847f801650f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10737,
+                "known_for_department": "Acting",
+                "name": "Sue Jones-Davies",
+                "original_name": "Sue Jones-Davies",
+                "popularity": 2.865,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Judith Iscariot",
+                "credit_id": "52fe4256c3a36847f8016513",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32566,
+                "known_for_department": "Acting",
+                "name": "Peter Brett",
+                "original_name": "Peter Brett",
+                "popularity": 1.4,
+                "profile_path": null,
+                "cast_id": 71,
+                "character": "",
+                "credit_id": "5dff7b95d236e600128ed44e",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10738,
+                "known_for_department": "Writing",
+                "name": "John Case",
+                "original_name": "John Case",
+                "popularity": 1.172,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Pilate's Wife",
+                "credit_id": "52fe4256c3a36847f8016517",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 167449,
+                "known_for_department": "Acting",
+                "name": "Chris Langham",
+                "original_name": "Chris Langham",
+                "popularity": 5.621,
+                "profile_path": "/nBMD5a0XVnk8DQbj7yTjRXX5NHc.jpg",
+                "cast_id": 38,
+                "character": "Alfonso / Giggling Guard",
+                "credit_id": "5568ed679251416b0e000289",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37893,
+                "known_for_department": "Acting",
+                "name": "Andrew MacLachlan",
+                "original_name": "Andrew MacLachlan",
+                "popularity": 2.19,
+                "profile_path": "/9uXGIlNuMxyCqJSlXbob0RUyRSW.jpg",
+                "cast_id": 34,
+                "character": "Another Official Stoners Helper / Giggling Guard",
+                "credit_id": "53c82c960e0a267fe5005083",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70010,
+                "known_for_department": "Writing",
+                "name": "Bernard McKenna",
+                "original_name": "Bernard McKenna",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Parvus / Official Stoners Helper / Giggling Guard",
+                "credit_id": "53c82cac0e0a267ffb004f04",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29539,
+                "known_for_department": "Acting",
+                "name": "Spike Milligan",
+                "original_name": "Spike Milligan",
+                "popularity": 3.545,
+                "profile_path": "/jnJjdXDPJaGWm7BSsTphqc48EoJ.jpg",
+                "cast_id": 60,
+                "character": "Spike",
+                "credit_id": "5cbcf21fc3a368694c86c16f",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10593,
+                "known_for_department": "Acting",
+                "name": "George Harrison",
+                "original_name": "George Harrison",
+                "popularity": 14.428,
+                "profile_path": "/zwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg",
+                "cast_id": 37,
+                "character": "Mr. Papadopolous (uncredited)",
+                "credit_id": "53c82cde0e0a267fed004ef4",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 606,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Charles Knode",
+                "original_name": "Charles Knode",
+                "popularity": 2.076,
+                "profile_path": null,
+                "cast_id": 73,
+                "character": "Passer-by (uncredited)",
+                "credit_id": "5dff7bd826dac1001462cf4b",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 280,
+                "known_for_department": "Directing",
+                "name": "Terry Gilliam",
+                "original_name": "Terry Gilliam",
+                "popularity": 6.73,
+                "profile_path": "/kODccJVnrt4ioPbJVEnkkKPHbG7.jpg",
+                "credit_id": "52fe4256c3a36847f8016529",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 280,
+                "known_for_department": "Directing",
+                "name": "Terry Gilliam",
+                "original_name": "Terry Gilliam",
+                "popularity": 6.73,
+                "profile_path": "/kODccJVnrt4ioPbJVEnkkKPHbG7.jpg",
+                "credit_id": "52fe4256c3a36847f80164c3",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 280,
+                "known_for_department": "Directing",
+                "name": "Terry Gilliam",
+                "original_name": "Terry Gilliam",
+                "popularity": 6.73,
+                "profile_path": "/kODccJVnrt4ioPbJVEnkkKPHbG7.jpg",
+                "credit_id": "59d8c99a92514124c9025fe5",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 383,
+                "known_for_department": "Acting",
+                "name": "Michael Palin",
+                "original_name": "Michael Palin",
+                "popularity": 10.667,
+                "profile_path": "/7qCp6M2NxMWpUmO2t6IqHGNlBjz.jpg",
+                "credit_id": "52fe4256c3a36847f801653b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 393,
+                "known_for_department": "Sound",
+                "name": "Rodney Glenn",
+                "original_name": "Rodney Glenn",
+                "popularity": 0.699,
+                "profile_path": null,
+                "credit_id": "59d8c8ba92514124eb025498",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 606,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Charles Knode",
+                "original_name": "Charles Knode",
+                "popularity": 2.076,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164cf",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5058,
+                "known_for_department": "Directing",
+                "name": "Roger Christian",
+                "original_name": "Roger Christian",
+                "popularity": 2.594,
+                "profile_path": "/sEVJCm1WInlVXZP56RHg4pLZZYB.jpg",
+                "credit_id": "52fe4256c3a36847f80164c9",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10707,
+                "known_for_department": "Acting",
+                "name": "Terry Jones",
+                "original_name": "Terry Jones",
+                "popularity": 5.211,
+                "profile_path": "/keJpqxK8gykrrK2W6yeSeDUbYDK.jpg",
+                "credit_id": "52fe4256c3a36847f8016535",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10707,
+                "known_for_department": "Acting",
+                "name": "Terry Jones",
+                "original_name": "Terry Jones",
+                "popularity": 5.211,
+                "profile_path": "/keJpqxK8gykrrK2W6yeSeDUbYDK.jpg",
+                "credit_id": "52fe4256c3a36847f80164a5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10722,
+                "known_for_department": "Acting",
+                "name": "Graham Chapman",
+                "original_name": "Graham Chapman",
+                "popularity": 5.104,
+                "profile_path": "/qmTXDGNxuuwQ4IGNHwxmCdjuTGk.jpg",
+                "credit_id": "52fe4256c3a36847f801651d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8930,
+                "known_for_department": "Acting",
+                "name": "John Cleese",
+                "original_name": "John Cleese",
+                "popularity": 15.222,
+                "profile_path": "/3FTNRUqZBUfQL0Hg2lW8g9jTKt0.jpg",
+                "credit_id": "52fe4256c3a36847f8016523",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10713,
+                "known_for_department": "Acting",
+                "name": "Eric Idle",
+                "original_name": "Eric Idle",
+                "popularity": 10.699,
+                "profile_path": "/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg",
+                "credit_id": "52fe4256c3a36847f801652f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10715,
+                "known_for_department": "Production",
+                "name": "John Goldstone",
+                "original_name": "John Goldstone",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164ab",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10716,
+                "known_for_department": "Sound",
+                "name": "Geoffrey Burgon",
+                "original_name": "Geoffrey Burgon",
+                "popularity": 1.686,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164b1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10717,
+                "known_for_department": "Camera",
+                "name": "Peter Biziou",
+                "original_name": "Peter Biziou",
+                "popularity": 1.214,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164b7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10718,
+                "known_for_department": "Editing",
+                "name": "Julian Doyle",
+                "original_name": "Julian Doyle",
+                "popularity": 0.653,
+                "profile_path": "/5Ob1qeKC7OTULmB65dkYlTd1wBi.jpg",
+                "credit_id": "52fe4256c3a36847f80164bd",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 8938,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Hazel Pethig",
+                "original_name": "Hazel Pethig",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164d5",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10719,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kenteas Brine",
+                "original_name": "Kenteas Brine",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164db",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10719,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kenteas Brine",
+                "original_name": "Kenteas Brine",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c66192514124c5025dc6",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10720,
+                "known_for_department": "Sound",
+                "name": "Tony Orton",
+                "original_name": "Tony Orton",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164e1",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 10721,
+                "known_for_department": "Visual Effects",
+                "name": "Kent Houston",
+                "original_name": "Kent Houston",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "52fe4256c3a36847f80164e7",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8940,
+                "known_for_department": "Directing",
+                "name": "Jonathan Benson",
+                "original_name": "Jonathan Benson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c89fc3a36861a3025132",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10593,
+                "known_for_department": "Acting",
+                "name": "George Harrison",
+                "original_name": "George Harrison",
+                "popularity": 14.428,
+                "profile_path": "/zwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg",
+                "credit_id": "55ad7a2ac3a36830020094cc",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40796,
+                "known_for_department": "Camera",
+                "name": "David Appleby",
+                "original_name": "David Appleby",
+                "popularity": 1.844,
+                "profile_path": "/b8zskcykOOugn31axyHn5qB8hdn.jpg",
+                "credit_id": "5c28b77c0e0a26793036e0bb",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16787,
+                "known_for_department": "Production",
+                "name": "Tarak Ben Ammar",
+                "original_name": "Tarak Ben Ammar",
+                "popularity": 1.885,
+                "profile_path": "/zEhGCxlrFtZRr9XqibR3ncPEUmF.jpg",
+                "credit_id": "55ad7a0b9251411e060095f2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16592,
+                "known_for_department": "Camera",
+                "name": "John Stanier",
+                "original_name": "John Stanier",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "59d8c5d492514124c5025d1c",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 61865,
+                "known_for_department": "Production",
+                "name": "Denis O'Brien",
+                "original_name": "Denis O'Brien",
+                "popularity": 1.092,
+                "profile_path": null,
+                "credit_id": "55ad7a3ac3a3682d63006be4",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57241,
+                "known_for_department": "Production",
+                "name": "Tim Hampton",
+                "original_name": "Tim Hampton",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "55ad7a19c3a3682ff400a85a",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 67136,
+                "known_for_department": "Production",
+                "name": "Ridha Turki",
+                "original_name": "Ridha Turki",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc6966a92514151ca06d1ca",
+                "department": "Production",
+                "job": "Accountant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1336152,
+                "known_for_department": "Crew",
+                "name": "Brenda Loader",
+                "original_name": "Brenda Loader",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc6960d9251415d3ef5e433",
+                "department": "Directing",
+                "job": "Continuity"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1394999,
+                "known_for_department": "Sound",
+                "name": "Garth Marshall",
+                "original_name": "Garth Marshall",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c7e0c3a368624d024b95",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1406983,
+                "known_for_department": "Lighting",
+                "name": "Roy Rodhouse",
+                "original_name": "Roy Rodhouse",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "59d8c90f9251412514026b01",
+                "department": "Lighting",
+                "job": "Electrician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1566626,
+                "known_for_department": "Production",
+                "name": "Matthew Binns",
+                "original_name": "Matthew Binns",
+                "popularity": 0.699,
+                "profile_path": null,
+                "credit_id": "5cc6962ec3a3683ad582fa0c",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1586673,
+                "known_for_department": "Sound",
+                "name": "Marcus Dods",
+                "original_name": "Marcus Dods",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5cc696600e0a267f78ee45e1",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1730967,
+                "known_for_department": "Crew",
+                "name": "Peter Thompson",
+                "original_name": "Peter Thompson",
+                "popularity": 1.22,
+                "profile_path": null,
+                "credit_id": "59d8c76592514124c5025f07",
+                "department": "Crew",
+                "job": "Public Relations"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1762932,
+                "known_for_department": "Acting",
+                "name": "David Watts",
+                "original_name": "David Watts",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "59d8c967c3a368623e02559b",
+                "department": "Sound",
+                "job": "Dolby Consultant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1901658,
+                "known_for_department": "Art",
+                "name": "Mohammed Azounadhea",
+                "original_name": "Mohammed Azounadhea",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c5b8c3a3686200026492",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1901660,
+                "known_for_department": "Camera",
+                "name": "Sadok Ben Amor",
+                "original_name": "Sadok Ben Amor",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c60bc3a368624d02499c",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1901661,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Hassen Soufi",
+                "original_name": "Hassen Soufi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c6e7925141251f0268d6",
+                "department": "Costume & Make-Up",
+                "job": "Set Dressing Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1901662,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ken Lintott",
+                "original_name": "Ken Lintott",
+                "popularity": 1.64,
+                "profile_path": null,
+                "credit_id": "59d8c6f5c3a36861ec025acd",
+                "department": "Costume & Make-Up",
+                "job": "Wigmaker"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1901663,
+                "known_for_department": "Crew",
+                "name": "Alan Annand",
+                "original_name": "Alan Annand",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c74dc3a3686200026662",
+                "department": "Crew",
+                "job": "Loader"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1901664,
+                "known_for_department": "Crew",
+                "name": "John Spottiswood",
+                "original_name": "John Spottiswood",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c778c3a368624d024b41",
+                "department": "Crew",
+                "job": "Scenic Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1901665,
+                "known_for_department": "Production",
+                "name": "Ron Swinburne",
+                "original_name": "Ron Swinburne",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "59d8c922c3a3686227023e78",
+                "department": "Production",
+                "job": "Production Accountant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2238043,
+                "known_for_department": "Directing",
+                "name": "Melvin Lind",
+                "original_name": "Melvin Lind",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc6961a0e0a263447ee4427",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2299682,
+                "known_for_department": "Sound",
+                "name": "Philip Chubb",
+                "original_name": "Philip Chubb",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc69649c3a36809ab8d161d",
+                "department": "Sound",
+                "job": "Assistant Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2299683,
+                "known_for_department": "Production",
+                "name": "Christina Biziou",
+                "original_name": "Christina Biziou",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc69655c3a36820b5854148",
+                "department": "Production",
+                "job": "Location Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2299684,
+                "known_for_department": "Visual Effects",
+                "name": "Bob Cuff",
+                "original_name": "Bob Cuff",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc6967b0e0a264ef4ee3584",
+                "department": "Visual Effects",
+                "job": "Matte Painter"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2299685,
+                "known_for_department": "Directing",
+                "name": "Hilary Sandison",
+                "original_name": "Hilary Sandison",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc696879251415cd2faa285",
+                "department": "Production",
+                "job": "Producer's Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2299686,
+                "known_for_department": "Production",
+                "name": "Jennie Raglan",
+                "original_name": "Jennie Raglan",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5cc6969492514120dbf52190",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4120886,
+                "known_for_department": "Lighting",
+                "name": "Brian Smith",
+                "original_name": "Brian Smith",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "64910a90c3c89100ae525f0d",
+                "department": "Lighting",
+                "job": "Electrician"
+            }
+        ]
+    },
+    "videos": {
+        "results": [
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Monty Python's Life of Brian (1979) - Trailer",
+                "key": "tK4Qb51ftd4",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Trailer",
+                "official": false,
+                "published_at": "2023-03-13T15:00:36.000Z",
+                "id": "6410e9a9c390c5007f17d8c7"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Brian Trenchard-Smith on THE LIFE OF BRIAN",
+                "key": "Y8kXwsJN3BU",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": false,
+                "published_at": "2020-08-14T07:20:17.000Z",
+                "id": "5f6b7151688cd00036234d8f"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "Monty Python's Life of Brian composers Andr\u00e9 Jacquemin and John Altman | BFI Q&A",
+                "key": "mbrOHPYf_8k",
+                "site": "YouTube",
+                "size": 1080,
+                "type": "Featurette",
+                "official": true,
+                "published_at": "2019-10-22T12:46:37.000Z",
+                "id": "6328576adcb6a3007dd9fdce"
+            },
+            {
+                "iso_639_1": "en",
+                "iso_3166_1": "US",
+                "name": "The New York Times Critics' Picks",
+                "key": "OqrZ9xAEPsY",
+                "published_at": "2008-12-02T16:56:13.000Z",
+                "site": "YouTube",
+                "size": 480,
+                "type": "Featurette",
+                "official": false,
+                "id": "533ec654c3a3685448000435"
+            }
+        ]
+    },
+    "images": {
+        "backdrops": [
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bSkJttePygyoEzUlKqKbpIokmJC.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/gbLeMznYBlI7rsyg766oBwkdo2w.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": "en",
+                "file_path": "/ntefZ4OWT737CObXiXHjyLe8mtR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/eBuYopTT0TeK09D52ny57lUGhRn.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/rL3VEvszvN2hVUjNU2bxa49rbQ4.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/i5a8wcGDNKtcXugpZ87IWxbKSsO.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/zQhaOiwO0eKlgu4XhF6bozVXMiZ.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/lOrM3OQhHlzEkpF7Ih3GghecrA8.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/hudKBabOC0PSuAd2TCQQxinU4kn.jpg",
+                "vote_average": 5.258,
+                "vote_count": 6,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.781,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/aRvoRaR4l7Bxzjch5ioi5dZzrsX.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1282
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/3BsFtBjqCm4OHCKoBUlTQtzoqSU.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/nrGMPVasduGKVn8bufacnHEeHbD.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/bbUXhn6dhwJhGvF97Ju8KVsTU7P.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/jWN2e7abSXfYmjMTkFzNnkrHn88.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/swL60kl3Gi8Tuidd5qfaqaSvb31.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/u3OkSF8S2bnbqB6M8Po8fVgU6Ae.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/rMfphrYgAVyvxsvAvjClYf0KlAs.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/thf3xneqpQA8ypYaoZvoPyXZhoV.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/jio9eCWxqEHffSvxJRHux5hjBZi.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/b2Sxr2axIrVXKKIOe8Ic6nGxCzg.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": null,
+                "file_path": "/6YLjiXiylnVlRUw7gTF9MFJNoEx.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/mT3kexoIY7mYpVlXxngdDcElizW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1040,
+                "iso_639_1": null,
+                "file_path": "/lxKnikfrXQZgSr2uinr4umGzHRC.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1849
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 720,
+                "iso_639_1": null,
+                "file_path": "/knAFU3MEOpgtxwnDkId8u62ed9h.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 1.778,
+                "height": 1080,
+                "iso_639_1": "it",
+                "file_path": "/xQWuJEdAsHpMt5AzH3NLGZXw9YN.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1920
+            }
+        ],
+        "logos": [
+            {
+                "aspect_ratio": 2.131,
+                "height": 244,
+                "iso_639_1": "pt",
+                "file_path": "/Gze42yTbtiF9wZvgjAWMvMHSjn.png",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 520
+            },
+            {
+                "aspect_ratio": 2.667,
+                "height": 294,
+                "iso_639_1": "en",
+                "file_path": "/3PySwEBfhtKfbzrpeww11g3O0Kv.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 784
+            },
+            {
+                "aspect_ratio": 0.973,
+                "height": 299,
+                "iso_639_1": "es",
+                "file_path": "/5yGmPqkY7x4ZuFgpj7leBhswzcl.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 291
+            },
+            {
+                "aspect_ratio": 0.769,
+                "height": 290,
+                "iso_639_1": "de",
+                "file_path": "/kQZx4XsH4TEPJKL7fjg2dDLuhnT.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 223
+            },
+            {
+                "aspect_ratio": 0.837,
+                "height": 300,
+                "iso_639_1": "en",
+                "file_path": "/1bj2KYxLi0kEu5YKrf53mFd8buQ.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 251
+            },
+            {
+                "aspect_ratio": 2.801,
+                "height": 281,
+                "iso_639_1": "es",
+                "file_path": "/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 787
+            },
+            {
+                "aspect_ratio": 2.801,
+                "height": 281,
+                "iso_639_1": "es",
+                "file_path": "/uynDa3fIIYQLSf9e9nM09MjaUVQ.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 787
+            },
+            {
+                "aspect_ratio": 2.362,
+                "height": 528,
+                "iso_639_1": "en",
+                "file_path": "/dPUtrz16y2XdmbFNVZ1e4319RBT.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1247
+            },
+            {
+                "aspect_ratio": 2.045,
+                "height": 531,
+                "iso_639_1": "sv",
+                "file_path": "/nF9K48X7jr9Q8Bnxz2dgB2u6w9O.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1086
+            },
+            {
+                "aspect_ratio": 2.363,
+                "height": 529,
+                "iso_639_1": "it",
+                "file_path": "/6y0hqtv0ZyF5fAhHvOvoAPL4DwV.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1250
+            },
+            {
+                "aspect_ratio": 2.353,
+                "height": 544,
+                "iso_639_1": "th",
+                "file_path": "/t4kHfiv7znzWdtpq3oHDIJ2Fm8t.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 2.5,
+                "height": 250,
+                "iso_639_1": "ro",
+                "file_path": "/a60qhwJtlS4DqNs4HODi20NC4n3.png",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 625
+            }
+        ],
+        "posters": [
+            {
+                "aspect_ratio": 0.667,
+                "height": 1920,
+                "iso_639_1": "en",
+                "file_path": "/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+                "vote_average": 5.652,
+                "vote_count": 6,
+                "width": 1280
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "de",
+                "file_path": "/rgfhuRSn5JVhwQ0ztdS06HJqmwv.jpg",
+                "vote_average": 5.384,
+                "vote_count": 2,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/gX9Ef1ScRX6kRYHLgSJE8fFYBYN.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/qkyB1HaOSc9mo651QryMn7OAdUZ.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "fr",
+                "file_path": "/6RKbtDCMUaPboo1WYBUCNoVxgA9.jpg",
+                "vote_average": 5.318,
+                "vote_count": 3,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/2zg9mTQqvf2Qava6KDzISVyZrPr.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "hu",
+                "file_path": "/rvX2uldiR7ZDsD26T35CT951GFR.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1275,
+                "iso_639_1": "en",
+                "file_path": "/1ivKJL9ni6kMp81LkDYyiS2pEdN.jpg",
+                "vote_average": 5.312,
+                "vote_count": 1,
+                "width": 850
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/ukJ111amB6dlLcAyHjF6OaoioiC.jpg",
+                "vote_average": 5.252,
+                "vote_count": 4,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "it",
+                "file_path": "/9NpfydvDXesC6xejGeKr6cBI4In.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1200,
+                "iso_639_1": "en",
+                "file_path": "/kWMywbmeg4nPZiQxAUhVy4q6byR.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 800
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/pTbfD5HIj1KOt6399FnC2an9gJC.jpg",
+                "vote_average": 5.246,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2114,
+                "iso_639_1": "fr",
+                "file_path": "/gfDdLHKRJo1HqZJ51vmXkBQYo53.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1410
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2010,
+                "iso_639_1": "pt",
+                "file_path": "/qmr1b76pB0kPyhuIYMWV069j6oy.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1340
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "en",
+                "file_path": "/strFCZDel7MHz6FwJoV5ORXqnZe.jpg",
+                "vote_average": 5.18,
+                "vote_count": 3,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.693,
+                "height": 1080,
+                "iso_639_1": "bg",
+                "file_path": "/au08Hyl3Z4OGUBXyzTqyEuQYCf5.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 748
+            },
+            {
+                "aspect_ratio": 0.75,
+                "height": 1440,
+                "iso_639_1": "pl",
+                "file_path": "/g9dQcic2M1ddOURwao7LLXOPkq8.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1080
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2151,
+                "iso_639_1": "hu",
+                "file_path": "/pQvFLDKKhKJTZB0pt5B12p4hqPY.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1434
+            },
+            {
+                "aspect_ratio": 0.699,
+                "height": 2179,
+                "iso_639_1": "de",
+                "file_path": "/bCSpNG6y2cIBrf2lhkVLzKIN5Xw.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1523
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 2100,
+                "iso_639_1": "pt",
+                "file_path": "/rvJ97AYV0GbSPvyGwMsKCW1VQO9.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 1400
+            },
+            {
+                "aspect_ratio": 0.656,
+                "height": 914,
+                "iso_639_1": "en",
+                "file_path": "/eLTNqDolgCYxG9r9VG8fmHth9NI.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.682,
+                "height": 1458,
+                "iso_639_1": "en",
+                "file_path": "/p8ybdTn2k6jd2YYnD0LLDdQqj3b.jpg",
+                "vote_average": 5.172,
+                "vote_count": 1,
+                "width": 995
+            },
+            {
+                "aspect_ratio": 0.663,
+                "height": 2930,
+                "iso_639_1": "en",
+                "file_path": "/itVNTrLVq2a2xukRkVTu1VH0FcM.jpg",
+                "vote_average": 5.118,
+                "vote_count": 4,
+                "width": 1943
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/lE2Tw6Z1PhlsMj7xbdbliECw5hD.jpg",
+                "vote_average": 5.106,
+                "vote_count": 2,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "de",
+                "file_path": "/uXkA3pr68efa2cWNEf7RTKa5YPW.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.696,
+                "height": 2264,
+                "iso_639_1": "fr",
+                "file_path": "/b0iDvaWbfKRH0UixAOWEV2ViV6Z.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1576
+            },
+            {
+                "aspect_ratio": 0.674,
+                "height": 890,
+                "iso_639_1": "en",
+                "file_path": "/3LgIGktF9YqMKu01ROOzWhvrxUL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.695,
+                "height": 863,
+                "iso_639_1": "es",
+                "file_path": "/yPjZ4f1jwNhfbE4tjU0Co1lOpJU.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 600
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/7uTESCaRsqikrCsK8dvwI8NiYY7.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "en",
+                "file_path": "/ogvWtdZunBVquiq1WGL2FiQDE01.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 3000,
+                "iso_639_1": "es",
+                "file_path": "/oeWhnfdkmkpZcz2yHHGeaIb5mX0.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 2000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": null,
+                "file_path": "/yR9UBOPV7cNnS37FeFHUVn1r7JZ.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1134,
+                "iso_639_1": null,
+                "file_path": "/rNWWV8EexCQRS1zXLD4Ti2Mic3A.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 756
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 1500,
+                "iso_639_1": "pt",
+                "file_path": "/qQT7CikmFGxBRznOvxQgIwUxUWL.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1000
+            },
+            {
+                "aspect_ratio": 0.7,
+                "height": 1600,
+                "iso_639_1": "en",
+                "file_path": "/x0wSf6DQ9tGjXwOQNBWbMs6OAJ9.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1120
+            },
+            {
+                "aspect_ratio": 0.667,
+                "height": 825,
+                "iso_639_1": "fi",
+                "file_path": "/z48WXyXayl7erJBg474sVCKF0s.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 550
+            },
+            {
+                "aspect_ratio": 0.669,
+                "height": 2688,
+                "iso_639_1": "en",
+                "file_path": "/xPHEn97BUAiAPx5LRLaGu66PKfs.jpg",
+                "vote_average": 0.0,
+                "vote_count": 0,
+                "width": 1797
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1405,
+                "name": "roman empire"
+            },
+            {
+                "id": 835,
+                "name": "jewry"
+            },
+            {
+                "id": 3570,
+                "name": "three kings"
+            },
+            {
+                "id": 3571,
+                "name": "crucifixion"
+            },
+            {
+                "id": 3574,
+                "name": "bethlehem"
+            },
+            {
+                "id": 4109,
+                "name": "independence movement"
+            },
+            {
+                "id": 8201,
+                "name": "satire"
+            },
+            {
+                "id": 9755,
+                "name": "parody"
+            },
+            {
+                "id": 11001,
+                "name": "religion"
+            },
+            {
+                "id": 18126,
+                "name": "sermon on the mount"
+            },
+            {
+                "id": 236316,
+                "name": "anarchic comedy"
+            }
+        ]
+    },
+    "title_english": "Life of Brian",
+    "year": "1979",
+    "rated": "R",
+    "director_list": [
+        "Terry Jones"
+    ],
+    "writer_list": [
+        "Graham Chapman",
+        " John Cleese",
+        " Terry Gilliam"
+    ],
+    "main_cast": [
+        "Graham Chapman",
+        " John Cleese",
+        " Michael Palin"
+    ],
+    "ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "imdb_rating": "8.0",
+    "imdb_votes": "416,933",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian",
+    "wikipedia_summary": "Monty Python's Life of Brian (also known as Life of Brian) is a 1979 British comedy film starring and written by the comedy group Monty Python (Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones and Michael Palin). It was directed by Jones. The film tells the story of Brian Cohen (played by Chapman), a young Jewish-Roman man who is born on the same day as\u2014and next door to\u2014Jesus, and is subsequently mistaken for the Messiah.\nFollowing the withdrawal of funding by EMI Films just days before production was scheduled to begin, George Harrison, the former member of the Beatles and a long-time Python fan, arranged financing for Life of Brian through the formation of his HandMade Films company.The film's themes of religious satire were controversial at the time of its release, drawing accusations of blasphemy and protests from some religious groups. Thirty-nine local authorities in the United Kingdom imposed either an outright ban or an X (18 years) certificate. Some countries, including Ireland and Norway, banned its showing, and in a few of these, such as Italy, bans lasted over a decade. The filmmakers used the notoriety to promote the film, with posters in Sweden reading, \"So funny, it was banned in Norway!\"The film was a box office success, the fourth-highest-grossing film in the United Kingdom in 1979, and highest grossing of any British film in the United States that year. It has remained popular and has been named as the greatest comedy film of all time by several magazines and television networks, and it later received a 96% \"Certified Fresh\" rating on Rotten Tomatoes with the consensus reading, \"One of the more cutting-edge films of the 1970s, this religious farce from the classic comedy troupe is as poignant as it is funny and satirical.\" In a 2006 Channel 4 poll, Life of Brian was ranked first on their list of the 50 Greatest Comedy Films.",
+    "wikipedia_plot": "Brian Cohen is born in a stable next door to the one in which Jesus is born, which initially confuses the three wise men who come to praise the future King of the Jews. Brian later grows up into an idealistic young man who resents the continuing Roman occupation of Judea. While listening to Jesus's Sermon on the Mount, Brian becomes infatuated with an attractive young rebel named Judith. His desire for her and hatred of the Romans, further exacerbated by his mother revealing that Brian himself is half-Roman, inspire him to join the \"People's Front of Judea\" (PFJ), one of many fractious and bickering independence movements that spend more time fighting each other than they do the Romans.\nTo prove himself, Brian is tasked by the PFJ to paint slogans on Roman governor Pilate's palace, but is interrupted by a Roman officer. The officer, however, is more concerned with Brian's appalling grammar and, after correcting the slogan to \"Romani ite domum\", orders him to write it one hundred times. The next morning, Brian has finished writing out and is subsequently chased away by a separate patrol of legionaries, unaware that Brian's act of vandalism had actually been ordered by one of their own Centurions. He then participates in an abortive attempt by the PFJ to kidnap Pilate's wife, but is captured by the palace guards.\nEscaping when the guards suffer paroxysms of laughter over Pilate's speech impediment and his obliviousness to the hilarious names of his friends Biggus Dickus and Incontinentia Buttocks, Brian winds up on a spaceship driven by aliens, before finding himself \u2013 once back to Earth \u2013 trying to blend in among prophets who are preaching in a busy plaza, repeating fragments of Jesus' sermons. He stops his sermon mid-sentence when some Roman soldiers depart, leaving his small but intrigued audience demanding to know more. Brian grows frantic when people start following him to the mountains, and there they declare him to be the Messiah. After spending the night in bed with Judith, Brian \u2013 still naked \u2013 discovers an enormous crowd assembled outside his mother's house. Her attempts at dispersing the crowd are rebuffed, so she consents to Brian addressing them. He urges them to think for themselves, but they parrot his words as doctrine.\nThe PFJ seeks to exploit Brian's celebrity status by having him minister to a thronging crowd of followers demanding miracle cures. Brian sneaks out the back, only to be captured by the Romans and sentenced to crucifixion. In celebration of Passover, a crowd has assembled outside the palace of Pilate, who offers to pardon a prisoner of their choice. The crowd shouts out names containing the letter \"r\", mocking Pilate's rhotacistic speech impediment. Eventually, Judith appears in the crowd and calls for the release of Brian, which the crowd echoes, and Pilate agrees to \"welease Bwian\".His order is eventually relayed to the guards, but in a scene that parodies the climax of the film Spartacus, various crucified people all claim to be \"Brian\" so they can be freed, and the wrong man is released. Other opportunities for a reprieve for Brian are denied as the PFJ and then Judith praise his martyrdom, while his mother expresses regret for having raised him. Hope is renewed when a crack suicide squad from the \"Judean People's Front\" charges and prompts the Roman soldiers to flee; however, the squad commits mass suicide as a form of political protest. Condemned to a slow and painful death, Brian finds his spirits lifted by his fellow sufferers, who cheerfully sing \"Always Look on the Bright Side of Life\".",
+    "wikipedia_plot_html": "<p>Brian Cohen is born in a stable next door to the one in which Jesus is born, which initially confuses the three wise men who come to praise the future King of the Jews. Brian later grows up into an idealistic young man who resents the continuing Roman occupation of Judea. While listening to Jesus's Sermon on the Mount, Brian becomes infatuated with an attractive young rebel named Judith. His desire for her and hatred of the Romans, further exacerbated by his mother revealing that Brian himself is half-Roman, inspire him to join the \"People's Front of Judea\" (PFJ), one of many fractious and bickering independence movements that spend more time fighting each other than they do the Romans.\n</p><p>To prove himself, Brian is tasked by the PFJ to paint slogans on Roman governor Pilate's palace, but is interrupted by a Roman officer. The officer, however, is more concerned with Brian's appalling grammar and, after correcting the slogan to \"<i>Romani ite domum</i>\", orders him to write it one hundred times. The next morning, Brian has finished writing out and is subsequently chased away by a separate patrol of legionaries, unaware that Brian's act of vandalism had actually been ordered by one of their own Centurions. He then participates in an abortive attempt by the PFJ to kidnap Pilate's wife, but is captured by the palace guards.\n</p><p>Escaping when the guards suffer paroxysms of laughter over Pilate's speech impediment and his obliviousness to the hilarious names of his friends Biggus Dickus and Incontinentia Buttocks, Brian winds up on a spaceship driven by aliens, before finding himself \u2013 once back to Earth \u2013 trying to blend in among prophets who are preaching in a busy plaza, repeating fragments of Jesus' sermons. He stops his sermon mid-sentence when some Roman soldiers depart, leaving his small but intrigued audience demanding to know more. Brian grows frantic when people start following him to the mountains, and there they declare him to be the Messiah. After spending the night in bed with Judith, Brian \u2013 still naked \u2013 discovers an enormous crowd assembled outside his mother's house. Her attempts at dispersing the crowd are rebuffed, so she consents to Brian addressing them. He urges them to think for themselves, but they parrot his words as doctrine.\n</p><p>The PFJ seeks to exploit Brian's celebrity status by having him minister to a thronging crowd of followers demanding miracle cures. Brian sneaks out the back, only to be captured by the Romans and sentenced to crucifixion. In celebration of Passover, a crowd has assembled outside the palace of Pilate, who offers to pardon a prisoner of their choice. The crowd shouts out names containing the letter \"r\", mocking Pilate's rhotacistic speech impediment. Eventually, Judith appears in the crowd and calls for the release of Brian, which the crowd echoes, and Pilate agrees to \"welease Bwian\".</p><p>His order is eventually relayed to the guards, but in a scene that parodies the climax of the film <i>Spartacus</i>, various crucified people all claim to be \"Brian\" so they can be freed, and the wrong man is released. Other opportunities for a reprieve for Brian are denied as the PFJ and then Judith praise his martyrdom, while his mother expresses regret for having raised him. Hope is renewed when a crack suicide squad from the \"Judean People's Front\" charges and prompts the Roman soldiers to flee; however, the squad commits mass suicide as a form of political protest. Condemned to a slow and painful death, Brian finds his spirits lifted by his fellow sufferers, who cheerfully sing \"Always Look on the Bright Side of Life\".</p>",
+    "wikipedia_critics": null,
+    "wikipedia_full_html": "<p class=\"mw-empty-elt\">\n\n</p>\n<p><i><b>Monty Python's Life of Brian</b></i> (also known as <i><b>Life of Brian</b></i>) is a 1979 British comedy film starring and written by the comedy group Monty Python (Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones and Michael Palin). It was directed by Jones. The film tells the story of Brian Cohen (played by Chapman), a young Jewish-Roman man who is born on the same day as\u2014and next door to\u2014Jesus, and is subsequently mistaken for the Messiah.\n</p><p>Following the withdrawal of funding by EMI Films just days before production was scheduled to begin, George Harrison, the former member of the Beatles and a long-time Python fan, arranged financing for <i>Life of Brian</i> through the formation of his HandMade Films company.</p><p>The film's themes of religious satire were controversial at the time of its release, drawing accusations of blasphemy and protests from some religious groups. Thirty-nine local authorities in the United Kingdom imposed either an outright ban or an X (18 years) certificate. Some countries, including Ireland and Norway, banned its showing, and in a few of these, such as Italy, bans lasted over a decade. The filmmakers used the notoriety to promote the film, with posters in Sweden reading, \"So funny, it was banned in Norway!\"</p><p>The film was a box office success, the fourth-highest-grossing film in the United Kingdom in 1979, and highest grossing of any British film in the United States that year. It has remained popular and has been named as the greatest comedy film of all time by several magazines and television networks, and it later received a 96% \"Certified Fresh\" rating on Rotten Tomatoes with the consensus reading, \"One of the more cutting-edge films of the 1970s, this religious farce from the classic comedy troupe is as poignant as it is funny and satirical.\" In a 2006 Channel 4 poll, <i>Life of Brian</i> was ranked first on their list of the 50 Greatest Comedy Films.</p>\n<meta property=\"mw:PageProp/toc\">\n\n<h2>Plot</h2>\n<p>Brian Cohen is born in a stable next door to the one in which Jesus is born, which initially confuses the three wise men who come to praise the future King of the Jews. Brian later grows up into an idealistic young man who resents the continuing Roman occupation of Judea. While listening to Jesus's Sermon on the Mount, Brian becomes infatuated with an attractive young rebel named Judith. His desire for her and hatred of the Romans, further exacerbated by his mother revealing that Brian himself is half-Roman, inspire him to join the \"People's Front of Judea\" (PFJ), one of many fractious and bickering independence movements that spend more time fighting each other than they do the Romans.\n</p><p>To prove himself, Brian is tasked by the PFJ to paint slogans on Roman governor Pilate's palace, but is interrupted by a Roman officer. The officer, however, is more concerned with Brian's appalling grammar and, after correcting the slogan to \"<i>Romani ite domum</i>\", orders him to write it one hundred times. The next morning, Brian has finished writing out and is subsequently chased away by a separate patrol of legionaries, unaware that Brian's act of vandalism had actually been ordered by one of their own Centurions. He then participates in an abortive attempt by the PFJ to kidnap Pilate's wife, but is captured by the palace guards.\n</p><p>Escaping when the guards suffer paroxysms of laughter over Pilate's speech impediment and his obliviousness to the hilarious names of his friends Biggus Dickus and Incontinentia Buttocks, Brian winds up on a spaceship driven by aliens, before finding himself \u2013 once back to Earth \u2013 trying to blend in among prophets who are preaching in a busy plaza, repeating fragments of Jesus' sermons. He stops his sermon mid-sentence when some Roman soldiers depart, leaving his small but intrigued audience demanding to know more. Brian grows frantic when people start following him to the mountains, and there they declare him to be the Messiah. After spending the night in bed with Judith, Brian \u2013 still naked \u2013 discovers an enormous crowd assembled outside his mother's house. Her attempts at dispersing the crowd are rebuffed, so she consents to Brian addressing them. He urges them to think for themselves, but they parrot his words as doctrine.\n</p><p>The PFJ seeks to exploit Brian's celebrity status by having him minister to a thronging crowd of followers demanding miracle cures. Brian sneaks out the back, only to be captured by the Romans and sentenced to crucifixion. In celebration of Passover, a crowd has assembled outside the palace of Pilate, who offers to pardon a prisoner of their choice. The crowd shouts out names containing the letter \"r\", mocking Pilate's rhotacistic speech impediment. Eventually, Judith appears in the crowd and calls for the release of Brian, which the crowd echoes, and Pilate agrees to \"welease Bwian\".</p><p>His order is eventually relayed to the guards, but in a scene that parodies the climax of the film <i>Spartacus</i>, various crucified people all claim to be \"Brian\" so they can be freed, and the wrong man is released. Other opportunities for a reprieve for Brian are denied as the PFJ and then Judith praise his martyrdom, while his mother expresses regret for having raised him. Hope is renewed when a crack suicide squad from the \"Judean People's Front\" charges and prompts the Roman soldiers to flee; however, the squad commits mass suicide as a form of political protest. Condemned to a slow and painful death, Brian finds his spirits lifted by his fellow sufferers, who cheerfully sing \"Always Look on the Bright Side of Life\".</p>\n\n<h2>Cast</h2>\n<ul><li>Graham Chapman as Brian Cohen (of Nazareth), Biggus Dickus (who has a lisp), 2nd wise man</li>\n<li>John Cleese as Reg, High priest, Centurion of the Yard, Deadly Dirk, Arthur, 1st wise man</li>\n<li>Terry Gilliam as Another person further forward (at Mount \u2013 \"Do you hear that? 'Blessed are the Greek'!\"), Revolutionary, Blood and Thunder prophet, Geoffrey, Gaoler, Audience Member, Frank, Crucifee</li>\n<li>Eric Idle as Mr Cheeky, Stan/Loretta, Harry the Haggler, Culprit woman who casts first stone, Warris, Intensely dull youth, Otto, Gaoler's assistant, Mr Frisbee III</li>\n<li>Terry Jones as Mandy Cohen (Brian's mother), Colin, Simon the Holy Man, Bob Hoskins, Saintly passer-by, Alarmed Crucifixion Assistant</li>\n<li>Michael Palin as Mr Big-Nose, Francis, Mrs A, Culprit woman who casts second stone, Ex-leper, Announcer, Ben, Pontius Pilate (who has Rhoticism), Boring Prophet, Eddie, Shoe Follower, Nisus Wettus, 3rd wise man</li>\n<li>Terence Bayler as Mr Gregory, 2nd Centurion, Dennis</li>\n<li>Carol Cleveland as Mrs Gregory, Woman #1, Elsie</li>\n<li>Charles McKeown as False Prophet, Blind Man, Giggling Guard, Stig, Man #1</li>\n<li>Kenneth Colley as Jesus</li>\n<li>Neil Innes as A Weedy Samaritan</li>\n<li>John Young as Matthias</li>\n<li>Gwen Taylor as Mrs Big-Nose, Woman with ill donkey, Female heckler</li>\n<li>Sue Jones-Davies as Judith Iscariot</li>\n<li>Chris Langham as Alfonso, Giggling Guard</li>\n<li>Andrew MacLachlan as Another Official Stoners Helper, Giggling Guard</li>\n<li>Bernard McKenna as Parvus, Official Stoners Helper, Giggling Guard, Sergeant</li>\n<li>George Harrison as Mr Papadopoulos</li>\n<li>Charles Knode as Passer-by (uncredited)</li></ul><p>Several characters remained unnamed during the film but do have names that are used in the soundtrack album track listing and elsewhere. There is no mention in the film that Eric Idle's ever-cheerful joker is called \"Mr Cheeky\", or that the Roman guard played by Michael Palin is named \"Nisus Wettus\".\n</p><p>Spike Milligan plays a prophet, ignored because his acolytes are chasing after Brian. By coincidence Milligan was visiting his old World War II battlefields in Tunisia where the film was being made. The Pythons were alerted to this and he was included in the scene being filmed that morning. He left in the afternoon before he could be included in any of the close-up or publicity shots for the film.</p>\n\n<h2>Production</h2>\n<h3>Pre-production</h3>\n<p>There are various stories about the origins of <i>Life of Brian</i>. Shortly after the release of <i>Monty Python and the Holy Grail</i> (1975), Eric Idle flippantly suggested that the title of the Pythons' forthcoming feature would be <i>Jesus Christ: Lust for Glory</i> (a play on the UK title for the 1970 American film <i>Patton, Patton: Ordeal and Triumph</i>). This was after he had become frustrated at repeatedly being asked what it would be called, despite the troupe not having given the matter of a third film any consideration. However, they shared a distrust of organised religion, and, after witnessing the critically acclaimed <i>Holy Grail</i><span>'</span>s enormous financial turnover, confirming an appetite among the fans for more cinematic endeavours, they began to seriously consider a film lampooning the New Testament era in the same way that <i>Holy Grail</i> had lampooned Arthurian legend. All they needed was an idea for a plot. Eric Idle and Terry Gilliam, while promoting <i>Holy Grail</i> in Amsterdam, had come up with a sketch in which Jesus' cross is falling apart because of the idiotic carpenters who built it and he angrily tells them how to do it correctly. However, after an early brainstorming stage, and despite being non-believers, they agreed that Jesus was \"definitely a good guy\" and found nothing to mock in his actual teachings: \"He's not particularly funny, what he's saying isn't mockable, it's very decent stuff\", said Idle later. After settling on the name Brian for their new protagonist, one idea considered was that of \"the 13th disciple\". The focus eventually shifted to a separate individual born at a similar time and location who would be mistaken for the Messiah, but had no desire to be followed as such.</p><p>The first draft of the screenplay, provisionally titled <i>The Gospel According to St. Brian</i>, was ready by Christmas 1976. The final pre-production draft was ready in January 1978, following \"a concentrated two-week writing and water-skiing period in Barbados\".</p><p>Python fan and former Beatle George Harrison set up HandMade Films to help fund the film at a cost of \u00a33\u00a0million. Harrison put up the money for it as he \"wanted to see the movie\"\u2014later described by Terry Jones as the \"world's most expensive cinema ticket\". The original backers\u2014EMI Films and, particularly, Bernard Delfont\u2014had been scared off at the last minute by the subject matter. The very last words in the film are: \"I said to him, 'Bernie, they'll never make their money back on this one'\", teasing Delfont for his lack of faith in the project. Terry Gilliam later said, \"They pulled out on the Thursday. The crew was supposed to be leaving on the Saturday. Disastrous. It was because they read the script ... finally.\" As a reward for his help, Harrison appears in a cameo appearance as Mr. Papadopoulos, \"owner of the Mount\", who briefly shakes hands with Brian in a crowd scene (at 1:08:50 in the film). His one word of dialogue (a cheery but out of place Scouse \"'ullo\") had to be dubbed in later by Michael Palin.</p>\n\n<h3>Filming</h3>\n<p>Terry Jones was solely responsible for directing, having amicably agreed with Gilliam (who co-directed <i>Holy Grail</i>) to do so, with Gilliam concentrating on the look of the film. <i>Holy Grail</i><span>'</span>s production had often been stilted by their differences behind the camera. Gilliam again contributed two animated sequences (one being the opening credits) and took charge of set design. However, this did not put an absolute end to their feuding. On the DVD commentary, Gilliam expresses pride in one set in particular, the main hall of Pilate's fortress, which had been designed so that it looked like an ancient synagogue that the Romans had converted by dumping their structural artefacts (such as marble floors and columns) on top. He reveals his consternation at Jones for not paying enough attention to it in the cinematography. Gilliam also worked on the matte paintings, useful in particular for the very first shot of the three wise men against a star-scape and in giving the illusion of the whole of the outside of the fortress being covered in graffiti. Perhaps the most significant contribution from Gilliam was the scene in which Brian accidentally leaps off a high building and lands inside a starship about to engage in an interstellar war. This was done \"in camera\" using a hand-built model starship and miniature pyrotechnics. Gilliam recounted in an interview: \"Well, we didn't know what to do with Brian. He got himself to the top of the tower and we had to rescue him somehow, so I said, 'OK, spaceship for that.' That was purely it.\"</p><p>The film was shot on location in Monastir, Tunisia, which allowed the production to reuse sets from Franco Zeffirelli's <i>Jesus of Nazareth</i> (1977). The Tunisian shoot was documented by Iain Johnstone for his BBC film <i>The Pythons</i>. Many locals were employed as extras on <i>Life of Brian</i>. Director Jones noted, \"They were all very knowing because they'd all worked for Franco Zeffirelli on <i>Jesus of Nazareth</i>, so I had these elderly Tunisians telling me, 'Well, Mr Zeffirelli wouldn't have done it like that, you know.'\" Further location shooting also took place in Tunisia, at Sousse (Jerusalem outer walls and gateway), Carthage (Roman theatre) and Matmata (Sermon on the Mount and Crucifixion).</p><p>Graham Chapman, suffering from alcoholism, was so determined to play the lead role\u2014at one point coveted by Cleese\u2014that he sobered up in time for filming, so much so that he also acted as the on-set doctor.</p>\n\n<h3>Rough cut and pre-screenings</h3>\n<p>Following shooting between 16 September and 12 November 1978, a two-hour rough cut of the film was put together for its first private showing in January 1979. Over the next few months <i>Life of Brian</i> was re-edited and re-screened a number of times for different preview audiences, losing a number of entire filmed sequences.</p>\n\n<h3>Editing</h3>\n<p>A number of scenes were cut during the editing process. Five deleted scenes, a total of 13 minutes, including the controversial \"Otto\", were first made available in 1997 on the Criterion Collection Laserdisc. An unknown amount of raw footage was destroyed in 1998 by the company that bought Handmade Films. However, a number of them (of varying quality) were shown the following year on the Paramount Comedy Channel in the UK. The scenes shown included three shepherds discussing sheep and completely missing the arrival of the angel heralding Jesus's birth, which would have been at the very start of the film; a segment showing the attempted kidnap of Pilate's wife (a large woman played by John Case) whose escape results in a fistfight; a scene introducing hardline Zionist Otto, leader of the Judean People's Front (played by Eric Idle) and his men who practise a suicide run in the courtyard; and a brief scene in which Judith releases some birds into the air in an attempt to summon help. The shepherds' scene has badly distorted sound, and the kidnap scene has poor colour quality. The same scenes that were on the Criterion laserdisc can now be found on the Criterion Collection DVD.\n</p><p>The most controversial cuts were the scenes involving Otto, initially a recurring character, who had a thin Adolf Hitler moustache and spoke with a German accent, shouting accusations of \"racial impurity\" at Judeans who were conceived (as Brian was) when their mothers were raped by Roman centurions, as well as other Nazi phrases. The logo of the Judean People's Front, designed by Terry Gilliam, was a Star of David with a small line added to each point so it resembled a swastika, most familiar in the West as the symbol of the anti-Semitic Nazi movement. The rest of this faction also all had the same thin moustaches, and wore a spike on their helmets, similar to those on Imperial German helmets. The official reason for the cutting was that Otto's dialogue slowed down the narrative. However, Gilliam, writing in <i>The Pythons Autobiography by The Pythons</i>, said he thought it should have stayed, saying \"Listen, we've alienated the Christians, let's get the Jews now.\" Idle himself was said to have been uncomfortable with the character; \"It's essentially a pretty savage attack on rabid Zionism, suggesting it's rather akin to Nazism, which is a bit strong to take, but certainly a point of view.\" Michael Palin's personal journal entries from the period when various edits of <i>Brian</i> were being test-screened consistently reference the Pythons' and filmmakers' concerns that the Otto scenes were slowing the story down and thus were top of the list to be chopped from the final cut of the film. However, Oxford Brookes University historian David Nash says the removal of the scene represented \"a form of self-censorship\" and the Otto sequence \"which involved a character representative of extreme forms of Zionism\" was cut \"in the interests of smoothing the way for the film's distribution in America.\"</p><p>The only scene with Otto that remains in the film is during the crucifixion sequence. Otto arrives with his \"crack suicide squad\", sending the Roman soldiers fleeing in terror. Instead of doing anything useful, they \"attack\" by committing mass suicide in front of the cross (\"Zat showed 'em, huh?\" says the dying Otto, to which Brian despondently replies \"You silly sods!\"), ending Brian's hope of rescue (they do however show some signs of life during the famous rendition of \"Always Look on the Bright Side of Life\" when they are seen waving their toes in unison in time to the music). Terry Jones once mentioned that the only reason this excerpt was not cut too was due to continuity reasons, as their dead bodies were very prominently placed throughout the rest of the scene. He acknowledged that some of the humour of this sole remaining contribution was lost through the earlier edits, but felt they were necessary to the overall pacing.\n</p><p>Otto's scenes, and those with Pilate's wife, were cut from the film after the script had gone to the publishers, and so they can be found in the published version of the script. Also present is a scene where, after Brian has led the Fifth Legion to the headquarters of the People's Front of Judea, Reg (John Cleese) says \"You cunt!! You stupid, bird-brained, flat-headed...\" The profanity was overdubbed to \"you klutz\" before the film was released. Cleese approved of this editing as he felt the reaction to the profanity would \"get in the way of the comedy.\"</p><p>An early listing of the sequence of sketches reprinted in <i>Monty Python: The Case Against</i> by Robert Hewison reveals that the film was to have begun with a set of sketches at an English public school. Much of this material was first printed in the <i>Monty Python's The Life of Brian / Monty Python Scrapbook</i> that accompanied the original script publication of <i>The Life of Brian</i> and then subsequently reused. The song \"All Things Dull and Ugly\" and the parody scripture reading \"Martyrdom of St. Victor\" were performed on <i>Monty Python's Contractual Obligation Album</i> (1980). The idea of a violent rugby match between school masters and small boys was filmed in <i>Monty Python's The Meaning of Life</i> (1983). A sketch about a boy who dies at school appeared on the unreleased <i>The Hastily Cobbled Together for a Fast Buck Album</i> (1981).\n</p>\n\n<h2>Soundtrack</h2>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1033289096\">\n<p>An album was also released by Monty Python in 1979 in conjunction with the film. In addition to the \"Brian Song\"  and \"Always Look on the Bright Side of Life\", it contains scenes from the film with brief linking sections performed by Eric Idle and Graham Chapman. The album opens with a brief rendition of \"Hava Nagila\" on Scottish bagpipes. A CD version was released in 1997.\n</p><p>An album of the songs sung in <i>Monty Python's Life of Brian</i> was released on the Disky label. \"Always Look on the Bright Side of Life\" was later re-released with great success, after being sung by British football fans. Its popularity became truly evident in 1982 during the Falklands War when sailors aboard the destroyer HMS <i>Sheffield</i>, severely damaged in an Argentinean Exocet missile attack on 4 May, started singing it while awaiting rescue. Many people have come to see the song as a life-affirming ode to optimism. One of its more famous renditions was by the dignitaries of Manchester's bid to host the 2000 Olympic Games, just after they were awarded to Sydney. Idle later performed the song as part of the 2012 Summer Olympics closing ceremony. \"Always Look on the Bright Side of Life\" is also featured in Eric Idle's <i>Spamalot</i>, a Broadway musical based upon <i>Monty Python and the Holy Grail</i>, and was sung by the rest of the Monty Python group at Graham Chapman's memorial service and at the <i>Monty Python Live At Aspen</i> special. The song is a staple at Iron Maiden concerts, where the recording is played after the final encore.</p>\n\n<h2>Release</h2>\n<p>For the original British and Australian releases, a spoof travelogue narrated by John Cleese, <i>Away From It All</i>, was shown before the film itself. It consisted mostly of stock travelogue footage and featured arch comments from Cleese. For instance, a shot of Bulgarian girls in ceremonial dresses was accompanied by the comment \"Hard to believe, isn't it, that these simple happy folk are dedicated to the destruction of Western Civilisation as we know it!\", Communist Bulgaria being a member of the Warsaw Pact at the time. Not only was this a spoof of travelogues <i>per se</i>, it was a protest against the then common practice in Britain of showing cheaply made banal short features before a main feature.\n</p><p><i>Life of Brian</i> opened on 17 August 1979 in five North American theatres and grossed US$140,034 ($28,007 per screen) in its opening weekend. Its total gross was $19,398,164. It was the highest grossing British film in North America that year. Released on 8 November 1979 in the UK, the film was the fourth highest-grossing film in Britain in 1979. In London, it opened at the Plaza cinema and grossed \u00a340,470 in its opening week.</p><p>On 30 April 2004, <i>Life of Brian</i> was re-released on five North American screens to \"cash in\" (as Terry Jones put it) on the box office success of Mel Gibson's <i>The Passion of the Christ</i>. It grossed $26,376 ($5,275 per screen) in its opening weekend. It ran until October 2004, playing at 28 screens at its widest point, eventually grossing $646,124 during its re-release. By comparison, a re-release of <i>Monty Python and the Holy Grail</i> had earned $1.8 million three years earlier. A DVD of the film was also released that year.\n</p>\n\n<h2>Reception</h2>\n<p>Reviews from critics were mostly positive on the film's release. Movie historian Leonard Maltin reported that \"This will probably offend every creed and denomination equally, but it shouldn't. The funniest and most sustained feature from Britain's bad boys.\" Vincent Canby of <i>The New York Times</i> called the film \"the foulest-spoken biblical epic ever made, as well as the best-humored\u2014a nonstop orgy of assaults, not on anyone's virtue, but on the funny bone. It makes no difference that some of the routines fall flat because there are always others coming along immediately after that succeed.\" Roger Ebert gave the film three stars out of four, writing, \"What's endearing about the Pythons is their good cheer, their irreverence, their willingness to allow comic situations to develop through a gradual accumulation of small insanities.\" Gene Siskel of the <i>Chicago Tribune</i> gave the film three and a half stars, calling it \"a gentle but very funny parody of the life of Jesus, as well as of biblical movies.\" Kevin Thomas of the <i>Los Angeles Times</i> declared, \"Even those of us who find Monty Python too hit-and-miss and gory must admit that its latest effort has numerous moments of hilarity.\" Clyde Jeavons of <i>The Monthly Film Bulletin</i> wrote that the script was \"occasionally over-raucous and crude\", but found the second half of the film \"cumulatively hilarious\", with \"a splendidly tasteless finale, which even Mel Brooks might envy.\" Richard Grenier, writing in the neoconservative magazine <i>Commentary</i>, said \"<i>Life of Brian</i> contains appreciably more mocking of faddish radicalism and Third World 'national-liberation movements' than it does of religion,\" citing numerous examples in the film of satire at the expense of \"left-wing ideas about imperialism, feminism, and terrorism,\" reflecting a satirical omnivorousness that Grenier associated with \"the tradition of what might be called 'Tory wit,' reaching back to Congreve and Swift and all the way forward to Evelyn Waugh and Kingsley Amis.\" Gary Arnold of <i>The Washington Post</i> had a negative opinion of the film, writing that it was \"a cruel fiction to foster the delusion that 'Brian' is bristling with blasphemous nifties and throbbing with impious wit. If only it were! One might find it easier to keep from nodding off.\"</p>\n\n<p>Over time, <i>Life of Brian</i> has regularly been cited as a significant contender for the title \"greatest comedy film of all time\", and has been named as such in polls conducted by <i>Total Film</i> magazine in 2000, the British TV network Channel 4 where it topped the poll in the 50 Greatest Comedy Films, and <i>The Guardian</i> in 2007. Rotten Tomatoes lists it as one of the best reviewed comedies, with a 96% approval rating from 67 published reviews, with an average rating of 8.3/10. Its critical consensus reads, \"One of the more cutting-edge films of the 1970s, this religious farce from the classic comedy troupe is as poignant as it is funny and satirical.\"</p><p>In 1999 the BFI declared <i>Life of Brian</i> to be the 28th best British film of all time. It was the seventh highest ranking comedy on this list (four of the better placed efforts were classic Ealing Films). Another Channel 4 poll in 2001 named it the 23rd greatest film of all time (the only comedy that came higher was Billy Wilder's <i>Some Like It Hot</i>, which was ranked 5th). A 2011 poll by <i>Time Out</i> magazine ranked it as the third greatest comedy film ever made, behind <i>Airplane!</i> and <i>This is Spinal Tap</i>. In 2016, <i>Empire</i> magazine ranked <i>Life of Brian</i> 2nd in their list of the 100 best British films, with only David Lean's <i>Lawrence of Arabia</i> ranking higher.</p><p>Various polls have voted the line, \"He's not the Messiah, he's a very naughty boy!\" (spoken by Brian's mother Mandy to the crowd assembled outside her house), to be the funniest in film history. Other famous lines from the film have featured in polls, such as, \"What have the Romans ever done for us?\" and \"I'm Brian and so's my wife\".</p>\n\n<h2>Controversies</h2>\n<h3>Initial criticism &amp; blasphemy accusations</h3>\n<p>Richard Webster comments in <i>A Brief History of Blasphemy</i> (1990) that \"internalised censorship played a significant role in the handling\" of <i>Monty Python's Life of Brian</i>. In his view, \"As a satire on religion, this film might well be considered a rather slight production. As blasphemy it was, even in its original version, extremely mild. Yet the film was surrounded from its inception by intense anxiety, in some quarters of the Establishment, about the offence it might cause. As a result it gained a certificate for general release only after some cuts had been made. Perhaps more importantly still, the film was shunned by the BBC and ITV, who declined to show it for fear of offending Christians in the UK. Once again a blasphemy was restrained \u2013 or its circulation effectively curtailed \u2013 not by the force of law but by the internalisation of this law.\" On its initial release in the UK, the film was banned by several town councils \u2013 some of which had no cinemas within their boundaries, or had not even seen the film. A member of Harrogate council, one of those that banned the film, revealed during a television interview that the council had not seen the film, and had based their opinion on what they had been told by the Nationwide Festival of Light, a grouping with an evangelical Christian base, of which they knew nothing.</p><p>In New York (the film's release in the US preceded British distribution), screenings were picketed by both rabbis and nuns (\"Nuns with banners!\" observed Michael Palin). It was also banned for eight years in Ireland and for a year in Norway (it was marketed in Sweden as \"The film so funny that it was banned in Norway\"). During the film's theatrical run in Finland, a text explaining that the film was a parody of Hollywood historical epics was added to the opening credits.</p><p>In the UK, Mary Whitehouse, and other traditionalist Christians, pamphleteered and picketed locations where the local cinema was screening the film, a campaign that was felt to have boosted publicity. Leaflets arguing against the film's representation of the New Testament (for example, suggesting that the Wise Men would not have approached the wrong stable as they do in the opening of the film) were documented in Robert Hewison's book <i>Monty Python: The Case Against</i>.\n</p>\n\n<h3>Crucifixion issue</h3>\n<p>One of the most controversial scenes was the film's ending: Brian's crucifixion. Many Christian protesters said that it was mocking Jesus' suffering by turning it into a \"Jolly Boys Outing\" (such as when Mr Cheeky turns to Brian and says: \"See, not so bad once you're up!\"), capped by Brian's fellow sufferers suddenly bursting into song. This is reinforced by the fact that several characters throughout the film claim crucifixion is not as bad as it seems. For example, when Brian asks his cellmate in prison what will happen to him, he replies: \"Oh, you'll probably get away with crucifixion\". In another example, Matthias, an old man who works with the People's Front of Judea, dismisses crucifixion as \"a doddle\" and says being stabbed would be worse.\n</p><p>The director, Terry Jones, issued the following response to this criticism: \"Any religion that makes a form of torture into an icon that they worship seems to me a pretty sick sort of religion quite honestly.\" The Pythons also pointed out that crucifixion was a standard form of execution in ancient times and not just one especially reserved for Jesus.</p>\n\n<h3>Responses from the cast</h3>\n<p>Shortly after the film was released, Cleese and Palin engaged in a debate on the BBC2 discussion programme <i>Friday Night, Saturday Morning</i> with Malcolm Muggeridge and Mervyn Stockwood, the Bishop of Southwark, who put forward arguments against the film. Muggeridge and Stockwood, it was later claimed, had arrived 15 minutes late to see a screening of the picture prior to the debate, missing the establishing scenes demonstrating that Brian and Jesus were two different characters, and hence contended that it was a send-up of Christ himself. Both Pythons later felt that there had been a strange role reversal in the manner of the debate, with two young upstart comedians attempting to make serious, well-researched points, while the Establishment figures engaged in cheap jibes and point scoring. They also expressed disappointment in Muggeridge, whom all in Python had previously respected as a satirist (he had recently converted to Christianity after meeting Mother Teresa and experiencing what he described as a miracle). Cleese stated that his reputation had \"plummeted\" in his eyes, while Palin commented, \"He was just being Muggeridge, preferring to have a very strong contrary opinion as opposed to none at all.\" Muggeridge's verdict on the film was that it was \"Such a tenth-rate film that it couldn't possibly destroy anyone's genuine faith.\" In a 2013 interview on BBC Radio 4, Cleese stated that having recently watched the discussion again he \"was astonished, first of all, at how stupid [the two members of the Church] were, and how boring the debate became\". He added: \"I think the sad thing was that there was absolutely no attempt at a proper discussion \u2013 no attempt to find any common ground.\"</p>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1062260506\">\n<p>The Pythons unanimously deny that they were ever out to destroy people's faith. On the DVD audio commentary, they contend that the film is heretical because it lampoons the practices of modern organised religion, but that it does not blasphemously lampoon the God that Christians and Jews worship. When Jesus does appear in the film (on the Mount, speaking the Beatitudes), he is played straight (by actor Kenneth Colley) and portrayed with respect. The music and lighting make it clear that there is a genuine aura around him. The comedy begins when members of the crowd mishear his statements of peace, love and tolerance (\"I think he said, 'blessed are the cheese makers'\"). Importantly, he is distinct from the character of Brian, which is also evident in the scene where an annoying and ungrateful ex-leper pesters Brian for money, while moaning that since Jesus cured him, he has lost his source of income in the begging trade (referring to Jesus as a \"bloody do-gooder\").\n</p><p>James Crossley, however, has argued that the film makes the distinction between Jesus and the character of Brian to make a contrast between the traditional Christ of both faith and cinema and the historical figure of Jesus in critical scholarship and how critical scholars have argued that ideas later got attributed to Jesus by his followers. Crossley points out that the film uses the character of Brian to address a number of potentially controversial scholarly theories about Jesus, such as the Messianic Secret, the Jewishness of Jesus, Jesus the revolutionary, and having a single mother.</p><p>Not all the Pythons agree on the definition of the movie's tone. There was a brief exchange that occurred when the surviving members reunited in Aspen, Colorado, in 1998. In the section where <i>Life of Brian</i> is discussed, the following dialogue ensued:</p>\n<blockquote>\n<p><b>Jones</b>: <q>I think the film is heretical, but it's not blasphemous.</q><br><b>Idle</b>: <q>It's a heresy.</q><br><b>Cleese</b>: <q>I don't think it's a heresy. It's making fun of the way that people misunderstand the teaching.</q><br><b>Jones</b>: <q>Of course it's a heresy, John! It's attacking the Church! And that has to be heretical.</q><br><b>Cleese</b>: <q>No, it's not attacking the Church, necessarily. It's about people who cannot agree with each other.</q>\n</p>\n</blockquote>\n<p>In a later interview, Jones said the film \"isn't blasphemous because it doesn't touch on belief at all. It is heretical, because it touches on dogma and the interpretation of belief, rather than belief itself.\"</p>\n\n<h3>21st century</h3>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1062260506\">\n<p>The film continues to cause controversy; in February 2007, the Church of St Thomas the Martyr in Newcastle upon Tyne held a public screening in the church itself, with song-sheets, organ accompaniment, stewards in costume and false beards for female members of the audience (alluding to an early scene where a group of women disguise themselves as men so that they are able to take part in a stoning). Although the screening was a sell-out, some Christian groups, notably the conservative Christian Voice, were highly critical of the decision to allow the screening to go ahead. Stephen Green, the head of Christian Voice, insisted that \"You don't promote Christ to the community by taking the mick out of him.\" The Reverend Jonathan Adams, one of the church's clergy, defended his taste in comedy, saying that it did not mock Jesus, and that it raised important issues about the hypocrisy and stupidity that can affect religion. Again on the film's DVD commentary, Cleese also spoke up for religious people who have come forward and congratulated him and his colleagues on the film's highlighting of double standards among purported followers of their own faith.</p><p>Some bans continued into the 21st century. In 2008, Torbay Council finally permitted the film to be shown after it won an online vote for the English Riviera International Comedy Film Festival. In 2009, it was announced that a thirty-year-old ban of the film in the Welsh town of Aberystwyth had finally been lifted, and the subsequent showing was attended by Terry Jones and Michael Palin alongside mayor Sue Jones-Davies (who portrayed Judith Iscariot in the film). However, before the showing, an Aberystwyth University student discovered that a ban had only been discussed by the council and in fact that it had been shown (or scheduled to be shown) at a cinema in the town in 1981. In 2013, a German official in the state of North Rhine-Westphalia considered the film to be possibly offensive to Christians and hence subject to a local regulation prohibiting its public screening on Good Friday, despite protests by local atheists.</p>\n\n<h2>Political satire</h2>\n<p>The film pokes fun at revolutionary groups and 1970s British left-wing politics. According to Roger Wilmut, \"What the film does do is place modern stereotypes in a historical setting, which enables it to indulge in a number of sharp digs, particularly at trade unionists and guerilla organisations\". There are several groups in the film which oppose the Roman occupation of Judea, but fall into the familiar pattern of intense competition among factions that appears, to an outsider, to be over ideological distinctions so small as to be invisible, thus portraying the phenomenon of the narcissism of small differences. Such disunity indeed fatally beleaguered real-life Judean resistance against Roman rule. Michael Palin says that the various separatist movements were modelled on \"modern resistance groups, all with obscure acronyms which they can never remember and their conflicting agendas\".</p>\n<p>The People's Front of Judea, composed of the Pythons' characters, harangue their \"rivals\" with cries of \"splitters\" and stand vehemently opposed to the Judean People's Front, the Judean People's Popular Front, the Campaign for a Free Galilee, and the Popular Front of Judea (the last composed of a single old man, mocking the size of real revolutionary Trotskyist factions). The infighting among revolutionary organisations is demonstrated most dramatically when the PFJ attempts to kidnap Pontius Pilate's wife, but encounters agents of the Campaign for a Free Galilee, and the two factions begin a violent brawl over which of them conceived of the plan first. When Brian exhorts them to cease their fighting to struggle \"against the common enemy\", the revolutionaries stop and cry in unison, \"the Judean People's Front!\" However, they soon resume their fighting and, with two Roman legionaries watching bemusedly, continue until Brian is left the only survivor, at which point he is captured.\n</p><p>Other scenes have the freedom fighters wasting time in debate, with one of the debated items being that they should not waste their time debating so much. There is also a famous scene in which Reg gives a revolutionary speech asking, \"What have the Romans ever done for us?\" at which point the listeners outline all forms of positive aspects of the Roman occupation such as sanitation, medicine, education, wine, public order, irrigation, roads, a fresh water system, public health and peace, followed by \"what have the Romans ever done for us except sanitation, medicine, education...\". Python biographer George Perry notes, \"The People's Liberation Front of Judea conducts its meetings as though they have been convened by a group of shop stewards\". This joke is the reverse of a similar conversation recorded in the Babylonian Talmud; some authors have even suggested the joke is based on the Talmudic text.</p>\n\n<h2>Film analysis</h2>\n<h3>Themes and motifs</h3>\n<h4>Bible</h4>\n<p>The depictions of Jesus in two short scenes at the start of the film are strongly based on Christian iconography. The resistance fighters leave the Sermon on the Mount, which was a literal recital, angry because Jesus was too pacifistic for them. (\"Well, blessed is just about everyone with a vested interest in the status quo\u2026\") In addition to the respectful depiction of Jesus, the film does not state that there is no God or that Jesus is not the son of God. The appearance of a leper, who says he was healed by Jesus, is in line with the Gospels and their reports about Jesus performing miracles.</p><p>Any direct reference to Jesus disappears after the introductory scenes, yet his life story partially acts as a framework and subtext for the story of Brian. Brian being a bastard of a Roman centurion could refer to the polemic legend that Jesus was the son of the Roman soldier Panthera. Disguised as a prophet, Brian talks about \"the lilies on the field\" and states more clearly, \"Don't pass judgment on other people or else you might get judged yourself\": Brian incoherently repeats statements he heard from Jesus.</p><p>Another significant figure in the film who is named in the Gospels is Pontius Pilate, who is humorously given rhotacism. Although there is a hint to Barabbas prior to the crucifixion, no character in <i>Life of Brian</i> bears any resemblances to Judas or Caiaphas. An anti-Semitic interpretation of the story is therefore excluded, according to scholars. The crucifixion scene, a central part of Christian iconography, is viewed from a historical context within the narrative style of the film. It depicts historically accurate enactment of a routinely done mass crucifixion.</p>\n\n<h4>Belief and dogmatism</h4>\n<p>The intended subject of the satire was not Jesus and his teachings but religious dogmatism, according to film theorists and statements from Monty Python. This is made clear in the beginning of the film during the Sermon on the Mount. Not only do the poor acoustics make it more difficult to hear what Jesus says, but the audience fails to interpret what was said correctly and sensibly. When Jesus said, \"blessed are the peacemakers\", the audience understands the phonetically similar word \"Cheesemakers\" and in turn interpret it as a metaphor and beatification of those who produce dairy products.</p><p><i>Life of Brian</i> satirises, in the words of David Hume, the \"strong propensity of mankind to [believe in] the extraordinary and the marvellous\". When Brian cuts his sermon short and turns away from the crowd, they mistake his behaviour as not wanting to share the secret to eternal life and follow him everywhere. In their need to submit to an authority, the crowd declares him first a prophet and eventually a messiah. Even when Brian explicitly denies he is the Messiah, they still follow him, rationalizing that only the true Messiah would have the humility to deny his own divine status. The faithful gather beneath Brian's window en masse to receive God's blessing. This is when Brian utters the main message of the film \"you don't need to follow anybody! You've got to think for yourselves!\" Monty Python saw this central message of the satire confirmed with the protests of practising Christians after the film was released.</p>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1062260506\">\n<p>According to Terry Jones, <i>Life of Brian</i> \"is not blasphemy but heresy\", because Brian contested the authority of the Church whereas the belief in God remained untouched. He goes on to mention that \"Christ [is] saying all of these wonderful things about people living together in peace and love, and then for the next two thousand years people are putting each other to death in His name because they can't agree on how He said it, or in what order He said it.\"  The dispute among the followers about the correct interpretation of a sandal, which Brian lost, is in the words of Terry Jones the \"history of the Church in three minutes\". Kevin Shilbrack shares the view that you can enjoy the movie and still be religious.\nFor the most part, lost in the religious controversy was the film's mockery of factional dogmatism among left-wing parties. According to John Cleese, an almost unmanageable number of left-wing organisations and parties was formed back then in the United Kingdom. He said that it had been so important to each of them to have one pure doctrine that they would rather fight each other than their political opponent. In the film, rather than presenting a common front as their organisational names should imply, the leader of the People's Front of Judea makes it clear that their hate for the Judean Peoples's Front is greater than their hate for the Romans. They are so caught up in constant debates that the \"rather looney bunch of revolutionaries\" indirectly accept the occupying forces as well as their execution methods as a fate they all have to endure. So, in the end, even though they have ample opportunity to rescue Brian, they instead leave Brian on the cross, thanking him for his sacrifice.</p><p>Hardly mentioned in the discussion was the sideswipe at the women's movement, which started to draw a lot of attention in the 1970s. In accordance with the language of political activists, resistance fighter Stan wants to exercise \"his right as a man\" to be a woman. The group accepts him from that moment on as Loretta, because the right to give birth was not theirs to take. Also as a result from that, the term sibling replaces the terms brother or sister.</p>\n\n<h4>Individuality and meaninglessness</h4>\n<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1062260506\">\n<p>One of the most commented-upon scenes in the film is when Brian tells his followers that they are all individuals and don't need to follow anybody. According to Edward Slowik, this is a rare moment in which Monty Python puts a philosophical concept into words so openly and directly. <i>Life of Brian</i> accurately depicts the existentialist view that everybody needs to give meaning to their own life.</p><p>Brian can thus be called an existentialist following the tradition of Friedrich Nietzsche and Jean-Paul Sartre. He is honest to himself and others and lives as authentic a life as he can. However, Brian is too na\u00efve to be called a hero based on the ideas of Albert Camus. For Camus, the search for the meaning of one's own life takes place in a deeply meaningless and abstruse world. The \"absurd hero\" rebels against this meaninglessness and at the same time holds on to their goals, although they know their fight leaves no impact in the long run. Contrary to that, Brian isn't able to recognize the meaninglessness of his own situation and therefore can't triumph over it.</p><p>In <i>Monty Python and Philosophy</i>, Kevin Shilbrack states that the fundamental view of the film is that the world is absurd, and every life needs to be lived without a greater meaning. He points out that the second-last verse of the song the film finishes on, \"Always Look on the Bright Side of Life\", expresses this message clearly:\n</p>\n<blockquote class=\"templatequote\"></blockquote>\n<p>Shilbrack concludes that the finale shows that the executions had no purpose since the deaths were meaningless and no better world was waiting for them. On this note, some people  would claim that the film presents a nihilistic world view which contradicts any basis of religion. However, <i>Life of Brian</i> offers humour to counterbalance the nihilism, Shilbrack states in his text. He comments that \"religion and humour are compatible with each other and you should laugh about the absurdity since you can't fight it.\"</p>\n\n<h2>Legacy</h2>\n<h3>Literature</h3>\n<p>Spin-offs include a script-book <i>The Life of Brian of Nazareth</i>, which was printed back-to-back with <i>MONTYPYTHONSCRAPBOOK</i> as a single book. The printing of this book also caused problems, due to rarely used laws in the United Kingdom against blasphemy, dictating what can and cannot be written about religion. The publisher refused to print both halves of the book, and original prints were by two companies.</p><p>Julian Doyle, the film's editor, wrote <i>The Life of Brian/Jesus</i>, a book which not only describes the filmmaking and editing process but argues that it is the most accurate Biblical film ever made. In October 2008, a memoir by Kim \"Howard\" Johnson titled <i>Monty Python's Tunisian Holiday: My Life with Brian</i> was released. Johnson became friendly with the Pythons during the filming of <i>Life of Brian</i> and the book is based on his notes and memories of the behind-the-scenes filming and make-up.</p>\n\n<h3>Music</h3>\n<p>With the success of Eric Idle's musical retelling of <i>Monty Python and the Holy Grail</i>, called <i>Spamalot</i>, Idle announced that he would be giving <i>Life of Brian</i> a similar treatment. The oratorio, called <i>Not the Messiah (He's a Very Naughty Boy)</i>, was commissioned to be part of the festival called Luminato in Toronto in June 2007, and was written/scored by Idle and John Du Prez, who also worked with Idle on <i>Spamalot</i>. <i>Not the Messiah</i> is a spoof of Handel's <i>Messiah</i>. It runs approximately 50 minutes, and was conducted at its world premiere by Toronto Symphony Orchestra music director Peter Oundjian, who is Idle's cousin. <i>Not the Messiah</i> received its US premiere at the Caramoor International Music Festival in Katonah, New York. Oundjian and Idle joined forces once again for a double performance of the oratorio in July 2007.</p>\n\n<h3>Other media</h3>\n<p>In October 2011, BBC Four premiered the made-for-television comedy film <i>Holy Flying Circus</i>, written by Tony Roche and directed by Owen Harris. The \"Pythonesque\" film explores the events surrounding the 1979 television debate on talk show <i>Friday Night, Saturday Morning</i> between John Cleese and Michael Palin and Malcolm Muggeridge and Mervyn Stockwood, then Bishop of Southwark.</p>\n<p>In a <i>Not the Nine O'Clock News</i> sketch, a bishop who has directed a scandalous film called <i>The Life of Christ</i> is hauled over the coals by a representative of the \"Church of Python\", claiming that the film is an attack on \"Our Lord, John Cleese\" and on the members of Python, who, in the sketch, are the objects of Britain's true religious faith. This was a parody of the infamous <i>Friday Night, Saturday Morning</i> programme, broadcast a week previously. The bishop (played by Rowan Atkinson) claims that the reaction to the film has surprised him, as he \"didn't expect the Spanish Inquisition.\"</p><p>Radio host John Williams of Chicago's WGN 720 AM has used \"Always Look on the Bright Side of Life\" in a segment of his Friday shows. The segment is used to highlight good events from the past week in listeners' lives and what has made them smile. In the 1997 film <i>As Good as It Gets</i>, the misanthropic character played by Jack Nicholson sings \"Always Look on the Bright Side of Life\" as evidence of the character's change in attitude.</p><p>A BBC history series <i>What the Romans Did for Us</i>, written and presented by Adam Hart-Davis and broadcast in 2000, takes its title from Cleese's rhetorical question \"What have the Romans ever done for us?\" in one of the film's scenes. (Cleese himself parodied this line in a 1986 BBC advert defending the Television Licence Fee: \"What has the BBC ever given us?\").</p><p>Former British Prime Minister Tony Blair in his Prime Minister's Questions of 3 May 2006 made a shorthand reference to the types of political groups, \"Judean People's Front\" or \"People's Front of Judea\", lampooned in <i>Life of Brian</i>. This was in response to a question from the Labour MP David Clelland, asking \"What has the Labour government ever done for us?\" \u2013 itself a parody of John Cleese's \"What have the Romans ever done for us?\"\n</p><p>On New Year's Day 2007, and again on New Year's Eve, UK television station Channel 4 dedicated an entire evening to the Monty Python phenomenon, during which an hour-long documentary was broadcast called <i>The Secret Life of Brian</i> about the making of <i>The Life of Brian</i> and the controversy that was caused by its release. The Pythons featured in the documentary and reflected upon the events that surrounded the film. This was followed by a screening of the film itself. The documentary (in a slightly extended form) was one of the special features on the 2007 DVD re-release \u2013 the \"Immaculate Edition\", also the first Python release on Blu-ray.\n</p><p>Most recently, in June 2014 King's College London hosted an academic conference on the film, in which internationally renowned Biblical scholars and historians discussed the film and its reception, looking both at how the Pythons had made use of scholarship and texts, and how the film can be used creatively within modern scholarship on the Historical Jesus. In a panel discussion, including Terry Jones and theologian Richard Burridge, John Cleese described the event as \"the most interesting thing to come out of Monty Python\". The papers from the conference have gone on to prompt the publication of a book, edited by Joan E. Taylor, the conference organiser, <i>Jesus and Brian: Exploring the Historical Jesus and His Times via Monty Python's Life of Brian</i>, published by Bloomsbury in 2015.</p>\n\n<h2>See also</h2>\n<ul><li>BFI Top 100 British films</li>\n<li>List of films considered the best</li>\n<li><i>Deux heures moins le quart avant J\u00e9sus-Christ</i></li></ul>\n\n<h2>References</h2>\n<h3>Sources</h3>\n<ul><li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite id=\"CITEREFPhilip_R.2004\" class=\"citation book cs1\">Philip R., Davies (14 June 2004). \"Life of Brian Research\". <i>Whose Bible Is It Anyway?</i> (2nd\u00a0ed.). London &amp; New York: T&amp;T Clark International. pp.\u00a0142\u2013155. ISBN\u00a0<bdi>0-567-08073-0</bdi>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Life+of+Brian+Research&amp;rft.btitle=Whose+Bible+Is+It+Anyway%3F&amp;rft.pages=142-155&amp;rft.edition=2nd&amp;rft.pub=London+%26+New+York%3A+T%26T+Clark+International&amp;rft.date=2004-06-14&amp;rft.isbn=0-567-08073-0&amp;rft.aulast=Philip+R.&amp;rft.aufirst=Davies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonty+Python%27s+Life+of+Brian\"></span> This book chapter discusses the ancient sources which may have been used in the film and its critical take on theology.</li>\n<li>Hewison, Robert. <i>Monty Python: The Case Against</i>. New York: Grove, 1981. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\">ISBN\u00a00-413-48660-5. This book discusses at length the censorship and controversy surrounding the film.</li>\n<li>Vintaloro, Giordano. <i>\"Non sono il Messia, lo giuro su Dio!\" \u2013 Messianismo e modernit\u00e0 in </i>Life of Brian<i> dei Monty Python</i>. Trieste: Battello Stampatore, 2008. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\">ISBN\u00a0978-88-87208-44-3. [Italian: <i>\"I'm not the Messiah, honestly!\" \u2013 Messianism and modernity in Monty Python's \"Life of Brian\"</i>]. This book analyses the film structure as an hypertext and Brian the Messiah as a modern leader figure.</li>\n<li>Larsen, Darl. <i>A Book about the Film</i> Monty Python's Life of Brian. Lanham, MD: Rowman &amp; Littlefield, 2018. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\">ISBN\u00a0978-1538103654.</li>\n<li>Tatum, W. Barnes. <i>Jesus at the movies</i>. Polebridge Press, Santa Rosa 1997, revised and expanded 2004, S. 149\u2013162, <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\">ISBN\u00a00-944344-67-4</li>\n<li>Hardcastle, Gary L, and George A. Reisch. <i>Monty Python and Philosophy: Nudge Nudge, Think Think!</i> Chicago, Ill: Open Court, 2006. Print. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\">ISBN\u00a00-8126-9593-3</li>\n<li><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><cite class=\"citation audio-visual cs1\"><i>The Story of Brian</i> (Monty Python's Life of Brian: The Immaculate Edition DVD). Sony Pictures Home Entertainment. 2007.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Story+of+Brian&amp;rft.pub=Sony+Pictures+Home+Entertainment&amp;rft.date=2007&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonty+Python%27s+Life+of+Brian\"></span></li></ul>\n\n<h2>External links</h2>\n\n<ul><li><i>Monty Python's Life of Brian</i> at IMDb</li>\n<li><i>Monty Python's Life of Brian</i> at Box Office Mojo</li>\n<li><i>Monty Python's Life of Brian</i> at Rotten Tomatoes</li>\n<li><i>Monty Python's Life of Brian</i> at Metacritic </li>\n<li><i>Monty Python's Life of Brian</i> film script</li>\n<li><i>The Secret Life of Brian</i> at IMDb \u2013 A 2007 documentary about the controversy surrounding the film.</li>\n<li><i>Monty Python's Life of Brian</i> an essay by George Perry at the Criterion Collection</li></ul>\n\n\n\n\n\n<!-- \nNewPP limit report\nParsed by mw\u2010api\u2010ext.eqiad.main\u2010866c865866\u20105vmlf\nCached time: 20231202233347\nCache expiry: 3600\nReduced expiry: true\nComplications: [vary\u2010revision\u2010sha1, show\u2010toc]\nCPU time usage: 1.100 seconds\nReal time usage: 1.350 seconds\nPreprocessor visited node count: 9753/1000000\nPost\u2010expand include size: 292478/2097152 bytes\nTemplate argument size: 20229/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 15/500\nUnstrip recursion depth: 1/20\nUnstrip post\u2010expand size: 327557/5000000 bytes\nLua time usage: 0.592/10.000 seconds\nLua memory usage: 10312740/52428800 bytes\nNumber of Wikibase entities loaded: 1/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1077.038      1 -total\n 44.53%  479.572      1 Template:Reflist\n 14.75%  158.840     27 Template:Cite_web\n 12.39%  133.452     38 Template:Cite_news\n  9.88%  106.453      6 Template:Navbox\n  7.93%   85.383      2 Template:IMDb_title\n  7.36%   79.321      1 Template:Infobox_film\n  7.31%   78.764      1 Template:Monty_Python\n  6.11%   65.758     17 Template:Cite_book\n  6.02%   64.854      1 Template:Infobox\n-->"
+}
