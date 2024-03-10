@@ -36,6 +36,7 @@ def create_app(config_class=Config):
     apiController = ApiModule.controller
     api.add_resource(apiController['searchMovie'], apiController['searchMovie'].resource)
     api.add_resource(apiController['indexMovie'], apiController['indexMovie'].resource)
+    api.add_resource(apiController['indexByFile'], apiController['indexByFile'].resource)
 
     esController = EsModule.controller
     api.add_resource(esController['createIndex'], esController['createIndex'].resource)
@@ -53,6 +54,7 @@ def create_app(config_class=Config):
     api.add_resource(esController['deleteMovieByDocId'], esController['deleteMovieByDocId'].resource)
     api.add_resource(esController['getIndexMappingInfo'], esController['getIndexMappingInfo'].resource)
     api.add_resource(esController['getIndex'], esController['getIndex'].resource)
+    api.add_resource(esController['getFieldsAsTextMap'], esController['getFieldsAsTextMap'].resource)
 
 
     @app.route('/test/')

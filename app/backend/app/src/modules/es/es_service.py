@@ -1,8 +1,8 @@
 from src.modules.es.types.search_queries import BasicSearch
 from src.modules.es.dtos.search_dto import BasicSearchDto
-from src.modules.es.schemas.schema_tmdb import get_tmdb_schema
+from src.modules.es.schemas.schema_tmdb import get_schema_tmdb
 from src.modules.es.utils.schema_controller import schemas, mapping_to_schema
-from src.modules.es.utils.mapping import map_movie_to_index_schema, map_movie_to_index_schema_2, get_keys_of_given_schema
+from src.modules.es.utils.mapping import map_movie_to_schema_tmdb, map_movie_to_schema_tmdb_2, get_schema_fields_as_text_map
 from src.modules.db.index.db_index_service import DbIndexService
 
 from pathlib import Path
@@ -43,12 +43,12 @@ class EsService:
 
 
     def indexMovie(self, es_obj, data):
-        if not self.duplicationCheck(es_obj, data['imdb_id']):
+        if not self.duplicationCheckImdbId(es_obj, data['imdb_id']):
             index = DbIndexService.get_by_name(es_obj.name)
             data_mapped = mapping_to_schema[index.schema](data)
             es_obj.es.index(index=es_obj.name, body=data_mapped, refresh=True)
 
-            if self.duplicationCheck(es_obj, data['imdb_id']):
+            if self.duplicationCheckImdbId(es_obj, data['imdb_id']):
                 print(f'movie "{data["title"]}" indexed')
                 return 201, {'Etag': f'{data["title"]}: indexing successful.'}
             else:
@@ -95,39 +95,31 @@ class EsService:
         field = dto.field
         value = dto.value
         query = BasicSearch().exact_search_query(field, value)
-        print(query)
         size = dto.size
         search_results = es_obj.es.search(index=index, body=query, size=size)
         hits = [doc for doc in search_results['hits']['hits']]
-        for hit in hits:
-            print(hit['_source']['title'])
         return hits
 
 
     def singleFieldSearch(self, es_obj, dto):
         index = es_obj.name
-        field = dto.field.lower()
-        value = dto.value.lower()
+        field = dto.field
+        value = dto.value
         query = BasicSearch().single_field_query(field, value)
-        print(query)
         size = dto.size
         search_results = es_obj.es.search(index=index, body=query, size=size)
         hits = [doc for doc in search_results['hits']['hits']]
-        for hit in hits:
-            print(hit['_source']['title'])
         return hits
 
 
     def multiFieldSearch(self, es_obj, dto):
         index = es_obj.name
-        value = dto.value.lower()
+        value = dto.value
         query = BasicSearch().standard_search_query(value)
         print(query)
         size = dto.size
         search_results = es_obj.es.search(index=index, body=query, size=size)
         hits = [doc for doc in search_results['hits']['hits']]
-        for hit in hits:
-            print(hit['_source']['title'])
         return hits
 
 
@@ -223,7 +215,7 @@ class EsService:
             return None
     
 
-    def duplicationCheck(self, es_obj, imdb_id):
+    def duplicationCheckImdbId(self, es_obj, imdb_id):
         query = {
             "query": {
                 "term": {
@@ -236,3 +228,31 @@ class EsService:
             return False
         else:
             return True
+
+    
+    def duplicationCheckTmdbId(self, es_obj, tmdb_id):
+        query = {
+            "query": {
+                "term": {
+                    "tmdb_id": tmdb_id
+                }
+            }
+        }
+        result = es_obj.es.search(index=es_obj.name, body=query)
+        if result['hits']['total']['value'] == 0:
+            return False
+        else:
+            return True
+    
+
+    def getFieldsAsTextMap(self, es_obj):
+        index_mapping = es_obj.es.indices.get_mapping(index=es_obj.name)
+        fields = index_mapping[es_obj.name]['mappings']['properties'].keys()
+        as_text_map = get_schema_fields_as_text_map()
+        fields_as_text_map = {}
+
+        for field in as_text_map.keys():
+            if field in fields:
+                fields_as_text_map[field] = as_text_map[field]
+        
+        return fields_as_text_map

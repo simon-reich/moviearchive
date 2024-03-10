@@ -18,7 +18,7 @@ const searchMovie = async () => {
 </script>
 
 <template>
-  <header class="sticky h-18 bg-dark-800 text-white py-1">
+  <header class="sticky h-18 w-full bg-dark-800 text-white py-1">
     <div
       class="h-full flex justify-between items-center container mx-auto gap-2"
     >
@@ -56,6 +56,13 @@ const searchMovie = async () => {
 .input-frame {
   border-bottom: 1px solid white;
   background-color: black;
+}
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
 }
 
 </style>

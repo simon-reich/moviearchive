@@ -2,6 +2,10 @@
 import { UseIndexSearchStore } from "@/store/IndexSearchStore";
 
 const indexSearchStore = UseIndexSearchStore();
+
+onBeforeMount(async () => {
+  indexSearchStore.aggregateHighlights()
+});
 </script>
 
 <template>
@@ -15,6 +19,9 @@ const indexSearchStore = UseIndexSearchStore();
     <div>
       <index-modules-search-search-results 
         :searchResults="indexSearchStore.searchResults"
+        :highlightAggregation="indexSearchStore.highlightAggregation 
+          ? indexSearchStore.highlightAggregation 
+          : null" 
       ></index-modules-search-search-results>
     </div>
 

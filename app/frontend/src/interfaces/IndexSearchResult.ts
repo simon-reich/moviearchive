@@ -1,4 +1,7 @@
+import { Highlight } from "./Highlight";
+
 export interface IndexSearchResult {
+  score?: number;
   doc_id: string;
   imdb_id: string;
   title: string;
@@ -10,4 +13,5 @@ export interface IndexSearchResult {
   language: string[];
   country: string[];
   image: string;
+  highlight?: Highlight[];
 }

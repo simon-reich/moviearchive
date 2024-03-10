@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { UseIndexStore } from '@/store/IndexStore';
-import { IndexFolderDto } from '@/services/index/dtos/index-folder.dto';
+import { IndexByPathDto } from '@/services/index/dtos/index-by-path.dto';
 
 interface ComponentEmits {
   (e: "close"): void;
@@ -10,7 +10,7 @@ const indexStore = UseIndexStore()
 
 const emits = defineEmits<ComponentEmits>();
 
-const indexFolderDto = ref<IndexFolderDto>({
+const indexFolderDto = ref<IndexByPathDto>({
     path: "",
 })
 
@@ -24,7 +24,7 @@ const indexFolder = async () => {
 
 <template>
   <div class="grid grid-cols-2 gap-1">
-    <p>index name:</p>
+    <p>folder name:</p>
     <base-basic-input class="input" v-model="indexFolderDto.path"></base-basic-input>
 
     <div class="mt-4">

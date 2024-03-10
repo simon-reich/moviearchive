@@ -1,4 +1,4 @@
-def get_tmdb_schema_2():
+def get_schema_tmdb_2():
     return {
         'settings' : {
             'number_of_shards' : 1,

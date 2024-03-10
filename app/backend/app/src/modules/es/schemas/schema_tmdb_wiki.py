@@ -1,4 +1,4 @@
-def get_schema_tmdb():
+def get_schema_tmdb_wiki():
     return {
         'settings' : {
             'number_of_shards' : 1,
@@ -15,7 +15,7 @@ def get_schema_tmdb():
                             'stop',
                             'kstem',
                         ]   
-                    }
+                    },
                 },
             }
         },
@@ -36,7 +36,6 @@ def get_schema_tmdb():
                     'type' : 'text',
                     'index' : 'true',
                     'analyzer' : 'custom_analyzer',
-                    # multi-field
                     'fields' : {
                         'raw' : {
                             'type' : 'keyword',
@@ -48,7 +47,6 @@ def get_schema_tmdb():
                     'type' : 'text',
                     'index' : 'true',
                     'analyzer' : 'custom_analyzer',
-                    # multi-field
                     'fields' : {
                         'raw' : {
                             'type' : 'keyword',
@@ -74,48 +72,138 @@ def get_schema_tmdb():
                 },
                 'synopsis' : {
                     'type': 'text',
-                    'index' : 'true',
-                    'analyzer' : 'custom_analyzer'
+                    'index': 'true',
+                    'analyzer': 'custom_analyzer'
                 },
                 'director_list' : {
                     'type': 'keyword',
                     'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'writer_list' : {
                     'type': 'keyword',
                     'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'main_cast' : {
                     'type': 'keyword',
                     'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'full_cast' : {
                     'type': 'flattened',
                     'index' : 'true',
                 },
+                'full_cast_names' : {
+                    'type': 'keyword',
+                    'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
+                },
                 'full_crew' : {
-                    'type' : 'flattened',
-                    'index' : 'true'
+                    'type': 'flattened',
+                    'index': 'true',
+                },
+                'full_crew_names' : {
+                    'type': 'keyword',
+                    'index': 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'genre_list' : {
-                    'type' : 'keyword',
-                    'index' : 'true'
+                    'type': 'keyword',
+                    'index': 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'country_list' : {
                     'type' : 'flattened',
-                    'index' : 'true'
+                    'index' : 'true',
+                },
+                'country_list_names' : {
+                    'type' : 'keyword',
+                    'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'language_list' : {
                     'type' : 'flattened',
-                    'index' : 'true'
+                    'index' : 'true',
+                },
+                'language_list_names' : {
+                    'type' : 'keyword',
+                    'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'company_list' : {
                     'type' : 'flattened',
-                    'index' : 'true'
+                    'index' : 'true',
+                },
+                'company_list_names' : {
+                    'type' : 'keyword',
+                    'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'keyword_list' : {
                     'type' : 'keyword',
-                    'index' : 'true'
+                    'index' : 'true',
+                    'fields': {
+                        'text': {
+                            'type': 'text',
+                            'index': 'true',
+                            'analyzer': 'custom_analyzer',
+                        }
+                    }
                 },
                 'content_rating' : {
                     'type' : 'keyword',
@@ -167,8 +255,36 @@ def get_schema_tmdb():
                 },
                 'personal_notes' : {
                     'type' : 'text',
-                    'index' : 'true'
-                }         
+                    'index' : 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'wikipedia_url': {
+                    'type' : 'keyword',
+                    'index' : 'false'
+                },
+                'wikipedia_plot': {
+                    'type' : 'text',
+                    'index' : 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'wikipedia_plot_html': {
+                    'type' : 'text',
+                    'index' : 'false'
+                },
+                'wikipedia_summary': {
+                    'type' : 'text',
+                    'index' : 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'wikipedia_critics': {
+                    'type' : 'text',
+                    'index' : 'true',
+                    'analyzer': 'custom_analyzer'
+                },
+                'wikipedia_full_html': {
+                    'type' : 'text',
+                    'index' : 'false'
+                },
             }
         }
     }

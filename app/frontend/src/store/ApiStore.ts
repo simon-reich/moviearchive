@@ -2,6 +2,7 @@ import { ApiService } from "../services/api/ApiService";
 import { TmdbApiSearchResult } from "../interfaces/TmdbApiSearchResult";
 import { defineStore } from "pinia";
 import { IndexMovieDto } from "@/services/api/dtos/index-movie.dto";
+import { IndexByFileDto } from "@/services/api/dtos/index-by-file.dto";
 
 export type ArchiveSearchStore = {
   searchResults: TmdbApiSearchResult[] | undefined;
@@ -25,15 +26,18 @@ export const UseApiStore = defineStore("api", {
 
     async indexMovie(dto: IndexMovieDto) {
       const response = await ApiService.indexMovie(dto);
-      if (response && response.data === 201 && response.status === 200) {
-        this.removeSearchResult(dto.tmdb_id);
-      }
+      return response;
     },
 
     removeSearchResult(tmdbId: number) {
       this.searchResults = this.searchResults?.filter(
         (movie: TmdbApiSearchResult) => movie.id !== tmdbId
       );
+    },
+
+    async indexByFile(dto: IndexByFileDto) {
+      const response = await ApiService.indexByFile(dto);
+      return response; 
     },
   },
 

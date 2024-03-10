@@ -11,9 +11,8 @@ ES_INDEX_NAME = 'movietest6'
 singleFieldSearch_post_args = reqparse.RequestParser()
 advancedSearch_post_args = reqparse.RequestParser()
 createIndex_post_args = reqparse.RequestParser()
-indexFolder_post_args = reqparse.RequestParser()
 editDoc_post_args = reqparse.RequestParser()
-
+indexFolder_post_args = reqparse.RequestParser()
 
 class Es(Resource):
     def __init__(self):
@@ -164,18 +163,6 @@ class EsIndexing(Es):
             return EsService().indexMovie(self, data)
 
 
-class EsIndexFolder(Es):
-    resource = '/es/indexing/<string:indexName>/index-folder'
-
-    indexFolder_post_args.add_argument('path', type=str)    
-
-    def post(self, indexName):
-        self.name = indexName
-        dto = indexFolder_post_args.parse_args()
-        if self.test_connection and self.check_index_exists:
-            return EsService().indexFolder(self, dto)
-
-
 class EsEditValues(Es):
     resource = '/es/edit/<string:indexName>'
 
@@ -197,3 +184,31 @@ class EsDeleteMovieByDocId(Es):
         self.name = indexName
         if self.test_connection and self.check_index_exists:
             return EsService().deleteDocByDocId(self, docId)
+
+
+class EsIndexFolder(Es):
+    resource = '/es/indexing/<string:indexName>/index-folder'
+
+    indexFolder_post_args.add_argument('path', type=str)    
+
+    def post(self, indexName):
+        self.name = indexName
+        dto = indexFolder_post_args.parse_args()
+        if self.test_connection and self.check_index_exists:
+            return EsService().indexFolder(self, dto)
+
+
+class EsGetFieldsAsTextMap(Es):
+    resource = '/es/fields/<string:indexName>'
+
+    def get(self, indexName):
+        self.name = indexName
+        if self.test_connection and self.check_index_exists:
+            return EsService().getFieldsAsTextMap(self)
+
+
+class EsDuplicationCheck(Es):
+    def duplication_check(self, index_name, tmdb_id):
+        self.name = index_name
+        if self.test_connection and self.check_index_exists:
+            return EsService().duplicationCheckTmdbId(self, tmdb_id)

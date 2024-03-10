@@ -1,7 +1,7 @@
 import json
 
 
-def map_movie_to_index_schema(movie):
+def map_movie_to_schema_tmdb(movie):
     movie_mapped = {
         'tmdb_id': movie['id'],
         'imdb_id': movie['imdb_id'],
@@ -39,7 +39,7 @@ def map_movie_to_index_schema(movie):
     return movie_mapped
 
 
-def map_movie_to_index_schema_2(movie):
+def map_movie_to_schema_tmdb_2(movie):
     movie_mapped = {
         'tmdb_id': movie['id'],
         'imdb_id': movie['imdb_id'],
@@ -79,7 +79,104 @@ def map_movie_to_index_schema_2(movie):
     }
     return movie_mapped
 
+def map_movie_to_schema_tmdb_wiki(movie):
+    movie_mapped = {
+        'tmdb_id': movie['id'],
+        'imdb_id': movie['imdb_id'],
+        'title': movie['title'],
+        'original_title': movie['original_title'],
+        'year': movie['year'],
+        'poster': movie['poster_path'],
+        'release_date': movie['release_date'] if len(movie['release_date']) > 1 else '1999-12-31',
+        'runtime': movie['runtime'] if isinstance(movie['runtime'], int) else None,
+        'synopsis': movie['overview'],
+        'director_list': movie['director_list'],
+        'writer_list': movie['writer_list'],
+        'main_cast': movie['main_cast'],
+        'full_cast': movie['credits']['cast'],
+        'full_cast_names': [item['name'] for item in movie['credits']['cast']],
+        'full_crew': movie['credits']['crew'],
+        'full_crew_names': [item['name'] for item in movie['credits']['crew']],
+        'genre_list': [item['name'] for item in movie['genres']],
+        'country_list': movie['production_countries'],
+        'country_list_names': [item['name'] for item in movie['production_countries']],
+        'language_list': movie['spoken_languages'],
+        'language_list_names': [item['name'] for item in movie['spoken_languages']],
+        'company_list': movie['production_companies'],
+        'company_list_names': [item['name'] for item in movie['production_companies']],
+        'keyword_list': [item['name'] for item in movie['keywords']['keywords']],
+        'boxoffice': movie['revenue'],
+        'content_rating': movie['rated'],
+        'imdb_link': f'https://www.imdb.com/title/{movie["imdb_id"]}',
+        'imdb_votes': int(movie['imdb_votes'].replace(',', '')) if movie['imdb_votes'] else None,
+        'rating_list': movie['ratings'],
+        'poster_list': movie['images']['posters'],
+        'backdrop_list': movie['images']['backdrops'],
+        'video_list': movie['videos']['results'],
+        'trailer': max((v for v in movie['videos']['results'] if v["type"] == "Trailer"), key=lambda x: x["published_at"]) if any('Trailer' in v['type'] for v in movie['videos']['results']) else None,
+        'watched': None,
+        'personal_rating': None,
+        'personal_notes': None,
+        'wikipedia_url': movie['wikipedia_url'],
+        'wikipedia_plot': movie['wikipedia_plot'],
+        'wikipedia_plot_html': movie['wikipedia_plot_html'],
+        'wikipedia_summary': movie['wikipedia_summary'],
+        'wikipedia_critics': movie['wikipedia_critics'],
+        'wikipedia_full_html': movie['wikipedia_full_html'],
+    }
+    try:
+        movie_mapped['imdb_rating'] = float(movie['imdb_rating'])
+    except:
+        print(f'converting imdb_rating to float impossible: {movie["imdb_rating"]}')
+    finally:
+        movie_mapped['imdb_rating'] = None
+    
+    return movie_mapped
 
-def get_keys_of_given_schema(schema):
-    schema_dict = json.loads(schema)
-    return schema_dict['mappings']['properties'].keys()
+
+def get_schema_fields_as_text_map():
+    return {
+        "tmdb_id": "TMDb ID",
+        "imdb_id": "IMDb ID",
+        "title": "Title",
+        "original_title": "Title (original)",
+        "year": "Year",
+        "release_date": "Release Date",
+        "runtime": "Runtime",
+        "poster": "Poster",
+        "synopsis": "Plot",
+        "director_list": "Directors",
+        "writer_list": "Writers",
+        "main_cast": "Main Cast",
+        "full_cast": "Cast",
+        "full_cast_names": "Cast",
+        "full_crew": "Crew",
+        "full_crew_names": "Crew",
+        "genre_list": "Genres",
+        "country_list": "Countries",
+        "country_list_names": "Countries",
+        "language_list": "Languages",
+        "language_list_names": "Languages",
+        "Company_list": "Companies",
+        "Company_list_names": "Companies",
+        "keyword_list": "Keywords",
+        "content_rating": "Content Rating",
+        "box_office": "Box Office",
+        "imdb_link": "IMDb Link",
+        "imdb_rating": "IMDb Rating",
+        "imdb votes": "IMDb Votes",
+        "rating_list": "Ratings",
+        "poster_list": "Posters",
+        "backdrop_list": "Backdrops",
+        "video_list": "Videos",
+        "trailer": "Trailer",
+        "watched": "Watched",
+        "personal_rating": "Personal Rating",
+        "personal_notes": "Personal Notes",
+        "wikiperdia_url": "Wikipedia URL",
+        "wikipedia_plot": "Plot (Wikipedia)",
+        "wikipedia_plot_html": "Plot (Wikipedia)",
+        "wikipedia_summary": "Summary (Wikipedia)",
+        "wikipedia_critics": "Reception (Wikipedia)",
+        "wikipedia_full_html": "Wikipedia"
+    }

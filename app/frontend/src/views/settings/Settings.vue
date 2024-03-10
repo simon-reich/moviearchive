@@ -31,6 +31,8 @@ onBeforeMount(async () => {
                 <settings-create-index-button :modalTitle="'create index'"></settings-create-index-button>
                 
                 <settings-index-folder-button :modalTitle="'index folder'"></settings-index-folder-button>
+
+                <settings-index-by-file-button :modalTitle="'index by file'"></settings-index-by-file-button>
             </div>
         </div>
 

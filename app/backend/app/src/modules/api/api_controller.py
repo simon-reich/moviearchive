@@ -3,6 +3,7 @@ from src.modules.api.api_service import ApiService
 
 apiSearch_args = reqparse.RequestParser()
 indexMovie_args = reqparse.RequestParser()
+indexByFile_post_args = reqparse.RequestParser()
 
 class Api(Resource):
     pass
@@ -24,7 +25,20 @@ class ApiIndexMovie(Api):
 
     indexMovie_args.add_argument("index_name", type=str)
     indexMovie_args.add_argument("tmdb_id", type=str)
+    indexMovie_args.add_argument("wikipedia", type=bool)
 
     def post(self):
         dto = indexMovie_args.parse_args()
         return ApiService.index_movie(dto)
+
+
+class ApiIndexByFile(Api):
+    resource = '/api/index-by-file'
+
+    indexByFile_post_args.add_argument("index_name", type=str)
+    indexByFile_post_args.add_argument('path', type=str)    
+    indexByFile_post_args.add_argument("wikipedia", type=bool)  
+
+    def post(self):
+        dto = indexByFile_post_args.parse_args()
+        return ApiService.index_by_file(dto)

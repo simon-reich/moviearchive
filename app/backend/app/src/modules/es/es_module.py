@@ -13,7 +13,8 @@ from src.modules.es.es_controller import (
     EsEditValues, 
     EsDeleteMovieByDocId,
     EsGetIndexMappingInfo,
-    EsGetIndex
+    EsGetIndex,
+    EsGetFieldsAsTextMap
 )
 
 
@@ -33,5 +34,6 @@ class EsModule:
         "editDoc": EsEditValues,
         "deleteMovieByDocId": EsDeleteMovieByDocId,
         "getIndexMappingInfo": EsGetIndexMappingInfo,
-        "getIndex": EsGetIndex
+        "getIndex": EsGetIndex,
+        "getFieldsAsTextMap": EsGetFieldsAsTextMap,
     }

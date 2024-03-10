@@ -1,5 +1,5 @@
-export interface IndexMovieDto {
+export interface IndexByFileDto {
     index_name: string | null;
-    tmdb_id: number;
+    path: string;
     wikipedia?: boolean;
 }

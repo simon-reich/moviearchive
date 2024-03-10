@@ -31,3 +31,6 @@ def year_to_century(year: str):
         year = int(year) + 100
         year = f"{str(year)[:-2]}th" 
         return year
+
+def analyze_query(query: str):
+    query = query.strip()

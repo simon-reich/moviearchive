@@ -116,7 +116,6 @@ const props = defineProps<ComponentProps>();
         :infoValue="movie.company_list.value"
       ></index-modules-movies-movie-info-list>
       
-
       <!-- CONTENT RATING -->
       <index-modules-movies-movie-info-item
         :info="'Content rating'"

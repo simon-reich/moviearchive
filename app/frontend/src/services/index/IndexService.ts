@@ -8,7 +8,7 @@ import { CreateIndexDto } from './dtos/create-index.dto';
 import { Index } from '@/interfaces/Index';
 import { EditIndexDto } from './dtos/edit-index.dto';
 import { UseIndexStore } from '@/store/IndexStore';
-import { IndexFolderDto } from './dtos/index-folder.dto';
+import { IndexByPathDto } from './dtos/index-by-path.dto';
 
 export const IndexService = {
   createIndex: async (dto: CreateIndexDto) => {
@@ -93,6 +93,7 @@ export const IndexService = {
       const response = await axios.post(url, dto);
       const movies: IndexSearchResult[] = response.data.map((data: any) => {
         return {
+          score: data._score,
           doc_id: data._id,
           imdb_id: data._source.imdb_id,
           title: data._source.title,
@@ -106,6 +107,7 @@ export const IndexService = {
           image: data._source.poster,
         };
       });
+      console.log(movies);
       return movies;
     } catch (err) {
       console.log(err);
@@ -120,6 +122,7 @@ export const IndexService = {
       const response = await axios.post(url, dto);
       const movies: IndexSearchResult[] = response.data.map((data: any) => {
         return {
+          score: data._score,
           doc_id: data._id,
           imdb_id: data._source.imdb_id,
           title: data._source.title,
@@ -133,6 +136,7 @@ export const IndexService = {
           image: data._source.poster,
         };
       });
+      console.log(movies);
       return movies;
     } catch (err) {
       console.log(err);
@@ -143,11 +147,12 @@ export const IndexService = {
   multiFieldSearch: async (dto: BasicQuery) => {
     const indexName = await UseIndexStore().getSelectedOrDefault();
     const url = `${import.meta.env.VITE_BACKEND_URL}es/search/multi-field/${indexName}`;
-    console.log(url);    
     try {
       const response = await axios.post(url, dto);
+      console.log(response);
       const movies: IndexSearchResult[] = response.data.map((data: any) => {
         return {
+          score: data._score,
           doc_id: data._id,
           imdb_id: data._source.imdb_id,
           title: data._source.title,
@@ -159,8 +164,15 @@ export const IndexService = {
           language: data._source.language_list.map((obj: any) => obj.name),
           country: data._source.country_list.map((obj: any) => obj.name),
           image: data._source.poster,
+          highlight: data.highlight 
+            ? Object.entries(data.highlight).map(([field, values]) => ({
+              field,
+              values
+            })) 
+            : null 
         };
       });
+      console.log(movies);
       return movies;
     } catch (err) {
       console.log(err);
@@ -265,7 +277,7 @@ export const IndexService = {
   },
 
 
-  indexFolder: async (dto: IndexFolderDto) => {
+  indexFolder: async (dto: IndexByPathDto) => {
     const indexName = await UseIndexStore().getSelectedOrDefault();
     const url = `${import.meta.env.VITE_BACKEND_URL}es/indexing/${indexName}/index-folder`;
     try {
@@ -276,4 +288,15 @@ export const IndexService = {
     }
   },
 
+
+  getFieldsAsTextMap: async () => {
+    const indexName = await UseIndexStore().getSelectedOrDefault();
+    const url = `${import.meta.env.VITE_BACKEND_URL}es/fields/${indexName}`;
+    try {
+      const response = await axios.get(url);
+      return response;
+    } catch (err) {
+      console.log(err);
+    }
+  },
 };

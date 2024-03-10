@@ -20,200 +20,125 @@ const toggleFullCast = () => {
 
 onBeforeMount(async () => {
   const response = await indexSearchStore.getMovieByImdbId(props.imdbId)
-  const data = await response[0]._source;
-  data.doc_id = response[0]._id
-  console.log(data);
-  
-  // create objects for each movie property with 
-  // key=*property as string*
-  // value=*value of property*
-  // to make property as string available 
-  for (let i = 0; i < Object.keys(data).length; i++) {
-    const key = Object.keys(data)[i];
-    data[key] = { key: key, value: data[key] };
-  }
-  
-  movie.value = data;
+  if (response.length > 0) {
+    const data = await response[0]._source;
+    data.doc_id = response[0]._id
+    
+    // create objects for each movie property with 
+    // key=*property as string*
+    // value=*value of property*
+    // to make property as string available 
+    for (let i = 0; i < Object.keys(data).length; i++) {
+      const key = Object.keys(data)[i];
+      data[key] = { key: key, value: data[key] };
+    }
+    
+    movie.value = data;
 
-  // create list of backdrops and chose random value from it for backdrop variable
-  const backdrops = data.backdrop_list.value.filter((item: Image) => item.height >= 720 && item.width >= 1280);
-  backdrop.value = backdrops[Math.floor(Math.random() * backdrops.length)].file_path;
+    // create list of backdrops and chose random value from it for backdrop variable
+    const backdrops = data.backdrop_list.value.filter((item: Image) => item.height >= 720 && item.width >= 1280);
+    backdrop.value = backdrops[Math.floor(Math.random() * backdrops.length)].file_path;
+  }
 });
 
 </script>
 
 <template>
-  <app-header-basic-search></app-header-basic-search>
-
-  <!-- blurry fixed background image -->
-  <div v-if="backdrop" class="fixed-background">
+    <!-- blurry fixed background image -->
+    <div v-if="backdrop" class="fixed-background">
       <img 
         :src="`https://image.tmdb.org/t/p/original${backdrop}`" 
         alt="Background Image"
       >
   </div>
 
-  <div v-if="movie" class="content p-8 h-full px-10 mx-20">
-    <div class="grid grid-cols-3 gap-10 text-shadow-md">
-      
-      <!-- movie poster image (middle) -->
-      <index-modules-movies-movie-poster
-        :posterLink="movie.poster.value">
-      </index-modules-movies-movie-poster>
+  <div class="screen">
+    <app-header-basic-search></app-header-basic-search>
+    
+    <div class="grid-container">
 
-       <!-- general movie infos (left) -->
-       <index-modules-movies-movie-infos 
-        :movie="movie"
-      ></index-modules-movies-movie-infos>
-      
-      <!-- trailer + keywords (right) -->
-      <div class="grid grid-cols-1 w-full h-full">
-        <!-- trailer -->
-        <div class="flex flex-col w-full h-full items-center justify-center">
-          <index-modules-movies-movie-trailer 
-            :movieTrailerLink="movie.trailer.value ? movie.trailer.value.key : null"
-            :movieTrailerImgLink="backdrop"
-          ></index-modules-movies-movie-trailer>
-        </div>
+      <div class="grid grid-cols-1 gap-10"> 
 
-        <!-- keywords -->
-        <div>
-          <index-modules-movies-movie-keywords
-            class="flex flex-col h-full justify-end"
-            :keywordsKey="movie.keyword_list.key"
-            :keywordsValue="movie.keyword_list.value ? movie.keyword_list.value : null"
-          ></index-modules-movies-movie-keywords>
-        </div>
-      </div>
+        <!-- MAIN INFOS -->
+        <div v-if="movie" class="grid grid-cols-3 gap-10 bg-transparent text-shadow-md">   
+          <!-- movie poster image (left) -->
+          <img
+            class="hover:opacity-80 image"
+            :src="`https://image.tmdb.org/t/p/original${movie.poster.value}`"
+            alt="Movie Poster"
+          />
 
-      <!-- cast -->
-      <div>
-      {{ `https://image.tmdb.org/t/p/original${backdrop}` }}
-      {{ `https://image.tmdb.org/t/p/original${movie.poster.value}` }}
-
-        <index-modules-movies-movie-cast
-          class=""
-          :fullCast="movie.full_cast.value"
-        ></index-modules-movies-movie-cast>
-      </div>
-      
-      <!-- main crew -->
-      <div>
-        <index-modules-movies-movie-crew-main
-          class=""
-          :fullCrew="movie.full_crew.value"
-        ></index-modules-movies-movie-crew-main>
-      </div>
-
-      <!-- additional crew -->
-      <div>
-        <index-modules-movies-movie-crew-additional
-          class=""
-          :fullCrew="movie.full_crew.value"
-        ></index-modules-movies-movie-crew-additional>
-      </div>
-
-
-
-      <!-- <div class="col-span-2 justify-self-center mt-10 font-semibold">
-        <p v-if="movie.main_cast.value.length > 1">Starring</p>
-      </div>
-      <div class="col-span-2 justify-self-center text-center">
-        <span v-for="(obj, index) in movie.main_cast.value" :key="obj.imdbId">
-          <base-db-link
-            :field="movie.main_cast.key"
-            :value="obj"
-            :searchOption="'exact'"
-          >
-            <span
-              v-if="
-                movie.main_cast.value.length > 1 &&
-                index < movie.main_cast.value.length - 1
-              "
-              >,
-            </span>
-          </base-db-link>
-        </span>
-      </div> -->
-
-      <!-- <div
-        class="col-span-2 justify-self-center mt-10 font-semibold text-center hover:cursor-pointer"
-        @click="toggleFullCast()"
-      >
-        <p>Full Cast</p>
-        <icon-iconoir:arrow-down v-if="!fullCast"></icon-iconoir:arrow-down>
-      </div>
-      <div v-if="fullCast" class="col-span-2">
-        <div>
-          <span v-for="obj in movie.fullCast.value.actors" :key="obj.imdbId">
-            <div class="grid grid-cols-2 gap-10">
-              <div class="justify-self-end">
-                <p>{{ obj.asCharacter }}</p>
-              </div>
-              <base-db-link
-                class="justify-self-start"
-                :field="movie.fullCast.key"
-                :value="obj.name"
-                :searchOption="'exact'"
-              >
-              </base-db-link>
+          <!-- general movie infos (middle) -->
+          <index-modules-movies-movie-infos 
+            :movie="movie"
+          ></index-modules-movies-movie-infos>
+          
+          <!-- trailer + keywords (right) -->
+          <div class="grid grid-cols-1">
+            <!-- trailer -->
+            <div class="flex flex-col h-full items-center justify-center">
+              <index-modules-movies-movie-trailer 
+                :movieTrailerLink="movie.trailer.value ? movie.trailer.value.key : null"
+                :movieTrailerImgLink="backdrop"
+              ></index-modules-movies-movie-trailer>
             </div>
-          </span>
-        </div>
 
-        <div class="">
-          <div
-            class="col-span-2 justify-self-center mt-5"
-            v-for="obj in movie.fullCast.value.others"
-            :key="obj.job"
-          >
-            <p class="text-center mb-2">{{ obj.job }}</p>
-            <div class="">
-              <span v-for="item in obj.items" :key="item.imdbId">
-                <div class="grid grid-cols-2 gap-10">
-                  <div class="justify-self-end" v-if="item.description !== ''">
-                    <p>{{ item.description }}</p>
-                  </div>
-                  <div
-                    :class="
-                      item.description !== ''
-                        ? 'justify-self-start'
-                        : 'col-span-2 justify-self-center text-center'
-                    "
-                  >
-                    <base-db-link
-                      :field="movie.fullCast.key"
-                      :value="item.name"
-                      :searchOption="'exact'"
-                    ></base-db-link>
-                  </div>
-                </div>
-              </span>
+            <!-- keywords -->
+            <div>
+              <index-modules-movies-movie-keywords
+                class="flex flex-col h-full justify-end"
+                :keywordsKey="movie.keyword_list.key"
+                :keywordsValue="movie.keyword_list.value ? movie.keyword_list.value : null"
+              ></index-modules-movies-movie-keywords>
             </div>
           </div>
-        </div>
-      </div> -->
 
-      <!-- <div class="w-50 h-50">
-      <img
-        v-for="poster in movie.posterList"
-        :key="poster.imdbId"
-        :src="poster.link"
-        alt="poster"
-      />
-    </div> -->
+        </div>
+
+        <div v-if="movie.wikipedia_summary" class="mx-60">
+          <p>{{ movie.wikipedia_summary.value }}</p>
+        </div>
+
+        <div v-if="movie.wikipedia_plot" class="mx-60">
+          <p>{{ movie.wikipedia_plot.value }}</p>
+        </div>
+      
+        <!-- ADDITIONAL INFOS -->
+        <div class="grid grid-cols-3 gap-10 bg-transparent text-shadow-md">
+          <!-- cast -->
+          <div>
+            <index-modules-movies-movie-cast
+              class=""
+              :fullCast="movie.full_cast.value"
+            ></index-modules-movies-movie-cast>
+          </div>
+          
+          <!-- main crew -->
+          <div>
+            <index-modules-movies-movie-crew-main
+              class=""
+              :fullCrew="movie.full_crew.value"
+            ></index-modules-movies-movie-crew-main>
+          </div>
+
+          <!-- additional crew -->
+          <div>
+            <index-modules-movies-movie-crew-additional
+              class=""
+              :fullCrew="movie.full_crew.value"
+            ></index-modules-movies-movie-crew-additional>
+          </div>
+        </div>
+
+      </div>
     </div>
   </div>
+
+  
+
 </template>
 
 <style scoped lang="postcss">
-
-.jobs {
-  display: grid;
-  gap: 2em;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-}
-
 .fixed-background {
   position: fixed;
   top: 0;
@@ -231,8 +156,20 @@ onBeforeMount(async () => {
   filter: blur(10px);
 }
 
-.content {
-  position: relative;
-  z-index: 10; 
+.screen {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; 
+}
+
+.grid-container {
+  flex: 1; /* Fill the remaining vertical space */
+  height: calc(100vh - 4.5rem);
+}
+
+.image {
+  width: 100%; /* Make the image take 100% width of its container */
+  height: 100%; /* Make the image take 100% height of its container */
+  object-fit: cover;
 }
 </style>

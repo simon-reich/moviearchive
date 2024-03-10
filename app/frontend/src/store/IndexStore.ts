@@ -3,7 +3,7 @@ import { MovieEditableFields } from "@/interfaces/MovieEditableFields";
 import { IndexService } from "@/services/index/IndexService";
 import { CreateIndexDto } from "@/services/index/dtos/create-index.dto";
 import { EditIndexDto } from "@/services/index/dtos/edit-index.dto";
-import { IndexFolderDto } from "@/services/index/dtos/index-folder.dto";
+import { IndexByPathDto } from "@/services/index/dtos/index-by-path.dto";
 import { defineStore } from "pinia";
 
 export type IndexStore = {
@@ -72,10 +72,15 @@ export const UseIndexStore = defineStore("index", {
       return this.selected ? this.selected.index : null;
     },
 
-    async indexFolder(dto: IndexFolderDto) {
+    async indexFolder(dto: IndexByPathDto) {
       const response = await IndexService.indexFolder(dto);
       return response; 
-    }
+    },
+
+    async getFieldsAsTextMap() {
+      const response = await IndexService.getFieldsAsTextMap();
+      return response;
+    },
   },
 
   getters: {},
