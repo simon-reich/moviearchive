@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv(".env.database")
+load_dotenv("../.env.database")
 
 BASEDIR = os.path.abspath(os.path.dirname(__file__))
 

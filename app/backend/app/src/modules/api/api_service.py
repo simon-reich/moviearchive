@@ -4,14 +4,18 @@ from src.modules.api.utils.file_management import create_file_path, save_movie_d
 from src.modules.es.utils.mapping import map_movie_to_schema_tmdb, map_movie_to_schema_tmdb_2
 from src.modules.es.es_controller import EsIndexing, EsDuplicationCheck
 
+from dotenv import dotenv_values
+import os
+
+api_vars = dotenv_values('../.env.api')
+
 FILE_PATH = '../movie_data/'
 
-TMDB_API_KEY = 'bbc0475142b24145391bfe1be6b14418'
-TMDB_API_URL = 'https://api.themoviedb.org/3'
+TMDB_API_KEY = api_vars['TMDB_API_KEY']
+TMDB_API_URL = api_vars['TMDB_API_URL']
 
-OMDB_API_KEY = 'fe2f032f'
-OMDB_API_URL = 'http://www.omdbapi.com'
-
+OMDB_API_KEY = api_vars['OMDB_API_KEY']
+OMDB_API_URL = api_vars['OMDB_API_URL']
 
 class ApiService:
     def search(query):
