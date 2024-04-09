@@ -22,13 +22,31 @@ npm install -g pnpm
 -> go to folder with package.json
 pnpm install
 
-7. start vite:
+7. create .env file in /frontend for local test run:
+
+.env:
+VITE_BACKEND_URL='http://localhost:5000/'
+VITE_QUERY_FIELD='title'
+ITE_DB_DATA_ARRAY_SIZE=1000
+
+8. start vite:
 npm run dev 
 
 
 Backend:
 
-1. download docker containers of ElasticSearch and PostgreSQL
+1. create .env files in /backend/app for local test run:
+
+.env.database:
+DB_USER=postgres
+DB_PASSWORD=password
+DB=postgres
+
+.env.elasticsearch:
+bootstrap.memory_lock=true
+discovery.type=single-node
+
+2. download docker containers of ElasticSearch and PostgreSQL
 -> go to backend
 docker-compose up
 
