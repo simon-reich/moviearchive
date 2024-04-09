@@ -1,5 +1,4 @@
 from src.modules.db.index.db_index_model import DbIndexModel
-from src.modules.db.database import db
 
 class DbIndexService:
     def get_by_id(id):
@@ -20,7 +19,10 @@ class DbIndexService:
     
     def create_index(index):
         new_index = DbIndexModel.create(index)
-        return {"message": f"index {new_index.name} {new_index.id} has been created successfully."}
+        if new_index:
+            return {"message": f"index {new_index.name} {new_index.id} has been created successfully."}
+        else:
+            return False
     
     def delete_by_id(id):
         return DbIndexModel.delete_by_id(id)

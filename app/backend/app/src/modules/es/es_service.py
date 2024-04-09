@@ -1,8 +1,6 @@
 from src.modules.es.types.search_queries import BasicSearch
 from src.modules.es.dtos.search_dto import BasicSearchDto
-from src.modules.es.schemas.schema_tmdb import get_schema_tmdb
-from src.modules.es.utils.schema_controller import schemas, mapping_to_schema
-from src.modules.es.utils.mapping import map_movie_to_schema_tmdb, map_movie_to_schema_tmdb_2, get_schema_fields_as_text_map
+from src.modules.es.utils.schema_controller import SchemaController
 from src.modules.db.index.db_index_service import DbIndexService
 
 from pathlib import Path
@@ -16,17 +14,23 @@ PATH_TO_MOVIE_FILES = '../movie_data'
 class EsService:
     def createIndex(self, es_obj, dto):
         index_name = dto.name
-        index_schema = schemas[dto.schema]
-        return es_obj.es.indices.create(index=index_name, body=index_schema)
+        index_schema = SchemaController().schemas[dto.schema]
+        if DbIndexService.create_index(dto):
+            print(f"Index {dto.name} was successfully created.")
+            return es_obj.es.indices.create(index=index_name, body=index_schema)
 
 
     def deleteIndex(self, es_obj):
         response = es_obj.es.indices.delete(index=es_obj.name)
         if 'acknowledged' in response and response['acknowledged']:
-            print(f"Index {index_name} was successfully deleted.")
-            return response
+            if DbIndexService.delete_by_name(es_obj.name):
+                print(f"Index {es_obj.name} was successfully deleted.")
+                return response
+            else:
+                print(f"Failed to delete index {index_name} in database.")
+                return response
         else:
-            print(f"Failed to delete index {index_name}.")
+            print(f"Failed to delete index {index_name} via elasticsearch.")
             return response
 
 
@@ -45,7 +49,7 @@ class EsService:
     def indexMovie(self, es_obj, data):
         if not self.duplicationCheckImdbId(es_obj, data['imdb_id']):
             index = DbIndexService.get_by_name(es_obj.name)
-            data_mapped = mapping_to_schema[index.schema](data)
+            data_mapped = SchemaController().mapping_to_schema[index.schema](data)
             es_obj.es.index(index=es_obj.name, body=data_mapped, refresh=True)
 
             if self.duplicationCheckImdbId(es_obj, data['imdb_id']):
@@ -74,6 +78,7 @@ class EsService:
             for file in files:
                 with Path(file).open('r') as moviefile:
                     movie = json.load(moviefile)
+                    print(movie['title'])
                     response = self.indexMovie(es_obj, movie)
                     if response[0] == 201:
                         print(response[1]['Etag'])
@@ -248,7 +253,7 @@ class EsService:
     def getFieldsAsTextMap(self, es_obj):
         index_mapping = es_obj.es.indices.get_mapping(index=es_obj.name)
         fields = index_mapping[es_obj.name]['mappings']['properties'].keys()
-        as_text_map = get_schema_fields_as_text_map()
+        as_text_map = SchemaController().get_schema_fields_as_text()
         fields_as_text_map = {}
 
         for field in as_text_map.keys():

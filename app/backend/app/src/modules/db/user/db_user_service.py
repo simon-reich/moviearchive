@@ -1,5 +1,4 @@
 from src.modules.db.user.db_user_model import DbUserModel
-from src.modules.db.database import db
 
 class DbUserService:
     def get_by_id(id):

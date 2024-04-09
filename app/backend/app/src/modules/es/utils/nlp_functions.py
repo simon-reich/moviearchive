@@ -10,7 +10,7 @@ def check_if_string_is_year(string):
 
 
 def check_if_string_is_releaseYear(string):
-        if int(string) > 1950 and int(string) < int(datetime.datetime.now().year):
+        if int(string) > 1900 and int(string) < int(datetime.datetime.now().year):
             return True
 
 
