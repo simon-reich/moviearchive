@@ -2,7 +2,6 @@
 import { UseIndexStore } from '@/store/IndexStore';
 import { Schemas } from '@/enums/Schemas';
 import { CreateIndexDto } from '@/services/index/dtos/create-index.dto';
-import { DatabaseService } from "@/services/database/DatabaseService";
 
 interface ComponentEmits {
   (e: "close"): void;
@@ -21,8 +20,7 @@ const createIndexDto = ref<CreateIndexDto>({
 
 const createIndex = async () => {
   const response_index = await indexStore.createIndex(createIndexDto.value)
-  const response_db = await DatabaseService.createIndex(createIndexDto.value)
-  console.log(`${response_index} ${response_db}`);
+  console.log(`${response_index}`);
   emits('close');
 }
 </script>

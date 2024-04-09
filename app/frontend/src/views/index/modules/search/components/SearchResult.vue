@@ -4,6 +4,7 @@ import { router } from "@/routes";
 interface ComponentProps {
   imdbId: string;
   title: string;
+  originalTitle?: string | boolean;
   year: number;
   runtime: number;
   genres: string[];
@@ -19,6 +20,7 @@ const toMovie = async (imdbId: string) => {
 <template>
     <div @click="toMovie(imdbId)">
         <span class="font-semibold">{{ title }}</span>
+        <span v-if="originalTitle" class="font-semibold"> ({{ originalTitle }})</span>
         <span> ({{ year }}, </span>
         <span>{{ runtime }}min, </span>
         <span v-for="(genre, index) in genres" :key="genre">

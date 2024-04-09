@@ -78,6 +78,7 @@ onBeforeMount(async () => {
         :class="{ 'hovered': hoveredIndex === movie.imdb_id }"
         :imdbId="movie.imdb_id"
         :title="movie.title"
+        :originalTitle="(movie.original_title != movie.title) ? movie.original_title : null"
         :year="movie.year"
         :runtime="movie.runtime"
         :genres="movie.genre"

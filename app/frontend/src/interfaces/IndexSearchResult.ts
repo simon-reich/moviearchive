@@ -5,6 +5,7 @@ export interface IndexSearchResult {
   doc_id: string;
   imdb_id: string;
   title: string;
+  original_title: string;
   year: number;
   genre: string[];
   runtime: number;

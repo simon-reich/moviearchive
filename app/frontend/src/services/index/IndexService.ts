@@ -155,6 +155,7 @@ export const IndexService = {
           score: data._score,
           doc_id: data._id,
           imdb_id: data._source.imdb_id,
+          original_title: data._source.original_title,
           title: data._source.title,
           year: parseInt(data._source.year),
           genre: data._source.genre_list,

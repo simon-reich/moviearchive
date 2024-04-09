@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { DatabaseService } from '@/services/database/DatabaseService';
 import { UseIndexStore } from '@/store/IndexStore';
 
 interface ComponentProps {
@@ -17,8 +16,7 @@ const emits = defineEmits<ComponentEmits>();
 
 const deleteIndex = async () => {
   const response_index = await IndexStore.deleteIndex(props.indexName)
-  const response_db = await DatabaseService.deleteIndexByName(props.indexName)
-  console.log(`${response_index} ${response_db}`);
+  console.log(`${response_index}`);
   emits('close');
 }
 </script>
